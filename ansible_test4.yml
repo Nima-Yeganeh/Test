@@ -1,0 +1,7 @@
+---
+- name: shell test
+  hosts: all
+  tasks:
+    - name: shell test
+      shell: echo 'this is a test!' >> /test.txt
+
