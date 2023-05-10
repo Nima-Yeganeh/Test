@@ -1,9 +1,17 @@
 import subprocess
 
-# Run a bash command
-command = 'bash gitupdate.sh'
-process = subprocess.Popen(command.split(), stdout=subprocess.PIPE)
-output, error = process.communicate()
+# Run multiple bash commands
+commands = [
+    'git status',
+    'git add *',
+    'git commit -m "done"',
+    'git push',
+    'git pull'
+]
 
-# Print the output of the command
-print(output.decode('utf-8'))
+for command in commands:
+    process = subprocess.Popen(command.split(), stdout=subprocess.PIPE)
+    output, error = process.communicate()
+
+    # Print the output of each command
+    print(output.decode('utf-8'))
