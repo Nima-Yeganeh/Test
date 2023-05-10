@@ -8,3 +8,4 @@ ansible --version
 ansible --list-host all
 cat /etc/ansible/hosts
 cat /etc/ansible/ansible.cfg
+ansible -m ping localhost
