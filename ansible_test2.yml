@@ -1,0 +1,9 @@
+---
+- name: create a file
+  hosts: localhost
+  tasks:
+    - name: create a test file
+      file:
+        path: /test.txt
+        state: absent
+
