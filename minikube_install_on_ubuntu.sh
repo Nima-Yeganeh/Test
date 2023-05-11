@@ -5,8 +5,10 @@ nproc
 df -h
 sleep 2
 curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+chmod +x minikube-linux-amd64
 sudo install minikube-linux-amd64 /usr/local/bin/minikube
 minikube version
+sudo apt install conntrack -y
 minikube start --driver=docker
 minikube start --driver=docker --force
 minikube status
