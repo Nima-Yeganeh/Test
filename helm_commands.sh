@@ -51,4 +51,11 @@ kubectl get pods -A
 helm status my-mariadb -n database
 kubectl get secret --namespace database my-mariadb -o jsonpath="{.data.mariadb-root-password}" | base64 -d
 kubectl run my-mariadb-client --rm --tty -i --restart='Never' --image  docker.io/bitnami/mariadb:10.11.3-debian-11-r0 --namespace database --command -- bash
+helm repo update
+helm upgrade -n database --values helm_mariadb_custom_value_example.yaml my-mariadb bitnami/mariadb --version 12.2.2
+helm list -A
+kubectl get secrets
+kubectl get secrets -n database
+helm uninstall my-mariadb
+helm uninstall -n database my-mariadb
 
