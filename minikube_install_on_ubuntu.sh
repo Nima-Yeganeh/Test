@@ -11,4 +11,5 @@ minikube start --driver=docker
 minikube start --driver=docker --force
 minikube status
 kubectl get nodes
+rm -f minikube-linux-amd64
 
