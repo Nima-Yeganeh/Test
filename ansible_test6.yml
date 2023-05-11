@@ -1,0 +1,14 @@
+---
+- name: copy file from ansible to remote location
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: copy file
+      copy:
+        src: ./Dockerfile2
+        dest: /Dockerfile2
+    - name: remove current container
+      shell: docker container rm web01 -f
+    - name: remove old image
+      shell: docker rmi yeganehnimadgmailcom/httpd:test1 -f
+
