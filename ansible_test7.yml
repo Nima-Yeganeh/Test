@@ -1,0 +1,6 @@
+- hosts: localhost
+  become: yes
+  tasks:
+    - name: install mariadb
+      yum: name=mariadb-server state=present
+
