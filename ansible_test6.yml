@@ -5,10 +5,18 @@
   tasks:
     - name: copy file
       copy:
-        src: ./Dockerfile2
-        dest: /Dockerfile2
+        src: ./Dockerfile2_for_ansible_test
+        dest: /root/Dockerfile2
+    - name: copy index file
+      copy:
+        src: ./index.html
+        dest: /root/index.html
     - name: remove current container
       shell: docker container rm web01 -f
     - name: remove old image
       shell: docker rmi yeganehnimadgmailcom/httpd:test1 -f
+    - name: build new image
+      shell: docker build . -f /root/Dockerfile2 -t yeganehnimadgmailcom/httpd:test1
+    - name: run new container
+      shell: docker run -d -p 8081:80 yeganehnimadgmailcom/httpd:test1
 

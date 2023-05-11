@@ -1,0 +1,8 @@
+FROM httpd:2.4
+LABEL HTTP test
+MAINTAINER nima <yeganeh.nima.d@gmail.com>
+RUN apt-get update
+RUN apt-get install -y iputils-ping
+WORKDIR /usr/local/apache2
+COPY ./index.html ./
+
