@@ -58,4 +58,14 @@ kubectl get secrets
 kubectl get secrets -n database
 helm uninstall my-mariadb
 helm uninstall -n database my-mariadb
+helm template -n database --values helm_mariadb_custom_value_example.yaml my-mariadb bitnami/mariadb --version 12.2.2
+helm get values my-mariadb -n database
+helm get values my-mariadb -n database --revision 1
+helm get manifest my-mariadb -n database --revision 1
+helm rollback my-mariadb 1 -n database
+helm uninstall -n database my-mariadb --keep-history
+helm history my-mariadb -n database
+helm install my-mysql bitnami/mysql --version 9.9.1
+helm install my-mysql bitnami/mysql --version 9.9.1 --wait --timeout 20m
+
 
