@@ -1,3 +1,5 @@
+# git clone https://github.com/nima-yegnaeh/test/
+
 sudo apt update -y
 sudo apt-get install tasksel -y
 sudo tasksel install lamp-server
@@ -6,6 +8,7 @@ sudo apt install mysql-server -y
 sudo apt install php libapache2-mod-php php-mysql -y
 sudo service apache2 restart
 pwd
+cp lamp_htaccess /var/www/html/.htaccess
 cd /var/www/html
 pwd
 ls -anp
@@ -21,8 +24,9 @@ sudo mysql -u root -e "CREATE USER wordpressuser@localhost IDENTIFIED BY 'P@ssw0
 sudo mysql -u root -e "GRANT ALL PRIVILEGES ON wordpressdb.* TO wordpressuser@localhost;"
 sudo mysql -u root -e "FLUSH PRIVILEGES;"
 ls -anp
-sudo chown www-data:www-data .htaccess
+cp .htaccess wordpress/.htaccess
+# sudo chown www-data:www-data .htaccess
 sudo service apache2 restart
-sudo chown www-data:www-data -R *
+# sudo chown www-data:www-data -R *
 sudo find . -type d -exec chmod 755 {} \;
 sudo find . -type d -exec chmod 644 {} \;
