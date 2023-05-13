@@ -1,0 +1,11 @@
+https://aws.amazon.com/about-aws/global-infrastructure/
+https://aws.amazon.com/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc
+https://aws.amazon.com/compliance/shared-responsibility-model/
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html
+https://authy.com/
+https://github.com/aws/aws-cli
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+https://aws.amazon.com/cloudshell/
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html
+https://aws.amazon.com/ec2/instance-types/
+https://instances.vantage.sh/

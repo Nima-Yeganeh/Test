@@ -24,7 +24,7 @@ sudo mysql -u root -e "CREATE USER wordpressuser@localhost IDENTIFIED BY 'P@ssw0
 sudo mysql -u root -e "GRANT ALL PRIVILEGES ON wordpressdb.* TO wordpressuser@localhost;"
 sudo mysql -u root -e "FLUSH PRIVILEGES;"
 ls -anp
-cp .htaccess wordpress/.htaccess
+sudo cp .htaccess wordpress/.htaccess
 # sudo chown www-data:www-data .htaccess
 sudo service apache2 restart
 # sudo chown www-data:www-data -R *
