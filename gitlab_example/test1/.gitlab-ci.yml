@@ -1,0 +1,20 @@
+image: docker:latest
+
+services:
+    - docker:dind
+
+stages:
+    - Build
+    - Push
+
+Build:
+    stage: Build
+    before_script: []
+    script:
+        - mkdir data/
+        - docker build --compress -t proxy .
+        - docker save --output data/image.tar proxy
+    artifacts:
+        name: image
+        paths:
+            - data/
