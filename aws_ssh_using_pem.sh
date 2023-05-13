@@ -11,6 +11,6 @@ echo "Username: $user"
 echo "IP address: $ip"
 
 # Connect to server using ssh
-chmod 0400 aws_ssh_using_pem.sh
-ssh -i aws_ssh_using_pem.sh $user@$ip
+chmod 0400 aws_linux_key_for_test.pem
+ssh -i aws_linux_key_for_test.pem $user@$ip
 
