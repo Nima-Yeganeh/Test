@@ -1,6 +1,10 @@
 sudo apt update -y
 sudo apt-get install tasksel -y
 sudo tasksel install lamp-server
+sudo apt install apache2 -y
+sudo apt install mysql-server -y
+sudo apt install php libapache2-mod-php php-mysql -y
+sudo service apache2 restart
 pwd
 cd /var/www/html
 pwd
