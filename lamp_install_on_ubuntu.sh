@@ -1,4 +1,4 @@
-# git clone https://github.com/nima-yegnaeh/test/
+# git clone https://github.com/nima-yeganeh/test/
 
 sudo apt update -y
 sudo apt-get install tasksel -y
