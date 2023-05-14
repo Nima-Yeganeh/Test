@@ -10,3 +10,5 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.h
 https://aws.amazon.com/ec2/instance-types/
 https://instances.vantage.sh/
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
+https://aws.amazon.com/elasticloadbalancing/
+https://aws.amazon.com/autoscaling/
