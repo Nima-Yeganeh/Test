@@ -12,3 +12,6 @@ https://instances.vantage.sh/
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
 https://aws.amazon.com/elasticloadbalancing/
 https://aws.amazon.com/autoscaling/
+https://aws.amazon.com/rds/
+https://aws.amazon.com/dynamodb/
+https://aws.amazon.com/redshift/
