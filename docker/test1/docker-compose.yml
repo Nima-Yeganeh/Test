@@ -2,7 +2,7 @@ version: '3'
 
 services:
   mikrotik:
-    image: chrismarget/mikrotik-routeros:latest
+    image: evilfreelancer/docker-routeros:6.42.12
     ports:
       - "8291:8291"
       - "80:80"
@@ -12,4 +12,3 @@ services:
 
 volumes:
   mikrotik-data:
-  
