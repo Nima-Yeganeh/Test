@@ -39,6 +39,6 @@ resource "aws_elasticache_cluster" "example" {
   node_type            = "cache.m4.large"
   num_cache_nodes      = 2
   port                 = 11211
-  provider             = "aws.${each.alias}"
+  provider             = aws."${each.alias}"
 }
 
