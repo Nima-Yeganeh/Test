@@ -2,7 +2,7 @@ provider "aws" {
     region = "eu-west-2"
 }
 
-resources "aws_db_instance" "myRDS" {
+resource "aws_db_instance" "myRDS" {
     name = "myRDS"
     identifier = "my-first-rds"
     instance_class = "db.t2.micro"
