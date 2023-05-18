@@ -28,7 +28,7 @@ variable "regions" {
 }
 
 resource "aws_elasticache_parameter_group" "example" {
-  name   = "example-test5"
+  name   = "example-test6"
   family = "memcached1.6"
 }
 
