@@ -13,5 +13,5 @@ resources "aws_db_instance" "myRDS" {
     port = "3306"
     allocated_storage = "20"
     skip_final_snapshot = true
-    
+
 }
