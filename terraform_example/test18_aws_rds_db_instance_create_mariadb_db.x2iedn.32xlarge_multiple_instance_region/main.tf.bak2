@@ -7,7 +7,7 @@ resource "aws_db_instance" "mynewtestrds_example1" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -27,7 +27,7 @@ resource "aws_db_instance" "mynewtestrds_example2" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -47,7 +47,7 @@ resource "aws_db_instance" "mynewtestrds_example3" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -67,7 +67,7 @@ resource "aws_db_instance" "mynewtestrds_example4" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -87,7 +87,7 @@ resource "aws_db_instance" "mynewtestrds_example5" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -107,7 +107,7 @@ resource "aws_db_instance" "mynewtestrds_example6" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -127,7 +127,7 @@ resource "aws_db_instance" "mynewtestrds_example7" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -147,7 +147,7 @@ resource "aws_db_instance" "mynewtestrds_example8" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -167,7 +167,7 @@ resource "aws_db_instance" "mynewtestrds_example9" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -187,7 +187,7 @@ resource "aws_db_instance" "mynewtestrds_example10" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -207,7 +207,7 @@ resource "aws_db_instance" "mynewtestrds_example11" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -227,7 +227,7 @@ resource "aws_db_instance" "mynewtestrds_example12" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -247,7 +247,7 @@ resource "aws_db_instance" "mynewtestrds_example13" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -267,7 +267,7 @@ resource "aws_db_instance" "mynewtestrds_example14" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -287,7 +287,7 @@ resource "aws_db_instance" "mynewtestrds_example15" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -307,7 +307,7 @@ resource "aws_db_instance" "mynewtestrds_example16" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
@@ -327,7 +327,7 @@ resource "aws_db_instance" "mynewtestrds_example17" {
   count = 10
   name = "mynewtestrds${count.index + 1}"
   identifier = "mynewtestrds${count.index + 1}"
-  instance_class = "db.r6i.32xlarge"
+  instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
   username = "nima"
