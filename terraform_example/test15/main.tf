@@ -2,9 +2,9 @@ provider "aws" {
     region = "eu-west-1"
 }
 
-resource "aws_db_instance" "myRDS" {
-    name = "myRDS"
-    identifier = "my-first-rds"
+resource "aws_db_instance" "myrds1" {
+    name = "myrds1"
+    identifier = "myrds1"
     instance_class = "db.t2.micro"
     engine = "mariadb"
     engine_version = "10.16.10"
