@@ -36,6 +36,6 @@ resource "aws_elasticache_cluster" "example" {
   num_cache_nodes      = 2
   parameter_group_name = aws_elasticache_parameter_group.example.name
   port                 = 11211
-  provider	       = aws.us-east-2
+  provider             = aws.us-east-2
 }
 
