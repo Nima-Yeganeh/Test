@@ -226,3 +226,60 @@ resource "aws_ebs_volume" "example4_st1" {
   provider = aws.us-west-2
 }
 
+provider "aws" {
+  region = "ap-south-1"
+  alias = "ap-south-1"
+}
+
+resource "aws_ebs_volume" "example5_gb2" {
+  availability_zone = "ap-south-1a"
+  size              = 16000
+  type              = "gp2"
+  tags = {
+    Name = "example-gp2-volume"
+  }
+  provider = aws.ap-south-1
+}
+
+resource "aws_ebs_volume" "example5_gb3" {
+  availability_zone = "ap-south-1a"
+  size              = 16000
+  type              = "gp3"
+  tags = {
+    Name = "example-gp3-volume"
+  }
+  provider = aws.ap-south-1
+}
+
+resource "aws_ebs_volume" "example5_io1" {
+  availability_zone = "ap-south-1a"
+  size              = 16000
+  type              = "io1"
+  iops              = 1000
+  tags = {
+    Name = "example-io1-volume"
+  }
+  provider = aws.ap-south-1
+}
+
+resource "aws_ebs_volume" "example5_io2" {
+  availability_zone = "ap-south-1a"
+  size              = 16000
+  type              = "io2"
+  iops              = 2000
+  tags = {
+    Name = "example-io2-volume"
+  }
+  provider = aws.ap-south-1
+}
+
+resource "aws_ebs_volume" "example5_st1" {
+  availability_zone = "ap-south-1a"
+  size              = 16000
+  type              = "st1"
+  tags = {
+    Name = "example-st1-volume"
+  }
+  provider = aws.ap-south-1
+}
+
