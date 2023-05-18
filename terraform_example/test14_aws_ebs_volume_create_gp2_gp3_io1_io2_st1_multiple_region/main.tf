@@ -3,7 +3,7 @@ provider "aws" {
   alias = "us-east-1"
 }
 
-resource "aws_ebs_volume" "example_gb2" {
+resource "aws_ebs_volume" "example1_gb2" {
   availability_zone = "us-east-1a"
   size              = 16000
   type              = "gp2"
@@ -13,7 +13,7 @@ resource "aws_ebs_volume" "example_gb2" {
   provider = aws.us-east-1
 }
 
-resource "aws_ebs_volume" "example_gb3" {
+resource "aws_ebs_volume" "example1_gb3" {
   availability_zone = "us-east-1a"
   size              = 16000
   type              = "gp3"
@@ -23,7 +23,7 @@ resource "aws_ebs_volume" "example_gb3" {
   provider = aws.us-east-1
 }
 
-resource "aws_ebs_volume" "example_io1" {
+resource "aws_ebs_volume" "example1_io1" {
   availability_zone = "us-east-1a"
   size              = 16000
   type              = "io1"
@@ -34,7 +34,7 @@ resource "aws_ebs_volume" "example_io1" {
   provider = aws.us-east-1
 }
 
-resource "aws_ebs_volume" "example_io2" {
+resource "aws_ebs_volume" "example1_io2" {
   availability_zone = "us-east-1a"
   size              = 16000
   type              = "io2"
@@ -45,7 +45,7 @@ resource "aws_ebs_volume" "example_io2" {
   provider = aws.us-east-1
 }
 
-resource "aws_ebs_volume" "example_st1" {
+resource "aws_ebs_volume" "example1_st1" {
   availability_zone = "us-east-1a"
   size              = 16000
   type              = "st1"
@@ -60,7 +60,7 @@ provider "aws" {
   alias = "us-east-2"
 }
 
-resource "aws_ebs_volume" "example_gb2" {
+resource "aws_ebs_volume" "example2_gb2" {
   availability_zone = "us-east-2a"
   size              = 16000
   type              = "gp2"
@@ -70,7 +70,7 @@ resource "aws_ebs_volume" "example_gb2" {
   provider = aws.us-east-2
 }
 
-resource "aws_ebs_volume" "example_gb3" {
+resource "aws_ebs_volume" "example2_gb3" {
   availability_zone = "us-east-2a"
   size              = 16000
   type              = "gp3"
@@ -80,7 +80,7 @@ resource "aws_ebs_volume" "example_gb3" {
   provider = aws.us-east-2
 }
 
-resource "aws_ebs_volume" "example_io1" {
+resource "aws_ebs_volume" "example2_io1" {
   availability_zone = "us-east-2a"
   size              = 16000
   type              = "io1"
@@ -91,7 +91,7 @@ resource "aws_ebs_volume" "example_io1" {
   provider = aws.us-east-2
 }
 
-resource "aws_ebs_volume" "example_io2" {
+resource "aws_ebs_volume" "example2_io2" {
   availability_zone = "us-east-2a"
   size              = 16000
   type              = "io2"
@@ -102,7 +102,7 @@ resource "aws_ebs_volume" "example_io2" {
   provider = aws.us-east-2
 }
 
-resource "aws_ebs_volume" "example_st1" {
+resource "aws_ebs_volume" "example2_st1" {
   availability_zone = "us-east-2a"
   size              = 16000
   type              = "st1"
