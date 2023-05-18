@@ -7,7 +7,7 @@ resource "aws_db_instance" "myrds1" {
     identifier = "myrds1"
     instance_class = "db.t2.micro"
     engine = "mariadb"
-    engine_version = "10.16.10"
+    engine_version = "10.6.10"
     username = "nima"
     password = "password1234"
     port = "3306"
