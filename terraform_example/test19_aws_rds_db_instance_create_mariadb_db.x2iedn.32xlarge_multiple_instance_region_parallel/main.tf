@@ -46,13 +46,7 @@ resource "aws_db_instance" "mynewtestirds_example1" {
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
-  max_allocated_storage = 100
-  min_allocated_storage = 20
-  scaling_configuration {
-    auto_pause = true
-    max_capacity = 2
-    min_capacity = 1
-  }
+  max_allocated_storage = 20
   provider = aws.aws1
 }
 
