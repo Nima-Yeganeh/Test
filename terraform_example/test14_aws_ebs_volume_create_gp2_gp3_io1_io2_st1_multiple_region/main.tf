@@ -459,7 +459,7 @@ provider "aws" {
   alias = "ap-southeast-2"
 }
 
-resource "aws_ebs_volume" "example9gb2" {
+resource "aws_ebs_volume" "example9_gb2" {
   availability_zone = "ap-southeast-2a"
   size              = 16000
   type              = "gp2"
@@ -469,7 +469,7 @@ resource "aws_ebs_volume" "example9gb2" {
   provider = aws.ap-southeast-2
 }
 
-resource "aws_ebs_volume" "example9gb3" {
+resource "aws_ebs_volume" "example9_gb3" {
   availability_zone = "ap-southeast-2a"
   size              = 16000
   type              = "gp3"
@@ -479,7 +479,7 @@ resource "aws_ebs_volume" "example9gb3" {
   provider = aws.ap-southeast-2
 }
 
-resource "aws_ebs_volume" "example9io1" {
+resource "aws_ebs_volume" "example9_io1" {
   availability_zone = "ap-southeast-2a"
   size              = 16000
   type              = "io1"
@@ -490,7 +490,7 @@ resource "aws_ebs_volume" "example9io1" {
   provider = aws.ap-southeast-2
 }
 
-resource "aws_ebs_volume" "example9io2" {
+resource "aws_ebs_volume" "example9_io2" {
   availability_zone = "ap-southeast-2a"
   size              = 16000
   type              = "io2"
@@ -501,7 +501,7 @@ resource "aws_ebs_volume" "example9io2" {
   provider = aws.ap-southeast-2
 }
 
-resource "aws_ebs_volume" "example9st1" {
+resource "aws_ebs_volume" "example9_st1" {
   availability_zone = "ap-southeast-2a"
   size              = 16000
   type              = "st1"
@@ -509,5 +509,62 @@ resource "aws_ebs_volume" "example9st1" {
     Name = "example-st1-volume"
   }
   provider = aws.ap-southeast-2
+}
+
+provider "aws" {
+  region = "ca-central-1"
+  alias = "ca-central-1"
+}
+
+resource "aws_ebs_volume" "example10_gb2" {
+  availability_zone = "ca-central-1a"
+  size              = 16000
+  type              = "gp2"
+  tags = {
+    Name = "example-gp2-volume"
+  }
+  provider = aws.ca-central-1
+}
+
+resource "aws_ebs_volume" "example10_gb3" {
+  availability_zone = "ca-central-1a"
+  size              = 16000
+  type              = "gp3"
+  tags = {
+    Name = "example-gp3-volume"
+  }
+  provider = aws.ca-central-1
+}
+
+resource "aws_ebs_volume" "example10_io1" {
+  availability_zone = "ca-central-1a"
+  size              = 16000
+  type              = "io1"
+  iops              = 1000
+  tags = {
+    Name = "example-io1-volume"
+  }
+  provider = aws.ca-central-1
+}
+
+resource "aws_ebs_volume" "example10_io2" {
+  availability_zone = "ca-central-1a"
+  size              = 16000
+  type              = "io2"
+  iops              = 2000
+  tags = {
+    Name = "example-io2-volume"
+  }
+  provider = aws.ca-central-1
+}
+
+resource "aws_ebs_volume" "example10_st1" {
+  availability_zone = "ca-central-1a"
+  size              = 16000
+  type              = "st1"
+  tags = {
+    Name = "example-st1-volume"
+  }
+  provider = aws.ca-central-1
 }
 
