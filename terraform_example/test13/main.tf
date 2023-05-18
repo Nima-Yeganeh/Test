@@ -1,6 +1,6 @@
 provider "aws" {
   region = "us-west-2"
-  alias = "west"
+  alias = "us-west-2"
 }
 
 resource "aws_eip" "example_us_west_2" {
@@ -10,12 +10,12 @@ resource "aws_eip" "example_us_west_2" {
     Name = "example-eip-us-west-2"
   }
 
-  provider = aws.west
+  provider = aws.us-west-2
 }
 
 provider "aws" {
   region = "us-east-1"
-  alias = "east"
+  alias = "us-east-1"
 }
 
 resource "aws_eip" "example_us_east_1" {
@@ -25,5 +25,5 @@ resource "aws_eip" "example_us_east_1" {
     Name = "example-eip-us-east-1"
   }
 
-  provider = aws.east
+  provider = aws.us-east-1
 }
