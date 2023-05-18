@@ -682,3 +682,117 @@ resource "aws_ebs_volume" "example12_st1" {
   provider = aws.eu-west-1
 }
 
+provider "aws" {
+  region = "eu-west-2"
+  alias = "eu-west-2"
+}
+
+resource "aws_ebs_volume" "example13_gb2" {
+  availability_zone = "eu-west-2a"
+  size              = 16000
+  type              = "gp2"
+  tags = {
+    Name = "example-gp2-volume"
+  }
+  provider = aws.eu-west-2
+}
+
+resource "aws_ebs_volume" "example13_gb3" {
+  availability_zone = "eu-west-2a"
+  size              = 16000
+  type              = "gp3"
+  tags = {
+    Name = "example-gp3-volume"
+  }
+  provider = aws.eu-west-2
+}
+
+resource "aws_ebs_volume" "example13_io1" {
+  availability_zone = "eu-west-2a"
+  size              = 16000
+  type              = "io1"
+  iops              = 1000
+  tags = {
+    Name = "example-io1-volume"
+  }
+  provider = aws.eu-west-2
+}
+
+resource "aws_ebs_volume" "example13_io2" {
+  availability_zone = "eu-west-2a"
+  size              = 16000
+  type              = "io2"
+  iops              = 2000
+  tags = {
+    Name = "example-io2-volume"
+  }
+  provider = aws.eu-west-2
+}
+
+resource "aws_ebs_volume" "example13_st1" {
+  availability_zone = "eu-west-2a"
+  size              = 16000
+  type              = "st1"
+  tags = {
+    Name = "example-st1-volume"
+  }
+  provider = aws.eu-west-2
+}
+
+provider "aws" {
+  region = "eu-west-3"
+  alias = "eu-west-3"
+}
+
+resource "aws_ebs_volume" "example14_gb2" {
+  availability_zone = "eu-west-3a"
+  size              = 16000
+  type              = "gp2"
+  tags = {
+    Name = "example-gp2-volume"
+  }
+  provider = aws.eu-west-3
+}
+
+resource "aws_ebs_volume" "example14_gb3" {
+  availability_zone = "eu-west-3a"
+  size              = 16000
+  type              = "gp3"
+  tags = {
+    Name = "example-gp3-volume"
+  }
+  provider = aws.eu-west-3
+}
+
+resource "aws_ebs_volume" "example14_io1" {
+  availability_zone = "eu-west-3a"
+  size              = 16000
+  type              = "io1"
+  iops              = 1000
+  tags = {
+    Name = "example-io1-volume"
+  }
+  provider = aws.eu-west-3
+}
+
+resource "aws_ebs_volume" "example14_io2" {
+  availability_zone = "eu-west-3a"
+  size              = 16000
+  type              = "io2"
+  iops              = 2000
+  tags = {
+    Name = "example-io2-volume"
+  }
+  provider = aws.eu-west-3
+}
+
+resource "aws_ebs_volume" "example14_st1" {
+  availability_zone = "eu-west-3a"
+  size              = 16000
+  type              = "st1"
+  tags = {
+    Name = "example-st1-volume"
+  }
+  provider = aws.eu-west-3
+}
+
