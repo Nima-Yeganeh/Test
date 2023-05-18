@@ -20,7 +20,7 @@ resource "aws_db_instance" "mynewtestiirds_example1" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -50,7 +50,7 @@ resource "aws_db_instance" "mynewtestiirds_example2" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -80,7 +80,7 @@ resource "aws_db_instance" "mynewtestiirds_example3" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -110,7 +110,7 @@ resource "aws_db_instance" "mynewtestiirds_example4" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -140,7 +140,7 @@ resource "aws_db_instance" "mynewtestiirds_example5" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -170,7 +170,7 @@ resource "aws_db_instance" "mynewtestiirds_example6" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -200,7 +200,7 @@ resource "aws_db_instance" "mynewtestiirds_example7" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -230,7 +230,7 @@ resource "aws_db_instance" "mynewtestiirds_example8" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -260,7 +260,7 @@ resource "aws_db_instance" "mynewtestiirds_example9" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -290,7 +290,7 @@ resource "aws_db_instance" "mynewtestiirds_example10" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -320,7 +320,7 @@ resource "aws_db_instance" "mynewtestiirds_example11" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -350,7 +350,7 @@ resource "aws_db_instance" "mynewtestiirds_example12" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -380,7 +380,7 @@ resource "aws_db_instance" "mynewtestiirds_example13" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -410,7 +410,7 @@ resource "aws_db_instance" "mynewtestiirds_example14" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -440,7 +440,7 @@ resource "aws_db_instance" "mynewtestiirds_example15" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -470,7 +470,7 @@ resource "aws_db_instance" "mynewtestiirds_example16" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
@@ -500,7 +500,7 @@ resource "aws_db_instance" "mynewtestiirds_example17" {
   backup_window = "06:00-10:00"
   performance_insights_enabled = true
   multi_az = true
-  monitoring_interval = 1
+  monitoring_interval = 0
   enabled_cloudwatch_logs_exports = ["audit", "error", "general", "slowquery"]
   storage_encrypted = true
   storage_type = "gp2"
