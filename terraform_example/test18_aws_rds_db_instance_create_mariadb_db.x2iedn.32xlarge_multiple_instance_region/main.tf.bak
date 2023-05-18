@@ -3,10 +3,10 @@ provider "aws" {
   alias = "aws1"
 }
 
-resource "aws_db_instance" "mynewtestrds_example1" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example1" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -23,10 +23,10 @@ provider "aws" {
   alias = "aws2"
 }
 
-resource "aws_db_instance" "mynewtestrds_example2" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example2" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -43,10 +43,10 @@ provider "aws" {
   alias = "aws3"
 }
 
-resource "aws_db_instance" "mynewtestrds_example3" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example3" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -63,10 +63,10 @@ provider "aws" {
   alias = "aws4"
 }
 
-resource "aws_db_instance" "mynewtestrds_example4" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example4" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -83,10 +83,10 @@ provider "aws" {
   alias = "aws5"
 }
 
-resource "aws_db_instance" "mynewtestrds_example5" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example5" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -103,10 +103,10 @@ provider "aws" {
   alias = "aws6"
 }
 
-resource "aws_db_instance" "mynewtestrds_example6" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example6" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -123,10 +123,10 @@ provider "aws" {
   alias = "aws7"
 }
 
-resource "aws_db_instance" "mynewtestrds_example7" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example7" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -143,10 +143,10 @@ provider "aws" {
   alias = "aws8"
 }
 
-resource "aws_db_instance" "mynewtestrds_example8" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example8" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -163,10 +163,10 @@ provider "aws" {
   alias = "aws9"
 }
 
-resource "aws_db_instance" "mynewtestrds_example9" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example9" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -183,10 +183,10 @@ provider "aws" {
   alias = "aws10"
 }
 
-resource "aws_db_instance" "mynewtestrds_example10" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example10" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -203,10 +203,10 @@ provider "aws" {
   alias = "aws11"
 }
 
-resource "aws_db_instance" "mynewtestrds_example11" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example11" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -223,10 +223,10 @@ provider "aws" {
   alias = "aws12"
 }
 
-resource "aws_db_instance" "mynewtestrds_example12" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example12" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -243,10 +243,10 @@ provider "aws" {
   alias = "aws13"
 }
 
-resource "aws_db_instance" "mynewtestrds_example13" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example13" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -263,10 +263,10 @@ provider "aws" {
   alias = "aws14"
 }
 
-resource "aws_db_instance" "mynewtestrds_example14" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example14" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -283,10 +283,10 @@ provider "aws" {
   alias = "aws15"
 }
 
-resource "aws_db_instance" "mynewtestrds_example15" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example15" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -303,10 +303,10 @@ provider "aws" {
   alias = "aws16"
 }
 
-resource "aws_db_instance" "mynewtestrds_example16" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example16" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
@@ -323,10 +323,10 @@ provider "aws" {
   alias = "aws17"
 }
 
-resource "aws_db_instance" "mynewtestrds_example17" {
-  count = 10
-  name = "mynewtestrds${count.index + 1}"
-  identifier = "mynewtestrds${count.index + 1}"
+resource "aws_db_instance" "mynewrds_example17" {
+  count = 3
+  name = "mynewrds${count.index + 1}"
+  identifier = "mynewrds${count.index + 1}"
   instance_class = "db.x2iedn.32xlarge"
   engine = "mariadb"
   engine_version = "10.6.10"
