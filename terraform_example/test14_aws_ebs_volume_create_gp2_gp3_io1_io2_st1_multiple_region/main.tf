@@ -796,3 +796,117 @@ resource "aws_ebs_volume" "example14_st1" {
   provider = aws.eu-west-3
 }
 
+provider "aws" {
+  region = "eu-north-1"
+  alias = "eu-north-1"
+}
+
+resource "aws_ebs_volume" "example15_gb2" {
+  availability_zone = "eu-north-1a"
+  size              = 16000
+  type              = "gp2"
+  tags = {
+    Name = "example-gp2-volume"
+  }
+  provider = aws.eu-north-1
+}
+
+resource "aws_ebs_volume" "example15_gb3" {
+  availability_zone = "eu-north-1a"
+  size              = 16000
+  type              = "gp3"
+  tags = {
+    Name = "example-gp3-volume"
+  }
+  provider = aws.eu-north-1
+}
+
+resource "aws_ebs_volume" "example15_io1" {
+  availability_zone = "eu-north-1a"
+  size              = 16000
+  type              = "io1"
+  iops              = 1000
+  tags = {
+    Name = "example-io1-volume"
+  }
+  provider = aws.eu-north-1
+}
+
+resource "aws_ebs_volume" "example15_io2" {
+  availability_zone = "eu-north-1a"
+  size              = 16000
+  type              = "io2"
+  iops              = 2000
+  tags = {
+    Name = "example-io2-volume"
+  }
+  provider = aws.eu-north-1
+}
+
+resource "aws_ebs_volume" "example15_st1" {
+  availability_zone = "eu-north-1a"
+  size              = 16000
+  type              = "st1"
+  tags = {
+    Name = "example-st1-volume"
+  }
+  provider = aws.eu-north-1
+}
+
+provider "aws" {
+  region = "sa-east-1"
+  alias = "sa-east-1"
+}
+
+resource "aws_ebs_volume" "example16_gb2" {
+  availability_zone = "sa-east-1a"
+  size              = 16000
+  type              = "gp2"
+  tags = {
+    Name = "example-gp2-volume"
+  }
+  provider = aws.sa-east-1
+}
+
+resource "aws_ebs_volume" "example16_gb3" {
+  availability_zone = "sa-east-1a"
+  size              = 16000
+  type              = "gp3"
+  tags = {
+    Name = "example-gp3-volume"
+  }
+  provider = aws.sa-east-1
+}
+
+resource "aws_ebs_volume" "example16_io1" {
+  availability_zone = "sa-east-1a"
+  size              = 16000
+  type              = "io1"
+  iops              = 1000
+  tags = {
+    Name = "example-io1-volume"
+  }
+  provider = aws.sa-east-1
+}
+
+resource "aws_ebs_volume" "example16_io2" {
+  availability_zone = "sa-east-1a"
+  size              = 16000
+  type              = "io2"
+  iops              = 2000
+  tags = {
+    Name = "example-io2-volume"
+  }
+  provider = aws.sa-east-1
+}
+
+resource "aws_ebs_volume" "example16_st1" {
+  availability_zone = "sa-east-1a"
+  size              = 16000
+  type              = "st1"
+  tags = {
+    Name = "example-st1-volume"
+  }
+  provider = aws.sa-east-1
+}
+
