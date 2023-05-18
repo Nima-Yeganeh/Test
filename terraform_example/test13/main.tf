@@ -1,5 +1,4 @@
 provider "aws" {
-<<<<<<< HEAD
   region = "us-east-1"
   alias = "us-east-1"
 }
@@ -41,43 +40,29 @@ resource "aws_eip" "example3" {
 provider "aws" {
   region = "us-west-2"
   alias = "us-west-2"
-=======
-  region = "us-west-2"
-  alias = "west"
->>>>>>> e5b1999 (done)
 }
 
-resource "aws_eip" "example_us_west_2" {
+resource "aws_eip" "example4" {
   vpc = true
 
   tags = {
-    Name = "example-eip-us-west-2"
+    Name = "example-eip"
   }
-
-  provider = aws.west
 }
 
 provider "aws" {
-<<<<<<< HEAD
   region = "ap-south-1"
   alias = "ap-south-1"
-=======
-  region = "us-east-1"
-  alias = "east"
->>>>>>> e5b1999 (done)
 }
 
-resource "aws_eip" "example_us_east_1" {
+resource "aws_eip" "example5" {
   vpc = true
 
   tags = {
-    Name = "example-eip-us-east-1"
+    Name = "example-eip"
   }
-
-  provider = aws.east
 }
 
-<<<<<<< HEAD
 provider "aws" {
   region = "ap-northeast-3"
   alias = "ap-northeast-3"
@@ -233,9 +218,3 @@ resource "aws_eip" "example17" {
     Name = "example-eip"
   }
 }
-<<<<<<< HEAD
-
-=======
-=======
->>>>>>> e5b1999 (done)
->>>>>>> 67213452c80c18316af213252b5953ae7225c5d2
