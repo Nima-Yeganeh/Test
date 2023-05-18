@@ -93,13 +93,13 @@ variable "regions" {
 }
 
 resource "aws_elasticache_parameter_group" "example" {
-  name   = "example-test9"
+  name   = "example-test10"
   family = "memcached1.6"
 }
 
 resource "aws_elasticache_cluster" "example1" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -109,7 +109,7 @@ resource "aws_elasticache_cluster" "example1" {
 
 resource "aws_elasticache_cluster" "example2" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -119,7 +119,7 @@ resource "aws_elasticache_cluster" "example2" {
 
 resource "aws_elasticache_cluster" "example3" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -129,7 +129,7 @@ resource "aws_elasticache_cluster" "example3" {
 
 resource "aws_elasticache_cluster" "example4" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -139,7 +139,7 @@ resource "aws_elasticache_cluster" "example4" {
 
 resource "aws_elasticache_cluster" "example5" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -149,7 +149,7 @@ resource "aws_elasticache_cluster" "example5" {
 
 resource "aws_elasticache_cluster" "example6" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -159,7 +159,7 @@ resource "aws_elasticache_cluster" "example6" {
 
 resource "aws_elasticache_cluster" "example7" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -169,7 +169,7 @@ resource "aws_elasticache_cluster" "example7" {
 
 resource "aws_elasticache_cluster" "example8" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -179,7 +179,7 @@ resource "aws_elasticache_cluster" "example8" {
 
 resource "aws_elasticache_cluster" "example9" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -189,7 +189,7 @@ resource "aws_elasticache_cluster" "example9" {
 
 resource "aws_elasticache_cluster" "example10" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -199,7 +199,7 @@ resource "aws_elasticache_cluster" "example10" {
 
 resource "aws_elasticache_cluster" "example11" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -209,7 +209,7 @@ resource "aws_elasticache_cluster" "example11" {
 
 resource "aws_elasticache_cluster" "example12" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -219,7 +219,7 @@ resource "aws_elasticache_cluster" "example12" {
 
 resource "aws_elasticache_cluster" "example13" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -229,7 +229,7 @@ resource "aws_elasticache_cluster" "example13" {
 
 resource "aws_elasticache_cluster" "example14" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -239,7 +239,7 @@ resource "aws_elasticache_cluster" "example14" {
 
 resource "aws_elasticache_cluster" "example15" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -249,7 +249,7 @@ resource "aws_elasticache_cluster" "example15" {
 
 resource "aws_elasticache_cluster" "example16" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
@@ -259,7 +259,7 @@ resource "aws_elasticache_cluster" "example16" {
 
 resource "aws_elasticache_cluster" "example17" {
   for_each             = toset(var.regions)
-  cluster_id           = "new-cluster-${each.key}"
+  cluster_id           = "test-cluster-${each.key}"
   engine               = "memcached"
   node_type            = "cache.r5.24xlarge"
   num_cache_nodes      = 4
