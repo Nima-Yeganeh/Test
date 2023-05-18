@@ -32,7 +32,7 @@ resource "aws_elasticache_parameter_group" "example" {
   family = "memcached1.6"
 }
 
-resource "aws_elasticache_cluster" "example" {
+resource "aws_elasticache_cluster" "example1" {
   for_each             = toset(var.regions)
   cluster_id           = "cluster-${each.key}"
   engine               = "memcached"
@@ -42,7 +42,7 @@ resource "aws_elasticache_cluster" "example" {
   provider             = aws.us-east-1
 }
 
-resource "aws_elasticache_cluster" "example" {
+resource "aws_elasticache_cluster" "example2" {
   for_each             = toset(var.regions)
   cluster_id           = "cluster-${each.key}"
   engine               = "memcached"
@@ -52,7 +52,7 @@ resource "aws_elasticache_cluster" "example" {
   provider             = aws.us-east-2
 }
 
-resource "aws_elasticache_cluster" "example" {
+resource "aws_elasticache_cluster" "example3" {
   for_each             = toset(var.regions)
   cluster_id           = "cluster-${each.key}"
   engine               = "memcached"
@@ -62,7 +62,7 @@ resource "aws_elasticache_cluster" "example" {
   provider             = aws.us-west-1
 }
 
-resource "aws_elasticache_cluster" "example" {
+resource "aws_elasticache_cluster" "example4" {
   for_each             = toset(var.regions)
   cluster_id           = "cluster-${each.key}"
   engine               = "memcached"
