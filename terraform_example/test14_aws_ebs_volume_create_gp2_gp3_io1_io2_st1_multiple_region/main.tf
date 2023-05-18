@@ -4,7 +4,7 @@ provider "aws" {
 }
 
 resource "aws_ebs_volume" "example_gb2" {
-  availability_zone = "ap-southeast-2a"
+  availability_zone = "us-east-1a"
   size              = 16000
   type              = "gp2"
   tags = {
@@ -14,7 +14,7 @@ resource "aws_ebs_volume" "example_gb2" {
 }
 
 resource "aws_ebs_volume" "example_gb3" {
-  availability_zone = "ap-southeast-2a"
+  availability_zone = "us-east-1a"
   size              = 16000
   type              = "gp3"
   tags = {
@@ -24,7 +24,7 @@ resource "aws_ebs_volume" "example_gb3" {
 }
 
 resource "aws_ebs_volume" "example_io1" {
-  availability_zone = "ap-southeast-2a"
+  availability_zone = "us-east-1a"
   size              = 16000
   type              = "io1"
   iops              = 1000
@@ -35,7 +35,7 @@ resource "aws_ebs_volume" "example_io1" {
 }
 
 resource "aws_ebs_volume" "example_io2" {
-  availability_zone = "ap-southeast-2a"
+  availability_zone = "us-east-1a"
   size              = 16000
   type              = "io2"
   iops              = 2000
@@ -46,7 +46,7 @@ resource "aws_ebs_volume" "example_io2" {
 }
 
 resource "aws_ebs_volume" "example_st1" {
-  availability_zone = "ap-southeast-2a"
+  availability_zone = "us-east-1a"
   size              = 16000
   type              = "st1"
   tags = {
