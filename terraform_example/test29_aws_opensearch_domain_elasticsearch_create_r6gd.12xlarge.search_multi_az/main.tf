@@ -3,12 +3,13 @@ provider "aws" {
   alias = "aws1"
 }
 
-resource "aws_opensearch_domain" "example" {
-  domain_name    = "example"
+resource "aws_opensearch_domain" "exampleaws1" {
+  domain_name    = "exampleaws1"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type = "r6gd.12xlarge.search"
-    zone_awareness_enabled = true
+    instance_type           = "r6gd.12xlarge.search"
+    instance_count          = "3"
+    zone_awareness_enabled  = true
   }
   ebs_options {
     ebs_enabled = true
