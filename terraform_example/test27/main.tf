@@ -8,14 +8,13 @@ resource "aws_prometheus_workspace" "example" {
   tags = {
     Environment = "production"
   }
+
+  logging_configuration {
+    log_group_arn = "${aws_cloudwatch_log_group.example.arn}:*"
+  }
+
 }
 
 resource "aws_cloudwatch_log_group" "example" {
   name = "example"
-}
-
-resource "aws_prometheus_workspace" "example" {
-  logging_configuration {
-    log_group_arn = "${aws_cloudwatch_log_group.example.arn}:*"
-  }
 }
