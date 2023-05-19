@@ -83,123 +83,33 @@ provider "aws" {
   alias = "aws17"
 }
 
-resource "aws_apigatewayv2_api" "example_api1" {
+resource "aws_apigatewayv2_api" "example_apiaws1" {
   name          = "example-api"
   protocol_type = "HTTP"
   provider = aws.aws1
 }
-resource "aws_apigatewayv2_route" "example_route1" {
-  api_id    = aws_apigatewayv2_api.example_api.id
+resource "aws_apigatewayv2_route" "example_routeaws1" {
+  api_id    = aws_apigatewayv2_api.example_apiaws1.id
   route_key = "GET /example"
   provider = aws.aws1
 }
-resource "aws_apigatewayv2_integration" "example_integration1" {
-  api_id            = aws_apigatewayv2_api.example_api.id
+resource "aws_apigatewayv2_integration" "example_integrationaws1" {
+  api_id            = aws_apigatewayv2_api.example_apiaws1.id
   integration_type  = "HTTP_PROXY"
   integration_uri   = "https://jsonplaceholder.typicode.com"
   integration_method = "GET"
   depends_on = [
-    aws_apigatewayv2_route.example_route,
+    aws_apigatewayv2_route.example_routeaws1,
   ]
   provider = aws.aws1
 }
-resource "aws_apigatewayv2_stage" "example_stage1" {
-  api_id      = aws_apigatewayv2_api.example_api.id
+resource "aws_apigatewayv2_stage" "example_stageaws1" {
+  api_id      = aws_apigatewayv2_api.example_apiaws1.id
   name        = "dev"
   auto_deploy = true
   depends_on = [
-    aws_apigatewayv2_integration.example_integration,
+    aws_apigatewayv2_integration.example_integrationaws1,
   ]
   provider = aws.aws1
-}
-
-resource "aws_apigatewayv2_api" "example_api2" {
-  name          = "example-api"
-  protocol_type = "HTTP"
-  provider = aws.aws2
-}
-resource "aws_apigatewayv2_route" "example_route2" {
-  api_id    = aws_apigatewayv2_api.example_api.id
-  route_key = "GET /example"
-  provider = aws.aws2
-}
-resource "aws_apigatewayv2_integration" "example_integration2" {
-  api_id            = aws_apigatewayv2_api.example_api.id
-  integration_type  = "HTTP_PROXY"
-  integration_uri   = "https://jsonplaceholder.typicode.com"
-  integration_method = "GET"
-  depends_on = [
-    aws_apigatewayv2_route.example_route,
-  ]
-  provider = aws.aws2
-}
-resource "aws_apigatewayv2_stage" "example_stage2" {
-  api_id      = aws_apigatewayv2_api.example_api.id
-  name        = "dev"
-  auto_deploy = true
-  depends_on = [
-    aws_apigatewayv2_integration.example_integration,
-  ]
-  provider = aws.aws2
-}
-
-resource "aws_apigatewayv2_api" "example_api3" {
-  name          = "example-api"
-  protocol_type = "HTTP"
-  provider = aws.aws3
-}
-resource "aws_apigatewayv2_route" "example_route3" {
-  api_id    = aws_apigatewayv2_api.example_api.id
-  route_key = "GET /example"
-  provider = aws.aws3
-}
-resource "aws_apigatewayv2_integration" "example_integration3" {
-  api_id            = aws_apigatewayv2_api.example_api.id
-  integration_type  = "HTTP_PROXY"
-  integration_uri   = "https://jsonplaceholder.typicode.com"
-  integration_method = "GET"
-  depends_on = [
-    aws_apigatewayv2_route.example_route,
-  ]
-  provider = aws.aws3
-}
-resource "aws_apigatewayv2_stage" "example_stage3" {
-  api_id      = aws_apigatewayv2_api.example_api.id
-  name        = "dev"
-  auto_deploy = true
-  depends_on = [
-    aws_apigatewayv2_integration.example_integration,
-  ]
-  provider = aws.aws3
-}
-
-resource "aws_apigatewayv2_api" "example_api4" {
-  name          = "example-api"
-  protocol_type = "HTTP"
-  provider = aws.aws4
-}
-resource "aws_apigatewayv2_route" "example_route4" {
-  api_id    = aws_apigatewayv2_api.example_api.id
-  route_key = "GET /example"
-  provider = aws.aws4
-}
-resource "aws_apigatewayv2_integration" "example_integration4" {
-  api_id            = aws_apigatewayv2_api.example_api.id
-  integration_type  = "HTTP_PROXY"
-  integration_uri   = "https://jsonplaceholder.typicode.com"
-  integration_method = "GET"
-  depends_on = [
-    aws_apigatewayv2_route.example_route,
-  ]
-  provider = aws.aws4
-}
-resource "aws_apigatewayv2_stage" "example_stage4" {
-  api_id      = aws_apigatewayv2_api.example_api.id
-  name        = "dev"
-  auto_deploy = true
-  depends_on = [
-    aws_apigatewayv2_integration.example_integration,
-  ]
-  provider = aws.aws4
 }
 
