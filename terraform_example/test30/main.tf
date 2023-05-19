@@ -13,7 +13,6 @@ resource "aws_opensearch_domain" "data_nodes" {
     dedicated_master_type = "m6g.8xlarge.search"
     dedicated_master_count = 3
     zone_awareness_enabled = true
-    availability_zone_count = 3
   }
   ebs_options {
     ebs_enabled         = true
@@ -45,7 +44,6 @@ resource "aws_opensearch_domain" "ultrawarm_nodes" {
   domain_name           = "my-opensearch-domain"
   cluster_config {
     warm_enabled        = true
-    cold_enabled        = false
     instance_type       = "ultrawarm1.large.search"
     instance_count      = 120
   }
@@ -73,8 +71,3 @@ resource "aws_security_group" "opensearch_sg" {
   }
 }
 
-# Attach security group to OpenSearch domain
-resource "aws_opensearch_domain_security_group" "opensearch_sg" {
-  domain_name = aws_opensearch_domain.data_nodes.domain_name
-  security_group_id = aws_security_group.opensearch_sg.id
-}
