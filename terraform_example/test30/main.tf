@@ -34,9 +34,6 @@ resource "aws_opensearch_domain" "data_nodes" {
   domain_endpoint_options {
     enforce_https       = true
   }
-  advanced_options {
-    "rest.action.multi.allow_explicit_index" = "true"
-  }
   tags = {
     Environment = "production"
     Project     = "my-opensearch-project"
