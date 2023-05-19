@@ -420,7 +420,7 @@ resource "aws_security_group" "opensearch_sgaws5" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws6" {
-  domain_name           = "my-opensearch-test1domainaws6"
+  domain_name           = "my-opensearch-xdomainaws6"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -454,7 +454,7 @@ resource "aws_opensearch_domain" "data_nodesaws6" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws6" {
-  domain_name           = "my-opensearch-test1domainaws6"
+  domain_name           = "my-opensearch-xdomainaws6"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
