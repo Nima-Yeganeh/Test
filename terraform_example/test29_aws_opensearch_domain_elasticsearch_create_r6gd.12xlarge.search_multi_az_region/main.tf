@@ -88,7 +88,7 @@ resource "aws_opensearch_domain" "newexampleaws1" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -108,7 +108,7 @@ resource "aws_opensearch_domain" "newexampleaws2" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -128,7 +128,7 @@ resource "aws_opensearch_domain" "newexampleaws3" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -148,7 +148,7 @@ resource "aws_opensearch_domain" "newexampleaws4" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -168,7 +168,7 @@ resource "aws_opensearch_domain" "newexampleaws5" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -188,7 +188,7 @@ resource "aws_opensearch_domain" "newexampleaws6" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -208,7 +208,7 @@ resource "aws_opensearch_domain" "newexampleaws7" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -228,7 +228,7 @@ resource "aws_opensearch_domain" "newexampleaws8" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -248,7 +248,7 @@ resource "aws_opensearch_domain" "newexampleaws9" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -268,7 +268,7 @@ resource "aws_opensearch_domain" "newexampleaws10" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -288,7 +288,7 @@ resource "aws_opensearch_domain" "newexampleaws11" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -308,7 +308,7 @@ resource "aws_opensearch_domain" "newexampleaws12" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -328,7 +328,7 @@ resource "aws_opensearch_domain" "newexampleaws13" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -348,7 +348,7 @@ resource "aws_opensearch_domain" "newexampleaws14" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -368,7 +368,7 @@ resource "aws_opensearch_domain" "newexampleaws15" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -388,7 +388,7 @@ resource "aws_opensearch_domain" "newexampleaws16" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
@@ -408,7 +408,7 @@ resource "aws_opensearch_domain" "newexampleaws17" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
-    instance_count            = "16"
+    instance_count            = "10"
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
