@@ -113,3 +113,33 @@ resource "aws_apigatewayv2_stage" "example_stageaws1" {
   provider = aws.aws1
 }
 
+resource "aws_apigatewayv2_api" "example_apiaws2" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws2
+}
+resource "aws_apigatewayv2_route" "example_routeaws2" {
+  api_id    = aws_apigatewayv2_api.example_apiaws2.id
+  route_key = "GET /example"
+  provider = aws.aws2
+}
+resource "aws_apigatewayv2_integration" "example_integrationaws2" {
+  api_id            = aws_apigatewayv2_api.example_apiaws2.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_routeaws2,
+  ]
+  provider = aws.aws2
+}
+resource "aws_apigatewayv2_stage" "example_stageaws2" {
+  api_id      = aws_apigatewayv2_api.example_apiaws2.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integrationaws2,
+  ]
+  provider = aws.aws2
+}
+
