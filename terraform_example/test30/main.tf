@@ -1,11 +1,12 @@
 # Define AWS provider
 provider "aws" {
-  region = "us-east-1"
+  region = "us-east-2"
 }
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodes" {
   domain_name           = "my-opensearch-domain"
+  engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.12xlarge.search"
     instance_count      = 78
