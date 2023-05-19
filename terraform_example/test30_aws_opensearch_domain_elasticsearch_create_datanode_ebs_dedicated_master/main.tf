@@ -1,11 +1,12 @@
 # Define AWS provider
 provider "aws" {
   region = "us-east-2"
+  alias = "aws2"
 }
 
 # Define OpenSearch data nodes
-resource "aws_opensearch_domain" "data_nodes" {
-  domain_name           = "my-opensearch-domain"
+resource "aws_opensearch_domain" "data_nodesaws2" {
+  domain_name           = "my-opensearch-domainaws2"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.12xlarge.search"
@@ -33,13 +34,14 @@ resource "aws_opensearch_domain" "data_nodes" {
   }
   tags = {
     Environment = "production"
-    Project     = "my-opensearch-project"
+    Project     = "my-opensearch-projectaws2"
   }
+  provider = aws.aws2
 }
 
 # Define UltraWarmnodes for warm and cold data storage
-resource "aws_opensearch_domain" "ultrawarm_nodes" {
-  domain_name           = "my-opensearch-domain"
+resource "aws_opensearch_domain" "ultrawarm_nodesaws2" {
+  domain_name           = "my-opensearch-domainaws2"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -50,11 +52,12 @@ resource "aws_opensearch_domain" "ultrawarm_nodes" {
     volume_type         = "gp3"
     volume_size         = 100
   }
+  provider = aws.aws2
 }
 
 # Define security group to allow public access
-resource "aws_security_group" "opensearch_sg" {
-  name_prefix = "opensearch_sg"
+resource "aws_security_group" "opensearch_sgaws2" {
+  name_prefix = "opensearch_sgaws2"
   ingress {
     from_port   = 80
     to_port     = 80
@@ -66,6 +69,8 @@ resource "aws_security_group" "opensearch_sg" {
     to_port     = 443
     protocol    = "tcp"
     cidr_blocks = ["0.0.0.0/0"]
+
   }
+  provider = aws.aws2
 }
 
