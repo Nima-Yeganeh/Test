@@ -112,3 +112,484 @@ resource "aws_apigatewayv2_stage" "example_stage" {
   ]
   provider = aws.aws1
 }
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws2
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws2
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws2
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws2
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws3
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws3
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws3
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws3
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws4
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws4
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws4
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws4
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws5
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws5
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws5
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws5
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws6
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws6
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws6
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws6
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws7
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws7
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws7
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws7
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws8
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws8
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws8
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws8
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws9
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws9
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws9
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws9
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws10
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws10
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws10
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws10
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws11
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws11
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws11
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws11
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws12
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws12
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws12
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws12
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws13
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws13
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws13
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws13
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws14
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws14
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws14
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws14
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws15
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws15
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws15
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws15
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws16
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws16
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws16
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws16
+}
+
+resource "aws_apigatewayv2_api" "example_api" {
+  name          = "example-api"
+  protocol_type = "HTTP"
+  provider = aws.aws17
+}
+resource "aws_apigatewayv2_route" "example_route" {
+  api_id    = aws_apigatewayv2_api.example_api.id
+  route_key = "GET /example"
+  provider = aws.aws17
+}
+resource "aws_apigatewayv2_integration" "example_integration" {
+  api_id            = aws_apigatewayv2_api.example_api.id
+  integration_type  = "HTTP_PROXY"
+  integration_uri   = "https://jsonplaceholder.typicode.com"
+  integration_method = "GET"
+  depends_on = [
+    aws_apigatewayv2_route.example_route,
+  ]
+  provider = aws.aws17
+}
+resource "aws_apigatewayv2_stage" "example_stage" {
+  api_id      = aws_apigatewayv2_api.example_api.id
+  name        = "dev"
+  auto_deploy = true
+  depends_on = [
+    aws_apigatewayv2_integration.example_integration,
+  ]
+  provider = aws.aws17
+}
+
