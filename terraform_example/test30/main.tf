@@ -32,6 +32,7 @@ resource "aws_opensearch_domain" "data_nodes" {
   }
   domain_endpoint_options {
     enforce_https       = true
+    tLSSecurityPolicy    = "Policy-Min-TLS-1-2-2019-07"
   }
   tags = {
     Environment = "production"
