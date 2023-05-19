@@ -85,7 +85,7 @@ provider "aws" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws1" {
-  domain_name           = "my-opensearch-test1domainaws1"
+  domain_name           = "my-opensearch-xdomainaws1"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -119,7 +119,7 @@ resource "aws_opensearch_domain" "data_nodesaws1" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws1" {
-  domain_name           = "my-opensearch-test1domainaws1"
+  domain_name           = "my-opensearch-xdomainaws1"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -152,7 +152,7 @@ resource "aws_security_group" "opensearch_sgaws1" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws2" {
-  domain_name           = "my-opensearch-test1domainaws2"
+  domain_name           = "my-opensearch-xdomainaws2"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -186,7 +186,7 @@ resource "aws_opensearch_domain" "data_nodesaws2" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws2" {
-  domain_name           = "my-opensearch-test1domainaws2"
+  domain_name           = "my-opensearch-xdomainaws2"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -219,7 +219,7 @@ resource "aws_security_group" "opensearch_sgaws2" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws3" {
-  domain_name           = "my-opensearch-test1domainaws3"
+  domain_name           = "my-opensearch-xdomainaws3"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -253,7 +253,7 @@ resource "aws_opensearch_domain" "data_nodesaws3" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws3" {
-  domain_name           = "my-opensearch-test1domainaws3"
+  domain_name           = "my-opensearch-xdomainaws3"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -286,7 +286,7 @@ resource "aws_security_group" "opensearch_sgaws3" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws4" {
-  domain_name           = "my-opensearch-test1domainaws4"
+  domain_name           = "my-opensearch-xdomainaws4"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -320,7 +320,7 @@ resource "aws_opensearch_domain" "data_nodesaws4" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws4" {
-  domain_name           = "my-opensearch-test1domainaws4"
+  domain_name           = "my-opensearch-xdomainaws4"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -353,7 +353,7 @@ resource "aws_security_group" "opensearch_sgaws4" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws5" {
-  domain_name           = "my-opensearch-test1domainaws5"
+  domain_name           = "my-opensearch-xdomainaws5"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -387,7 +387,7 @@ resource "aws_opensearch_domain" "data_nodesaws5" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws5" {
-  domain_name           = "my-opensearch-test1domainaws5"
+  domain_name           = "my-opensearch-xdomainaws5"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -487,7 +487,7 @@ resource "aws_security_group" "opensearch_sgaws6" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws7" {
-  domain_name           = "my-opensearch-test1domainaws7"
+  domain_name           = "my-opensearch-xdomainaws7"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -521,7 +521,7 @@ resource "aws_opensearch_domain" "data_nodesaws7" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws7" {
-  domain_name           = "my-opensearch-test1domainaws7"
+  domain_name           = "my-opensearch-xdomainaws7"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -554,7 +554,7 @@ resource "aws_security_group" "opensearch_sgaws7" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws8" {
-  domain_name           = "my-opensearch-test1domainaws8"
+  domain_name           = "my-opensearch-xdomainaws8"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -588,7 +588,7 @@ resource "aws_opensearch_domain" "data_nodesaws8" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws8" {
-  domain_name           = "my-opensearch-test1domainaws8"
+  domain_name           = "my-opensearch-xdomainaws8"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -621,7 +621,7 @@ resource "aws_security_group" "opensearch_sgaws8" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws9" {
-  domain_name           = "my-opensearch-test1domainaws9"
+  domain_name           = "my-opensearch-xdomainaws9"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -655,7 +655,7 @@ resource "aws_opensearch_domain" "data_nodesaws9" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws9" {
-  domain_name           = "my-opensearch-test1domainaws9"
+  domain_name           = "my-opensearch-xdomainaws9"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -688,7 +688,7 @@ resource "aws_security_group" "opensearch_sgaws9" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws10" {
-  domain_name           = "my-opensearch-test1domainaws10"
+  domain_name           = "my-opensearch-xdomainaws10"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -722,7 +722,7 @@ resource "aws_opensearch_domain" "data_nodesaws10" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws10" {
-  domain_name           = "my-opensearch-test1domainaws10"
+  domain_name           = "my-opensearch-xdomainaws10"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -755,7 +755,7 @@ resource "aws_security_group" "opensearch_sgaws10" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws11" {
-  domain_name           = "my-opensearch-test1domainaws11"
+  domain_name           = "my-opensearch-xdomainaws11"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -789,7 +789,7 @@ resource "aws_opensearch_domain" "data_nodesaws11" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws11" {
-  domain_name           = "my-opensearch-test1domainaws11"
+  domain_name           = "my-opensearch-xdomainaws11"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -822,7 +822,7 @@ resource "aws_security_group" "opensearch_sgaws11" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws12" {
-  domain_name           = "my-opensearch-test1domainaws12"
+  domain_name           = "my-opensearch-xdomainaws12"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -856,7 +856,7 @@ resource "aws_opensearch_domain" "data_nodesaws12" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws12" {
-  domain_name           = "my-opensearch-test1domainaws12"
+  domain_name           = "my-opensearch-xdomainaws12"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -889,7 +889,7 @@ resource "aws_security_group" "opensearch_sgaws12" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws13" {
-  domain_name           = "my-opensearch-test1domainaws13"
+  domain_name           = "my-opensearch-xdomainaws13"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -923,7 +923,7 @@ resource "aws_opensearch_domain" "data_nodesaws13" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws13" {
-  domain_name           = "my-opensearch-test1domainaws13"
+  domain_name           = "my-opensearch-xdomainaws13"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -956,7 +956,7 @@ resource "aws_security_group" "opensearch_sgaws13" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws14" {
-  domain_name           = "my-opensearch-test1domainaws14"
+  domain_name           = "my-opensearch-xdomainaws14"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -990,7 +990,7 @@ resource "aws_opensearch_domain" "data_nodesaws14" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws14" {
-  domain_name           = "my-opensearch-test1domainaws14"
+  domain_name           = "my-opensearch-xdomainaws14"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -1023,7 +1023,7 @@ resource "aws_security_group" "opensearch_sgaws14" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws15" {
-  domain_name           = "my-opensearch-test1domainaws15"
+  domain_name           = "my-opensearch-xdomainaws15"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -1057,7 +1057,7 @@ resource "aws_opensearch_domain" "data_nodesaws15" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws15" {
-  domain_name           = "my-opensearch-test1domainaws15"
+  domain_name           = "my-opensearch-xdomainaws15"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -1090,7 +1090,7 @@ resource "aws_security_group" "opensearch_sgaws15" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws16" {
-  domain_name           = "my-opensearch-test1domainaws16"
+  domain_name           = "my-opensearch-xdomainaws16"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -1124,7 +1124,7 @@ resource "aws_opensearch_domain" "data_nodesaws16" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws16" {
-  domain_name           = "my-opensearch-test1domainaws16"
+  domain_name           = "my-opensearch-xdomainaws16"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
@@ -1157,7 +1157,7 @@ resource "aws_security_group" "opensearch_sgaws16" {
 
 # Define OpenSearch data nodes
 resource "aws_opensearch_domain" "data_nodesaws17" {
-  domain_name           = "my-opensearch-test1domainaws17"
+  domain_name           = "my-opensearch-xdomainaws17"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type       = "r6g.2xlarge.search"
@@ -1191,7 +1191,7 @@ resource "aws_opensearch_domain" "data_nodesaws17" {
 }
 # Define UltraWarmnodes for warm and cold data storage
 resource "aws_opensearch_domain" "ultrawarm_nodesaws17" {
-  domain_name           = "my-opensearch-test1domainaws17"
+  domain_name           = "my-opensearch-xdomainaws17"
   cluster_config {
     warm_enabled        = true
     instance_type       = "ultrawarm1.large.search"
