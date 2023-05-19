@@ -3,7 +3,7 @@ provider "aws" {
   alias = "aws1"
 }
 
-resource "aws_opensearch_service_domain" "example_domain_aws1" {
+resource "aws_opensearch_domain" "example_domain_aws1" {
   domain_name           = "example-domain"
   elasticsearch_version = "7.10"
   instance_type         = "r6gd.12xlarge.search"
