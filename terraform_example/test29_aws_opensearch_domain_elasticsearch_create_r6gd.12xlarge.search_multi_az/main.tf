@@ -24,7 +24,7 @@ resource "aws_opensearch_service_domain" "example_domain_aws1" {
     automated_snapshot_start_hour = 23
   }
   advanced_options {
-    "rest.action.multi.allow_explicit_index" = "true"
+    rest.action.multi.allow_explicit_index = "true"
   }
   provider = aws.aws1
 }
