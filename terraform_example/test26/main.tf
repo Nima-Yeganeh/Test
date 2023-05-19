@@ -33,7 +33,7 @@ resource "aws_apigatewayv2_stage" "example_stage" {
   auto_deploy = true
   
   depends_on = [
-aws_apigatewayv2_integration.example_integration[count.index],
-    aws_apigatewayv2_route.example_route[count.index],
+aws_apigatewayv2_integration.example_integration[${count.index}],
+    aws_apigatewayv2_route.example_route[${count.index}],
   ]
 }
