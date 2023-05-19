@@ -88,7 +88,7 @@ resource "aws_opensearch_domain" "data_nodesaws1" {
   domain_name           = "my-opensearch-domainaws1"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -155,7 +155,7 @@ resource "aws_opensearch_domain" "data_nodesaws2" {
   domain_name           = "my-opensearch-domainaws2"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -222,7 +222,7 @@ resource "aws_opensearch_domain" "data_nodesaws3" {
   domain_name           = "my-opensearch-domainaws3"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -289,7 +289,7 @@ resource "aws_opensearch_domain" "data_nodesaws4" {
   domain_name           = "my-opensearch-domainaws4"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -356,7 +356,7 @@ resource "aws_opensearch_domain" "data_nodesaws5" {
   domain_name           = "my-opensearch-domainaws5"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -423,7 +423,7 @@ resource "aws_opensearch_domain" "data_nodesaws6" {
   domain_name           = "my-opensearch-domainaws6"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -490,7 +490,7 @@ resource "aws_opensearch_domain" "data_nodesaws7" {
   domain_name           = "my-opensearch-domainaws7"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -557,7 +557,7 @@ resource "aws_opensearch_domain" "data_nodesaws8" {
   domain_name           = "my-opensearch-domainaws8"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -624,7 +624,7 @@ resource "aws_opensearch_domain" "data_nodesaws9" {
   domain_name           = "my-opensearch-domainaws9"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -691,7 +691,7 @@ resource "aws_opensearch_domain" "data_nodesaws10" {
   domain_name           = "my-opensearch-domainaws10"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -758,7 +758,7 @@ resource "aws_opensearch_domain" "data_nodesaws11" {
   domain_name           = "my-opensearch-domainaws11"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -825,7 +825,7 @@ resource "aws_opensearch_domain" "data_nodesaws12" {
   domain_name           = "my-opensearch-domainaws12"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -892,7 +892,7 @@ resource "aws_opensearch_domain" "data_nodesaws13" {
   domain_name           = "my-opensearch-domainaws13"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -959,7 +959,7 @@ resource "aws_opensearch_domain" "data_nodesaws14" {
   domain_name           = "my-opensearch-domainaws14"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -1026,7 +1026,7 @@ resource "aws_opensearch_domain" "data_nodesaws15" {
   domain_name           = "my-opensearch-domainaws15"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -1093,7 +1093,7 @@ resource "aws_opensearch_domain" "data_nodesaws16" {
   domain_name           = "my-opensearch-domainaws16"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
@@ -1160,7 +1160,7 @@ resource "aws_opensearch_domain" "data_nodesaws17" {
   domain_name           = "my-opensearch-domainaws17"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
-    instance_type       = "r6g.12xlarge.search"
+    instance_type       = "r6g.large.search"
     instance_count      = 78
     dedicated_master_enabled = true
     dedicated_master_type = "m6g.8xlarge.search"
