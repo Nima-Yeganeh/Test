@@ -30,10 +30,6 @@ resource "aws_opensearch_domain" "data_nodes" {
   snapshot_options {
     automated_snapshot_start_hour = 23
   }
-  domain_endpoint_options {
-    enforce_https       = true
-    tLSSecurityPolicy    = "Policy-Min-TLS-1-2-2019-07"
-  }
   tags = {
     Environment = "production"
     Project     = "my-opensearch-project"
