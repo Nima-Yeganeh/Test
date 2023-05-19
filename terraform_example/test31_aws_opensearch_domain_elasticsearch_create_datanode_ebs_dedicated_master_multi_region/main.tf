@@ -100,7 +100,7 @@ resource "aws_opensearch_domain" "data_nodesaws1" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -167,7 +167,7 @@ resource "aws_opensearch_domain" "data_nodesaws2" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -234,7 +234,7 @@ resource "aws_opensearch_domain" "data_nodesaws3" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -301,7 +301,7 @@ resource "aws_opensearch_domain" "data_nodesaws4" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -368,7 +368,7 @@ resource "aws_opensearch_domain" "data_nodesaws5" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -435,7 +435,7 @@ resource "aws_opensearch_domain" "data_nodesaws6" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -502,7 +502,7 @@ resource "aws_opensearch_domain" "data_nodesaws7" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -569,7 +569,7 @@ resource "aws_opensearch_domain" "data_nodesaws8" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -636,7 +636,7 @@ resource "aws_opensearch_domain" "data_nodesaws9" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -703,7 +703,7 @@ resource "aws_opensearch_domain" "data_nodesaws10" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -770,7 +770,7 @@ resource "aws_opensearch_domain" "data_nodesaws11" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -837,7 +837,7 @@ resource "aws_opensearch_domain" "data_nodesaws12" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -904,7 +904,7 @@ resource "aws_opensearch_domain" "data_nodesaws13" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -971,7 +971,7 @@ resource "aws_opensearch_domain" "data_nodesaws14" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -1038,7 +1038,7 @@ resource "aws_opensearch_domain" "data_nodesaws15" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -1105,7 +1105,7 @@ resource "aws_opensearch_domain" "data_nodesaws16" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
@@ -1172,7 +1172,7 @@ resource "aws_opensearch_domain" "data_nodesaws17" {
     volume_type         = "gp3"
     volume_size         = 100
     iops                = 3000
-    throughput          = 600
+    throughput          = 300
   }
   encrypt_at_rest {
     enabled = true
