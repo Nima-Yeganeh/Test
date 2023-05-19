@@ -10,7 +10,7 @@ resource "aws_opensearch_domain" "exampleaws1" {
     instance_type             = "r6gd.12xlarge.search"
     instance_count            = "4"
     zone_awareness_enabled    = true
-    dedicated_master_enabled  = true
+    dedicated_master_enabled  = false
   }
   ebs_options {
     ebs_enabled = true
