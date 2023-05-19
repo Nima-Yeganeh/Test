@@ -12,10 +12,6 @@ resource "aws_opensearch_domain" "exampleaws1" {
     zone_awareness_enabled    = true
     dedicated_master_enabled  = false
   }
-  ebs_options {
-    ebs_enabled = true
-    volume_size = 100
-  }
   tags = {
     Environment = "production"
     Service     = "search"
