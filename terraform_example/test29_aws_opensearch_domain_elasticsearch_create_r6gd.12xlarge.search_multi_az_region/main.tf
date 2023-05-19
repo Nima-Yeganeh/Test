@@ -83,8 +83,8 @@ provider "aws" {
   alias = "aws17"
 }
 
-resource "aws_opensearch_domain" "exampleaws1" {
-  domain_name    = "exampleaws1"
+resource "aws_opensearch_domain" "newexampleaws1" {
+  domain_name    = "newexampleaws1"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -103,8 +103,8 @@ resource "aws_opensearch_domain" "exampleaws1" {
   provider = aws.aws1
 }
 
-resource "aws_opensearch_domain" "exampleaws2" {
-  domain_name    = "exampleaws2"
+resource "aws_opensearch_domain" "newexampleaws2" {
+  domain_name    = "newexampleaws2"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -123,8 +123,8 @@ resource "aws_opensearch_domain" "exampleaws2" {
   provider = aws.aws2
 }
 
-resource "aws_opensearch_domain" "exampleaws3" {
-  domain_name    = "exampleaws3"
+resource "aws_opensearch_domain" "newexampleaws3" {
+  domain_name    = "newexampleaws3"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -143,8 +143,8 @@ resource "aws_opensearch_domain" "exampleaws3" {
   provider = aws.aws3
 }
 
-resource "aws_opensearch_domain" "exampleaws4" {
-  domain_name    = "exampleaws4"
+resource "aws_opensearch_domain" "newexampleaws4" {
+  domain_name    = "newexampleaws4"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -163,8 +163,8 @@ resource "aws_opensearch_domain" "exampleaws4" {
   provider = aws.aws4
 }
 
-resource "aws_opensearch_domain" "exampleaws5" {
-  domain_name    = "exampleaws5"
+resource "aws_opensearch_domain" "newexampleaws5" {
+  domain_name    = "newexampleaws5"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -183,8 +183,8 @@ resource "aws_opensearch_domain" "exampleaws5" {
   provider = aws.aws5
 }
 
-resource "aws_opensearch_domain" "exampleaws6" {
-  domain_name    = "exampleaws6"
+resource "aws_opensearch_domain" "newexampleaws6" {
+  domain_name    = "newexampleaws6"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -203,8 +203,8 @@ resource "aws_opensearch_domain" "exampleaws6" {
   provider = aws.aws6
 }
 
-resource "aws_opensearch_domain" "exampleaws7" {
-  domain_name    = "exampleaws7"
+resource "aws_opensearch_domain" "newexampleaws7" {
+  domain_name    = "newexampleaws7"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -223,8 +223,8 @@ resource "aws_opensearch_domain" "exampleaws7" {
   provider = aws.aws7
 }
 
-resource "aws_opensearch_domain" "exampleaws8" {
-  domain_name    = "exampleaws8"
+resource "aws_opensearch_domain" "newexampleaws8" {
+  domain_name    = "newexampleaws8"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -243,8 +243,8 @@ resource "aws_opensearch_domain" "exampleaws8" {
   provider = aws.aws8
 }
 
-resource "aws_opensearch_domain" "exampleaws9" {
-  domain_name    = "exampleaws9"
+resource "aws_opensearch_domain" "newexampleaws9" {
+  domain_name    = "newexampleaws9"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -263,8 +263,8 @@ resource "aws_opensearch_domain" "exampleaws9" {
   provider = aws.aws9
 }
 
-resource "aws_opensearch_domain" "exampleaws10" {
-  domain_name    = "exampleaws10"
+resource "aws_opensearch_domain" "newexampleaws10" {
+  domain_name    = "newexampleaws10"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -283,8 +283,8 @@ resource "aws_opensearch_domain" "exampleaws10" {
   provider = aws.aws10
 }
 
-resource "aws_opensearch_domain" "exampleaws11" {
-  domain_name    = "exampleaws11"
+resource "aws_opensearch_domain" "newexampleaws11" {
+  domain_name    = "newexampleaws11"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -303,8 +303,8 @@ resource "aws_opensearch_domain" "exampleaws11" {
   provider = aws.aws11
 }
 
-resource "aws_opensearch_domain" "exampleaws12" {
-  domain_name    = "exampleaws12"
+resource "aws_opensearch_domain" "newexampleaws12" {
+  domain_name    = "newexampleaws12"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -323,8 +323,8 @@ resource "aws_opensearch_domain" "exampleaws12" {
   provider = aws.aws12
 }
 
-resource "aws_opensearch_domain" "exampleaws13" {
-  domain_name    = "exampleaws13"
+resource "aws_opensearch_domain" "newexampleaws13" {
+  domain_name    = "newexampleaws13"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -343,8 +343,8 @@ resource "aws_opensearch_domain" "exampleaws13" {
   provider = aws.aws13
 }
 
-resource "aws_opensearch_domain" "exampleaws14" {
-  domain_name    = "exampleaws14"
+resource "aws_opensearch_domain" "newexampleaws14" {
+  domain_name    = "newexampleaws14"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -363,8 +363,8 @@ resource "aws_opensearch_domain" "exampleaws14" {
   provider = aws.aws14
 }
 
-resource "aws_opensearch_domain" "exampleaws15" {
-  domain_name    = "exampleaws15"
+resource "aws_opensearch_domain" "newexampleaws15" {
+  domain_name    = "newexampleaws15"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -383,8 +383,8 @@ resource "aws_opensearch_domain" "exampleaws15" {
   provider = aws.aws15
 }
 
-resource "aws_opensearch_domain" "exampleaws16" {
-  domain_name    = "exampleaws16"
+resource "aws_opensearch_domain" "newexampleaws16" {
+  domain_name    = "newexampleaws16"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
@@ -403,8 +403,8 @@ resource "aws_opensearch_domain" "exampleaws16" {
   provider = aws.aws16
 }
 
-resource "aws_opensearch_domain" "exampleaws17" {
-  domain_name    = "exampleaws17"
+resource "aws_opensearch_domain" "newexampleaws17" {
+  domain_name    = "newexampleaws17"
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type             = "r6gd.12xlarge.search"
