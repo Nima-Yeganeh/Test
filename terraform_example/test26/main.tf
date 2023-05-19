@@ -1,6 +1,6 @@
 provider "aws" {
   region = "us-east-1"
-  alias = aws1
+  alias = "aws1"
 }
 
 resource "aws_apigatewayv2_api" "example_api" {
