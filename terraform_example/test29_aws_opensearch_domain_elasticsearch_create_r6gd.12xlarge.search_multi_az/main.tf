@@ -8,15 +8,11 @@ resource "aws_opensearch_domain" "example" {
   engine_version = "Elasticsearch_7.10"
   cluster_config {
     instance_type = "r6gd.12xlarge.search"
-    node_count    = 3
     zone_awareness_enabled = true
   }
   ebs_options {
     ebs_enabled = true
     volume_size = 100
-  }
-  encryption_at_rest {
-    enabled = true
   }
   tags = {
     Environment = "production"
