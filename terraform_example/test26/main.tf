@@ -3,7 +3,6 @@ provider "aws" {
 }
 
 resource "aws_apigatewayv2_api" "example_api" {
-  count         = 20
   name          = "example-api"
   protocol_type = "HTTP"
 }
