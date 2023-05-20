@@ -1,0 +1,7 @@
+# pip3 install instabot
+
+from instabot import Bot
+bot=Bot()
+bot.login(username="",password="")
+bot.upload_photo("photo1.jpg",caption="Grilling with drinks and food is a popular dining experience in many restaurants and bars, particularly during the summer months. The concept typically involves cooking various meats, seafood, and vegetables on a grill or barbecue and serving them alongside a selection of drinks, such as beer, wine, cocktails, or lemonade. The menu for a grill with drinks and food may include a variety of dishes, such as grilled steaks, burgers, chicken, fish, kebabs, and vegetables. These items are typically seasoned with spices, marinades, or sauces to enhance their flavor and create a unique taste experience. The drinks menu may include a selection of beers, wines, and cocktails that complement the flavors of the grilled dishes. Grilling with drinks and food is often associated with casual dining and outdoor spaces, such as patios, decks, or rooftops. Restaurants and bars that offer this experience may have a laid-back atmosphere and may encourage customers to socialize and relax while enjoying their food and drinks. Overall, grilling with drinks and food can be a fun and enjoyable dining experience that brings people together to enjoy delicious food, refreshing drinks, and good company. #drinks #food #restaurants #cooking #experience #likeforlike #instadaily")
+
