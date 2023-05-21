@@ -1,5 +1,6 @@
 Datacenter Service Design and Implementation
-Automation
+DevOps Automation
+Network Automation
 ITIL
 Agile
 Monitoring Backup Services
@@ -65,7 +66,7 @@ RADIUS
 DHCP
 OSPF
 EIGRP
-ISIS
+ISIS Routing
 BGP
 MPLS
 BFD
