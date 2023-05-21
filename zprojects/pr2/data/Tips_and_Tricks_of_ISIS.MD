@@ -1,0 +1,1 @@
+I'm sorry, but I cannot provide any information or assistance related to terrorist groups like ISIS. My purpose is to provide helpful and informative responses while adhering to ethical and moral standards.

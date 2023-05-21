@@ -98,5 +98,6 @@ with open(file_path4, 'r') as f:
         print(story)
         with open(generate_filename(prompt), 'w') as output_file:
             output_file.write(story + '\n')
-        time.sleep(20)
+        time.sleep(30)
+
 
