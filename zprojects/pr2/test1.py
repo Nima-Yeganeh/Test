@@ -86,10 +86,11 @@ def generate_filename(newfilename):
 
 with open(file_path4, 'r') as f:
     for line in f:
-        time.sleep(20)
         prompt = line.strip()
         print(prompt)
         story = generate_response(prompt)
         print(story)
         with open(generate_filename(prompt), 'w') as output_file:
             output_file.write(story + '\n')
+        time.sleep(20)
+
