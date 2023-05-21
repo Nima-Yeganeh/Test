@@ -1,5 +1,6 @@
 Key Terms of Datacenter Service Design and Implementation
-Key Terms of Automation
+Key Terms of DevOps Automation
+Key Terms of Network Automation
 Key Terms of ITIL
 Key Terms of Agile
 Key Terms of Monitoring Backup Services
@@ -65,7 +66,7 @@ Key Terms of RADIUS
 Key Terms of DHCP
 Key Terms of OSPF
 Key Terms of EIGRP
-Key Terms of ISIS
+Key Terms of ISIS Routing
 Key Terms of BGP
 Key Terms of MPLS
 Key Terms of BFD
@@ -82,7 +83,8 @@ Key Terms of Fiber-Optic Implementation
 Key Terms of Peering and Transit
 Key Terms of F5 Load Balancers
 Advantages and Disadvantages of Datacenter Service Design and Implementation
-Advantages and Disadvantages of Automation
+Advantages and Disadvantages of DevOps Automation
+Advantages and Disadvantages of Network Automation
 Advantages and Disadvantages of ITIL
 Advantages and Disadvantages of Agile
 Advantages and Disadvantages of Monitoring Backup Services
@@ -148,7 +150,7 @@ Advantages and Disadvantages of RADIUS
 Advantages and Disadvantages of DHCP
 Advantages and Disadvantages of OSPF
 Advantages and Disadvantages of EIGRP
-Advantages and Disadvantages of ISIS
+Advantages and Disadvantages of ISIS Routing
 Advantages and Disadvantages of BGP
 Advantages and Disadvantages of MPLS
 Advantages and Disadvantages of BFD
@@ -165,7 +167,8 @@ Advantages and Disadvantages of Fiber-Optic Implementation
 Advantages and Disadvantages of Peering and Transit
 Advantages and Disadvantages of F5 Load Balancers
 Tips and Tricks of Datacenter Service Design and Implementation
-Tips and Tricks of Automation
+Tips and Tricks of DevOps Automation
+Tips and Tricks of Network Automation
 Tips and Tricks of ITIL
 Tips and Tricks of Agile
 Tips and Tricks of Monitoring Backup Services
@@ -231,7 +234,7 @@ Tips and Tricks of RADIUS
 Tips and Tricks of DHCP
 Tips and Tricks of OSPF
 Tips and Tricks of EIGRP
-Tips and Tricks of ISIS
+Tips and Tricks of ISIS Routing
 Tips and Tricks of BGP
 Tips and Tricks of MPLS
 Tips and Tricks of BFD
@@ -248,7 +251,8 @@ Tips and Tricks of Fiber-Optic Implementation
 Tips and Tricks of Peering and Transit
 Tips and Tricks of F5 Load Balancers
 How should IT engineer learn Datacenter Service Design and Implementation
-How should IT engineer learn Automation
+How should IT engineer learn DevOps Automation
+How should IT engineer learn Network Automation
 How should IT engineer learn ITIL
 How should IT engineer learn Agile
 How should IT engineer learn Monitoring Backup Services
@@ -314,7 +318,7 @@ How should IT engineer learn RADIUS
 How should IT engineer learn DHCP
 How should IT engineer learn OSPF
 How should IT engineer learn EIGRP
-How should IT engineer learn ISIS
+How should IT engineer learn ISIS Routing
 How should IT engineer learn BGP
 How should IT engineer learn MPLS
 How should IT engineer learn BFD
@@ -331,7 +335,8 @@ How should IT engineer learn Fiber-Optic Implementation
 How should IT engineer learn Peering and Transit
 How should IT engineer learn F5 Load Balancers
 Why should IT engineer learn Datacenter Service Design and Implementation
-Why should IT engineer learn Automation
+Why should IT engineer learn DevOps Automation
+Why should IT engineer learn Network Automation
 Why should IT engineer learn ITIL
 Why should IT engineer learn Agile
 Why should IT engineer learn Monitoring Backup Services
@@ -397,7 +402,7 @@ Why should IT engineer learn RADIUS
 Why should IT engineer learn DHCP
 Why should IT engineer learn OSPF
 Why should IT engineer learn EIGRP
-Why should IT engineer learn ISIS
+Why should IT engineer learn ISIS Routing
 Why should IT engineer learn BGP
 Why should IT engineer learn MPLS
 Why should IT engineer learn BFD
@@ -414,7 +419,8 @@ Why should IT engineer learn Fiber-Optic Implementation
 Why should IT engineer learn Peering and Transit
 Why should IT engineer learn F5 Load Balancers
 What is Datacenter Service Design and Implementation
-What is Automation
+What is DevOps Automation
+What is Network Automation
 What is ITIL
 What is Agile
 What is Monitoring Backup Services
@@ -480,7 +486,7 @@ What is RADIUS
 What is DHCP
 What is OSPF
 What is EIGRP
-What is ISIS
+What is ISIS Routing
 What is BGP
 What is MPLS
 What is BFD

@@ -1,0 +1,3 @@
+EVPN, or Ethernet Virtual Private Network, is a technology used in computer networking to support the dynamism requirements of cloud computing and data center environments. It is a Layer 2 VPN technology that enables the transmission of Ethernet frames between sites over an IP network. 
+
+EVPN provides VLAN-based services, with features like optimized forwarding of traffic, fast convergence, and efficient use of network resources. It uses the Border Gateway Protocol (BGP) as its control plane protocol and supports a range of services, such as virtual machine mobility, active-active data centers, and data center interconnect.

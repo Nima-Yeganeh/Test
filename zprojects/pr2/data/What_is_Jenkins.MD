@@ -1,0 +1,1 @@
+Jenkins is an open-source automation server that helps automate various parts of the software development process such as building, testing, and deploying applications. It allows developers to integrate changes more quickly, efficiently and reliably into their projects. Jenkins is highly extensible and can be customized to meet various development needs.

@@ -1,0 +1,9 @@
+- Debian: a free and open-source Linux operating system that is composed entirely of free and open-source software.
+- Stable: a release of Debian that is considered to be stable, reliable, and suitable for production use.
+- Testing: a pre-release version of Debian that is tested for stability and compatibility before being promoted to the stable release.
+- Unstable: a version of Debian that is constantly updated with the latest software packages but is not considered suitable for production use due to potential instability.
+- Packages: software components that can be installed, upgraded, or removed using Debian's Advanced Package Tool (APT).
+- Repositories: a collection of Debian packages that are hosted online and are accessible to users for installation using APT.
+- Aptitude: a command-line tool used to search, install, update, and remove packages in Debian.
+- dpkg: a command-line tool used to install and manage individual Debian packages.
+- Debian GNU/Linux: the full name of the Debian operating system, which includes a GNU userland on top of the Linux kernel.

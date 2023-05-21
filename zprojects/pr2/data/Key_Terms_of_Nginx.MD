@@ -1,19 +1,19 @@
-1. Nginx: A web server and reverse proxy server.
+1. Reverse proxy: A server that retrieves resources on behalf of a client from one or more servers.
 
-2. Virtual server: An instance of a web server that hosts one or multiple websites.
+2. Load balancer: A server that distributes network traffic across multiple servers.
 
-3. Reverse proxy: A server that receives requests from clients and forwards them to other servers in the backend.
+3. HTTP server: A server that listens for incoming HTTP requests and returns HTTP responses.
 
-4. Load balancing: The process of distributing incoming network traffic among multiple servers to improve their performance, availability, and fault tolerance.
+4. SSL/TLS termination: The process of decrypting incoming HTTPS traffic and forwarding it to a upstream server in plain HTTP.
 
-5. SSL/TLS: Cryptographic protocols that provide secure communication over the internet.
+5. Web server: A server software that processes HTTP requests and serves HTML content or static files.
 
-6. HTTP/2: A more efficient and faster protocol than its predecessor, HTTP/1.
+6. FastCGI: A protocol for interfacing web servers and application servers.
 
-7. Cache: Data stored temporarily in a fast-access memory so that future requests for that data can be served more quickly.
+7. Caching: The process of storing frequently accessed data in memory for quick access.
 
-8. FastCGI: An interface between a web server and a dynamic web application that allows the application to be executed separately.
+8. Virtual hosting: The hosting of multiple domain names on a single server.
 
-9. Reverse SSL proxy: A server that terminates SSL communication and passes the decrypted traffic to the backend server.
+9. Gzip compression: The process of compressing HTTP responses to reduce their size.
 
-10. Dynamic modules: Modules that can be compiled separately from the main Nginx binary and loaded at runtime.
+10. Access control: The process of restricting access to resources based on user authentication and authorization.

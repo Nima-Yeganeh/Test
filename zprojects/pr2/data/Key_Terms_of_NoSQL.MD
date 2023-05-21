@@ -1,15 +1,10 @@
-NoSQL, or non-relational databases, is a broad category of database management systems that are designed to support large-scale, distributed data storage and processing. Some of the key terms associated with NoSQL databases include:
+NoSQL is a non-relational database management system that does not adhere to the traditional relational database management systems rules. It is often used for big data and real-time web applications. Here are some key terms associated with NoSQL:
 
-1. Document-oriented databases: NoSQL databases that store data in semi-structured documents, instead of tables with rows and columns.
-
-2. Key-value stores: NoSQL databases that store data as a collection of key-value pairs, with a unique key identifying each value.
-
-3. Column family stores: NoSQL databases that store data in column-oriented tables, which can result in faster querying and data retrieval.
-
-4. Graph databases: NoSQL databases that store data in a network of interconnected nodes and edges.
-
-5. CAP theorem: A theory in distributed computing that states that it is impossible for a distributed system to have all three of consistency, availability, and partition tolerance.
-
-6. ACID vs BASE: Two different approaches to ensuring data consistency in a distributed system. ACID focuses on ensuring transactional consistency at all times, while BASE prioritizes availability and eventual consistency.
-
-7. Sharding: The practice of dividing a database into smaller, more manageable pieces called shards, which can be distributed across multiple servers.
+1. Document database: A type of NoSQL database that stores data in JSON or BSON format.
+2. Key-value database: A type of NoSQL database that stores data as key-value pairs.
+3. Column-family database: A type of NoSQL database that stores data in column families rather than rows and columns.
+4. Graph database: A type of NoSQL database that stores data in a graph structure consisting of nodes, edges, and properties.
+5. CAP theorem: A concept that states that a distributed system can have only two of the following three properties: consistency, availability, and partition tolerance.
+6. Sharding: A method of distributing and partitioning data across multiple servers in a NoSQL database to ensure scalability and performance.
+7. ACID: A set of properties that guarantee reliable processing of database transactions: Atomicity, Consistency, Isolation, and Durability.
+8. BASE: A set of properties that suggest how NoSQL databases should behave instead of adhering to the strict ACID properties: Basically Available, Soft state, and Eventual consistency.
