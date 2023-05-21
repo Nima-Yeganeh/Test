@@ -22,3 +22,15 @@ The number of moving parts
 # The cost associated with remote calls for most operations in microservices architectures is often called the _____.
 Distribution Tax
 
+# The communication dance in microservices is primarily an effect of the ability of a service to _____.
+call any other service
+
+# The ability to globally distribute a microservice comes from the fact that _____.
+every call is a remote call
+
+# The ability to scale in a microservices architecture comes from the fact that _____.
+artifacts are single purpose and separated
+
+# Where does the risk of latency in a microservices architecture come from?
+The fact that all calls are remote and cascading
+
