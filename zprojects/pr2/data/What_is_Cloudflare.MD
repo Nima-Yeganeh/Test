@@ -1,0 +1,1 @@
+Cloudflare is a content delivery network and internet security company. It provides services like website optimization, DDoS protection, CDN, SSL security, and DNS management. The company has a global network of servers that helps to improve website performance and protect against various threats like spam, malware, and hackers.
