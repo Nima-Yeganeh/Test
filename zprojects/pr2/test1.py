@@ -1,11 +1,16 @@
+# https://platform.openai.com/account/api-keys
+# https://platform.openai.com/apps
+# https://openai.com/
+# https://chat.openai.com/
+
 import os
 import openai
 import time
 import datetime
 import random
 
-xcode = input("What is your code? ")
-openai.api_key = (xcode + "sk-joeRLSZjsL9bOXI2PT3BlbkFJEc4ys7pAJe7SL82uqxtE")
+xcode = input("What is the code? ")
+openai.api_key = "sk-"+xcode+"joeRLSZjsL9bOXI2PT3BlbkFJEc4ys7pAJe7SL82uqxtE"
 
 original_string1 = __file__
 new_string1 = original_string1.replace('test1.py', 'filename1.txt')
