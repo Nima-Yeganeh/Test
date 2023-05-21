@@ -1,0 +1,1 @@
+DHCP stands for Dynamic Host Configuration Protocol. It is a network protocol used to automatically assign IP addresses and other configuration parameters, such as subnet masks, default gateways, and DNS servers, to devices on a network. DHCP helps to simplify network administration by eliminating the need to manually configure network settings for each device on a network.

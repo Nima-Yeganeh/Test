@@ -1,19 +1,21 @@
-1. IP Address: An IP (Internet Protocol) address is a unique numerical identifier assigned to each device connected to a computer network.
+IP networking refers to the communication protocols and standards used for sending and receiving data packets over the internet or other networks. Here are some key terms related to IP networking:
 
-2. Subnet Mask: A subnet mask is a series of numbers used to identify the network portion of an IP address.
+1. IP Address: A unique numerical identifier assigned to each device on a network, used to enable communication between devices.
 
-3. Gateway: A gateway is a network device that connects two different networks and facilitates communication between them.
+2. Router: A device that forwards data packets between different computer networks.
 
-4. DNS (Domain Name System): DNS is a system that is used to convert user-friendly domain names (such as www.google.com) into IP addresses that are used by computers to communicate with each other over the internet.
+3. DNS Server: A system that translates human-readable domain names into IP addresses to enable access to websites and other network-based services.
 
-5. DHCP (Dynamic Host Configuration Protocol): DHCP is a network protocol that automatically assigns IP addresses to devices on a network.
+4. Subnet: A logical subdivision of an IP network that enables a more efficient use of network resources.
 
-6. NAT (Network Address Translation): NAT is a technique used to allow devices on a local network to connect to the internet using a single public IP address.
+5. TCP/IP: A suite of protocols used for communication over the internet and other networks, including the Transmission Control Protocol (TCP) and the Internet Protocol (IP).
 
-7. VLAN (Virtual Local Area Network): A VLAN is a logical grouping of network devices that are connected to a switch and operate as if they are on the same physical network.
+6. DHCP: The Dynamic Host Configuration Protocol is used to automatically assign IP addresses and other network configuration parameters to devices on a network.
 
-8. Router: A router is a network device that is used to connect different networks together and route traffic between them.
+7. DNS: The Domain Name System is a distributed database used to translate domain names into numerical IP addresses.
 
-9. Firewall: A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+8. Gateway: A device that serves as an entry and exit point between two different networks.
 
-10. VPN (Virtual Private Network): A VPN is a secure network connection that allows users to access a private network over a public network such as the internet.
+9. VPN: A Virtual Private Network is a private network that allows users to securely connect to a remote network over the internet.
+
+10. Firewall: A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.

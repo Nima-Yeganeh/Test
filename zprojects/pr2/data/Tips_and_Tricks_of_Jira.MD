@@ -1,17 +1,21 @@
-Jira is a powerful project management tool used by software development teams to track and manage their work. Here are some tips and tricks to help you get the most out of Jira:
+Jira is a powerful project management tool that helps teams to manage their workflow efficiently. Here are some tips and tricks to help you get the most out of Jira:
 
-1. Use Keyboard Shortcuts - Jira has a lot of keyboard shortcuts that can greatly improve your productivity. Some popular shortcuts include G + I to go to the issues list, C + R to create a new issue, and M to add a comment.
+1. Create a customized dashboard: Customize your Jira dashboard to your team's needs so they can quickly view the key information they need.
 
-2. Create Custom Filters - Jira allows you to create custom filters to quickly find the issues you need. Take advantage of this feature by creating filters based on specific criteria that are important to your team.
+2. Use boards: Boards allow you to visualize your tasks in different ways. Kanban Boards help you visualize your workflow while Scrum boards emphasize the sprint.
 
-3. Use Agile Boards - Jira offers Agile boards that allow you to visualize your team's progress and status. You can customize the boards to fit your team's workflow and track the work that needs to be done.
+3. Create Custom Fields: Jira provides many standard fields, but sometimes you require custom fields to track a specific attribute of a task.
 
-4. Use Labels and Components - Labels and Components help to organize issues in Jira. They make it easy to find and filter issues within your project.
+4. Use filters: Filters allow you to quickly find issues based on different criteria, such as issue type, status, and priority.
 
-5. Use Sub-Tasks - Breaking down larger issues into smaller sub-tasks can help you manage work more effectively. Sub-tasks allow you to assign work to different team members and track progress at a granular level.
+5. Automation: Automate frequently occurring tasks like sending emails, notifications, and status updates so that you can focus on more significant projects.
 
-6. Use Time Tracking - Jira offers time tracking to help you estimate, log, and report on time spent on issues. This feature can help you better understand how much time is needed to complete tasks and can improve your team's efficiency.
+6. Integrations: Jira integrates with other platforms like Slack, Trello, and Github to pull data from various sources and have it all in one place.
 
-7. Use Custom Fields - Jira allows you to create custom fields to track additional information about issues. Take advantage of this feature to track the data that's important to your team, such as customer information or specific requirements.
+7. Use boards: Boards allow you to visualize your tasks in different ways. Kanban Boards help you visualize your workflow while Scrum boards emphasize the sprint.
 
-By using these tips and tricks, you can get the most out of Jira and improve your team's productivity.
+8. Time tracking: Jira allows you to track the time spent on each issue, which is helpful to understand the team's productivity.
+
+9. Agile Reporting: Jira offers Agile reporting capabilities, enabling teams to track progress visually, which provides actionable insights.
+
+10. Keyboard shortcuts: Jira comes with a lot of keyboard shortcuts that allow you to perform tasks faster. Learn and start using these shortcuts in your daily work.

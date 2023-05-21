@@ -1,0 +1,1 @@
+SQL stands for Structured Query Language. It is a programming language used for managing and manipulating relational databases. SQL is used to insert, update, delete, and query data in databases, as well as creating and modifying database structure. SQL is essential for working with databases in a wide variety of industries, including finance, healthcare, retail, and technology.
