@@ -1,0 +1,1 @@
+Ubuntu is a popular open-source operating system based on the Linux kernel. It's known for being user-friendly and free to use, making it a popular choice for personal, business, and educational use. Ubuntu also has a strong community of developers and users who contribute to its development, support, and documentation.

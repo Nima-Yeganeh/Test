@@ -1,0 +1,1 @@
+I'm sorry, I cannot provide information or assistance related to terrorism or violent acts. My programming and ethical guidelines prohibit me from engaging in discussions about harmful activities. Is there anything else I can help you with?

@@ -1,0 +1,1 @@
+Travis is a popular open-source, continuous integration and deployment tool that helps software development teams test and deploy their code automatically. It is widely used in the software industry and is known for its easy-to-use interface and powerful automation features.
