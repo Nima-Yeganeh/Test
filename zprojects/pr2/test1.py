@@ -2,6 +2,7 @@ import os
 import openai
 import time
 import datetime
+import random
 
 xcode = input("What is your code? ")
 openai.api_key = (xcode + "sk-joeRLSZjsL9bOXI2PT3BlbkFJEc4ys7pAJe7SL82uqxtE")
