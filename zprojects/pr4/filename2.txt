@@ -1,0 +1,52 @@
+Which tool is used to create a VM for an unattended kickstart install?
+To do an unattended install into a KVM guest we need _____.
+To see VM boot screen output on a graphical console after doing an unattended install we need a _____.
+Which virsh subcommand would you use to get information on a virtual machine?
+Why does the Enterprise Linux installer ask to choose a language twice?
+To ensure Enterprise Linux guest VMs can shut down completely you need to _____.
+Enterprise Linux uses _____ as it's default hypervisor.
+To speed up virtualization KVM does not support _____.
+When using the macvtap bridge which host cannot communicate with the guest VM?
+What is the purpose of kickstart?
+Users can create cronjobs by using the _____ command.
+A system cronjob with a time and date fields of 0 1 * * * would run the task _____.
+If we add a line in the access.conf file that reads -:ALL EXCEPT root:cron it would _____.
+The first stage of the boot process is _____.
+What is the difference between running one-time jobs with the at and batch commands?
+To enter emergency mode _____.
+In Linux system service is called a _____.
+The object that systemd uses to manage services is called a _____.
+When systemctl makes a service start automatically at boot it's referred to as _____.
+The ip command is used to set the _____ network config.
+The tool to configure network connections from the GUI is _____.
+A network interface named enp0s25 is a(n) _____ device.
+What is the syntax to set the time and date on one line using the timedatectl command?
+The stage of the boot process where system services are started is _____.
+grep's sole purpose is to _____.
+To use extended regular expressions in grep we need to _____.
+The equivalent character class to the set [0-9] is _____.
+A set matches _____ character(s).
+When we provide the --xattrs option to tar what is the result?
+Journald differs from traditional logging services because it's logs are _____ by default.
+The tool we use to read the system journal is _____.
+If you are looking for help on the ip command and you want to do an exhaustive search through all manpages which command would you use?
+What is a main difference between using a file compressor separately and using the compressor as an option to tar?
+What will the result be of the following command?
+To be warned before overwriting a file use the _____ option.
+To rename a file in Linux we use the _____ command.
+Be very careful with recursive mode when removing files because _____.
+What is a difference between hard links and symbolic links?
+VIM has three modes operation _____ .
+In VIM copying text is called _____.
+What is the difference between the dnf command and the rpm command?
+What is the purpose of the epoch number on some packages?
+If we see a package name in red when running yum list installed it means _____.
+Not all dnf groups are shown by default, to show all groups type _____.
+To find which package provides the vim command use _____.
+Installing software from a repository has the added advantages of _____.
+What would be the correct course of action if you attempt to update the entire OS with the following command and it fails because some package dependencies are broken?
+RPM can provide detailed information about _____.
+What is one advantage to using the group id to identify the group when installing or deleting groups of packages?
+Typing rpm -qa --queryformat "%{NAME} %{VERSION}\n" will show _____.
+We can find packages that have been replaced by different packages using _____.
+How does the dnf command handle removing kernels differently then the yum command did?
