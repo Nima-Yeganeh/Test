@@ -1,0 +1,5 @@
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives. 
+
+To improve the overall throughput of a service, you can use the DevOps principle of Continuous Delivery. Continuous Delivery is a software development practice that automates the entire software delivery process, from building and testing code to deployment and infrastructure provisioning. By doing this, you can release new features and updates to your audience more frequently and with a higher degree of confidence in the code you are deploying.
+
+Continuous Delivery helps to increase the speed and reliability of software delivery, allowing development teams to focus on creating value for their customers. It involves close collaboration between developers, operations teams, and other stakeholders to ensure that software is tested and validated throughout its development lifecycle, and any issues are addressed as early as possible.

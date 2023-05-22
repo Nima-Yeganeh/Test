@@ -1,1 +1,0 @@
-The `virsh dominfo` subcommand can be used to get information on a virtual machine in Linux. It provides various details such as the virtual machine name, state, number of virtual CPUs, amount of memory, virtual disk(s), and more. Using the `virsh dominfo` command, you can also check the domain UUID and the OS type of the virtual machine.

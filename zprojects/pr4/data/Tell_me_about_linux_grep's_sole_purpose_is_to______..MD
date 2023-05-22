@@ -1,1 +1,0 @@
-Linux grep's sole purpose is to search for a specific pattern of characters (string) in a file or stream of data and return all lines that contain that pattern. It is a command line tool commonly used in Linux and Unix system administration. Grep stands for “Global Regular Expression Print”. Grep is powerful in that it can search for the pattern using regular expressions.
