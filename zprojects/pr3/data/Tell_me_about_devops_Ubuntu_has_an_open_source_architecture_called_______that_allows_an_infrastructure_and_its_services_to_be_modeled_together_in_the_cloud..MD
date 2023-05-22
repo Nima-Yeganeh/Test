@@ -1,3 +1,0 @@
-DevOps is a set of practices that aim to improve the collaboration and communication between software development teams and IT operations teams. It involves the use of automation tools such as continuous integration and continuous deployment (CI/CD) pipelines to enable faster and more efficient software delivery.
-
-The open source architecture in Ubuntu that allows for this modeling and deployment of infrastructure and services is called Juju. Juju simplifies the management and deployment of complex software systems by allowing developers to create, configure and deploy applications on any public or private cloud infrastructure. With Juju, dependencies are handled automatically, allowing for rapid, consistent and reliable service deployment.
