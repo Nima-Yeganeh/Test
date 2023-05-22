@@ -1,19 +1,13 @@
 Advantages of AWS:
-
-1. Scalability: AWS provides scalability features to scale computing resources up or down in response to demand, making it possible to handle sudden spikes in traffic or usage.
-
-2. Security: AWS is designed to provide a secure cloud computing environment with features like data encryption, firewalls, and security groups, making it a reliable platform to deploy applications and store data.
-
-3. Flexibility: AWS offers a wide range of computing, storage, and database services, making it a flexible platform for different types of applications and workloads.
-
-4. Cost-effective: AWS offers a pay-as-you-go pricing model, making it cost-effective for small businesses and startups to use cloud computing resources without incurring high capital expenditures.
+1. Flexibility - AWS offers a range of services and tools which can be used as per the unique needs of a particular business or industry.
+2. Cost-Effective - With AWS, businesses can have lower capital expenses as they only pay for the services they consume and also there are no upfront costs or long-term commitments.
+3. Scalability and Availability - AWS is widely known for its ability to effortlessly scale up or down the infrastructure as per the demand. It also ensures high availability of services and applications at all times.
+4. Security - AWS provides a high level of data security to its customers. They have a variety of security measures put in place to help protect data and customer privacy.
+5. Reliability - AWS has a robust and reliable cloud infrastructure that ensures that applications are always up and running.
 
 Disadvantages of AWS:
-
-1. Complexity: AWS is a complex platform with a steep learning curve, which can be challenging for users who are not experienced in cloud computing.
-
-2. Downtime: AWS has had several instances of downtime in the past, which can cause disruptions to businesses and negatively impact productivity.
-
-3. Cost: While AWS offers cost-effective pricing, it can still be expensive for businesses that require high levels of computing and storage resources.
-
-4. Dependence on the internet: AWS is a cloud-based platform that relies on an internet connection, which can be unreliable in some areas and result in disruptions to business operations.
+1. Complexity - The vast array of features and services offered by AWS can sometimes be overwhelming and difficult to manage.
+2. Additional Costs - AWS has several pricing models and businesses need to be mindful of potential additional costs such as data transfer charges and support costs.
+3. Outages - Although rare, AWS has experienced several outages over the years which can impact business operations.
+4. Learning Curve - AWS requires in-depth knowledge about cloud infrastructure and how to manage it, which can be a steep learning curve for some organizations.
+5. Vendor Lock-in - AWS is often the go-to provider for cloud services, but there is a risk of vendor lock-in, making migration to other providers very challenging.

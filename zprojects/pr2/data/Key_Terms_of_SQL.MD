@@ -1,21 +1,21 @@
-SQL (Structured Query Language) is a programming language used to manage and manipulate relational databases. Here are some key terms in SQL:
+Some of the key terms of SQL (Structured Query Language) are:
 
-1. Database: A collection of related data stored in a computer system.
+1. Table: A collection of related data items stored in rows and columns. 
 
-2. Table: A database object used to store data in a structured format with rows and columns.
+2. Column: A single field or attribute in a database table. 
 
-3. Column: A vertical part of a database table that represents a specific type of data.
+3. Row/Record: A single entity or tuple in a database table. 
 
-4. Row: A horizontal part of a database table that contains a set of related data.
+4. Primary key: A unique identifier for a record in a table. 
 
-5. Primary Key: A unique identifier for a row in a database table.
+5. Foreign key: A reference to a primary key in another table, used to establish a relationship between two tables. 
 
-6. Foreign Key: A field in one table that refers to the primary key of another table.
+6. Index: A data structure that improves the speed of data retrieval operations on a table. 
 
-7. Index: A database structure that improves the speed of data retrieval.
+7. Query: A request for information from a database, which can be used to retrieve or modify data. 
 
-8. Query: A request for data from a database table using SQL commands.
+8. Join: A process in which two or more tables are combined based on a common column. 
 
-9. Joins: Operations used to combine rows from two or more tables based on a related column.
+9. Constraint: A rule that restricts the values that can be stored in a database table. 
 
-10. Views: Virtual tables created based on the results of a SQL query, allowing for easy data retrieval and manipulation.
+10. Aggregate functions: Functions that perform calculations on multiple rows of data and return a single result, such as SUM, AVG, MAX, MIN.

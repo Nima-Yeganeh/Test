@@ -1,10 +1,10 @@
-1. Domain Name: A unique name that identifies a website on the internet.
-2. Domain Registrar: An organization that manages the registration of domain names.
-3. Domain Registry: A database that stores information about domain names and their associated IP addresses.
-4. DNS (Domain Name System): A system that translates domain names into IP addresses.
-5. WHOIS: A protocol that provides information about domain registration and ownership.
-6. Top-Level Domain (TLD): The highest level of the domain name system, such as .com, .org, .net, etc.
-7. Name Server: A server that stores the DNS records for a domain name.
-8. Zone File: A file that contains DNS records for a domain name.
-9. Domain Name Transfer: The process of moving a domain name from one registrar to another.
-10. Domain Name Resolution: The process of resolving a domain name into an IP address.
+1. Domain Name: A unique name that identifies a website or internet resource.
+2. Domain Name System (DNS): A distributed database that translates domain names into IP addresses.
+3. Domain Registrar: An organization authorized to manage the registration of domain names.
+4. Top-Level Domain (TLD): The highest level in the DNS hierarchy, such as .com, .org, or .net.
+5. Second-Level Domain (SLD): The domain name immediately to the left of the TLD, such as google.com.
+6. Subdomain: A domain that is a part of a larger domain, such as mail.google.com.
+7. Domain Name Server (DNS) Hosting: A service that provides hosting for DNS records associated with a domain name.
+8. Domain Name System Security Extensions (DNSSEC): A security protocol that provides authentication and integrity for DNS data.
+9. Whois: A database containing information about the owners of registered domain names.
+10. Domain Name Dispute Resolution: A process for resolving disputes over domain name ownership.

@@ -1,25 +1,17 @@
-PPPoE stands for Point-to-Point Protocol over Ethernet. Here are some key terms related to PPPoE:
+PPPoE stands for Point-to-Point Protocol over Ethernet, which is a networking protocol used to establish a PPP (Point-to-Point Protocol) session over an Ethernet connection. Here are some key terms related to PPPoE:
 
-1. PPPoE client: The device or software that initiates the PPPoE connection.
+1. PPP (Point-to-Point Protocol): A data link protocol used to establish a direct connection between two nodes in a network.
 
-2. PPPoE server: The device or software that accepts incoming PPPoE connections and assigns IP addresses.
+2. Ethernet: A widely used networking technology that uses physical wiring or wireless signals to connect devices within a local area network (LAN).
 
-3. Access Concentrator (AC): The point in the network where multiple PPPoE connections terminate.
+3. Activation: A process of establishing a PPPoE session between a client and a server.
 
-4. PPP session: The logical connection between the client and server established over Ethernet.
+4. Discovery: A process of discovering PPPoE servers on a network using the PPPoE Discovery protocol.
 
-5. Session ID: A unique identifier associated with the PPP session.
+5. PPPoE Session: A logical connection created between the client and the server after a successful authentication process.
 
-6. Service Name: A name used to identify the service provided by the PPPoE server.
+6. PPPoE Client: A device or software application that initiates a PPPoE session with a server.
 
-7. MTU (Maximum Transmission Unit): The maximum packet size allowed by the PPPoE connection.
+7. PPPoE Server: A device or software application that accepts and manages PPPoE client connections.
 
-8. PADI (PPPoE Active Discovery Initiation): A discovery message sent by the PPPoE client to locate available PPPoE servers.
-
-9. PADO (PPPoE Active Discovery Offer): A response message sent by the PPPoE server to advertise its services and capabilities.
-
-10. PADR (PPPoE Active Discovery Request): A message sent by the client to request a specific connection to a PPPoE server.
-
-11. PADS (PPPoE Active Discovery Session-confirmation): A message sent by the PPPoE server to confirm the connection request by the client.
-
-12. PADT (PPPoE Active Discovery Terminate): A message sent by the client or the server to terminate the PPPoE session.
+8. Username and Password: Credentials used by a PPPoE client to authenticate with a PPPoE server.

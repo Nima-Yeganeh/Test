@@ -1,15 +1,11 @@
-EVPN stands for Ethernet Virtual Private Network. Key terms associated with EVPN include:
+EVPN, or Ethernet Virtual Private Network, is a network technology that enables the scalable deployment of VXLAN overlay networks for layer 2 and layer 3 connectivity in data center environments. Some key terms related to EVPN include:
 
-1. VXLAN - Virtual Extensible LAN is a tunneling protocol used to encapsulate Layer 2 traffic in order to extend it across a Layer 3 network.
+1. VXLAN: Virtual Extensible LAN is a tunneling protocol that enables the mapping of layer 2 Ethernet traffic onto an IP-based network.
 
-2. BGP - Border Gateway Protocol is a widely used exterior gateway protocol that exchanges routing information across the internet.
+2. MAC Address Learning: EVPN uses MAC Address Learning to advertise MAC addresses between distributed switching elements in the fabric.
 
-3. MAC learning - EVPN uses MAC address learning to discover the location of the remote MAC address.
+3. BGP-EVPN: BGP (Border Gateway Protocol) is used to distribute endpoint reachability information throughout the overlay network.
 
-4. Type 2 routes - EVPN uses Type 2 routes to distribute MAC reachability information across an MPLS or VXLAN network.
+4. Type 2 MAC Advertisement: Type 2 MAC Advertisement is used to advertise information between different PE (Provider Edge) nodes about MAC addresses that are reachable on the local segment.
 
-5. Ethernet segment - An Ethernet segment is a Layer 2 domain that can span one or more switches or routers.
-
-6. IRB - Integrated Routing and Bridging enables communication between Layer 2 and Layer 3 domains.
-
-7. Multicast - EVPN uses multicast to send broadcast, unknown unicast, and multicast (BUM) traffic to all the participating VXLAN Layer 3 gateways.
+5. Type 5 MAC Advertisement: Type 5 MAC Advertisement is used in EVPN Multicast replication to flood broadcast, multicast and unknown unicast traffic to multiple PEs.

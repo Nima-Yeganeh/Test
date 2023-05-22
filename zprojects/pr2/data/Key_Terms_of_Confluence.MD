@@ -1,17 +1,15 @@
-Confluence is a web-based collaboration and documentation tool. Here are some key terms to know:
+1. Pages: Pages are the basic building blocks in Confluence. They are used to create and organize content within the platform.
 
-1. Spaces - Confluence organizes content into spaces, which are like virtual hubs for teams or projects. 
+2. Spaces: Spaces are the areas within Confluence where pages and content are organized. They are used to group related content and can be customized to control access and permissions.
 
-2. Pages - Pages are where you create, edit, and publish content within a space. 
+3. Macros: Macros are small programs or scripts that can be used to add functionality to pages. They can be used to perform a variety of tasks, such as formatting content, displaying data, or embedding files.
 
-3. Templates - Confluence offers customizable templates for standardizing the look and feel of pages and speeding up content creation. 
+4. Templates: Templates are pre-designed page layouts that can be used to create consistent and well-structured content. They can be customized to include specific formatting and content guidelines.
 
-4. Macros - Macros are shortcuts for adding interactive elements, such as charts, tables, and multimedia to pages. 
+5. Labels: Labels are used to tag and categorize content within Confluence. They are used to search for and organize related pages across spaces.
 
-5. Labels - Labels are keywords that help categorize and organize content within a space or across spaces. 
+6. Comments: Comments are a way for users to collaborate and provide feedback on pages. They can be used to ask questions, provide suggestions, or add additional information.
 
-6. Comments - Confluence allows users to leave comments on pages, making it easy to collaborate and provide feedback. 
+7. Notifications: Notifications are messages that are sent to users to alert them to changes or updates to pages or content. They can be customized to include specific events or actions. 
 
-7. Watchlist - Users can add pages, spaces, or even specific content elements to their watchlists, which notify them of any changes or updates. 
-
-8. Integrations - Confluence integrates with other tools, such as Jira, Trello, and Slack to enhance collaboration and productivity.
+8. Permissions: Permissions are used to control who can access and edit content within Confluence. They can be customized to include specific users or groups and can be set at the space or individual page level.

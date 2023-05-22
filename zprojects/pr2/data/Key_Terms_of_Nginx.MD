@@ -1,19 +1,15 @@
-1. Reverse proxy: A server that retrieves resources on behalf of a client from one or more servers.
+Nginx is a high-performance web server and reverse proxy server. Some key terms associated with Nginx are: 
 
-2. Load balancer: A server that distributes network traffic across multiple servers.
+1. Server Blocks: Server blocks, also known as virtual hosts, are used to serve multiple websites or applications on the same server.
 
-3. HTTP server: A server that listens for incoming HTTP requests and returns HTTP responses.
+2. Reverse Proxy: Nginx can act as a reverse proxy, which means it can receive requests from clients and forward them to another server.
 
-4. SSL/TLS termination: The process of decrypting incoming HTTPS traffic and forwarding it to a upstream server in plain HTTP.
+3. Load Balancing: Using Nginx as a load balancer ensures that traffic is evenly distributed between multiple servers to improve performance and avoid overload.
 
-5. Web server: A server software that processes HTTP requests and serves HTML content or static files.
+4. SSL Certificates: SSL certificates are used to secure websites with HTTPS protocol. Nginx supports SSL/TLS certificates for secure communication.
 
-6. FastCGI: A protocol for interfacing web servers and application servers.
+5. Caching: Nginx has a built-in caching feature that helps store frequently accessed content and deliver it to clients quickly.
 
-7. Caching: The process of storing frequently accessed data in memory for quick access.
+6. Access Logs: Nginx can keep track of access logs, which are records of HTTP requests made to the server. These records can help troubleshoot issues and monitor server performance.
 
-8. Virtual hosting: The hosting of multiple domain names on a single server.
-
-9. Gzip compression: The process of compressing HTTP responses to reduce their size.
-
-10. Access control: The process of restricting access to resources based on user authentication and authorization.
+7. Modules: Nginx supports custom modules that can be used to extend its functionality and improve performance.
