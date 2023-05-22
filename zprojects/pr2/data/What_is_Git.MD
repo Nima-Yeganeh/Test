@@ -1,0 +1,1 @@
+Git is a version control system that is typically used to track changes in source code during software development. It allows multiple people to work on the same codebase at the same time, facilitates collaboration, enables rollbacks and branching/merging, and provides a scalable solution for software development teams of all sizes.

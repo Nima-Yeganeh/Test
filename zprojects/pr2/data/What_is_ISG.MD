@@ -1,0 +1,1 @@
+ISG stands for "Information Services Group," which is a global technology research and advisory firm. They offer analytical insights and expert advice on various aspects of technology, including digital transformation, cloud computing, cybersecurity, and more.
