@@ -1,0 +1,3 @@
+DevOps is a set of practices and culture that combines software development (Dev) and information technology operations (Ops) in order to shorten the systems development lifecycle and provide continuous delivery with high software quality. It involves collaboration between developers, operations, and other stakeholders in an organization. 
+
+The term in Lean that identifies waste that does not add value is called "Muda." It refers to any activity that consumes resources but does not create value for the customer, such as unnecessary development and testing, overproduction, defects, waiting, excess processing, and unnecessary inventory. Identifying and eliminating such waste is critical in order to achieve operational excellence and maximize customer value.

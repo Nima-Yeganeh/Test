@@ -1,0 +1,3 @@
+DevOps is a set of practices that combines software development (Dev) and information technology operations (Ops) to shorten the development lifecycle while providing high-quality software. One of the key principles of DevOps is a culture of collaboration and communication between development, operations, and other stakeholders.
+
+To find bottlenecks during the development process, developers can use a continuous integration and continuous delivery (CI/CD) pipeline instead of employing the “black box” methodology. This allows them to identify issues early on in the process and address them quickly, leading to faster delivery of higher-quality software.

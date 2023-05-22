@@ -1,0 +1,79 @@
+Tell me about devops How would you summarize the key DevOps tenet?
+Tell me about devops Which attribute is most detrimental in a DevOps tool?
+Tell me about devops DevOps unites team members from both the _____ and _____ to participate in the IT service lifecycle from design to ongoing support.
+Tell me about devops Why is DevOps important to a company?
+Tell me about devops Which process can be improved by having a developer on call?
+Tell me about devops Which problem type does DevOps address?
+Tell me about devops What is a common misconception about employing DevOps in the cloud?
+Tell me about devops People over process over tools is an expression that describes which core value?
+Tell me about devops _____ is a characteristic of blue green development.
+Tell me about devops A plan to improve the overall throughput of a service would be best served by which DevOps principle?
+Tell me about devops Continuous delivery has all of these
+Tell me about devops How are DevOps and development alike?
+Tell me about devops Companies need to tear down the _____ since it causes disunity and disharmony between the development and operations departments, instead of allowing them to collaborate collectively and align goals or objectives.
+Tell me about devops What is a good reason for a shadow IT team to arise within an organization?
+Tell me about devops How could you contribute to the wall of confusion?
+Tell me about devops Let’s say you need to tackle an important issue about a system failure. What important point should be discussed in the post mortem meeting?
+Tell me about devops What does Kaizen emphasize?
+Tell me about devops Which detail is important when running a blameless postmortem?
+Tell me about devops What is considered a roadblock to assembling a new DevOps organization?
+Tell me about devops In ChatOps, which task are you allowed to perform with your chat client?
+Tell me about devops Which term in Lean identifies waste that does not add value?
+Tell me about devops DevOps is an extension of _____ infrastructure in which its process is _____.
+Tell me about devops Which software development methodology is discouraged by the DevOps approach?
+Tell me about devops Ubuntu has an open source architecture called _____ that allows an infrastructure and its services to be modeled together in the cloud.
+Tell me about devops Which task is part of a trunk-based development flow?
+Tell me about devops Which task becomes easier when code is maintained in the cloud?
+Tell me about devops If you are developing end user test scenarios, then you are engaged in which type of development?
+Tell me about devops Which belief has been disproven by organizations that utilize continuous delivery?
+Tell me about devops What is the goal for every phase of the continuous delivery process?
+Tell me about devops Suppose your company is going to purchase a security monitoring tool. How should you select a security monitoring tool?
+Tell me about devops Which type of software requirement is covered by reliability engineering?
+Tell me about devops Which tool would you need to deploy to prevent cascading outages?
+Tell me about devops Which technique allows you to purposely kill a server in order to test the resiliency of a system?
+Tell me about devops You are examining packets to determine whether your database is protected against SQL injections. Which type of monitoring is this?
+Tell me about devops Which type of items should you avoid having in your logs?
+Tell me about devops What is the first step in helping to promote a culture of better security?
+Tell me about devops What are the five levels of DevOps practice?
+Tell me about devops Information Technology Infrastructure Library or ITIL provides a comprehensive _____ for designing, managing, and controlling IT processes.
+Tell me about devops Suppose you and your project manager are interested in the infrastructure as code approach. What is the chief issue that your team may face when utilizing the infrastructure as code approach?
+Tell me about devops Which of the following explains the concept of blue-green deployment?
+Tell me about devops What are the four values in the CAMS model?
+Tell me about devops Certain companies utilize immutable deployment, in which changes to the system are _____ as opposed to _____.
+Tell me about devops Which of the following explains the concept of containers?
+Tell me about devops _____ describe when software is deployed quickly into production since the team members make sure the application goes through complete automated testing.
+Tell me about devops How can you implement experimentation and learning in your work environment?
+Tell me about devops Tools are launched daily for diverse purposes. Which qualities should you look for in a tool before combining it into a toolchain?
+Tell me about devops Which manifesto, created in 2010 by security professionals, endorses the call for secure coding or programming?
+Tell me about devops DevOpsDays, DevOps Enterprise Summit, and Velocity. are examples of _____.
+Tell me about devops Let’s say your colleague is unable to attend a DevOps conference. How would you recommend she learn more about DevOps concepts?
+Tell me about devops Let’s say you want to employ the Kaizen cultural practice in your company. What are the four main factors in the Kaizen cycle?
+Tell me about devops Which leading social media network should an individual engage in to keep abreast of the DevOps news and development?
+Tell me about devops What computing approach creates systems in the cloud instead of depending on servers?
+Tell me about devops Suppose your company is weighing options on implementing private or public cloud. How would you explain the difference between public or private cloud?
+Tell me about devops Let’s say your colleague wants to know more about the central tenet of Lean. How would you explain it to them?
+Tell me about devops What is a build log?
+Tell me about devops When considering the People over Process over Tools methodology, why is it important to focus on People first?
+Tell me about devops _____ refers to the average time your service recovers and restores services from disruptions, such as an outage.
+Tell me about devops Developers can find bottlenecks during the development process by using a _____ instead of employing the “black box” methodology.
+Tell me about devops Let’s say your colleagues are debating whether to employ synthetic or real user monitoring. How is real user monitoring different than synthetic checks?
+Tell me about devops Suppose your Dev team has frequent issues with an Ops Teams in your company. Blame is often tossed around between both groups. How would you solve this issue?
+Tell me about devops _____ places all log records in a secured storage area or location.
+Tell me about devops Artifacts should be _____.
+Tell me about devops Let’s say your company’s server went down for a few days due to a hurricane. How would having a status page affect your company’s reputation throughout the outage?
+Tell me about devops Suppose some of your tests are slow. Which procedures should you select to handle a slow test?
+Tell me about devops Suppose you want to test the resilience of your company’s e-commerce website in preparation for the holiday shopping season. How would having a Chaos Monkey test the abilities of your servers?
+Tell me about devops Jenkins is an example of _____.
+Tell me about devops DevOps supports the elimination of _____ because it can hamper collaboration, operations and morale within the company.
+Tell me about devops The stages of evolution in modern software service architectures, from oldest to most modern are _____.
+Tell me about devops What was a common problem in software development that was often more apparent in monoliths?
+Tell me about devops Tight coupling
+Tell me about devops What is the error response code for SOAP webservice calls?
+Tell me about devops One of the issues with BPEL is that the workings were often _____.
+Tell me about devops What is true of Protocol Aware Heterogeneous Interoperability for microservices?
+Tell me about devops Why do microservices tend to be more complex than monoliths?
+Tell me about devops The cost associated with remote calls for most operations in microservices architectures is often called the _____.
+Tell me about devops The communication dance in microservices is primarily an effect of the ability of a service to _____.
+Tell me about devops The ability to globally distribute a microservice comes from the fact that _____.
+Tell me about devops The ability to scale in a microservices architecture comes from the fact that _____.
+Tell me about devops Where does the risk of latency in a microservices architecture come from?

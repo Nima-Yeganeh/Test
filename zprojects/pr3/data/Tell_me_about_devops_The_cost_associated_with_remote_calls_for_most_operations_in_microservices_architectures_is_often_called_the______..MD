@@ -1,0 +1,3 @@
+DevOps is a software development methodology that combines software development and IT operations to improve the overall efficiency and reliability of the software development lifecycle. The goal of DevOps is to decrease the time between development and deployment, while also increasing the quality of software releases.
+
+The cost associated with remote calls for most operations in microservices architectures is often called the network latency. Remote calls between microservices can incur a significant performance overhead due to network latency, resulting in slower response times for end-users. Strategies to mitigate network latency in microservices architectures include caching, batch processing, and reducing the number of remote calls through smarter service design.
