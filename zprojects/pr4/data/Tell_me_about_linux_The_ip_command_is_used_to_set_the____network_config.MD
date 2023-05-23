@@ -1,0 +1,3 @@
+Linux is an open-source operating system that is widely used in servers, supercomputers, mobile devices, and embedded systems. It is free and highly customizable, and offers a wide range of applications and tools.
+
+The "ip" command in Linux is used to manage network interfaces and configurations. It can be used to configure parameters such as IP address, subnet mask, gateway, DNS server, and network routes. In addition, the "ip" command can display information on network interfaces, statistics, and protocols. So, to answer your question, the "ip" command is used to set the network configuration in Linux.
