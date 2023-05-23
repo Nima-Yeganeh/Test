@@ -1,5 +1,7 @@
-In Linux, the epoch number is used to version packages and is sometimes added to the version number as a prefix (for example, "1:2.1.3-4" instead of "2.1.3-4"). The epoch number is used to override the version comparison algorithm in the package manager, in case a package needs to be "downgraded" to an earlier version with a higher epoch number.
+In Linux, the epoch number on some packages is used to indicate versioning and release information. It is a way to make sure that the system recognizes the package as a distinct entity, even when there are changes to the version or release numbering.
 
-For example, if a package with version "1:2.1.3-4" is installed and a newer version "2.2.0-1" is released without an epoch number, the package manager would assume that the newer version is not an upgrade because the version number is lower. However, if the newer version was "1:2.2.0-1", the package manager would recognize it as an upgrade because the epoch number is higher.
+The epoch number is typically assigned when there is a major change or overhaul of the package that warrants a reset of the version numbering. It is usually set to 0 by default, and incremented when necessary.
 
-The epoch number should only be used as a last resort, as it can cause confusion and make package management more complicated. It is typically only used when a package undergoes major changes in its packaging or dependencies, to ensure that a new version is recognized as an upgrade and installed properly.
+For example, if a package is released with version number 1.0, but later there is a significant change that completely revamps the package, the maintainers may choose to assign an epoch number of 1 to indicate that this is a major change. The subsequent releases will then be numbered as 1:1.0.1, 1:1.0.2, etc.
+
+This helps to make sure that the system can differentiate between different versions of the package and properly manage updates and dependencies.

@@ -1,13 +1,15 @@
-To find which package provides the vim command on Linux, you can use the `rpm` command on distributions that use the RPM package manager (e.g. Fedora, CentOS):
+To find which package provides the vim command in Linux, you can use the following command:
 
 ```
-rpm -qf $(which vim)
+sudo yum provides vim
 ```
 
-On distributions that use the DEB package manager (e.g. Ubuntu), you can use the `dpkg-query` command:
+or
 
 ```
-dpkg-query -S $(which vim)
+sudo apt-get install apt-file
+sudo apt-file update
+apt-file search bin/vim
 ```
 
-Both commands will return the package name that provides the `vim` command.
+Both commands will search the package manager for the vim command and output the package that provides it. This can be helpful if you are missing a command or utility and need to know which package to install to get it.

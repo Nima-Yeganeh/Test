@@ -1,0 +1,5 @@
+The DNF ("Dandified Yum") command is the successor to the YUM ("Yellowdog Updater Modifier") command in modern versions of Linux distributions, including CentOS, Fedora, and RHEL. When it comes to removing kernels, DNF handles the process similarly to YUM, but with some important differences. 
+
+In YUM, you need to manually clean up old kernel versions, and you would typically only remove the kernel packages themselves. In contrast, DNF takes care of cleaning up old kernels automatically and it also removes the kernel-related packages (that belong to the kernel you are removing) from your system. This helps to keep your system clean and free of unnecessary clutter.
+
+Another difference is that in DNF, priority is given to the kernel version currently running on the system. This means that the current kernel version cannot be removed and older kernel versions will only be removed if they are no longer needed. This helps to prevent issues with your system bootloader and ensures that your system remains stable.

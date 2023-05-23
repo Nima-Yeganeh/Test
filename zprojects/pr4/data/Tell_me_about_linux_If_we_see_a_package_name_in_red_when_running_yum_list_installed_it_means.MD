@@ -1,0 +1,1 @@
+If you see a package name in red when running "yum list installed" command in Linux, it means that the package is currently installed, but is also available in a different version in one of your enabled repositories. This may indicate that a newer version of the package is available for update.
