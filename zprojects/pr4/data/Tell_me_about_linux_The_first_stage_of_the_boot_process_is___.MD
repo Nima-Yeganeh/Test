@@ -1,3 +1,0 @@
-Linux is a free and open-source operating system based on the Unix operating system. It was created in 1991 by Linus Torvalds and has since become one of the most popular operating systems for servers, supercomputers, and embedded systems. 
-
-As for the first stage of the boot process in Linux, it is called the BIOS (Basic Input/Output System), which is a firmware that performs hardware checks and initializes the hardware components of a computer. The BIOS then looks for a bootable device, such as a hard drive or USB drive, and loads the boot loader from that device. The boot loader is responsible for loading the Linux kernel, which is the core of the operating system.
