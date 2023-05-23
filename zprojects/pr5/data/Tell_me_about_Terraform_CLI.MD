@@ -1,0 +1,5 @@
+Terraform CLI is a command-line tool that allows you to interact with Terraform, an open-source infrastructure as code software tool. You can use Terraform CLI to create, manage, and manipulate infrastructure resources across multiple cloud platforms, such as AWS, Google Cloud Platform, Azure, and more.
+
+With Terraform CLI, you can write and execute a set of declarative configuration files that define infrastructure resources. These configuration files are written in the HashiCorp Configuration Language (HCL) or JSON, and describe the desired state of your infrastructure. Terraform will then use its providers to interact with the API of the relevant cloud platform to create and manage your infrastructure resources.
+
+Terraform CLI has many features that make it a powerful tool for managing infrastructure as code, including a plan command that shows you what changes Terraform will apply, and a state command that shows you the current state of your infrastructure. Additionally, Terraform CLI has a large and active community that provides support for a wide range of infrastructure providers and plugins.

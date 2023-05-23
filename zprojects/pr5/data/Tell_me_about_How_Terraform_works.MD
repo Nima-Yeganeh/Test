@@ -1,0 +1,5 @@
+Terraform is an open-source infrastructure as code (IAC) tool. It allows you to define and provision infrastructure resources, such as virtual machines, storage accounts, and networks, through code. Terraform works by defining your infrastructure in code using a declarative language, which is similar to writing configuration files. 
+
+With Terraform, you define what you want your infrastructure to look like, and it handles the work of creating and managing the resources. When you run Terraform, it compares your defined infrastructure state with the current state of your cloud provider. If there are differences, Terraform will create, update, or delete resources as necessary to make those states match.
+
+Terraform supports many cloud providers, including AWS, Azure, Google Cloud Platform, and more. It also has a large community of contributors, which means you can find pre-built configurations and modules to use in your own projects. Overall, Terraform makes it easier to manage complex infrastructure and keep your resources in a consistent and repeatable state.
