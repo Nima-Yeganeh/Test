@@ -17,3 +17,4 @@
 # What is the correct markup for adding an external JavaScript file to an HTML document?
 # What happens when you defer JavaScript?
 # JavaScript modules are heavily used in frameworks like React and Vue. What is the advantage of using modules?
+# Objects
