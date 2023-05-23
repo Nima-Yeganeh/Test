@@ -96,7 +96,7 @@ def generate_filename(newfilename):
     new_string1 = new_string1.replace('"', '')
     new_string1 = new_string1.replace("*", "")
     new_string1 = new_string1.replace("__", "_")
-    new_string1 = new_string1+'.MD'
+    new_string1 = new_string1("__", "_")+'.MD'
     return(newfile_path1)
 
 with open(file_path4, 'r') as f:
