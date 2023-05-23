@@ -1,0 +1,23 @@
+Tell me about Terraform
+Tell me about Terraform code repo
+Tell me about AWS for Terraform
+Tell me about Terraform Cloud
+Tell me about Terraform Plan
+Tell me about Terraform Run
+Tell me about How Terraform works
+Tell me about Terraform states
+Tell me about Terraform editing your code
+Tell me about Understanding Terraform errors
+Tell me about Terraform basic resource types
+Tell me about Terraform style
+Tell me about Terraform security group
+Tell me about Terraform using modules
+Tell me about Terraform registry and providers
+Tell me about Terraform registry and modules
+Tell me about Terraform to scale
+Tell me about Terraform variables
+Tell me about Terraform split out your data
+Tell me about Terraform modularize
+Tell me about Terraform deploying environments
+Tell me about Terraform cleaning up and destroy
+Tell me about Terraform CLI
