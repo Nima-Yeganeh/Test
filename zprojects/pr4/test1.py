@@ -90,6 +90,7 @@ def generate_filename(newfilename):
     newfile_path1 = new_string1
     newfile_path1 = newfile_path1.replace(".MD", "_MDFILEEXT")
     newfile_path1 = newfile_path1.replace(" ", "_")
+    newfile_path1 = newfile_path1.replace(":", "_")
     newfile_path1 = newfile_path1.replace("`", "_")
     newfile_path1 = newfile_path1.replace("?", "")
     newfile_path1 = newfile_path1.replace(",", "")
