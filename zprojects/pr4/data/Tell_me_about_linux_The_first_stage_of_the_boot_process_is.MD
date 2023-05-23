@@ -1,0 +1,3 @@
+Linux is an open-source and free operating system that was first introduced in 1991 by Linus Torvalds. It is known for its high security, stability, and flexibility. Linux operates on a range of devices from servers and supercomputers to smartphones and embedded devices.
+
+The first stage of the Linux boot process is called BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) in modern systems. BIOS/UEFI initializes the hardware components of a computer and loads the boot loader program from the designated boot device, such as a hard drive or USB drive. The boot loader program then loads the Linux kernel into memory, and the operating system begins to run.

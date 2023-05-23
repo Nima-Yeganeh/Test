@@ -1,0 +1,1 @@
+The command that you can use to find packages that have been replaced by different packages on Linux is `apt-cache showpkg <package-name>`. This will show you the list of dependencies and the packages that have replaced them. You can also use the `aptitude` package manager to find packages that have been replaced by different packages.

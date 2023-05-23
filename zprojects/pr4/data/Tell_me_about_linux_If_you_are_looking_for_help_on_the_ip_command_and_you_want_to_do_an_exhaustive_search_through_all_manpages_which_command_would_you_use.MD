@@ -1,0 +1,1 @@
+The `man -a` command can be used to search through all man pages for a given command. So, to search for help on the `ip` command exhaustively, you can use the command `man -a ip`. This will display all the available man pages related to the `ip` command.

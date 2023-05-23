@@ -1,0 +1,1 @@
+To use extended regular expressions in the grep command in Linux, we need to use the option -E or --extended-regexp. This option enables the use of extended regular expression syntax in searches, allowing for more powerful pattern matching capabilities. It is useful when searching for complex or specific patterns in files.

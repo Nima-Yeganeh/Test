@@ -1,0 +1,1 @@
+Be very careful with recursive mode when removing files in Linux because it can delete an entire directory and its subdirectories, including all files and folders within them. This can cause permanent data loss and affect the stability of your system. Always double-check the options and directories you're deleting before executing the command.

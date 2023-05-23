@@ -1,0 +1,1 @@
+Linux grep's sole purpose is to search for specific patterns within text files and print out the lines that contain those patterns. It is a powerful and versatile command-line tool used for text search and manipulation.
