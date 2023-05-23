@@ -1,13 +1,13 @@
-In Linux, you can use the timedatectl command to set the time and date. The syntax to set the time and date on one line using the timedatectl command is:
+To set the time and date on one line using the timedatectl command in Linux, you need to use the following syntax: 
 
 ```
 timedatectl set-time "YYYY-MM-DD HH:MM:SS"
 ```
 
-Replace the "YYYY-MM-DD HH:MM:SS" with the current date and time in the format "year-month-day hour:minute:second". For example:
+Replace `YYYY-MM-DD` with the desired date and `HH:MM:SS` with the desired time in hour:minute:second format. For example, to set the time to 3:30 PM on January 1, 2022, you would use the following command:
 
 ```
-timedatectl set-time "2022-11-22 10:30:00"
-```
+timedatectl set-time "2022-01-01 15:30:00"
+``` 
 
-This command will set the date to November 22, 2022, and the time to 10:30:00.
+Note that you must have the permission to change the system time and date in order to use this command.

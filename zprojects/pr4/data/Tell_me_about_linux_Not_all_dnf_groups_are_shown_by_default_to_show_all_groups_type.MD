@@ -1,5 +1,1 @@
-To show all DNF (Dandified YUM) groups in Linux, you need to enter the following command in the terminal:
-
-```sudo dnf grouplist -v```
-
-This will display a full list of all available groups for installation, including hidden and system groups. The -v option tells DNF to show the entire group hierarchy, which can be helpful for understanding the relationships between different groups.
+To show all groups in Linux using the DNF package manager, you can use the command `dnf group list --hidden`. This will show all available groups, including the ones that are hidden by default. DNF is a package manager used in certain Linux distributions, such as Fedora and CentOS, to install, remove, and update packages and dependencies. Groups in DNF refer to a collection of packages that are related in some way, such as a set of development tools or a graphical user interface environment.

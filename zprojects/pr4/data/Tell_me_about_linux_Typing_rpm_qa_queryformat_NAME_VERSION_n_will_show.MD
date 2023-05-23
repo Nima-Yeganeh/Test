@@ -1,1 +1,1 @@
-The command "rpm -qa --queryformat "%{NAME} %{VERSION}\n"" will show the names and versions of all installed packages on a Linux system in a list format. It is executed in the terminal and can be useful for troubleshooting or verifying software installations.
+Typing `rpm -qa --queryformat "%{NAME} %{VERSION}\n"` in Linux command line will show the names and versions of all installed packages on your system utilizing the RPM Package Manager.

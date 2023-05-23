@@ -1,13 +1,5 @@
-To rename a file in Linux, we use the `mv` (short for "move") command. This command can be used to rename an existing file or move it to a different directory. The syntax for renaming a file using `mv` is as follows:
+To rename a file in Linux, we use the "mv" command. This command stands for "move", but it can be used to both move and rename files. By specifying the original file name and the desired new file name, you can rename a file in Linux. For example, to rename a file named "old_name.txt" to "new_name.txt", you would use the following command: 
 
-```
-mv old_filename new_filename
-```
+`mv old_name.txt new_name.txt`
 
-For example, if we want to rename a file named `file1.txt` to `file2.txt`, we can use the following command:
-
-```
-mv file1.txt file2.txt
-```
-
-This command will rename `file1.txt` to `file2.txt`. If a file with the name `file2.txt` already exists, it will be overwritten.
+This will rename the file and it will no longer be accessible by its old name.

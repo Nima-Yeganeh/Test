@@ -1,9 +1,8 @@
-In Linux, you can enter emergency mode if the system encounters critical errors or if it fails to boot properly. There are several ways to enter emergency mode in Linux, depending on the distribution you're using. Here are some common methods:
+To enter emergency mode on Linux, you will need to perform the following steps:
 
-1. Using the GRUB boot menu: You can access the GRUB boot menu by pressing the Shift key during boot. From there, you can select the "Advanced options for Linux" or similar option, and then choose the option to enter emergency mode.
+1. Reboot the system and press the Shift key during the boot process to enter the GRUB menu.
+2. Select the Linux entry and press the 'e' key to edit the boot parameters.
+3. Find the line that starts with "linux" or "linux16" and add "emergency" or "sysroot=/" to the end of it.
+4. Press Ctrl + x or F10 to boot into emergency mode.
 
-2. Using the systemctl command: If your system is already booted, you can enter emergency mode by using the systemctl command. Open a terminal and run the following command: `systemctl emergency`. This will stop all running services and drop you into emergency mode.
-
-3. Using a bootable USB drive: If your system cannot boot at all, you can boot from a Linux Live USB or CD and then use the chroot command to enter your system's root partition. From there, you can run the systemctl command to enter emergency mode.
-
-In emergency mode, you'll be dropped into a minimal shell with limited functionality. From there, you can run diagnostic commands, repair your system, or reboot into a normal mode once the issues have been addressed.
+In emergency mode, the system will start in a minimal environment with only a few services running. This is useful for troubleshooting and repairing systems that cannot boot in normal mode due to software or hardware issues.

@@ -1,0 +1,1 @@
+In Linux, copying text in Vim is called "yanking". To yank text, you need to first enter the "visual" mode by pressing the "v" key. Then select the portion of text you want to copy and press "y" to yank it. This will copy the selected text to the clipboard, so that you can paste it somewhere else.

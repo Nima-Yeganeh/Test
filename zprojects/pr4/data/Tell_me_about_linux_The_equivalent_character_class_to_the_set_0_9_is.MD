@@ -1,1 +1,1 @@
-The equivalent character class to the set [0-9] in Linux is \d, which matches any digit from 0 to 9.
+The equivalent character class to the set [0-9] in Linux is \d. It represents any digit from 0 to 9. It can be used in regular expressions in various Linux commands such as grep or sed to search for patterns that contain digits.

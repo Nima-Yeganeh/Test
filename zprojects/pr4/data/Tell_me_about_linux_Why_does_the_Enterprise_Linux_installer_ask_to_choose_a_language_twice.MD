@@ -1,5 +1,7 @@
-The Enterprise Linux installer asks you to choose a language twice for two different reasons. The first time, you are asked to choose a language for the installer itself. This sets the language for the graphical user interface of the installer, which will be used to guide you through the installation process.
+The Enterprise Linux installer typically asks to choose a language twice as a way to ensure that the user's language preference is recorded accurately and without errors. 
 
-The second time you are asked to choose a language is during the installation process itself. This sets the default language for your new operating system. This choice will determine which language is used for system messages, menus, and other text-based elements in the operating system.
+During the first prompt, the installer asks for the language preference for the installer itself, which is used to display the interface and any messages or prompts that appear during the installation process. 
 
-By asking you to choose the language twice, the installer ensures that the installer interface and the operating system are both configured correctly. This helps to avoid confusion and ensure that your new system works as expected right from the start.
+During the second prompt, the installer asks for the language preference for the final installed operating system. This ensures that the language preference is applied to the entire system, including the installed operating system, applications, and user interface. 
+
+By asking for the language preference twice, the installer helps to prevent any errors or misunderstandings that could occur if the language was only asked for once.

@@ -1,15 +1,5 @@
-To find which package provides the vim command in Linux, you can use the following command:
+To find which package provides the vim command on Linux, you can use the `which` command in the terminal. 
 
-```
-sudo yum provides vim
-```
+To use `which`, simply type `which vim` in the terminal and press Enter. This will show you the path to the Vim executable if it is installed on your system. 
 
-or
-
-```
-sudo apt-get install apt-file
-sudo apt-file update
-apt-file search bin/vim
-```
-
-Both commands will search the package manager for the vim command and output the package that provides it. This can be helpful if you are missing a command or utility and need to know which package to install to get it.
+If Vim is not installed and you need to install it, then you can use the package manager of your Linux distribution to search for and install the package that provides Vim. For example, on Ubuntu and Debian-based systems, you can use the command `sudo apt-get install vim` to install the Vim editor.

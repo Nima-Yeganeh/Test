@@ -1,1 +1,9 @@
-The `virsh dominfo` subcommand can be used to get information about a virtual machine in Linux. This subcommand displays information about the domain including its name, UUID, title, memory usage, CPU time used, and more. You can use this command to check the status of a virtual machine, troubleshoot problems, or modify the configuration of the virtual machine. The `virsh` command-line tool is commonly used to manage virtual machines on Linux servers running KVM (Kernel-based Virtual Machine) hypervisors.
+To get information on a virtual machine in Linux, you can use the "virsh" command-line tool. Specifically, you would need to use the "virsh dominfo" subcommand, followed by the name or ID of the virtual machine you want information about. 
+
+For example, if you wanted information about a virtual machine called "myvm", you would enter the following command: 
+
+```
+virsh dominfo myvm
+```
+
+This would display information such as the domain ID, name, UUID, memory usage, CPU usage, and more.
