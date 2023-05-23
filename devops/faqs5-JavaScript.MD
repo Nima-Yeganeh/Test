@@ -42,3 +42,27 @@
 # The Document Object Model
 # Access elements with querySelector methods
 # Access elements using older methods
+# Find an element
+# Modifying element classes
+# Attributes
+# Inline style
+# Modify classes and attributes, and styles
+# Add DOM elements
+# Add a new element
+# What method(s) would you use to check if an element has a specific ID and if so replace it with a different ID?
+# What is the difference in the return from the element.className and element.classList properties?
+# The querySelector() and querySelectorAll() methods use what kind of selectors as their parameter?
+# What does the element.classList.toggle() method do?
+# What is the "DOM"?
+# How do you add an element created using createElement() to the DOM?
+# Variables: Containers for everything
+# Var
+# Scope
+# Let
+# Const
+# Data types
+# Assignment vs. comparison
+# What does a single equals symbol in JavaScript indicate?
+# What happens if you use a named variable without first declaring it using the var, let, or const keywords?
+# How do you capture the result of a math equation like 42 * 38 in JavaScript?
+# In what scenario should you use var instead of let to define a variable?
