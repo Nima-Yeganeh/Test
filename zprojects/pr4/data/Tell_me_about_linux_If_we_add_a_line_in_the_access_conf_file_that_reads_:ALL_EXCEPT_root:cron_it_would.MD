@@ -1,1 +1,0 @@
-If we add a line in the access.conf file that reads -:ALL EXCEPT root:cron, it would allow all users and groups to use the cron system except the root user. This means that only non-root users will be able to schedule cron jobs. This is a security measure that helps prevent accidental or malicious actions by the privileged root user.
