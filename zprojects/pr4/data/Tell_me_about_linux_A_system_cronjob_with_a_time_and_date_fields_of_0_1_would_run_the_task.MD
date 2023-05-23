@@ -1,0 +1,3 @@
+A system cronjob with a time and date fields of 0 1 * * * would run the task at 1:00 AM every day. 
+
+Regarding Linux, it is an open-source operating system based on UNIX. It was first introduced by Linus Torvalds in 1991 and is now one of the most popular operating systems around the world. Linux is known for its stability, security, and flexibility. It offers a vast range of features and comes in various distributions, such as Ubuntu, Fedora, Debian, etc. Linux is widely used in servers, supercomputers, mobile devices, and embedded devices. It is also preferred by developers since it offers various programming tools and software.
