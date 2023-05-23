@@ -85,9 +85,18 @@ def generate_response(question):
 
 def generate_filename(newfilename):
     original_string1 = __file__
-    new_string1 = original_string1.replace(os.path.basename(__file__), 'data/'+newfilename+'.MD')
+    new_string1 = original_string1.replace(os.path.basename(__file__), 'data/'+newfilename)
     # newfile_path1 = new_string1
     newfile_path1 = new_string1.replace(" ", "_")
+    new_string1 = new_string1.replace("?", "")
+    new_string1 = new_string1.replace(".", "_")
+    new_string1 = new_string1.replace("'", "_")
+    new_string1 = new_string1.replace("-", "_")
+    new_string1 = new_string1.replace("-", "_")
+    new_string1 = new_string1.replace('"', '')
+    new_string1 = new_string1.replace("*", "")
+    new_string1 = new_string1.replace("__", "_")
+    new_string1 = new_string1+'.MD'
     return(newfile_path1)
 
 with open(file_path4, 'r') as f:
@@ -98,4 +107,4 @@ with open(file_path4, 'r') as f:
         print(story)
         with open(generate_filename(prompt), 'w') as output_file:
             output_file.write(story + '\n')
-        time.sleep(120)
+        time.sleep(60)
