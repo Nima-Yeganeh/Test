@@ -1,0 +1,5 @@
+DevOps is a set of practices that combines software development and IT operations to improve collaboration and agility in software delivery. It involves automating and monitoring the entire software delivery process, from building code to deployment and infrastructure management.
+
+Microservices are an architectural style in which applications are built as a collection of small, independently deployable services that communicate with each other over APIs. This approach allows for greater flexibility, scalability and resilience compared to monolithic applications.
+
+As for the statement, the missing word could be "deployment". Blue-green deployment is a technique used in DevOps to reduce downtime during software releases. It involves running two identical production environments, the "blue" and "green" environments, and switching traffic between them as necessary. This means that if an issue arises in one environment during deployment, traffic can quickly be redirected to the other environment until the issue is resolved, minimizing downtime and reducing the impact on users.

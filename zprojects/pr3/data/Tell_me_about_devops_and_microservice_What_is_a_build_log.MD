@@ -1,0 +1,3 @@
+DevOps is a practice that combines software development and IT operations to streamline the software delivery process and increase collaboration between teams. Microservices, on the other hand, is an architectural style that involves breaking down a large application into smaller, independent services that can be developed, deployed, and scaled separately.
+
+A build log is a record of all the actions that occur during the build process of a software application. It includes information about which files were built, any errors or warnings encountered, and any tests that were run. Build logs are important for debugging and troubleshooting issues that may arise during the build process, as they provide a detailed record of the actions taken.

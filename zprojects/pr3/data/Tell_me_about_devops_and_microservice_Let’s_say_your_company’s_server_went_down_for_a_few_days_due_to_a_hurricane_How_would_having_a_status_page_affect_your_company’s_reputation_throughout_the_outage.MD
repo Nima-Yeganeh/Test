@@ -1,0 +1,5 @@
+DevOps is a set of practices that combines software development and IT operations to enable shorter development cycles, faster innovation, and improved deployment frequency. It emphasizes communication, collaboration and automation between software developers and IT professionals.
+
+A microservice architecture, on the other hand, is an approach to building software systems that split large systems into small parts that communicate with each other through APIs. This allows for improved scalability, flexibility and ease of maintenance.
+
+Regarding the second part of your question, having a status page during a server outage can significantly impact a company's reputation. It helps to keep customers informed about the status of their services and any updates about the situation. This can mitigate frustration and anxiety among customers and build trust with them. By providing timely and relevant information, a company can show its commitment to transparency and customer service, which can ultimately positively impact the company's reputation.

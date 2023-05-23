@@ -1,0 +1,3 @@
+DevOps is a software development methodology that focuses on collaboration, communication, and automation between software development teams and IT operations teams to enable faster and more reliable software deployment. Microservices is an architectural approach where software applications are broken down into smaller, independent, and loosely coupled components that work together to provide the complete functionality of the application.
+
+The monitoring you are referring to is security monitoring. Specifically, it is an example of network traffic monitoring, which involves analyzing packets of network traffic to identify any irregularities or signs of security threats, including SQL injection attacks.
