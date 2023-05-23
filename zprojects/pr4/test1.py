@@ -103,6 +103,8 @@ def generate_filename(newfilename):
     newfile_path1 = newfile_path1.replace("}", "_")
     newfile_path1 = newfile_path1.replace("[", "_")
     newfile_path1 = newfile_path1.replace("]", "_")
+    newfile_path1 = newfile_path1.replace("(", "_")
+    newfile_path1 = newfile_path1.replace(")", "_")
     newfile_path1 = newfile_path1.replace("\\", "_")
     newfile_path1 = newfile_path1.replace("\\\\", "_")
     newfile_path1 = newfile_path1.replace("''", "_")
