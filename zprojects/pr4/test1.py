@@ -97,10 +97,16 @@ def generate_filename(newfilename):
     newfile_path1 = newfile_path1.replace("-", "_")
     newfile_path1 = newfile_path1.replace('"', '')
     newfile_path1 = newfile_path1.replace("*", "")
+    newfile_path1 = newfile_path1.replace("{", "_")
+    newfile_path1 = newfile_path1.replace("}", "_")
+    newfile_path1 = newfile_path1.replace("\\", "_")
+    newfile_path1 = newfile_path1.replace("%", "_")
+    newfile_path1 = newfile_path1.replace("__", "_")
+    newfile_path1 = newfile_path1.replace("__", "_")
     newfile_path1 = newfile_path1.replace("__", "_")
     newfile_path1 = newfile_path1.replace("_MDFILEEXT", ".MD")
     return(newfile_path1)
-
+    
 with open(file_path4, 'r') as f:
     for line in f:
         prompt = line.strip()
