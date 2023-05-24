@@ -66,3 +66,10 @@
 # What happens if you use a named variable without first declaring it using the var, let, or const keywords?
 # How do you capture the result of a math equation like 42 * 38 in JavaScript?
 # In what scenario should you use var instead of let to define a variable?
+# Arrays
+# Arrays in code
+# Array methods
+# Build and modify an array
+# Functions and methods
+# A standard function
+# What happens when you add a new array item to a previously undefined slot?
