@@ -1,0 +1,3 @@
+JavaScript is a scripting language used for creating interactive and dynamic web content. It is commonly used for validating form data, creating drop-down menus, pop-up windows, and other user interface elements.
+
+The DOM, or Document Object Model, is an interface that is used by JavaScript to interact with and manipulate HTML and XML documents. Essentially, the DOM acts as a tree structure that represents the elements on a webpage, and JavaScript can access and modify these elements to create dynamic and interactive web experiences. With the help of the DOM, JavaScript can modify the content, structure, and style of a webpage in real-time, without having to reload the entire page.

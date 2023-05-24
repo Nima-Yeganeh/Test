@@ -1,0 +1,96 @@
+Tell me about JavaScript Why is the best-practice to place objects inside constants?
+Tell me about JavaScript Create an event listener
+Tell me about JavaScript Objects
+Tell me about JavaScript Access elements with querySelector methods
+Tell me about JavaScript Conditional if else statement
+Tell me about JavaScript What happens if you use a named variable without first declaring it using the var, let, or const keywords?
+Tell me about JavaScript What is the "DOM"?
+Tell me about JavaScript What does the element.classList.toggle() method do?
+Tell me about JavaScript Pass value between functions
+Tell me about JavaScript JavaScript modules
+Tell me about JavaScript Accessing objects
+Tell me about JavaScript Var
+Tell me about JavaScript Mix text and variables with template literals
+Tell me about JavaScript Functions and methods
+Tell me about JavaScript Can you use arrow functions to create object methods?
+Tell me about JavaScript Advanced event listeners and this
+Tell me about JavaScript The code version
+Tell me about JavaScript What happens when you add a new array item to a previously undefined slot?
+Tell me about JavaScript Object constructors
+Tell me about JavaScript Where should you develop and test your JavaScript code?
+Tell me about JavaScript The arrow function
+Tell me about JavaScript Variables: Containers for everything
+Tell me about JavaScript JavaScript modules are heavily used in frameworks like React and Vue. What is the advantage of using modules?
+Tell me about JavaScript Callbacks
+Tell me about JavaScript How do you declare a JavaScript expression inside a template literal?
+Tell me about JavaScript What does it mean when we say JavaScript is an "object-oriented" language?
+Tell me about JavaScript JavaScript language basics
+Tell me about JavaScript JavaScript as an external file
+Tell me about JavaScript Inline style
+Tell me about JavaScript How do you create a new object from a class?
+Tell me about JavaScript Arrays in code
+Tell me about JavaScript What does a single equals symbol in JavaScript indicate?
+Tell me about JavaScript What method(s) would you use to check if an element has a specific ID and if so replace it with a different ID?
+Tell me about JavaScript Create a new object type
+Tell me about JavaScript Pass data to a function with parameters
+Tell me about JavaScript What happens to the website and the code when you write code in the browser console?
+Tell me about JavaScript React component
+Tell me about JavaScript Linting and formatting
+Tell me about JavaScript What happens when you defer JavaScript?
+Tell me about JavaScript Why have command line and automation tools become popular in JavaScript development?
+Tell me about JavaScript Add DOM elements
+Tell me about JavaScript Build a function
+Tell me about JavaScript Logical operators
+Tell me about JavaScript Assignment vs. comparison
+Tell me about JavaScript JavaScript in an HTML documen
+Tell me about JavaScript What is the difference between a function and a method?
+Tell me about JavaScript What is ECMAScript?
+Tell me about JavaScript Where do you go to find official documentation and code examples for standard built in (global) objects?`
+Tell me about JavaScript Return values from a function
+Tell me about JavaScript Experiment with event listeners
+Tell me about JavaScript Typical DOM events
+Tell me about JavaScript What is one advantage to using a class over an object constructor method?
+Tell me about JavaScript Can an object created from a class be given the same name as the class?
+Tell me about JavaScript When does the browser execute JavaScript?
+Tell me about JavaScript Build a new method
+Tell me about JavaScript Build an advanced function
+Tell me about JavaScript Using the map array method
+Tell me about JavaScript Let
+Tell me about JavaScript Accessing object properties
+Tell me about JavaScript The Document Object Model
+Tell me about JavaScript Build and modify an array
+Tell me about JavaScript What is an indicator of someone being a good JavaScript developer?
+Tell me about JavaScript How do you add an element created using createElement() to the DOM?
+Tell me about JavaScript Event listeners
+Tell me about JavaScript Modify classes and attributes, and styles
+Tell me about JavaScript Arrays
+Tell me about JavaScript Array methods
+Tell me about JavaScript Looping through content
+Tell me about JavaScript Data types
+Tell me about JavaScript Scope
+Tell me about JavaScript Access elements using older methods
+Tell me about JavaScript DOM events
+Tell me about JavaScript Tools for working with JavaScript
+Tell me about JavaScript How do you capture the result of a math equation like 42 * 38 in JavaScript?
+Tell me about JavaScript Conditional switch statement
+Tell me about JavaScript In what scenario should you use var instead of let to define a variable?
+Tell me about JavaScript Object containers
+Tell me about JavaScript Build a new object
+Tell me about JavaScript What is the difference in the return from the element.className and element.classList properties?
+Tell me about JavaScript Add a new element
+Tell me about JavaScript Modifying element classes
+Tell me about JavaScript Object methods
+Tell me about JavaScript Pass arguments through event listeners
+Tell me about JavaScript What is the established convention for formatting objects?
+Tell me about JavaScript Find an element
+Tell me about JavaScript Modern JavaScript loading
+Tell me about JavaScript What is the natural environment for JavaScript?
+Tell me about JavaScript What is the correct markup for adding an external JavaScript file to an HTML document?
+Tell me about JavaScript Global objects
+Tell me about JavaScript Object properties
+Tell me about JavaScript Const
+Tell me about JavaScript Attributes
+Tell me about JavaScript The querySelector() and querySelectorAll() methods use what kind of selectors as their parameter?
+Tell me about JavaScript A standard function
+Tell me about JavaScript Get to know the browser console
+Tell me about JavaScript Arrow functions and this

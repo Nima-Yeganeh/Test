@@ -1,6 +1,6 @@
 #!/bin/bash
 
-zstr="Tell_me_about_devops_and_microservice_"
+zstr="Tell_me_about_JavaScript_"
 
 # Get a list of files in the current directory
 files=$(ls data/)

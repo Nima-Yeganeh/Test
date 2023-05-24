@@ -1,0 +1,3 @@
+JavaScript is a programming language used for creating interactive and dynamic websites and web applications. 
+
+If you use a named variable without first declaring it using the var, let, or const keywords in JavaScript, the variable will become a global variable. This means that it will be accessible throughout the entire scope of your code, regardless of where it is declared. This can cause unintended consequences and make it harder to track down bugs or errors in your code. It is generally considered good practice to always declare your variables using the appropriate keyword before using them to avoid these issues and ensure that your code is as clear and reliable as possible.
