@@ -73,3 +73,24 @@
 # Functions and methods
 # A standard function
 # What happens when you add a new array item to a previously undefined slot?
+# The arrow function
+# Arrow functions and this
+# Build a function
+# Pass data to a function with parameters
+# Return values from a function
+# Pass value between functions
+# Callbacks
+# Conditional if else statement
+# Logical operators
+# Conditional switch statement
+# Looping through content
+# Using the map array method
+# Build an advanced function
+# DOM events
+# Typical DOM events
+# Event listeners
+# Experiment with event listeners
+# Advanced event listeners and this
+# Pass arguments through event listeners
+# Create an event listener
+# React component
