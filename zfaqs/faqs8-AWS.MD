@@ -55,3 +55,57 @@
 # A security group with no rules by default means all traffic is being blocked.
 # Hard drives with Elastic Block Store (EBS)
 # NAS with Elastic File System (EFS)
+# Web storage with Simple Storage Service (S3)
+# Upload a file to S3 from the AWS CLI
+# Use the SDK to create a file within S3
+# IAM roles for EC2
+# Putting together all of the IAM resources
+# Storing passwords with Secrets Manager
+# Long-term storage with S3 Glacier
+# Serve content faster with CloudFront
+# Your users upload large video files through your app into an S3 bucket. How can you increase the upload speed?
+# Transfer Accelerator
+# Global Accelerator
+# How can you restrict access to your bucket?
+# Create a custom bucket policy.
+# What is the most cost effective way to move petabytes of backups that you need to keep for long-term retention into AWS?
+# Snowball
+# What is a valid use case for a public S3 bucket?
+# Should you put secret access keys into secrets manager?
+# Which S3 storage class is best for storing the only copy of your latest backups for your databases?
+# What CLI command will list all of the S3 buckets you have access to?
+# aws s3 ls
+# What is the best use case for using the AWS SDK?
+# accessing AWS resources from within your application source code
+# Why is using a IAM role better security than using access keys?
+# What is the difference between an IAM Identity and an IAM Entity?
+# What is the difference between a Amazon Machine Image (AMI) and an EBS snapshot?
+# What is a limitation of EFS?
+# Order the speeds of the AWS storage services by fastest (first in the list) to slowest (last in the list)
+# What is database as a service (DBaaS)?
+# Relational Database Service (RDS)
+# NoSQL databases
+# In-memory caches
+# Big data databases
+# Buffer data with a message queue
+# Hosting web apps with Elastic Beanstalk
+# Running containers on AWS
+# Using Kubernetes with AWS
+# Serverless functions with Lambda
+# Managing long-running jobs
+# User authentication for your app
+# Designing backend APIs
+# Helpful machine learning services
+# Developer tools within AWS
+# Infrastructure as Code with AWS
+# Monitoring with CloudWatch
+# DevOps using machine learning
+# AWS Shield and firewalls with WAF
+# Spot issues with Inspector, GuardDuty, and Macie
+# Manage EC2 with Systems Manage
+# Traceability with CloudTrail and Security Hub
+# Investigate threats with AWS Detective
+# Check for unwanted charges
+# AWS Well-Architected Framework
+# Getting help from AWS Support
+# AWS Cloud Practitioner Certification
