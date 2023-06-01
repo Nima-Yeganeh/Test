@@ -1,4 +1,5 @@
 # pip install python-telegram-bot
+import asyncio
 from telegram import Bot
 
 user_input = input("Enter a string: ")
@@ -17,6 +18,12 @@ bot = Bot(token=bot_token)
 # Define the message you want to send
 message = "Hello, Telegram!"
 
-# Send the message
-bot.send_message(chat_id=chat_id, text=message)
+async def send_telegram_message():
+    # Send the message
+    await bot.send_message(chat_id=chat_id, text=message)
 
+# Create an asynchronous event loop
+loop = asyncio.get_event_loop()
+
+# Run the coroutine within the event loop
+loop.run_until_complete(send_telegram_message())
