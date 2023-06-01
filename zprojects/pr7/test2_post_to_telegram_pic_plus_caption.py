@@ -13,16 +13,17 @@ photo_path = 'file1.jpg' # Replace with the actual path to your photo file
 # Set the caption for the photo
 caption = 'Check out this cool photo!'
 
-# Set the parameters for the API request
-params = {'chat_id': chat_id, 'caption': caption}
-
-# Open the photo file and send the API request using the requests library
+# Open the photo file and send the API request
 with open(photo_path, 'rb') as photo_file:
-    response = requests.post(url, params=params, files={'photo': photo_file})
+    # Set the parameters for the API request
+    params = {'chat_id': chat_id, 'caption': caption}
+    # Set the files parameter for the API request
+    files = {'photo': photo_file}
+    # Send the API request using the requests library
+    response = requests.post(url, params=params, files=files)
 
 # Check the response status code to make sure the photo was sent successfully
 if response.status_code == 200:
     print('Photo sent successfully!')
 else:
     print('Error sending photo:', response.status_code)
-
