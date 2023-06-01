@@ -6,7 +6,7 @@ user_input = input("Enter a string: ")
 url = 'https://api.telegram.org/bot<your-bot-token>/sendMessage' # Replace <your-bot-token> with your actual bot token
 url = 'https://api.telegram.org/bot'+user_input+'/sendMessage' # Replace <your-bot-token> with your actual bot token
 chat_id = '@<your-channel-username>' # Replace <your-channel-username> with the username of your channel (including the "@" symbol)
-chat_id = '@mynewtestbot_bot' # Replace <your-channel-username> with the username of your channel (including the "@" symbol)
+chat_id = '@mynewxyztestbot_botchannel' # Replace <your-channel-username> with the username of your channel (including the "@" symbol)
 
 # Set the text variable to the message you want to send
 text = 'Hello, world!'
