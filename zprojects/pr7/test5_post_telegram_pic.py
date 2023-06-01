@@ -17,7 +17,7 @@ channel_id = chat_id
 bot = Bot(token=bot_token)
 
 # Define the path to the image file
-image_path = 'file2.jpg'
+image_path = 'pic2.jpg'
 
 # Define the caption for the post
 caption = 'Check out this amazing picture!'
