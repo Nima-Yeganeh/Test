@@ -17,12 +17,19 @@ channel_id = chat_id
 bot = Bot(token=bot_token)
 
 # Define the path to the image file
-image_path = 'pic2.jpg'
+image_path = 'file2.jpg'
 
 # Define the caption for the post
 caption = 'Check out this amazing picture!'
 
-# Send the image with caption
-with open(image_path, 'rb') as image_file:
-    bot.send_photo(chat_id=channel_id, photo=InputFile(image_file), caption=caption)
+async def send_telegram_photo():
+    # Send the photo with caption
+    with open(image_path, 'rb') as image_file:
+        await bot.send_photo(chat_id=channel_id, photo=InputFile(image_file), caption=caption)
+
+# Create an asynchronous event loop
+loop = asyncio.get_event_loop()
+
+# Run the coroutine within the event loop
+loop.run_until_complete(send_telegram_photo())
 
