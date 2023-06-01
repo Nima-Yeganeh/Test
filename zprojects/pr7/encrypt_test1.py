@@ -14,8 +14,8 @@ def encrypt_string(string, code):
     return encrypted_string
 
 # Example usage
-# string_to_encrypt = "This is a secret message."
-# code = "qwertyuiopasdfghjklzxcvbnm"
+string_to_encrypt = "This is a secret message."
+code = "qwertyuiopasdfghjklzxcvbnm"
 encrypted_string = encrypt_string(string_to_encrypt, code)
 print("Original string:", string_to_encrypt)
 print("Encrypted string:", encrypted_string)
