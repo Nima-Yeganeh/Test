@@ -8,7 +8,7 @@ from wordpress_xmlrpc.methods.posts import NewPost
 from wordpress_xmlrpc.compat import xmlrpc_client
 
 # Define the WordPress credentials
-url = 'https://test2.nimayeganeh.ir/xmlrpc.php'
+url = 'http://test2.nimayeganeh.ir/xmlrpc.php'
 username = 'admin'
 password = 'P@ssw0rd'
 
