@@ -8,7 +8,7 @@ url = 'https://api.telegram.org/bot'+user_input+'/sendMessage' # Replace <your-b
 chat_id = '@<your-channel-username>' # Replace <your-channel-username> with the username of your channel (including the "@" symbol)
 chat_id = '@mynewxyztestbot_botchannel' # Replace <your-channel-username> with the username of your channel (including the "@" symbol)
 
-photo_path = './file1.jpg' # Replace with the actual path to your photo file
+photo_path = 'file1.jpg' # Replace with the actual path to your photo file
 
 # Set the caption for the photo
 caption = 'Check out this cool photo!'
