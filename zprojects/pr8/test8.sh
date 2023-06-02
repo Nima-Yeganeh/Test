@@ -6,6 +6,7 @@ zmp3file="zmp3file.txt"
 zmp4file="zmp4file.txt"
 zjpgfile="zjpgfile.txt"
 ztitlefile="ztitlefile.txt"
+ztitle2file="ztitle2file.txt"
 zengfile="zengfile.txt"
 zinfofile="zinfofile.txt"
 zdetailfile="zdetailfile.txt"
@@ -90,7 +91,10 @@ while IFS= read -r zline; do
     cat $zinfofile >> $zcontentfile
     cat $zdetailfile >> $zcontentfile
     cat $zcontentfile
-
+    cat $ztitlefile > $ztitle2file
+    cat $zengfile >> $ztitle2file
+    cat $zinfofile >> $ztitle2file
+    
     python3 test18_post_telegram_content_using_code_by_arg.py $code
     sleep 20
 

@@ -28,6 +28,13 @@ if len(sys.argv) > 1:
             await bot.send_photo(chat_id=chat_id, photo=InputFile(image_file), caption=caption)
     loop = asyncio.get_event_loop()
     loop.run_until_complete(send_telegram_photo())
+    captionfile = 'ztitle2file.txt'
+    caption = ''
+    with open(captionfile, 'r') as file:
+        caption = file.read()
+    print(caption)
+    mp3file = 'zmp3file.txt'
+    
 else:
     print("No input provided.")
 
