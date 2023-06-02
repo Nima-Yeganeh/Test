@@ -12,6 +12,9 @@ zdetailfile="zdetailfile.txt"
 zcontentfile="zcontentfile.txt"
 echo "" > $file2
 
+echo "Enter a 4-character code: "
+read code
+
 while IFS= read -r zline; do
   if ! grep -qF "$zline" "$file2"; then
 
@@ -87,6 +90,8 @@ while IFS= read -r zline; do
     cat $zinfofile >> $zcontentfile
     cat $zdetailfile >> $zcontentfile
     cat $zcontentfile
+
+    python3 test18_post_telegram_content_using_code_by_arg.py $code
 
     if [[ -s "$zmp3file" ]]; then
       while IFS= read -r line; do
