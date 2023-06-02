@@ -12,11 +12,11 @@ zdetailfile="zdetailfile.txt"
 zcontentfile="zcontentfile.txt"
 echo "" > $file2
 
-while IFS= read -r line; do
-  if ! grep -qF "$line" "$file2"; then
+while IFS= read -r zline; do
+  if ! grep -qF "$zline" "$file2"; then
 
     # echo "$line"
-    wget -O test8.txt "$line"
+    wget -O test8.txt "$zline"
 
     cat test8.txt | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 > test8_temp.txt
     # cat test8_temp.txt
@@ -88,7 +88,18 @@ while IFS= read -r line; do
     cat $zdetailfile >> $zcontentfile
     cat $zcontentfile
 
-    echo "$line" >> $file2
+    if [[ -s "$zmp3file" ]]; then
+      while IFS= read -r line; do
+        if [[ -e "$line" ]]; then
+          rm -f "$line"
+          echo "Removed file: $line"
+        fi
+      done < "$zmp3file"
+    else
+      echo "File is empty or does not exist."
+    fi
+
+    echo "$zline" >> $file2
     sleep 20
 
   fi
