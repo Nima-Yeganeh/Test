@@ -5,6 +5,11 @@ file2="filedone.txt"
 zmp3file="zmp3file.txt"
 zmp4file="zmp4file.txt"
 zjpgfile="zjpgfile.txt"
+ztitlefile="ztitlefile.txt"
+zengfile="zengfile.txt"
+zinfofile="zinfofile.txt"
+zdetailfile="zdetailfile.txt"
+zcontentfile="zcontentfile.txt"
 echo "" > $file2
 
 while IFS= read -r line; do
@@ -72,6 +77,16 @@ while IFS= read -r line; do
     else
       echo "File is empty."
     fi
+
+    cat test8.txt | grep -oP '(?<=<h1>).*?(?=</h1>)' > $ztitlefile
+    cat test8.txt | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<strong>).*?(?=</strong>)' | head -2 > $zengfile
+    cat test8.txt | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<span style="color: #800000;">).*?(?=</span>)' | head -2 | tail -1 | grep -vE '<a\s|http' > $zinfofile
+    cat test8.txt | grep -o '.*<br />' | sed 's/<p style="text-align: center;">//g' | sed 's/^[[:space:]]*//' | sed 's/<br \/>//g' | grep -vE '<a\s|http' | grep -vE 'a\s|strong' | grep -vE 'a\s|&#8211;' > $zdetailfile
+    cat $ztitlefile > $zcontentfile
+    cat $zengfile >> $zcontentfile
+    cat $zinfofile >> $zcontentfile
+    cat $zdetailfile >> $zcontentfile
+    cat $zcontentfile
 
     echo "$line" >> $file2
     sleep 20
