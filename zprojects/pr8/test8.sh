@@ -11,7 +11,7 @@ zengfile="zengfile.txt"
 zinfofile="zinfofile.txt"
 zdetailfile="zdetailfile.txt"
 zcontentfile="zcontentfile.txt"
-echo "" > $file2
+# echo "" > $file2
 
 echo "Enter a 4-character code: "
 read code
@@ -133,8 +133,9 @@ while IFS= read -r zline; do
     fi
 
     echo "$zline" >> $file2
-    sleep 20
+    sleep 30
 
   fi
 done < "$file1"
+
 
