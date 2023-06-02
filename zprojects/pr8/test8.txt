@@ -124,13 +124,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 									<div class="box" id="specials">
 				<div class="title"><a href="https://next1.ir/category/special/"><h2>ویژه ها</h2></a></div>
 				<ul>
+								<li><a href="https://next1.ir/%d9%85%d8%ad%d8%b3%d9%86-%da%86%d8%a7%d9%88%d8%b4%db%8c-%d9%85%d9%86-%d8%a8%d8%a7%db%8c%d8%af-%d9%85%db%8c%d8%b1%d9%81%d8%aa%d9%85/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2016/06/MohsenChavoshi-ZendanComingSoon-150x150.jpg"  title="MohsenChavoshi-ZendanComingSoon" class="attachment-thumbnail size-thumbnail wp-post-image" alt="محسن چاوشی - زندان" loading="lazy" /><p class="special-info"><span> محسن چاوشی  -  من باید میرفتم</span></p></a></li>		
 								<li><a href="https://next1.ir/%d8%ac%d9%88%d8%a7%d8%af-%da%a9%d9%84%db%8c%d8%af%d8%b1%db%8c-%d8%aa%d9%88%d9%84%d8%af/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/JavadKelidari-Tavalod-150x150.jpg"  title="JavadKelidari-Tavalod" class="attachment-thumbnail size-thumbnail wp-post-image" alt="جواد کلیدری - تولد" loading="lazy" /><p class="special-info"><span> جواد کلیدری  -  تولد</span></p></a></li>		
 								<li><a href="https://next1.ir/%d8%b1%d8%a7%d8%ba%d8%a8-%d9%be%d8%b1-%d9%be%d8%b1%d9%88%d8%a7%d8%b2/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/Ragheb-PareParvaz-150x150.jpg"  title="Ragheb-PareParvaz" class="attachment-thumbnail size-thumbnail wp-post-image" alt="راغب - پر پرواز" loading="lazy" /><p class="special-info"><span> راغب  -  پر پرواز</span></p></a></li>		
 								<li><a href="https://next1.ir/%d8%a7%d9%85%db%8c%d8%b1-%d8%ad%d9%85%db%8c%d8%af%db%8c-%d8%b9%d8%b4%d9%82-%d9%85%d8%a7-%d9%86%d8%a7%d8%a8%d9%87/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/AmirHamidi-EshgheMaNabe-150x150.jpg"  title="AmirHamidi-EshgheMaNabe" class="attachment-thumbnail size-thumbnail wp-post-image" alt="امیر حمیدی - عشق ما نابه" loading="lazy" /><p class="special-info"><span> امیر حمیدی  -  عشق ما نابه</span></p></a></li>		
 								<li><a href="https://next1.ir/%db%8c%d9%88%d8%b3%d9%81-%d8%b2%d9%85%d8%a7%d9%86%db%8c-%d8%a7%d8%af%d8%a7%d9%85%d9%87-%d9%86%d9%85%db%8c%d8%af%d9%85/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/YousefZamani-EdameNemidam-150x150.jpg"  title="YousefZamani-EdameNemidam" class="attachment-thumbnail size-thumbnail wp-post-image" alt="یوسف زمانی - ادامه نمیدم" loading="lazy" /><p class="special-info"><span> یوسف زمانی  -  ادامه نمیدم</span></p></a></li>		
 								<li><a href="https://next1.ir/%d9%85%d8%b1%d8%aa%d8%b6%db%8c-%d9%86%d9%88%d8%b1%db%8c-%d8%aa%d9%88-%d8%b9%d8%b4%d9%82%d9%85%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/MortezaNoori-ToEshghami-150x150.jpg"  title="MortezaNoori-ToEshghami" class="attachment-thumbnail size-thumbnail wp-post-image" alt="مرتضی نوری - تو عشقمی" loading="lazy" /><p class="special-info"><span> مرتضی نوری  -  تو عشقمی</span></p></a></li>		
 								<li><a href="https://next1.ir/%d8%a2%d8%af%db%8c%d9%86-%da%af%d9%84-%d9%85%d9%86/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/Adin-GoleMan-150x150.jpg"  title="Adin-GoleMan" class="attachment-thumbnail size-thumbnail wp-post-image" alt="آدین - گل من" loading="lazy" /><p class="special-info"><span> آدین  -  گل من</span></p></a></li>		
-								<li><a href="https://next1.ir/%d8%b9%d9%84%db%8c-%d8%a7%d8%ad%d9%85%d8%af%db%8c-%d8%aa%d9%85%d9%86%d8%a7/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/AliAhmadi-Tamanna-150x150.jpg"  title="AliAhmadi-Tamanna" class="attachment-thumbnail size-thumbnail wp-post-image" alt="علی احمدی - تمنا" loading="lazy" /><p class="special-info"><span> علی احمدی  -  تمنا</span></p></a></li>		
 							</ul>
 			</div>
 			<div class="box">
@@ -172,9 +172,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 											
 																	<aside><div class="box" id="coming-soon">
 							<div class="title"><a title="بزودی" href="/category/coming-soon/"><span>بزودی در نکست وان</span></a></div>	
-													<h3><a class="item" href="https://next1.ir/%d9%85%d8%ad%d8%b3%d9%86-%da%86%d8%a7%d9%88%d8%b4%db%8c-%d9%85%d9%86-%d8%a8%d8%a7%db%8c%d8%af-%d9%85%db%8c%d8%b1%d9%81%d8%aa%d9%85/" title="دانلود آهنگ محسن چاوشی با نام من باید میرفتم">
-								محسن چاوشی  -  من باید میرفتم							</a></h3>
-																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d9%87%d9%85%d8%a7%db%8c%d9%88%d9%86-%d8%a7%db%8c%d9%86-%d8%b1%d9%88%d8%b2%d8%a7/" title="دانلود آهنگ حامد همایون با نام این روزا">
+													<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d9%87%d9%85%d8%a7%db%8c%d9%88%d9%86-%d8%a7%db%8c%d9%86-%d8%b1%d9%88%d8%b2%d8%a7/" title="دانلود آهنگ حامد همایون با نام این روزا">
 								حامد همایون  -  این روزا							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%84%d9%87%d8%b1%d8%a7%d8%b3%d8%a8%db%8c-%d8%ae%db%8c%d8%a7%d8%a8%d9%88%d9%86%d8%a7/" title="دانلود آهنگ علی لهراسبی با نام خیابونا">
 								علی لهراسبی  -  خیابونا							</a></h3>
@@ -182,9 +180,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								مسعود صادقلو  -  مثل گل							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%b3%db%8c%d9%86-%d8%aa%d9%88%da%a9%d9%84%db%8c-%d8%a7%d8%b2-%d8%a7%d9%88%d9%86-%d8%b4%d8%a8/" title="دانلود آهنگ حسین توکلی با نام از اون شب">
 								حسین توکلی  -  از اون شب							</a></h3>
-												</div></aside>
 																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d9%be%d8%a7%d8%b1%d8%b3%d8%a7-%d8%ac%d8%b2%db%8c%d8%b1%d9%87/" title="دانلود آهنگ حامد پارسا با نام جزیره">
 								حامد پارسا  -  جزیره							</a></h3>
+												</div></aside>
 																								<h3><a class="item" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%a8%d8%b1%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a2%d8%b3%d9%88%d8%af%d9%87-%d9%85%db%8c/" title="دانلود آهنگ مسعود صابری با نام آسوده میخوابی">
 								مسعود صابری  -  آسوده میخوابی							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%b1%db%8c%d9%88%d8%a7%d9%86-%db%8c%d9%87-%d8%b4%d8%a8-%d9%82%d8%b4%d9%86%da%af/" title="دانلود آهنگ ریوان با نام یه شب قشنگ">
@@ -193,6 +191,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								مهدی مقدم  -  نوار قلب							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%a2%d8%b1%d9%88%d9%86-%d8%a7%d9%81%d8%b4%d8%a7%d8%b1-%d9%86%d9%81%d8%b3-%d9%86%d9%81%d8%b3/" title="دانلود آهنگ آرون افشار با نام نفس نفس">
 								آرون افشار  -  نفس نفس							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%b4%d8%a7%d9%87%db%8c%d9%86-%d8%a8%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d8%b3/" title="دانلود آهنگ شاهین بنان با نام الماس">
+								شاهین بنان  -  الماس							</a></h3>
 																
 																	<aside><div class="box" id="archive-list">
 							<div class="title"><a href="/category/آرشیو/" title="آرشیو موسیقی"><span>آخرین های آرشیو</span></a></div>	
@@ -217,7 +217,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="under-title"><span class="right">
 								<a href="/category/tak/" title="تک آهنگ" class="post-type">تک آهنگ</a>
 				 , 
-				120 بازدید</span><span class="left">۱۲ام خرداد ۱۴۰۲</span></div>
+				133 بازدید</span><span class="left">۱۲ام خرداد ۱۴۰۲</span></div>
 				</header>
 				<div class="content e-content">
 					<p style="text-align: center;"><span style="color: #800000;">Song Of <strong>Bade Man </strong>From <a style="color: #800000;" href="https://next1.ir/tag/rastaak"><strong>Rastaak</strong></a></span></p>
@@ -311,10 +311,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 																				<div class="box" id="latest">
 								<div class="title"><a rel="category tag" href="/category/artists/%D8%B1%D8%B3%D8%AA%D8%A7%DA%A9"><h3>دانلود آهنگ های رستاک</a></h3></div>
 															<a rel="bookmark" href="https://next1.ir/%d8%b1%d8%b3%d8%aa%d8%a7%da%a9-%d8%a8%d8%b9%d8%af-%d9%85%d9%86/" title="دانلود آهنگ رستاک با نام بعد من"><div class="item">
-									<h2>رستاک  -  بعد من</h2><span class="item-info">بدون نظر | 120 بازدید</span>
+									<h2>رستاک  -  بعد من</h2><span class="item-info">بدون نظر | 133 بازدید</span>
 								</div></a>
 																												<a rel="bookmark" href="https://next1.ir/%d8%b1%d8%b3%d8%aa%d8%a7%da%a9-%db%8c%da%a9-%d8%a8%d8%a7%d8%b1-%d9%85%d8%b5%d8%b1%d9%81/" title="دانلود آهنگ رستاک با نام یک بار مصرف"><div class="item">
-									<h2>رستاک  -  یک بار مصرف</h2><span class="item-info">بدون نظر | 2,312 بازدید</span>
+									<h2>رستاک  -  یک بار مصرف</h2><span class="item-info">بدون نظر | 2,313 بازدید</span>
 								</div></a>
 																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%b1%d8%b3%d8%aa%d8%a7%da%a9-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d9%84%d9%86%d8%af%d9%86/" title="دانلود آهنگ رستاک با نام لندن"><div class="item">
 									<h2>رستاک  -  لندن</h2><span class="item-info">بدون نظر | 1,190 بازدید</span>
@@ -354,7 +354,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <input type="hidden" name="comment_post_ID" value="44711">
 <input type='hidden' name='comment_post_ID' value='44711' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="291283fdcc" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="5"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="291283fdcc" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="87"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
 </form>
 </div>
 </div>							<div class="alert">نظرات شما پس از بررسی و تایید نمایش داده می شود.</div>
@@ -390,7 +390,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			
 					<aside><div class="box" id="newset">
 			<div class="title"><span>جدیدترین ها در نکست وان</span></div>	
-					<h3><a class="item" href="https://next1.ir/%d8%ac%d9%88%d8%a7%d8%af-%da%a9%d9%84%db%8c%d8%af%d8%b1%db%8c-%d8%aa%d9%88%d9%84%d8%af/" title="دانلود آهنگ جواد کلیدری با نام تولد">
+					<h3><a class="item" href="https://next1.ir/%d9%85%d8%ad%d8%b3%d9%86-%da%86%d8%a7%d9%88%d8%b4%db%8c-%d9%85%d9%86-%d8%a8%d8%a7%db%8c%d8%af-%d9%85%db%8c%d8%b1%d9%81%d8%aa%d9%85/" title="دانلود آهنگ محسن چاوشی با نام من باید میرفتم">
+				محسن چاوشی  -  من باید میرفتم			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%ac%d9%88%d8%a7%d8%af-%da%a9%d9%84%db%8c%d8%af%d8%b1%db%8c-%d8%aa%d9%88%d9%84%d8%af/" title="دانلود آهنگ جواد کلیدری با نام تولد">
 				جواد کلیدری  -  تولد			</a></h3>
 								<h3><a class="item" href="https://next1.ir/%d8%b1%d8%b3%d8%aa%d8%a7%da%a9-%d8%a8%d8%b9%d8%af-%d9%85%d9%86/" title="دانلود آهنگ رستاک با نام بعد من">
 				رستاک  -  بعد من			</a></h3>
@@ -398,9 +400,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				راغب  -  پر پرواز			</a></h3>
 								<h3><a class="item" href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/" title="دانلود آهنگ گروه سون با نام نشد بیام">
 				گروه سون  -  نشد بیام			</a></h3>
+				</div></aside>
 								<h3><a class="item" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d8%b4%d8%b9%d8%a8%d8%a7%d9%86%d8%ae%d8%a7%d9%86%db%8c-%d8%af%d8%b3%d8%aa-%d8%a8%d8%b1%d8%af%d8%a7%d8%b1/" title="دانلود آهنگ سینا شعبانخانی با نام دست بردار">
 				سینا شعبانخانی  -  دست بردار			</a></h3>
-				</div></aside>
 								<h3><a class="item" href="https://next1.ir/%d9%85%d8%a7%da%a9%d8%a7%d9%86-%d8%a8%d8%a7%d9%86%d8%af-%d8%a8%d9%84%d9%87/" title="دانلود آهنگ ماکان باند با نام بله">
 				ماکان باند  -  بله			</a></h3>
 								<h3><a class="item" href="https://next1.ir/%d9%85%d8%ad%d9%85%d8%af-%d8%a7%d8%b5%d9%81%d9%87%d8%a7%d9%86%db%8c-%d9%87%d9%85%d8%af%d9%85/" title="دانلود آهنگ محمد اصفهانی با نام همدم">
@@ -409,8 +411,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				مجید رضوی  -  زیبا			</a></h3>
 								<h3><a class="item" href="https://next1.ir/%d8%b1%d8%b6%d8%a7-%d8%a8%d9%87%d8%b1%d8%a7%d9%85-%d8%b5%d8%af%d8%a7%d9%85-%da%a9%d9%86/" title="دانلود آهنگ رضا بهرام با نام صدام کن">
 				رضا بهرام  -  صدام کن			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c%d8%b4%d8%a7%d9%86-%d9%be%d8%b1%db%8c/" title="دانلود آهنگ علیشان با نام پری">
-				علیشان  -  پری			</a></h3>
 				
 	
 	
@@ -431,7 +431,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="footer-box">
 							<div class="title"><h2>پیشنهاد روز بخش ملایم</h2></div>	
 				<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D9%87%D8%A7-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8%D8%A7%DB%8C/" title="دانلود آهنگ جدید رها اعتمادی با نام باید میرفتم از یادت"><div class="item">
-											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2015/05/RahaEtemadi-BayadMiraftamAzYadet-65x65.jpg"  title="RahaEtemadi-BayadMiraftamAzYadet" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="رها اعتمادی - باید میرفتم از یادت" loading="lazy" />دانلود آهنگ جدید رها اعتمادی با نام باید میرفتم از یادت<span class="item-info">14 نظر | 16,381 بازدید</span></div></a>
+											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2015/05/RahaEtemadi-BayadMiraftamAzYadet-65x65.jpg"  title="RahaEtemadi-BayadMiraftamAzYadet" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="رها اعتمادی - باید میرفتم از یادت" loading="lazy" />دانلود آهنگ جدید رها اعتمادی با نام باید میرفتم از یادت<span class="item-info">14 نظر | 16,385 بازدید</span></div></a>
 							</div>
 				<div class="footer-box" id="tags">
 					<div class="title">برترین خواننده ها</div>	
@@ -456,5 +456,5 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</footer>
 	<script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script></body>
 </html>
-<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-02 20:11:16 -->
+<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-02 22:22:13 -->
 <!-- Guest Mode -->
