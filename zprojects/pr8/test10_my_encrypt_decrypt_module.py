@@ -22,7 +22,8 @@ def my_function(xcode, secret_file):
                 try:
                     decrypted_string = decrypt_string(content, encryption_key)
                     # print("Decrypted string from file:", decrypted_string)
-                    print(decrypted_string)
+                    # print(decrypted_string)
+                    return(decrypted_string)
                 except Exception as e:
                     print("Error decrypting:", str(e))
         except FileNotFoundError:
@@ -30,5 +31,6 @@ def my_function(xcode, secret_file):
     else:
         print("Invalid code. Please enter a 4-character code.")
 
-if __name__ == "__main__":
-    my_function("", "")
+# if __name__ == "__main__":
+#     my_function("", "")
+

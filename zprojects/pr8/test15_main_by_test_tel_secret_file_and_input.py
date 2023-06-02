@@ -10,3 +10,5 @@ print(bot_token)
 # chat_id = 'CHANNEL_OR_CHAT_ID'
 chat_id = test10_my_encrypt_decrypt_module.my_function(code, "tel_chat_id.txt")
 print(chat_id)
+
+
