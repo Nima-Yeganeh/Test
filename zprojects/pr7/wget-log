@@ -1,0 +1,6 @@
+--2023-06-01 15:37:41--  https://www.google.com/search?q=fruit
+Resolving www.google.com (www.google.com)... 142.250.179.228, 2a00:1450:4009:81d::2004
+Connecting to www.google.com (www.google.com)|142.250.179.228|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2023-06-01 15:37:42 ERROR 403: Forbidden.
+
