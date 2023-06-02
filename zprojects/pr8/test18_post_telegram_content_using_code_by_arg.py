@@ -9,9 +9,18 @@ if len(sys.argv) > 1:
     bot_token = test10_my_encrypt_decrypt_module.my_function(code, "tel_bot_token.txt")
     chat_id = test10_my_encrypt_decrypt_module.my_function(code, "tel_chat_id.txt")
     bot = Bot(token=bot_token)
-    photo = 'zjpgfile.txt'
-    photo_path = 'file1.jpg'
-    caption = 'Check out this cool photo!'
+    photofile = 'zjpgfile.txt'
+    photo_path = ''  
+    with open(photofile, 'r') as file:
+        content = file.readlines()
+    if content:
+        photo_path = content[0].strip()
+        print("First line:", photo_path)
+    else:
+        print("File is empty.")
+    captionfile = 'zcontentfile.txt'
+    caption = ''
+
     # Open the photo file and send the API request
     with open(photo_path, 'rb') as photo_file:
         # Set the parameters for the API request
