@@ -99,6 +99,28 @@ while IFS= read -r zline; do
       echo "File is empty or does not exist."
     fi
 
+    if [[ -s "$zmp4file" ]]; then
+      while IFS= read -r line; do
+        if [[ -e "$line" ]]; then
+          rm -f "$line"
+          echo "Removed file: $line"
+        fi
+      done < "$zmp4file"
+    else
+      echo "File is empty or does not exist."
+    fi
+
+    if [[ -s "$zjpgfile" ]]; then
+      while IFS= read -r line; do
+        if [[ -e "$line" ]]; then
+          rm -f "$line"
+          echo "Removed file: $line"
+        fi
+      done < "$zjpgfile"
+    else
+      echo "File is empty or does not exist."
+    fi
+
     echo "$zline" >> $file2
     sleep 20
 
