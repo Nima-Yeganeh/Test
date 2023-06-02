@@ -11,3 +11,6 @@ for line in lines:
     filepath = line.strip()
     if os.path.isfile(filepath) and os.path.getsize(filepath) > 0:
         print("File exists and has size greater than zero:", filepath)
+    else:
+        print("File not found: ", filepath)
+
