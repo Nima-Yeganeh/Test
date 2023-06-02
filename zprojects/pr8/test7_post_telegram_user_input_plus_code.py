@@ -4,7 +4,7 @@ from telegram import Bot
 import test10_my_encrypt_decrypt_module
 
 code = input("Enter a 4-character code: ")
-user_input = input("Enter a string: ")
+user_input = input("Message: ")
 # bot_token = 'YOUR_TOKEN'
 bot_token = test10_my_encrypt_decrypt_module.my_function(code, "tel_bot_token.txt")
 # print(bot_token)
@@ -13,6 +13,7 @@ chat_id = test10_my_encrypt_decrypt_module.my_function(code, "tel_chat_id.txt")
 # print(chat_id)
 bot = Bot(token=bot_token)
 message = "Hello, Telegram!"
+message = user_input
 async def send_telegram_message():
     await bot.send_message(chat_id=chat_id, text=message)
 loop = asyncio.get_event_loop()
