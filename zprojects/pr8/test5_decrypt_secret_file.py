@@ -6,7 +6,6 @@ if len(code) == 4:
     result = code
     for _ in range(9):
         result += code
-    print("Result:", result)
 else:
     print("Invalid code. Please enter a 4-character code.")
 def decrypt_string(encrypted_message, encryption_key):
