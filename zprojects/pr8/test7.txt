@@ -8,27 +8,25 @@
 		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>دانلود آهنگ گروه سون با نام نشد بیام - نکست وان</title>
-	<meta name="description" content="دانلود آهنگ گروه سون با نام نشد بیام با کیفیت های مختلف به صورت رایگان" />
-	<link rel="canonical" href="https://next1.ir/گروه-سون-نشد-بیام/" />
+	<title>دانلود آهنگ بابک مافی با نام نمیشه - نکست وان</title>
+	<meta name="description" content="دانلود آهنگ بابک مافی با نام نمیشه با کیفیت های مختلف به صورت رایگان" />
+	<link rel="canonical" href="https://next1.ir/بابک-مافی-نمیشه/" />
 	<meta property="og:locale" content="fa_IR" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="دانلود آهنگ گروه سون با نام نشد بیام - نکست وان" />
-	<meta property="og:description" content="دانلود آهنگ گروه سون با نام نشد بیام با کیفیت های مختلف به صورت رایگان" />
-	<meta property="og:url" content="https://next1.ir/گروه-سون-نشد-بیام/" />
+	<meta property="og:title" content="دانلود آهنگ بابک مافی با نام نمیشه - نکست وان" />
+	<meta property="og:description" content="دانلود آهنگ بابک مافی با نام نمیشه با کیفیت های مختلف به صورت رایگان" />
+	<meta property="og:url" content="https://next1.ir/بابک-مافی-نمیشه/" />
 	<meta property="og:site_name" content="بزرگترین سایت دانلود آهنگ جدید - نکست وان" />
 	<meta property="article:publisher" content="https://www.facebook.com/Next1Song" />
-	<meta property="article:published_time" content="2023-05-31T22:04:03+00:00" />
-	<meta property="article:modified_time" content="2023-06-01T22:06:00+00:00" />
-	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2023/06/7Band-NashodBiam.jpg" />
+	<meta property="article:published_time" content="2023-05-28T16:42:07+00:00" />
+	<meta property="article:modified_time" content="2023-05-28T20:48:41+00:00" />
+	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2023/05/BabakMafi-Nemishe.jpg" />
 	<meta property="og:image:width" content="500" />
 	<meta property="og:image:height" content="500" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta name="twitter:label1" content="نوشته‌شده بدست" />
 	<meta name="twitter:data1" content="next11admin" />
-	<meta name="twitter:label2" content="زمان تقریبی برای خواندن" />
-	<meta name="twitter:data2" content="2 دقیقه" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2023/06/7Band-NashodBiam.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2023/06/7Band-NashodBiam.jpg","width":500,"height":500,"caption":"گروه سون - نشد بیام"},{"@type":"WebPage","@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#webpage","url":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/","name":"دانلود آهنگ گروه سون با نام نشد بیام - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#primaryimage"},"datePublished":"2023-05-31T22:04:03+00:00","dateModified":"2023-06-01T22:06:00+00:00","description":"دانلود آهنگ گروه سون با نام نشد بیام با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ گروه سون با نام نشد بیام"}]},{"@type":"Article","@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#article","isPartOf":{"@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ گروه سون با نام نشد بیام","datePublished":"2023-05-31T22:04:03+00:00","dateModified":"2023-06-01T22:06:00+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#webpage"},"wordCount":6,"commentCount":0,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2023/06/7Band-NashodBiam.jpg","keywords":["7 Band","Nashod Biam","آهنگ نشد بیام از گروه سون","دانلود آهنگ نشد بیام از گروه سون","نشد بیام از گروه سون","نشد بیام گروه سون","گروه سون"],"articleSection":["تک آهنگ ها","گروه سون"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2023/05/BabakMafi-Nemishe.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2023/05/BabakMafi-Nemishe.jpg","width":500,"height":500,"caption":"بابک مافی - نمیشه"},{"@type":"WebPage","@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#webpage","url":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/","name":"دانلود آهنگ بابک مافی با نام نمیشه - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#primaryimage"},"datePublished":"2023-05-28T16:42:07+00:00","dateModified":"2023-05-28T20:48:41+00:00","description":"دانلود آهنگ بابک مافی با نام نمیشه با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ بابک مافی با نام نمیشه"}]},{"@type":"Article","@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#article","isPartOf":{"@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ بابک مافی با نام نمیشه","datePublished":"2023-05-28T16:42:07+00:00","dateModified":"2023-05-28T20:48:41+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#webpage"},"wordCount":6,"commentCount":0,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2023/05/BabakMafi-Nemishe.jpg","keywords":["Babak Mafi","Nemishe","آهنگ نمیشه از بابک مافی","بابک مافی","دانلود آهنگ نمیشه از بابک مافی","نمیشه از بابک مافی","نمیشه بابک مافی"],"articleSection":["بابک مافی","تک آهنگ ها"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -56,9 +54,9 @@ img.emoji {
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
 <link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='https://next1.ir/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6' type='text/css' media='screen' />
-<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/44704" /><link rel='shortlink' href='https://next1.ir/?p=44704' />
-<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25da%25af%25d8%25b1%25d9%2588%25d9%2587-%25d8%25b3%25d9%2588%25d9%2586-%25d9%2586%25d8%25b4%25d8%25af-%25d8%25a8%25db%258c%25d8%25a7%25d9%2585%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25da%25af%25d8%25b1%25d9%2588%25d9%2587-%25d8%25b3%25d9%2588%25d9%2586-%25d9%2586%25d8%25b4%25d8%25af-%25d8%25a8%25db%258c%25d8%25a7%25d9%2585%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/44670" /><link rel='shortlink' href='https://next1.ir/?p=44670' />
+<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25d8%25a8%25d8%25a7%25d8%25a8%25da%25a9-%25d9%2585%25d8%25a7%25d9%2581%25db%258c-%25d9%2586%25d9%2585%25db%258c%25d8%25b4%25d9%2587%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25d8%25a8%25d8%25a7%25d8%25a8%25da%25a9-%25d9%2585%25d8%25a7%25d9%2581%25db%258c-%25d9%2586%25d9%2585%25db%258c%25d8%25b4%25d9%2587%2F&#038;format=xml" />
 <script>
 	var blogUrl = 'https://next1.ir';
 	function likeThis(a){
@@ -76,7 +74,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</script><script>
 					(document.onload = function(){
 						var xhttp = new XMLHttpRequest();
-						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=44704&_="+(Math.floor(Math.random() * 99999) + 10000), true);
+						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=44670&_="+(Math.floor(Math.random() * 99999) + 10000), true);
 						xhttp.send();
 					})();
 				</script>				<script>(function () {var INSTALL_OPTIONS = {"token":"UA-113624283-1"}; (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", INSTALL_OPTIONS.token, "auto");ga("send", "pageview");})()</script>
@@ -216,113 +214,103 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<article>
 	<div class="box post">
 											<header>
-				<div class="title"><a href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/" title="دانلود آهنگ گروه سون با نام نشد بیام"><h1>دانلود آهنگ گروه سون با نام نشد بیام</h1></a></div>	
+				<div class="title"><a href="https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/" title="دانلود آهنگ بابک مافی با نام نمیشه"><h1>دانلود آهنگ بابک مافی با نام نمیشه</h1></a></div>	
 				<div class="under-title"><span class="right">
 								<a href="/category/tak/" title="تک آهنگ" class="post-type">تک آهنگ</a>
 				 , 
-				15 بازدید</span><span class="left">۱۱ام خرداد ۱۴۰۲</span></div>
+				580 بازدید</span><span class="left">۷ام خرداد ۱۴۰۲</span></div>
 				</header>
 				<div class="content e-content">
-					<p style="text-align: center;"><span style="color: #800000;">Song Of <strong>Nashod Biam</strong> From <a style="color: #800000;" href="https://next1.ir/tag/7-band"><strong>7 Band</strong></a></span></p>
-<p style="text-align: center;"><img loading="lazy"class="alignnone size-medium wp-image-44708" src="https://next1.ir/wp-content/uploads/2023/06/7Band-NashodBiam-480x480.jpg" alt="گروه سون - نشد بیام" width="480" height="480" /></p>
-<p style="text-align: center;"><strong><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ جدید</a> <a href="https://next1.ir/category/artists/%DA%AF%D8%B1%D9%88%D9%87-%D8%B3%D9%88%D9%86/">گروه سون</a> با نام نشد بیام</strong></p>
-<p style="text-align: center;"><span style="color: #800000;">ترانه سرا : علیرضا پیروزی      آهنگساز : امیر قنادی       تنظیم : آرش قنادی و کیارش پوزشی</span></p>
+					<p style="text-align: center;"><span style="color: #800000;">Song Of <strong>Nemishe </strong>From <a style="color: #800000;" href="https://next1.ir/tag/babak-mafi"><strong>Babak Mafi</strong></a></span></p>
+<p style="text-align: center;"><img loading="lazy"class="alignnone size-medium wp-image-44671" src="https://next1.ir/wp-content/uploads/2023/05/BabakMafi-Nemishe-480x480.jpg" alt="" width="480" height="480" /></p>
+<p style="text-align: center;"><strong><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ جدید</a> <a href="https://next1.ir/category/artists/%D8%A8%D8%A7%D8%A8%DA%A9-%D9%85%D8%A7%D9%81%DB%8C/">بابک مافی</a> با نام نمیشه</strong></p>
+<p style="text-align: center;"><span style="color: #800000;">ترانه سرا ، آهنگسازی و تنظیم : بابک مافی</span></p>
 <div style="text-align: center;">
 <div class="single_content_r">
-<p>جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> نشد بیام از <a href="https://next1.ir/category/artists/%DA%AF%D8%B1%D9%88%D9%87-%D8%B3%D9%88%D9%86/">گروه سون</a> با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن این آهنگ از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید …</p>
+<p>جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> نمیشه از <a href="https://next1.ir/category/artists/%D8%A8%D8%A7%D8%A8%DA%A9-%D9%85%D8%A7%D9%81%DB%8C/">بابک مافی</a> با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن این آهنگ از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید …</p>
 </div>
 </div>
-<p style="text-align: center;"><span id="more-44704"></span></p>
-<p style="text-align: center;"><span style="color: #000000;"><strong>متن آهنگ نشد بیام از <a style="color: #000000;" href="https://next1.ir/category/artists/%DA%AF%D8%B1%D9%88%D9%87-%D8%B3%D9%88%D9%86/">گروه سون</a> :</strong></span></p>
-<p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
-<p style="text-align: center;">منو دوسم داشتی اما دیر شد<br />
-زندگیت از دست من دلگیر شد<br />
-اونقد از تو دور شدم تا اینکه<br />
-حسی که داشتی به عشقم پیر شد<br />
-حرفای آخرتو گفتی برام<br />
-حالا من موندم و تنها شدنام<br />
-همه چیو من خرابش کردم<br />
-اما این چیزی نبود که من بخوام<br />
-نشد بیام وقتی که دوست داشتی کنارت باشم<br />
-جوری که خواستی بی قرارت باشم<br />
-نشد بیام محکم تر از قبل دستتو بگیرم<br />
-جوری که حقته برات بمیرم<br />
-نشد واست کاری کنم که حس کنی عاشقتم<br />
-حالا بهت هرچی میگم باور نداری<br />
-هنوز همیشگیم تویی تموم زندگیم تویی<br />
-تموم نمیشی واسه من آخر نداری منو باور نداری<br />
-نشد بیام وقتی که دوست داشتی کنارت باشم<br />
-جوری که خواستی بی قرارت باشم<br />
-نشد بیام محکم تر از قبل دستتو بگیرم<br />
-جوری که حقته برات بمیرم</p>
-<p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
+<p style="text-align: center;"><span id="more-44670"></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>متن آهنگ نمیشه از <a style="color: #000000;" href="https://next1.ir/category/artists/%D8%A8%D8%A7%D8%A8%DA%A9-%D9%85%D8%A7%D9%81%DB%8C/">بابک مافی</a> :</strong></span></p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
+<p style="text-align: center;">به تو وابسته ام به دلبسته ام<br />
+میدونی از نداشتنت چقدر خسته ام<br />
+کاش میشد من باشم هرجا میری باهات<br />
+اینو بهت قول میدم میمنونم پا به پات<br />
+تورو داشتن یکم نمیشه اینو هرجور بگم نمیشه<br />
+دیگه وابستگیم به تو کم نمیشه نمیشه نمیشه<br />
+تورو داشتن یکم نمیشه اینو هرجور بگم نمیشه<br />
+دیگه وابستگیم به تو کم نمیشه نمیشه نمیشه<br />
+من بازم دلتنگ توام حتی وقتی پیش منی<br />
+میشینم با عشق پیش تو که فقط تو حرف بزنی<br />
+از چشات من سیر نمیشم تا تو باشی پیر نمیشم<br />
+تو بدون هرکاری کنی من ازت دلگیر نمیشم<br />
+تورو داشتن یکم نمیشه اینو هرجور بگم نمیشه<br />
+دیگه وابستگیم به تو کم نمیشه نمیشه نمیشه<br />
+تورو داشتن یکم نمیشه اینو هرجور بگم نمیشه<br />
+دیگه وابستگیم به تو کم نمیشه نمیشه نمیشه</p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
 	
 				</div>
 							<div class="post-footer">
-					<div class="ft-like" style="width:50%;"><div id="iLikeThis-44704" class="iLikeThis"><div class="counter"><a onclick="likeThis(44704);" class="image">1 لایک</a></div></div></div>
-					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#respond">بدون نظر</a></div>
+					<div class="ft-like" style="width:50%;"><div id="iLikeThis-44670" class="iLikeThis"><div class="counter"><a onclick="likeThis(44670);" class="image">3 لایک</a></div></div></div>
+					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#respond">بدون نظر</a></div>
 				</div>
 												<div class="box" id="downloads">
 						<div class="title"><h2>دانلود</h2></div>
-						<a rel="nofollow" href="https://dl.next1.ir/files/2023/05/tak/7Band-NashodBiam-320%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2023/05/tak/7Band-NashodBiam-128%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> <a rel="nofollow" href="https://dl.next1.ir/files/2023/05/video/7Band-NashodBiam%28www.Next1.ir%29.mp4"><span class="button">mp4</span>دانلود موزیک ویدئو با کیفیت 720</a> 											</div>
+						<a rel="nofollow" href="https://dl.next1.ir/files/2023/05/tak/BabakMafi-Nemishe-320%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2023/05/tak/BabakMafi-Nemishe-128%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> 											</div>
 								<div class="box" id="playbox">
 					<div class="title">بفرستید برای دوستانتان</div>
 					<ul class="share_with">
-												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25da%25af%25d8%25b1%25d9%2588%25d9%2587-%25d8%25b3%25d9%2588%25d9%2586-%25d9%2586%25d8%25b4%25d8%25af-%25d8%25a8%25db%258c%25d8%25a7%25d9%2585%2F">تلگرام</a></li>
-						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25da%25af%25d8%25b1%25d9%2588%25d9%2587-%25d8%25b3%25d9%2588%25d9%2586-%25d9%2586%25d8%25b4%25d8%25af-%25d8%25a8%25db%258c%25d8%25a7%25d9%2585%2F">توییتر</a></li>
-						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25da%25af%25d8%25b1%25d9%2588%25d9%2587-%25d8%25b3%25d9%2588%25d9%2586-%25d9%2586%25d8%25b4%25d8%25af-%25d8%25a8%25db%258c%25d8%25a7%25d9%2585%2F">فیسبوک</a></li>
-						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25da%25af%25d8%25b1%25d9%2588%25d9%2587-%25d8%25b3%25d9%2588%25d9%2586-%25d9%2586%25d8%25b4%25d8%25af-%25d8%25a8%25db%258c%25d8%25a7%25d9%2585%2F">واتس آپ</a></li>
-						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25da%25af%25d8%25b1%25d9%2588%25d9%2587-%25d8%25b3%25d9%2588%25d9%2586-%25d9%2586%25d8%25b4%25d8%25af-%25d8%25a8%25db%258c%25d8%25a7%25d9%2585%2F">پینترست</a></li>
-						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25da%25af%25d8%25b1%25d9%2588%25d9%2587-%25d8%25b3%25d9%2588%25d9%2586-%25d9%2586%25d8%25b4%25d8%25af-%25d8%25a8%25db%258c%25d8%25a7%25d9%2585%2F">ایمیل</a></li>
+												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25d8%25a8%25d8%25a7%25d8%25a8%25da%25a9-%25d9%2585%25d8%25a7%25d9%2581%25db%258c-%25d9%2586%25d9%2585%25db%258c%25d8%25b4%25d9%2587%2F">تلگرام</a></li>
+						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25d8%25a8%25d8%25a7%25d8%25a8%25da%25a9-%25d9%2585%25d8%25a7%25d9%2581%25db%258c-%25d9%2586%25d9%2585%25db%258c%25d8%25b4%25d9%2587%2F">توییتر</a></li>
+						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25d8%25a8%25d8%25a7%25d8%25a8%25da%25a9-%25d9%2585%25d8%25a7%25d9%2581%25db%258c-%25d9%2586%25d9%2585%25db%258c%25d8%25b4%25d9%2587%2F">فیسبوک</a></li>
+						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25d8%25a8%25d8%25a7%25d8%25a8%25da%25a9-%25d9%2585%25d8%25a7%25d9%2581%25db%258c-%25d9%2586%25d9%2585%25db%258c%25d8%25b4%25d9%2587%2F">واتس آپ</a></li>
+						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25d8%25a8%25d8%25a7%25d8%25a8%25da%25a9-%25d9%2585%25d8%25a7%25d9%2581%25db%258c-%25d9%2586%25d9%2585%25db%258c%25d8%25b4%25d9%2587%2F">پینترست</a></li>
+						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25d8%25a8%25d8%25a7%25d8%25a8%25da%25a9-%25d9%2585%25d8%25a7%25d9%2581%25db%258c-%25d9%2586%25d9%2585%25db%258c%25d8%25b4%25d9%2587%2F">ایمیل</a></li>
 					</ul>
 				</div>
-									<div class="box" id="playbox">
-						<div class="title">هم اکنون ببینید</div>
-						<video style="width: 100%;" controls="">
-						<source type="video/mp4" src="https://dl.next1.ir/files/2023/05/video/7Band-NashodBiam%28www.Next1.ir%29.mp4"></source>
-						</video>
-					</div>
 													<div class="box" id="playbox">
 						<div class="title">هم اکنون گوش کنید</div>
-						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2023/05/tak/7Band-NashodBiam-128%28www.Next1.ir%29.mp3" controls="controls" style="width: 100%;"></audio>
+						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2023/05/tak/BabakMafi-Nemishe-128%28www.Next1.ir%29.mp3" controls="controls" style="width: 100%;"></audio>
 					</div>
 					<div class="box" id="code">
 						<div class="title">کد پخش این آهنگ در سایت و وبلاگ شما</div>
 						<textarea readonly="readonly" onclick="javascript:this.select();" tabindex="4">
 				<!-- Begin https://next1.ir -->
 				<script type="text/javascript">
-				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2023/05/tak/7Band-NashodBiam-128%28www.Next1.ir%29.mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
+				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2023/05/tak/BabakMafi-Nemishe-128%28www.Next1.ir%29.mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
 				</script>
 				<object id="player" height="24" width="190" type="application/x-shockwave-flash" name="player" style="outline: none" data="https://next1.ir/wp-content/themes/next1/audioplayer.swf">
 				<param name="bgcolor" value="#FFFFFF">
 				<param name="wmode" value="transparent">
 				<param name="menu" value="false">
-				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2023/05/tak/7Band-NashodBiam-128%28www.Next1.ir%29.mp3&autostart=yes&titles=دانلود آهنگ گروه سون با نام نشد بیام&loop=no&playerID=player">
+				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2023/05/tak/BabakMafi-Nemishe-128%28www.Next1.ir%29.mp3&autostart=yes&titles=دانلود آهنگ بابک مافی با نام نمیشه&loop=no&playerID=player">
 				<h2><a title="دانلود آهنگ جدید" href="https://next1.ir" target="_blank">دانلود آهنگ جدید</a></h2>
 				</object>
 				<!-- End https://next1.ir -->
 						</textarea>
 					</div>
-								<div class="alert"><a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a> ، <a href="https://next1.ir/category/artists/%DA%AF%D8%B1%D9%88%D9%87-%D8%B3%D9%88%D9%86/" rel="category tag">گروه سون</a></div>
+								<div class="alert"><a href="https://next1.ir/category/artists/%D8%A8%D8%A7%D8%A8%DA%A9-%D9%85%D8%A7%D9%81%DB%8C/" rel="category tag">بابک مافی</a> ، <a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a></div>
 						 
 	</div>
 	</article>
 																				<div class="box" id="latest">
-								<div class="title"><a rel="category tag" href="/category/artists/%DA%AF%D8%B1%D9%88%D9%87-%D8%B3%D9%88%D9%86"><h3>دانلود آهنگ های گروه سون</a></h3></div>
-															<a rel="bookmark" href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/" title="دانلود آهنگ گروه سون با نام نشد بیام"><div class="item">
-									<h2>گروه سون  -  نشد بیام</h2><span class="item-info">بدون نظر | 15 بازدید</span>
+								<div class="title"><a rel="category tag" href="/category/artists/%D8%A8%D8%A7%D8%A8%DA%A9-%D9%85%D8%A7%D9%81%DB%8C"><h3>دانلود آهنگ های بابک مافی</a></h3></div>
+															<a rel="bookmark" href="https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/" title="دانلود آهنگ بابک مافی با نام نمیشه"><div class="item">
+									<h2>بابک مافی  -  نمیشه</h2><span class="item-info">بدون نظر | 580 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d8%a8%d8%b1%d8%a7%d8%af%d8%b1/" title="دانلود آهنگ گروه سون با نام برادر"><div class="item">
-									<h2>گروه سون  -  برادر</h2><span class="item-info">بدون نظر | 3,599 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d8%af%d9%84%d9%86%d8%b4%db%8c%d9%86/" title="دانلود آهنگ بابک مافی با نام دلنشین"><div class="item">
+									<h2>بابک مافی  -  دلنشین</h2><span class="item-info">بدون نظر | 2,370 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d8%aa%d9%82%d8%b5%db%8c%d8%b1-%d9%85%d9%86-%d9%86%db%8c%d8%b3%d8%aa/" title="دانلود آهنگ گروه سون با نام تقصیر من نیست"><div class="item">
-									<h2>گروه سون  -  تقصیر من نیست</h2><span class="item-info">بدون نظر | 7,649 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d8%ad%d8%b3%d8%a7%d8%b3/" title="دانلود آهنگ بابک مافی با نام حساس"><div class="item">
+									<h2>بابک مافی  -  حساس</h2><span class="item-info">بدون نظر | 2,339 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%88%d8%b1%da%98%d9%86-%d8%ac%d8%af%db%8c%d8%af-%d8%a2%d9%87%d9%86%da%af-%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a7%db%8c/" title="دانلود ورژن جدید آهنگ گروه سون با نام ای داد"><div class="item">
-									<h2>دانلود ورژن جدید آهنگ گروه سون  -  ای داد</h2><span class="item-info">بدون نظر | 3,559 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%b9%d8%a7%d8%af%d8%aa-%da%a9/" title="دانلود آهنگ جدید بابک مافی با نام عادت کن"><div class="item">
+									<h2>بابک مافی  -  عادت کن</h2><span class="item-info">بدون نظر | 3,030 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%aa%d9%88/" title="دانلود آهنگ جدید گروه سون با نام تو"><div class="item">
-									<h2>گروه سون  -  تو</h2><span class="item-info">يک نظر | 2,283 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A8%D8%A7%D8%A8%DA%A9-%D9%85%D8%A7%D9%81%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D9%86%D9%81%D8%B3%D9%85/" title="دانلود آهنگ جدید بابک مافی با نام نفسم"><div class="item">
+									<h2>بابک مافی  -  نفسم</h2><span class="item-info">بدون نظر | 15,613 بازدید</span>
 								</div></a>
 														</div>
 														
@@ -333,7 +321,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <!-- If comments are open, but there are no comments. -->
 <div id="respond">
 <div class="cancel-comment-reply">
-<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d9%88%d9%86-%d9%86%d8%b4%d8%af-%d8%a8%db%8c%d8%a7%d9%85/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
+<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%d8%a8%d8%a7%d8%a8%da%a9-%d9%85%d8%a7%d9%81%db%8c-%d9%86%d9%85%db%8c%d8%b4%d9%87/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
 </div>
 <form action="https://next1.ir/wp-comments-post.php" method="post" id="commentform">
 <div class="commentdata">
@@ -350,10 +338,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>
 <div class="clear"></div>
 <input class="bluekey comment-button" name="submit" type="submit" id="submit" tabindex="5" value="ارسال نظر">
-<input type="hidden" name="comment_post_ID" value="44704">
-<input type='hidden' name='comment_post_ID' value='44704' id='comment_post_ID' />
+<input type="hidden" name="comment_post_ID" value="44670">
+<input type='hidden' name='comment_post_ID' value='44670' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="dd6c81a238" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="127"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4cdd359207" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="94"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
 </form>
 </div>
 </div>							<div class="alert">نظرات شما پس از بررسی و تایید نمایش داده می شود.</div>
@@ -363,7 +351,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 										<div class="box" id="alltags">
 						<div class="title">برچسب ها</div>
 						<ul>
-						<li>7 Band</li><li>Nashod Biam</li><li>آهنگ نشد بیام از گروه سون</li><li>دانلود آهنگ نشد بیام از گروه سون</li><li>نشد بیام از گروه سون</li><li>نشد بیام گروه سون</li><li>گروه سون</li>						</ul>
+						<li>Babak Mafi</li><li>Nemishe</li><li>آهنگ نمیشه از بابک مافی</li><li>بابک مافی</li><li>دانلود آهنگ نمیشه از بابک مافی</li><li>نمیشه از بابک مافی</li><li>نمیشه بابک مافی</li>						</ul>
 					</div>
 						</div>
 </main><nav>
@@ -455,5 +443,5 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</footer>
 	<script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script></body>
 </html>
-<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-02 04:23:24 -->
+<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-02 04:05:34 -->
 <!-- Guest Mode -->
