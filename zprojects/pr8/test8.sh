@@ -70,5 +70,8 @@ while IFS= read -r line; do
 
   fi
 
+  cat test8.txt | grep -o '.*\.jpg' | grep -oP 'src="\K[^"]+' | grep 480 > test8_temp.txt
+
+
 done < "$file1"
 
