@@ -18,10 +18,11 @@ def my_function(xcode, secret_file):
         try:
             with open(file_name, "r") as file:
                 content = file.read()
-                print(content)
+                # print(content)
                 try:
                     decrypted_string = decrypt_string(content, encryption_key)
-                    print("Decrypted string from file:", decrypted_string)
+                    # print("Decrypted string from file:", decrypted_string)
+                    print(decrypted_string)
                 except Exception as e:
                     print("Error decrypting:", str(e))
         except FileNotFoundError:
