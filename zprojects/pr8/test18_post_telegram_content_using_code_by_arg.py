@@ -1,6 +1,6 @@
 # pip install python-telegram-bot
 import asyncio
-from telegram import Bot
+from telegram import Bot, InputFile
 import test10_my_encrypt_decrypt_module
 import sys
 
@@ -23,7 +23,6 @@ if len(sys.argv) > 1:
     with open(captionfile, 'r') as file:
         caption = file.read()
     print(caption)
-    photo_path = 'Rastaak-BadeMan-480x480.jpg'
     async def send_telegram_photo():
         with open(photo_path, 'rb') as image_file:
             await bot.send_photo(chat_id=chat_id, photo=InputFile(image_file), caption=caption)
