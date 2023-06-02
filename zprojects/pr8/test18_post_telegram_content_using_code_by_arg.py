@@ -23,7 +23,7 @@ if len(sys.argv) > 1:
     caption = ''
     with open(captionfile, 'r') as file:
         caption = file.read()
-    print(caption)
+    # print(caption)
     async def send_telegram_photo():
         with open(photo_path, 'rb') as image_file:
             await bot.send_photo(chat_id=chat_id, photo=InputFile(image_file), caption=caption)
@@ -33,7 +33,7 @@ if len(sys.argv) > 1:
     caption = ''
     with open(captionfile, 'r') as file:
         caption = file.read()
-    print(caption)
+    # print(caption)
     mp3file = 'zmp3file.txt'
     mp3file_path = ''
     with open(mp3file, 'r') as file:

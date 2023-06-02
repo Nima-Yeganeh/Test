@@ -94,10 +94,10 @@ while IFS= read -r zline; do
     cat $zcontentfile
     cat $ztitlefile > $ztitle2file
     cat $zengfile >> $ztitle2file
-    cat $zinfofile >> $ztitle2file
+    # cat $zinfofile >> $ztitle2file
     
     python3 test18_post_telegram_content_using_code_by_arg.py $code
-    sleep 20
+    # sleep 20
 
     if [[ -s "$zmp3file" ]]; then
       while IFS= read -r line; do
@@ -137,3 +137,4 @@ while IFS= read -r zline; do
 
   fi
 done < "$file1"
+
