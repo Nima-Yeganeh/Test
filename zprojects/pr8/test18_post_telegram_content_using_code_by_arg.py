@@ -15,21 +15,18 @@ if len(sys.argv) > 1:
         content = file.readlines()
     if content:
         photo_path = content[0].strip()
-        print("First line:", photo_path)
+        # print(photo_path)
     else:
         print("File is empty.")
     captionfile = 'zcontentfile.txt'
     caption = ''
-
-    # Open the photo file and send the API request
+    with open(captionfile, 'r') as file:
+        caption = file.read()
+    # print(caption)
     with open(photo_path, 'rb') as photo_file:
-        # Set the parameters for the API request
         params = {'chat_id': chat_id, 'caption': caption}
-        # Set the files parameter for the API request
         files = {'photo': photo_file}
-        # Send the API request using the requests library
         response = requests.post(url, params=params, files=files)
-    # Check the response status code to make sure the photo was sent successfully
     if response.status_code == 200:
         print('Photo sent successfully!')
     else:
