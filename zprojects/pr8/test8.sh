@@ -34,6 +34,7 @@ while IFS= read -r zline; do
         # echo "$filename"
         rm -f $filename
         wget -O $filename $url
+        id3v2 -D $filename
         echo $filename >> $zmp3file
       done < "test8_temp.txt"
       cat $zmp3file
