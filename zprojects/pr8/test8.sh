@@ -92,6 +92,7 @@ while IFS= read -r zline; do
     cat $zcontentfile
 
     python3 test18_post_telegram_content_using_code_by_arg.py $code
+    sleep 20
 
     if [[ -s "$zmp3file" ]]; then
       while IFS= read -r line; do
