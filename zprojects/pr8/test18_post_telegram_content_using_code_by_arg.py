@@ -23,14 +23,11 @@ if len(sys.argv) > 1:
     with open(captionfile, 'r') as file:
         caption = file.read()
     # print(caption)
-    with open(photo_path, 'rb') as photo_file:
-        params = {'chat_id': chat_id, 'caption': caption}
-        files = {'photo': photo_file}
-        response = requests.post(url, params=params, files=files)
-    if response.status_code == 200:
-        print('Photo sent successfully!')
-    else:
-        print('Error sending photo:', response.status_code)
+    async def send_telegram_photo():
+        with open(photo_path, 'rb') as image_file:
+            await bot.send_photo(chat_id=channel_id, photo=InputFile(image_file), caption=caption)
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(send_telegram_photo())
 else:
     print("No input provided.")
 
