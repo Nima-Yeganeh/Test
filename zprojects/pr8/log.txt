@@ -366,7 +366,6 @@ Alishan
 گل گل ای پری،آستا گل ای پری
 قلبیمه بیر اُد دوشوب،سنی گورندن بَری
 گل گل ای پری،آستا گل ای پری
-<strong>ترجمه :</strong>
 ای زیباتر از حور و ملک، عشق وجان من ای پری
 توان دوریت را ندارم،عشق و جان من ای پری
 من تورا به معنای واقعی دوستت دارم،عشق و‌جان من ای پری
@@ -494,4 +493,1827 @@ Babak Mafi
 تورو داشتن یکم نمیشه اینو هرجور بگم نمیشه
 دیگه وابستگیم به تو کم نمیشه نمیشه نمیشه
 تورو داشتن یکم نمیشه اینو هرجور بگم نمیشه
+
+https://next1.ir/%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d9%85%db%8c-%d8%aa%d8%b1%d8%b3%d9%85/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/RezaYazdani-Mitarsam-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/RezaYazdani-Mitarsam-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/RezaYazdani-Mitarsam-480x480.jpg
+******** extract title
+دانلود آهنگ رضا یزدانی با نام می ترسم - نکست وان
+******** extract h1
+دانلود آهنگ رضا یزدانی با نام می ترسم
+******** extract eng
+Mitarsam 
+Reza Yazdani
+******** extract more info
+ترانه سرا : معین برزه     آهنگساز : بابک زرین     تنظیم : بهتاش زرین
+******** extract lyric
+در میزنی اما کسی توی اتاقم نیست
+‎جز صورتی تنها ، نقابی بر نقابم نیست
+‎در میزنم اما کسی آن سوی میدان نیست
+‎جز بی کسی حتی کسی در این خیابان نیست
+‎می ترسم
+‎از بال هایی که وبال شانه ام هستند
+‎می ترسم
+‎از میله هایی که ستون خانه ام هستند
+‎می ترسم
+‎از گریه هایی که مرا غرق خودم کرده
+‎می ترسم
+‎از کوسه ای مرده که در تنگم ورم کرده
+‎خط میکشم دیوار این تکلیف روشن را
+‎هی می شمارم روزهای بی تو بودن را
+‎پیشم که بودی اینچنین تنها نمی ماندم
+
+https://next1.ir/%d8%b3%d9%87%db%8c%d9%84-%d8%b5%d8%a7%d9%84%d8%ad%db%8c-%d8%b9%d8%b2%db%8c%d8%b2%db%8c-%d8%a8%d8%b1%d8%a7%d9%85/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/SoheilSalehi-AziziBaram-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/SoheilSalehi-AziziBaram-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/SoheilSalehi-AziziBaram%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/SoheilSalehi-AziziBaram-480x480.jpg
+******** extract title
+دانلود آهنگ سهیل صالحی با نام عزیزی برام - نکست وان
+******** extract h1
+دانلود آهنگ سهیل صالحی با نام عزیزی برام
+******** extract eng
+Azizi Baram 
+Soheil Salehi
+******** extract more info
+******** extract lyric
+چقد این صورت عزیزه عزیزه برام…
+من میمیرم، تو میخندی یه ریزه برام
+من نمیخوام از این حالت، با هیچی درام!
+منو اینجوری ندیده، ندیده کسی
+تو دقیقا تو همونجایی که باید میرسی
+فرقش این میشه که میکُشیم، تو دلواپسی
+همه ردن از چشم من همه ردن
+این تویی که نشستی اون ته قلبم
+همه خوبن هیچکی ولی مثل من نه
+
+https://next1.ir/%d9%85%d8%b1%d8%aa%d8%b6%db%8c-%d9%86%d9%88%d8%b1%db%8c-%d8%aa%d9%88-%d8%b9%d8%b4%d9%82%d9%85%db%8c/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/MortezaNoori-ToEshghami-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/MortezaNoori-ToEshghami-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/MortezaNoori-ToEshghami-480x480.jpg
+******** extract title
+دانلود آهنگ مرتضی نوری با نام تو عشقمی - نکست وان
+******** extract h1
+دانلود آهنگ مرتضی نوری با نام تو عشقمی
+******** extract eng
+To Eshghami
+Morteza Noori
+******** extract more info
+******** extract lyric
+
+https://next1.ir/%d9%85%d8%ad%d8%b3%d9%86-%da%86%d8%a7%d9%88%d8%b4%db%8c-%d9%85%d9%86-%d8%a8%d8%a7%db%8c%d8%af-%d9%85%db%8c%d8%b1%d9%81%d8%aa%d9%85/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/MohsenChavoshi-ManBayadMiraftamDemo-128%28www.Next1.ir%29.mp3
+******** extract title
+دانلود آهنگ محسن چاوشی با نام من باید میرفتم - نکست وان
+******** extract h1
+دانلود آهنگ محسن چاوشی با نام من باید میرفتم
+******** extract eng
+Man Bayad Miraftam
+Mohsen Chavoshi
+******** extract more info
+******** extract lyric
+من باید میرفتم با قطاری که برام آخرین گلوله ی آخرین خشاب بود
+
+https://next1.ir/%d8%b9%d8%b1%d9%81%d8%a7%d9%86-%d8%b7%d9%87%d9%85%d8%a7%d8%b3%d8%a8%db%8c-%da%86%d9%87-%da%a9%d9%86%d9%85/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/ErfanTahmasbi-CheKonam-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/ErfanTahmasbi-CheKonam-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/ErfanTahmasbi-CheKonam%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/ErfanTahmasbi-CheKonam-480x480.jpg
+******** extract title
+دانلود آهنگ عرفان طهماسبی با نام چه کنم - نکست وان
+******** extract h1
+دانلود آهنگ عرفان طهماسبی با نام چه کنم
+******** extract eng
+Che Konam
+Erfan Tahmasbi
+******** extract more info
+ترانه سرا : عرفان طهماسبی      آهنگساز : حامد دهقانی و عرفان طهماسبی       تنظیم : حامد دهقانی
+******** extract lyric
+
+https://next1.ir/%da%a9%d8%b3%d8%b1%db%8c-%d8%b2%d8%a7%d9%87%d8%af%db%8c-%d8%af%d9%84-%d8%af%d9%84-%d9%86%da%a9%d9%86/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/KasraZahedi-DelDelNakon-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/KasraZahedi-DelDelNakon-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/KasraZahedi-DelDelNakon%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/KasraZahedi-DelDelNakon-480x480.jpg
+******** extract title
+دانلود آهنگ کسری زاهدی با نام دل دل نکن - نکست وان
+******** extract h1
+دانلود آهنگ کسری زاهدی با نام دل دل نکن
+******** extract eng
+Del Del Nakon
+Kasra Zahedi
+******** extract more info
+ترانه سرا وآهنگساز : کسری زاهدی و حسین محمودی       تنظیم : مسعود نیکنام
+******** extract lyric
+من نگفتم که به این زودیا برگرد تو چرا زود برنگشتی
+چرا هی دروغ میگی پیدام نکردی تو که دنبالم نگشتی
+شب آخر لب دریا قسمت دادم که هر جا
+دو تا عاشق دیدی باهم باشه یادت من چه تنهام
+دل دل نکن عشقم دستمو ول نکن عشقم
+بی تو میمیرم امشب میشه برگردی
+غم عشق تو کم نیست نیستی و دل تو دلم نیست
+آخه دست خودم نیست میشه برگردی
+ماه من نپرس چرا تو این شبا دلم میگیره
+وقتی آسمون هنوز سراغتو ازم میگیره
+کوچه دلتنگه هنوزم خونه دلتنگه هنوزم
+کاشکی بودی و میدیدی که چی آوردی به روزم
+کوچه دلتنگه هنوزم خونه دلتنگه هنوزم
+کاشکی بودی و میدیدی که چی آوردی به روزم
+دل دل نکن عشقم دستمو ول نکن عشقم
+بی تو میمیرم امشب میشه برگردی
+غم عشق تو کم نیست نیستی و دل تو دلم نیست
+
+https://next1.ir/%d8%a2%d8%af%db%8c%d9%86-%da%af%d9%84-%d9%85%d9%86/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/Adin-GoleMan-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/Adin-GoleMan-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/Adin-GoleMan-480x480.jpg
+******** extract title
+دانلود آهنگ آدین با نام گل من - نکست وان
+******** extract h1
+دانلود آهنگ آدین با نام گل من
+******** extract eng
+Gole Man 
+Adin
+******** extract more info
+******** extract lyric
+یه شهر و بگردی نمیشه مثه تو پیدا
+من دورت بگردم بهترین عشق دنیا
+تو با اون چشای نازت منو دیونه کردی
+بد میشه حالم ببینم با من سردی
+دور بمونه هر کسی غیر تو از دله من
+عاشقونه می خوامت دوست دارم گل من دوست دارم گل من
+دور بمونه هر کسی غیر تو از دله من
+عاشقونه می خوامت دوست دارم گل من
+دوست دارم گل من
+بی تو دنیای من قشنگیاش میرع کنار
+عاشق چشمات شده این دله من دیونه وار
+همه دنیام تویی بیا فقط بخند برام
+نمی خوام یه ثانیم از فکر به تو دارم
+دور بمونه هر کسی غیر تو از دله من
+عاشقونه می خوامت دوست دارم گل من
+
+https://next1.ir/%d8%a7%d8%b1%d8%b3%d9%84%d8%a7%d9%86-%d9%85%d8%ad%d8%a8%db%8c-%d8%a2%d9%84%d8%a8%d9%88%d9%85-%d9%85%d9%86%d8%a7%d8%ac%d8%a7%d8%aa-%d8%ae%d9%88%d8%a7%d9%86/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://next1.ir/wp-content/uploads/2023/05/ArsalanMohebi-MonajatKhan-480x480.jpg
+******** extract title
+دانلود آلبوم ارسلان محبی با نام مناجات خوان - نکست وان
+******** extract h1
+دانلود آلبوم ارسلان محبی با نام مناجات خوان
+******** extract eng
+Monajat Khan 
+Arsalan Mohebi
+******** extract more info
+******** extract lyric
+۱ &#8211; تحفه‌ی درویش شاعر سید روح الله مؤید
+۲ &#8211; نفس در هوای تو شاعر احسان نرگسی رضا پور
+۳ &#8211; گریانم و نالانم شاعر محمدجواد شیرازی
+۴ &#8211; مزه‌ی آشتی شاعر حسین قربانچه
+۵ &#8211; رزق کریم شاعر سعدی
+۶ &#8211; نور آمرزش شاعر سید پوریا هاشمی
+۷ &#8211; سفره‌ی عبادت شاعر سید عباس سجادی
+۸ &#8211; چشمه‌ی‌آب‌حیات شاعر علی اکبرلطیفیان
+۹ &#8211; پشیمانی شاعر محمد جواد شیرازی
+
+https://next1.ir/%d8%b3%d8%a7%d9%85%d8%a7%d9%86-%d8%ac%d9%84%db%8c%d9%84%db%8c-%d8%a2%d8%b1%d9%88%d9%85-%d8%ac%d9%88%d9%86/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/SamanJalili-AroomeJoon-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/SamanJalili-AroomeJoon-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/SamanJalili-AroomeJoon%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/SamanJalili-AroomeJoon-480x480.jpg
+******** extract title
+دانلود آهنگ سامان جلیلی با نام آروم جون - نکست وان
+******** extract h1
+دانلود آهنگ سامان جلیلی با نام آروم جون
+******** extract eng
+Aroome Joon
+Saman Jalili
+******** extract more info
+ترانه سرا : امیرحسین ایمانی      تنظیم : فرید ایمانی
+******** extract lyric
+هر کی رسید به دل من اسمشو خط زد و رفت
+هر کی گفت میمونه پیشم پر زد و رفت
+ولی تو اومدی توی حال عجیب و غریب
+شدی تو زندگیم یه حس جدید
+نمیشه این همه خوبیتو ندید
+میشه برات همه گلا رو خرید
+شدی آروم جون ستارمی توی هفت آسمون
+اگه میشه بیا با من بمون کسی مث تو نشد مهربون
+شدی آروم جون ستارمی توی هفت آسمون
+اگه میشه بیا با من بمون کسی مث تو نشد مهربون
+آروم آروم اومدی این همه عشقو آوردی با خودت
+بی هوا تو خلوتم همه ی قلبمو بردی با خودت
+مثل خنده تو بغضم اومدی یه عالمه حرف قشنگ زدی
+هیشکی اینجوری درکم نکرد هیشکی مثل تو از دردم کم نکرد
+شدی آروم جون ستارمی توی هفت آسمون
+اگه میشه بیا با من بمون کسی مث تو نشد مهربون
+شدی آروم جون ستارمی توی هفت آسمون
+
+https://next1.ir/%d9%85%db%8c%d9%84%d8%a7%d8%af-%d8%b9%d8%a8%d8%a7%d8%b3%db%8c-%d8%a7%d9%88%d9%86-%d9%88%d8%b1-%d9%81%d8%b1%d8%af%d8%a7/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/MiladAbbasi-AVfarda-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/MiladAbbasi-AVfarda-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/MiladAbbasi-AVfarda-480x480.jpg
+******** extract title
+دانلود آهنگ میلاد عباسی با نام اون ور فردا - نکست وان
+******** extract h1
+دانلود آهنگ میلاد عباسی با نام اون ور فردا
+******** extract eng
+A V farda (Onvare Farda)
+Milad Abbasi
+******** extract more info
+******** extract lyric
+تو چشمای تو فردا رو
+چقد نزدیکتر دیدم
+تو میخندی که دنیا رو
+به آغوش تو بخشیدم
+منم درگیر آغوشت
+یه جایی اون ور فردا
+بیا نزدیکتر با من
+بیا تا آخر دنیا
+شب دستاتو کم دارم
+نمیدونی چقدر سرده
+منو بازم نوازش کن
+به آغوشت دلم گرمه
+من اون قدر عاشقم با تو
+که دیروز و رها کردم
+واسه امروز این قصه
+یه دنیا رو فدا کردم
+هنوزم رد دستاتو
+توی موهام که میگیرم
+برای نبض احساسم
+یه کم دلشوره میگیرم
+نشستم رو به امروزم
+یه عمر مدیون چشماتم
+با این حالی که من دارم
+تو این دیونگی با تم
+شب دستاتو کم دارم
+نمیدونی چقدر سرده
+منو بازم نوازش کن
+به آغوشت دلم گرمه
+من اون قدر عاشقم با تو
+که دیروز و رها کردم
+واسه امروز این قصه
+
+https://next1.ir/%d8%b9%d9%84%db%8c-%d8%a7%d8%ad%d9%85%d8%af%db%8c-%d8%aa%d9%85%d9%86%d8%a7/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/AliAhmadi-Tamanna-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/AliAhmadi-Tamanna-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AliAhmadi-Tamanna-480x480.jpg
+******** extract title
+دانلود آهنگ علی احمدی با نام تمنا - نکست وان
+******** extract h1
+دانلود آهنگ علی احمدی با نام تمنا
+******** extract eng
+Tamanna 
+Ali Ahmadi
+******** extract more info
+آهنگ “تمنا” آوازی در دشتستانی با صدای علی احمدی دوبیتی باباطاهر
+******** extract lyric
+
+https://next1.ir/%d9%85%d8%b8%d8%a7%d9%87%d8%b1-%d8%a7%d9%85%db%8c%d8%b1%db%8c-%d8%a8%d8%a7%d8%b2-%d8%af%d9%88%d8%a8%d8%a7%d8%b1%d9%87/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/MazaherAmiri-BazDobare-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/MazaherAmiri-BazDobare-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/MazaherAmiri-BazDobare-480x480.jpg
+******** extract title
+دانلود آهنگ مظاهر امیری با نام باز دوباره - نکست وان
+******** extract h1
+دانلود آهنگ مظاهر امیری با نام باز دوباره
+******** extract eng
+Baz Dobare 
+Mazaher Amiri
+******** extract more info
+******** extract lyric
+چقده جذاب اون صورت تو
+تو بیای گل میریزم رو سرتو
+نبینم یه روز بگیره اون دلت
+قربون دلت نبینم غمتو
+تو بیای راهو پر شمع میکنم
+شب که میشه شهرو روشن میکنم
+انقده نابی و الماسی ببین
+تو شدی عشقم شدی قلب خودم
+باز دوباره دلم بی قراره
+واسه دیدن تو تحمل نداره
+توزیباترینی واسم بهترینی
+کل دنیارو بگردم باتو قلبم موندگاره
+موندگاره
+دل من واسه تو میکوبه فقط
+نه نمیخوام که بشه دورشم ازت
+انقده خوبی و محبوبی ببین
+دل من پای تو مونده جا نزن
+تو بیای جونم رو میدم پای تو
+کاش میشد باشم یه لحظه جای تو
+میدرخشی مثل ماه آسمون
+میره قلبم واسه اون چشمای تو
+باز دوباره دلم بی قراره
+واسه دیدن تو تحمل نداره
+توزیباترینی واسم بهترینی
+کل دنیارو بگردم باتو قلبم موندگاره
+
+https://next1.ir/%d8%a7%d8%ad%d9%85%d8%af-%d8%b3%d9%84%d9%88-%d8%ac%d8%a7%d8%b0%d8%a8%d9%87/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/AhmadSolo-Jazebe-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/AhmadSolo-Jazebe-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AhmadSolo-Jazebe-480x480.jpg
+******** extract title
+دانلود آهنگ احمد سلو با نام جاذبه - نکست وان
+******** extract h1
+دانلود آهنگ احمد سلو با نام جاذبه
+******** extract eng
+Jazebe
+Ahmad Solo
+******** extract more info
+ترانه و آهنگساز : احمد سلو
+******** extract lyric
+اگه بیدار و بی تابم و قلبم نگرانه
+میدونی تقصیر من نیست تو چشات جاذبه داره
+اگه هی غرق تو میشم اگه با دنیا غریبم
+آخه اون چشمای زیبات همه دنیامه عزیزم
+یعنی شمالمون نشه وقتشه دستامو بگیری
+پیاده قدم بزنیم غروب دریارو ببینیم
+یعنی شمالمون نشه وقتشه دستامو بگیری
+پیاده قدم بزنیم غروب دریارو ببینیم
+اومدی از دور مغرور و کم دور تو گشتم هر شب من هر روز
+انقدر بزرگت کردم تا شدی ستاره
+اومدی آروم آروم و کم کم مثل یه جادو یه بارون نم نم
+شدی یه همدم عشق تو ادامه داره
+زیبای بی آرایشم آرامشم ماه قشنگم
+محو تماشاته دلم عاشقتم صاحب قلبم
+زیبای بی آرایشم آرامشم ماه قشنگم
+محو تماشاته دلم عاشقتم صاحب قلبم
+یعنی شمالمون نشه وقتشه دستامو بگیری
+پیاده قدم بزنیم غروب دریارو ببینیم
+یعنی شمالمون نشه وقتشه دستامو بگیری
+
+https://next1.ir/%d9%85%d8%b1%d8%aa%d8%b6%db%8c-%d9%81%d8%aa%d8%a7%d8%ad%db%8c-%d9%81%d8%b1%d8%af%d8%a7%db%8c-%d9%85%d8%a7-%d8%af%d9%88%d8%aa%d8%a7/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/MortezaFattahi-FardayeMaDoTa-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/MortezaFattahi-FardayeMaDoTa-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/MortezaFattahi-FardayeMaDoTa-480x480.jpg
+******** extract title
+دانلود آهنگ مرتضی فتاحی با نام فردای ما دوتا - نکست وان
+******** extract h1
+دانلود آهنگ مرتضی فتاحی با نام فردای ما دوتا
+******** extract eng
+Fardaye Ma Do Ta 
+Morteza Fattahi
+******** extract more info
+******** extract lyric
+اینکه منو میخوای حسی که میذاری
+خوشحال و مغرورم وقتی دوسم داری
+اینکه منو میخوای دلشوره میگیرم
+از اینکه بعد از تو چی میشه تقدیرم
+اما یه فرقی هست تو زندگی ما من اهل دیروزم تو مال این روزا
+امروز شیرینه این اشتباه ما میدونم تلخ میشه فردای ما دوتا ، فردای ما دوتا …
+به من نگو حتما خوشبختی در پیشه
+میدونم این احساس بعدا عوض میشه
+میدونم که میری جا می مونم از تو
+با ردِ پاهایی رو این پیاده رو
+اما یه فرقی هست تو زندگی ما من اهل دیروزم تو مال این روزا
+
+https://next1.ir/%d8%a7%d9%81%d8%b4%db%8c%d9%86-%d8%a2%d8%b0%d8%b1%db%8c-%d9%be%d8%a7%d9%be%d9%88%d8%b1%db%8c-2/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/AfshinAzari-Papuri2-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/AfshinAzari-Papuri2-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AfshinAzari-Papuri2-480x480.jpg
+******** extract title
+دانلود آهنگ افشین آذری با نام پاپوری 2 - نکست وان
+******** extract h1
+دانلود آهنگ افشین آذری با نام پاپوری 2
+******** extract eng
+Papuri 2 
+Afshin Azari
+******** extract more info
+******** extract lyric
+
+https://next1.ir/%da%af%d8%b1%d8%b4%d8%a7-%d8%b1%d8%b6%d8%a7%db%8c%db%8c-%d8%a8%d8%b1%da%a9%d9%87-%d9%88-%d9%85%d8%a7%d9%87%db%8c/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/GarshaRezaei-GheseyeBerkehVaMahi-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/GarshaRezaei-GheseyeBerkehVaMahi-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/GarshaRezaei-GheseyeBerkehVaMahi%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/01/GarshaRezaei-GheseyeBerkehVaMahi-480x480.jpg
+******** extract title
+دانلود آهنگ گرشا رضایی با نام قصه برکه و ماهی - نکست وان
+******** extract h1
+دانلود آهنگ گرشا رضایی با نام قصه برکه و ماهی
+******** extract eng
+Ghesseye Berke Va Mahi
+Garsha Rezaei
+******** extract more info
+ترانه سرا و آهنگساز : هادی زینتی      تنظیم : گرشا رضایی
+******** extract lyric
+من من یه برکم وسط قلب یه بیشه
+هیشکی سالی یه بارم از اینجا رد نمیشه
+تو از دل دریای شور از یه جای دور دور
+اومدی خوش اومدی ماهی خسته
+تو وقتی رد شدی از این برکه ی تنها
+من آرزوم شد برسم یه روزی دریا
+باز واسه ی دیدن تو واسه رسیدن به تو
+اومدم بگذرم از این در بسته
+ماهی ماهی ماهی شدم امشب راهی
+کجای دریارو بگردم
+ماهی ماهی ماهی هی میکشم آهی
+چرا هنوز پیدات نکردم
+با او این برکه ی تشنه مثل اقیانوس عشقه
+کسی از عشق من و تو ننوشته
+حق داره هرکی به حال این روزای من بخنده
+مگه یه برکه به ماهی دل میبنده
+ماهی ماهی ماهی شدم امشب راهی
+کجای دریارو بگردم
+ماهی ماهی ماهی هی میکشم آهی
+
+https://next1.ir/%d8%a2%da%a9%d9%88-%d8%a8%d9%86%d8%af-%d8%b7%d9%86%d8%a7%d8%a8-%d8%af%d8%a7%d8%b1/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/AkoBand-TanabeDar-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/AkoBand-TanabeDar-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AkoBand-TanabeDar-480x480.jpg
+******** extract title
+دانلود آهنگ آکو بند با نام طناب دار - نکست وان
+******** extract h1
+دانلود آهنگ آکو بند با نام طناب دار
+******** extract eng
+Tanabe Dar 
+Ako Band
+******** extract more info
+خوانندگان : مهدی و جواد شهسواری
+******** extract lyric
+یادمه دعوامون اون شب پنهونی بود
+یادمه خونمون اونشب مهمونی بود
+همه میخندیدن ،منوتو قهربودیم
+انگاری پامون تو اون خونه زندونی بود
+صبح شد منم کلافه از دیشب انگاری طبر زده بودی به ریشم
+دروغ چرا پشیمونم،بیا بیا دوباره برگرد پیشم
+نگو نگو دوریمون ادامه داره،دوریت طناب داره
+کی مثل من میبره بالاپرچمتو،کی مثل من هواتو داره
+نگودوریمون ادامه داره دوریت،طناب داره
+کی مثل من میبره بالاپرچمتو،کی مثل من هواتوداره
+میدونم مغروریم هر دوتامون
+میدونم لجبازیم هر دوتامون
+میگیم حسمون مثل اولانیست
+ولی میدونیم تودلمون این خبرانیست
+بیادوباره برگ بده این درخت خشک
+خاطره هات منو توجوونی کشت
+چی باعث شده پیش من نمونی تو
+ماه دلم تو همونی تو
+نگو نگو دوریمون ادامه داره،دوریت طناب داره
+کی مثل من میبره بالاپرچمتو،کی مثل من هواتو داره
+نگودوریمون ادامه داره دوریت،طناب داره
+
+https://next1.ir/%d9%be%d8%a7%d8%b2%d9%84-%d8%a8%d8%a7%d9%86%d8%af-%d8%aa%d9%82%d8%b5%db%8c%d8%b1-%d9%85%d9%86%d9%87/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/PuzzleBand-TaghsireMane-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/PuzzleBand-TaghsireMane-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/PuzzleBand-TaghsireMane%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/PuzzleBand-TaghsireMane-480x480.jpg
+******** extract title
+دانلود آهنگ پازل باند با نام تقصیر منه - نکست وان
+******** extract h1
+دانلود آهنگ پازل باند با نام تقصیر منه
+******** extract eng
+Taghsire Mane 
+Puzzle Band
+******** extract more info
+ترانه سرا و آهنگساز: بابک بابایی     تنظیم : پازل باند
+******** extract lyric
+دلم تنگه واسه تو ولی واسم سخته بخوام معذرت
+ببین کی با بدیات بازم باهات میمونه بی معرفت
+تو که عادت داری این دفعم واسه دعوا باهام
+یه چی پیدا میکنی
+تو که عادت داری من تکیه بدم بهت همیشه پشتمو خالی کنی
+طفلکی این دل پاره پاره ی منو ببین چقدر بهم دوختمش
+شعله هاتو بیشترش کن این پروانه انگار عاشق سوختنه
+تقصیر منه که تورو بلد شدم تقصیر منه
+لابد همه ی اخلاقای بد توام تقصیر منه
+تو زورت من میرسه همش کارت تهدید منه
+من اونیم که داره با تو حیف میشه از دید همه
+میدونی دلم ازت عاصیه به همه میگی این آدم حساسیه
+پرنده ای که تو قفس به دنیا اومده نمیفهمه پرواز چه احساسیه
+مشکل از منه که وقتی قهری باهام بازم میام ازت دل میبرم
+وقتی میدونم تهش میرسه به جاهای بد بازم برات گل میخرم
+تقصیر منه که تورو بلد شدم تقصیر منه
+لابد همه ی اخلاقای بد توام تقصیر منه
+تو زورت من میرسه همش کارت تهدید منه
+
+https://next1.ir/%d8%a2%d8%b5%d9%81-%d8%a2%d8%b1%db%8c%d8%a7-%d8%b9%d8%b4%d9%82-%d8%aa%d9%88-%d8%a8%d8%b3%d9%87-%d9%85%d9%86%d9%87/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/AsefAria-EshgheToBasseMane-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/AsefAria-EshgheToBasseMane-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/AsefAria-EshgheToBasseMane%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/AsefAria-EshgheToBasseMane-480x480.jpg
+******** extract title
+دانلود آهنگ آصف آریا با نام عشق تو بسه منه - نکست وان
+******** extract h1
+دانلود آهنگ آصف آریا با نام عشق تو بسه منه
+******** extract eng
+Eshghe To Basse Mane 
+Asef Aria
+******** extract more info
+ترانه سرا و 
+******** extract lyric
+تو همه شلوغیا واسه تو وقت دارم
+این همه خوبه فقط واسه تو رفتارم
+پا به پای من همه شبارو بیداری
+خیلی دوست دارم
+همیشه حرف تورو میزنمو دیدنت حال میاره جیگرمو
+بیا بپوشم به سلیقه خودتو پیرهنمو &#8230;
+عشق تو بسه منه عطرت همیشه رو مچ دست منه
+هرچی میخوای به خودم بگو صد دفعه گفتم همه چیت با منه
+عشق تو بسه منه عطرت همیشه رو مچ دست منه
+هرچی میخوای به خودم بگو صد دفعه گفتم همه چیت با منه
+پیش تو بد خوبه حالم ترسی ندارم
+حالم خوشه انگیزه دارم
+فاصلم قد یه پیرهن با تو قشنگه
+بیشتر از این بد میشه حالم
+عشق تو بسه منه عطرت همیشه رو مچ دست منه
+هرچی میخوای به خودم بگو صد دفعه گفتم همه چیت با منه
+عشق تو بسه منه عطرت همیشه رو مچ دست منه
+
+https://next1.ir/%d9%81%d8%b1%db%8c%d8%af%d9%88%d9%86-%d8%a2%d8%b3%d8%b1%d8%a7%db%8c%db%8c-%d8%aa%d8%b1%d8%b3-%d8%aa%d9%86%d9%87%d8%a7%db%8c%db%8c/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/FereydounAsraei-TarseTanhaei-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/FereydounAsraei-TarseTanhaei-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/FereydounAsraei-TarseTanhaei-480x480.jpg
+******** extract title
+دانلود آهنگ فریدون آسرایی با نام ترس تنهایی - نکست وان
+******** extract h1
+دانلود آهنگ فریدون آسرایی با نام ترس تنهایی
+******** extract eng
+Tarse Tanhaei 
+Fereydoun Asraei
+******** extract more info
+ترانه سرا و آهنگساز : علیرضا راشا       تنظیم : فرید فراز
+******** extract lyric
+از تو چه پنهان باز هوایت کرده ام
+بی تو بودن باز امانم را برید
+من که دیوانه نبودم بعد تو
+شب به شب جانم به لب هایم رسید
+شوق دیدار تو دارد این دلم
+انتظارت میکشم من دم به دم
+خاطرات یادم آید مو به مو
+کی تمامی دارد این تکرار غم
+ترس تنهایی تورا از من گرفت
+زندگی آن گونه که باید نبود
+خانه بی تو خانه نیست متروکه است
+گل برای رفته آوردن چه سود
+کاش به جای رفتن از دنیای من
+قول ماندن داده بودی تا ابد
+زخم تو از پا درآورده مرا
+این چنین هیچکس به قلبم زخم نزد
+کس نداند راز چشمان تورا
+جز من دل خسته با پرت حواس
+آسمان ابری شده با اشک من
+شاید این بار اشک من اشک خداس
+خواستن چشمان تو ممنوعه بود
+عاشق ممنوعه های خواستنم
+بی تو قلبم پر شد از دنیای درد
+بس که تنهایی رو فریاد میزنم
+ترس تنهایی تورا از من گرفت
+زندگی آن گونه که باید نبود
+خانه بی تو خانه نیست متروکه است
+گل برای رفته آوردن چه سود
+کاش به جای رفتن از دنیای من
+قول ماندن داده بودی تا ابد
+زخم تو از پا درآورده مرا
+
+https://next1.ir/%d8%a7%d9%85%db%8c%d8%b1%d8%ad%d8%b3%db%8c%d9%86-%d9%86%d9%88%d8%b4%d8%a7%d9%84%db%8c-%d8%aa%db%8c-%d9%88%d8%b3%d8%aa%db%8c/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/AmirhosseinNoshali-TiVasty-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/AmirhosseinNoshali-TiVasty-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AmirhosseinNoshali-TiVasty-480x480.jpg
+******** extract title
+دانلود آهنگ امیرحسین نوشالی با نام تی وستی - نکست وان
+******** extract h1
+دانلود آهنگ امیرحسین نوشالی با نام تی وستی
+******** extract eng
+ Ti Vasty 
+AmirHossein Noshali
+******** extract more info
+******** extract lyric
+خدا دانه تی واستی
+بوسوختم راستی راستی
+فقط تی عشق امرا
+می زندگی بساختم
+تی چشم پروانه ره
+تی مویان شانه ره
+تی عشق افسانه ره
+می دونیای بباختم
+کاش تره زودتر دیهیم
+تی دیم جه گول چیهیم
+اما چی بوستی
+کاش کی بوستی
+می خاطرم تو خواستی
+تو دانی کی من پایم
+عاشق آ رویایم
+فقط تره دوس دارم
+ترجمه
+خدا می داند به خاطر تو
+سوختم به راستی
+فقط با عشق تو
+زندگی خودم را ساختم
+برای چشمانت پروانه وار
+برای موهایت شانه وار
+دنیای خود را باختم
+کاش تو را زودتر می دیدم
+از باغ دلت گل می چیدم
+اما چه می شد
+ای کاش می شد
+تو هم خاطر خواه من بودی
+تو می دانی که من همراه تو هستم
+عاشق رویای با تو بودنم
+فقط تو را دوست دارم
+
+https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d8%ac%d9%87%d8%a7%d9%86%db%8c-%d8%ac%d8%a7%d8%b0%d8%a8%d9%87/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/MehdiJahani-Jazebeh-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/MehdiJahani-Jazebeh-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/MehdiJahani-Jazebeh%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/MehdiJahani-Jazebeh-480x480.jpg
+******** extract title
+دانلود آهنگ مهدی جهانی با نام جاذبه - نکست وان
+******** extract h1
+دانلود آهنگ مهدی جهانی با نام جاذبه
+******** extract eng
+Jazebeh 
+Mehdi Jahani
+******** extract more info
+ترانه سرا و آهنگساز : آرن      تنظیم : برانوش
+******** extract lyric
+تو که میدونی واسه توئه قلبم سر تو دیوونه یه دندم
+همه جارو چراغونی کردم تا تو برگردی
+کاش بدی به من یه نشونه بعیده کسی مثل تو بتونه
+با توئه عصبی بمونه با خودت چند چندی
+تو کل آسمون شدی تو تک ستارم شدی دار و ندارم
+بیا هواتو دارم
+منو عاشقم کردی جالبه واقعا چشات جاذبه دارن
+چیکار کردی تو با من
+تو رنگی کردی دنیامو یه تعبیر واسه رویام شو
+تصویرت هر شب جلو چشمامه از این خواب که نمیشه بیدار شد
+با همه بد بودم با تو نه سرد بودم با تو نه
+نمیدادم به کسی جاتو دلم میخواد خاطره با تو
+دوتایی بریم یه جای دور باهم بشه این حاله خوب بازم
+تنگ نشه این دله زود واست این دله زود واست
+تو کل آسمون شدی تو تک ستارم شدی دار و ندارم
+بیا هواتو دارم
+منو عاشقم کردی جالبه واقعا چشات جاذبه دارن
+
+https://next1.ir/%d9%85%db%8c%d9%84%d8%a7%d8%af-%d8%a8%d8%a7%d8%a8%d8%a7%db%8c%db%8c-%d9%85%da%af%d9%87-%d9%85%d9%86-%d9%85%d8%b1%d8%af%d9%85/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/MiladBabaei-MageManMordam-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/MiladBabaei-MageManMordam-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/MiladBabaei-MageManMordam-480x480.jpg
+******** extract title
+دانلود آهنگ میلاد بابایی با نام مگه من مردم - نکست وان
+******** extract h1
+دانلود آهنگ میلاد بابایی با نام مگه من مردم
+******** extract eng
+Mage Man Mordam 
+Milad Babaei
+******** extract more info
+ترانه سرا : علی ایلیا      آهنگساز : میلاد بابایی      تنظیم : محمدرضا رهنما
+******** extract lyric
+همه جا پشت سرم حرف زدی
+کاری کردی سنگ روی یخ شم
+ولی عشق این چیزا که حالیش نیست
+اگه برگردی تورو میبخشم
+شنیدم که این روزا دلتنگی
+اشک از نگاهت آروم میچکه
+هنوزم میتونی روم حساب کنی
+عشق این حرفا حالیش نمیشه که
+مگه من مردم که چشمای قشنگ تو ابری شه
+قلب من خونته هیچ کجا خونه ی آدم نمیشه
+مگه من مردم که چشمای قشنگ تو ابری شه
+قلب من خونته هیچ کجا خونه ی آدم نمیشه
+اگه برگردی میبخشمت تورو
+خیلی عاشق تر از اونم که بهت بگم برو
+من به روت نمیارم با من چیکارا کردی
+مثل روز اولم با تو اگه برگردی
+مگه من مردم که چشمای قشنگ تو ابری شه
+قلب من خونته هیچ کجا خونه ی آدم نمیشه
+مگه من مردم که چشمای قشنگ تو ابری شه
+
+https://next1.ir/%d8%b3%d8%b9%db%8c%d8%af-%d8%b5%db%8c%d8%a7%d8%af%db%8c-%d8%a2%d8%af%d9%85-%d8%a8%d8%af%d9%87/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/SaeedSayadi-AdamBade-128%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/SaeedSayadi-AdamBade-480x480.jpg
+******** extract title
+دانلود آهنگ سعید صیادی با نام آدم بده - نکست وان
+******** extract h1
+دانلود آهنگ سعید صیادی با نام آدم بده
+******** extract eng
+Adam Bade
+Saeed Sayadi
+******** extract more info
+ترانه سرا و آهنگساز : سعید صیادی     تنظیم : مسعود باوفا
+******** extract lyric
+پامو از این رابطه پس میکشم
+از عشق تو دس میکشم دیگه
+میشم اون آدم بده
+بد میکنه احساسشم میگه
+با همه بد خلقیات حرفا و رفتارت
+کی بود طرفدارت..؟؟
+جای من هرکی بیاد مثل خودم میشه گرفتارت
+من چجوری بت بگم از دست تو حالم بده
+پس میذارمت کنار بزار بشم آدم بده
+سنگ حرفاتو زدم به سینه اما این دفعه
+اونکه عمری پات نشسته قیدتو راحت زده
+تهِ رابطه خورد گره
+حالا یکی باید بره
+بدون که اون یکی منم
+میرم با کلی خاطره
+ببین رد دادم این روزا
+تمومه فرصتت گلم
+میرم تا باورت بشه ازت سر رفته حوصلم
+من چجوری بت بگم از دست تو حالم بده
+پس میذارمت کنار بزار بشم آدم بده
+سنگ حرفاتو زدم به سینه اما این دفعه
+
+https://next1.ir/%d8%a7%db%8c%d9%88%d8%a7%d9%86-%d8%a8%d8%a7%d9%86%d8%af-%d8%aa%d9%88-%d9%81%d9%82%d8%b7/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/EvanBand-ToFaghat-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/EvanBand-ToFaghat-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/EvanBand-ToFaghat%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/EvanBand-ToFaghat-480x480.jpg
+******** extract title
+دانلود آهنگ ایوان باند با نام تو فقط - نکست وان
+******** extract h1
+دانلود آهنگ ایوان باند با نام تو فقط
+******** extract eng
+To Faghat
+ 
+******** extract more info
+ترانه سرا : حدیث دهقان     آهنگساز : فواد غفاری      تنظیم : مصطفی مومنی
+******** extract lyric
+دردونه ی من عشق آخر دل
+تا تو با منی تک میپره دل
+از خودت برام هیچی کم نکن
+جای تو کسی فکرشم نکن
+صورتت به ماه طعنه میزنه
+هرچی که بخوام داری یه تنه
+عاشقت برات ببین چه ها کنه
+تا خودشو تو دل تو جا کنه
+الا تو فقط بلا تو فقط
+رو تو قفلی زدم یالا تو فقط
+حالا بزن و برقص بیا با من وسط
+من عشق میکنم با خودت فقط
+الا تو فقط بلا تو فقط
+رو تو قفلی زدم یالا تو فقط
+حالا بزن و برقص بیا با من وسط
+من عشق میکنم با خودت فقط
+رو تو قفلی زدم وا نمیشه که
+گشتم مث تو پیدا نمیشه که
+میون این همه شبیه تو کمه
+تورو میخوام همین حرف آخرمه
+الا تو فقط بلا تو فقط
+رو تو قفلی زدم یالا تو فقط
+حالا بزن و برقص بیا با من وسط
+من عشق میکنم با خودت فقط
+الا تو فقط بلا تو فقط
+رو تو قفلی زدم یالا تو فقط
+حالا بزن و برقص بیا با من وسط
+
+https://next1.ir/%d9%85%d8%ad%d9%85%d8%af-%d9%85%d8%ad%d9%85%d8%af%db%8c-%d9%85%d8%aa%d8%b1%d9%88/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/MohammadMohammadi-Metro-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/MohammadMohammadi-Metro-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/MohammadMohammadi-Metro-480x480.jpg
+******** extract title
+دانلود آهنگ محمد محمدی با نام مترو - نکست وان
+******** extract h1
+دانلود آهنگ محمد محمدی با نام مترو
+******** extract eng
+Metro 
+Mohammad Mohammadi
+******** extract more info
+******** extract lyric
+نترس امشب از این لحظه
+از این رویا که در پیشه
+برام هر جای دور از تو
+جهانم رو به تشویشه
+دوباره بسترِ ما رو
+به رنگ خواب مخمل کن
+شتاب تندِ ساعت رو
+یه ثانیه معّطل کن
+نه گل می رنجه نه ساعت
+نه مهتاب و نه آینه
+میونه اینهمه رویا
+کسی ما رو نمی بینه
+نه پابند ترافیک و
+نه درگیر صف مترو
+یه ثانیه معٌطل کن
+بمون ! من میرسم تا تو
+شب و تنهایی پرسه
+پر از برگشتنم تا تو
+یه جانِ تازه میگیره
+حضورم با تو تنها تو
+مسیر من به سمت تو
+هنوز آینه بارونه
+کجا دستی که خورشید و
+
+https://next1.ir/%d8%b1%d9%88%d8%b2%d8%a8%d9%87-%d8%a8%d9%85%d8%a7%d9%86%db%8c-%da%86%d8%b4%d9%85%d8%a7%d8%aa/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/RoozbehBemani-Cheshmat-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/RoozbehBemani-Cheshmat-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/RoozbehBemani-Cheshmat%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/RoozbehBemani-Cheshmat-480x480.jpg
+******** extract title
+دانلود آهنگ روزبه بمانی با نام چشمات - نکست وان
+******** extract h1
+دانلود آهنگ روزبه بمانی با نام چشمات
+******** extract eng
+Cheshmat 
+Roozbeh Bemani
+******** extract more info
+ترانه سرا : روزبه بمانی      آهنگساز : حامد حسینی     تنظیم : سعید زمانی
+******** extract lyric
+موندیم کنار هم چه چیزا از جنون دیدیم
+ما هر دوتامون بعد هم داغ جوون دیدیم
+من این تویی رو که تمام عمر کم دیدم
+حالا برای دیدن تو چشممو میدم
+هر بار که من گفتم آزادی تو خون بهاشو قبل من دادی
+من سرزمینم هر کجا باشه چشمای تو زیباترین جاشه
+موندیم و از مردن برای هم نترسیدیم
+ما هردومون کی خواب این روزارو میدیدم
+هر بار که من گفتم آزادی تو خون بهاشو قبل من دادی
+من سرزمینم هر کجا باشه چشمای تو زیباترین جاشه
+باب سکوتی و تصویر فریادی تو پای من انقد تبر خوردی که افتادی
+از خاطرات ما پاییز میباره دنیا به ما یه زندگی خوش بدهکاره
+هر بار که من گفتم آزادی تو خون بهاشو قبل من دادی
+
+https://next1.ir/%d8%a7%d8%ad%d9%85%d8%af-%d8%b3%d9%84%d9%88-%d8%ba%d9%84%d8%b7/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/AhmadSolo-Ghalat-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/AhmadSolo-Ghalat-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AhmadSolo-Ghalat-480x480.jpg
+******** extract title
+دانلود آهنگ احمد سلو با نام غلط - نکست وان
+******** extract h1
+دانلود آهنگ احمد سلو با نام غلط
+******** extract eng
+Ghalat 
+Ahmad Solo
+******** extract more info
+ترانه و آهنگساز : احمد سلو
+******** extract lyric
+غمگینم دارم از این خونه از یاد تو کم کم میرم
+مثل یه بارون پاییزی و نم نم میرم
+دیگه نمیکشم از دست خودم در میرم
+با خودم بد میشم
+آخ چقدر غمگینم هرچی که بد دیدم از خوبی قلبم دیدم
+دیگه یادم نمیاد از ته دل خندیدن انقده بد شدم حتی به خودم بدبینم
+غلط کرده اگه قلبم تورو از من طلب کرده
+دیگه مجبوره دلم باید که برگرده
+این یه دستور یه فرمان عقب گرده عقب گرده
+غلط کرده اگه قلبم تورو از من طلب کرده
+دیگه مجبوره دلم باید که برگرده
+این یه دستور یه فرمان عقب گرده عقب گرده
+من و شب و غم و سردرد بی تو هرشب چی کشیدم من
+کل زندگیمو دادم به تو بازم نرسیدم من
+مگه میشه واقعا آخه چقد بد میشه یه آدم
+برس به دادم که نمیگیره چند شبه خوابم
+غلط کرده اگه قلبم تورو از من طلب کرده
+دیگه مجبوره دلم باید که برگرده
+این یه دستور یه فرمان عقب گرده عقب گرده
+غلط کرده اگه قلبم تورو از من طلب کرده
+دیگه مجبوره دلم باید که برگرده
+
+https://next1.ir/%da%a9%d8%a7%d9%85%d8%b1%d8%a7%d9%86-%d9%85%d9%88%d9%84%d8%a7%db%8c%db%8c-%d8%b9%d8%b4%d9%82-%da%a9%d8%a7%d9%85%d9%84/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/KamranMolaei-EshgheKamel-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/KamranMolaei-EshgheKamel-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/KamranMolaei-EshgheKamel-480x480.jpg
+******** extract title
+دانلود آهنگ کامران مولایی با نام عشق کامل - نکست وان
+******** extract h1
+دانلود آهنگ کامران مولایی با نام عشق کامل
+******** extract eng
+Eshghe Kamel 
+Kamran Molaei
+******** extract more info
+ترانه سرا : محسن مجیدی     آهنگساز : کامران مولایی     تنظیم، میکس و مسترینگ : اشکان عزتی
+******** extract lyric
+با ناز چشمات بد جوری روی منو کم کردی
+اخر با خندهات تو قلب جا تو محکم کردی
+بهتر از هرکسی تو حال دلمو فهمیدی
+داری باخوبیات منوبه عشقت عادت میدی
+میمیرم
+واسه طرز نگات
+واسه لحن صدات
+تکی تو دل من
+عشق کامل من
+شاه بیته
+همه شعرهامی
+کل دنیامی
+اصن ختم کلام
+نفسی تو برام
+تک تک لحظه هارو قبل دیدنت میشمارم
+بعد قرارمون شب وتا خود صب بیدارم
+واجبه روزی چند دفعه بگم که دوست دارم
+نیستی همش حالم بده دست خود نیست اصلا
+اونایی که عاشقن این حال منو میفهمن
+
+https://next1.ir/%d8%a8%d9%87%d9%86%d8%a7%d9%85-%d8%a8%d8%a7%d9%86%db%8c-%d8%b3%da%af-%d8%a8%d9%86%d8%af/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/BehnnamBani-SagBand-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/BehnnamBani-SagBand-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/BehnnamBani-SagBand%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/BehnnamBani-SagBand-480x480.jpg
+******** extract title
+دانلود آهنگ بهنام بانی با نام سگ بند - نکست وان
+******** extract h1
+دانلود آهنگ بهنام بانی با نام سگ بند
+******** extract eng
+Sag Band
+Behnam Bani
+******** extract more info
+ترانه سرا : کارن موسوی       آهنگسازی و تنظیم : حامد برادران
+******** extract lyric
+یارا دل و جان کرده عجب قصد تو را
+یارا ساختم کنج دلم قصر تو را
+یارا چه بلاها که به جانم نرسید
+یارا تو خطا کن بکشم حبس تو را
+نرنجان دل این عاشقه رسوایت را
+بپوشان ز همه جنگل موهایت را
+شدم در به در کوی تو من دریابم
+عشق دلخواه من و ماه من و مهتابم
+نرنجان دل این عاشقه رسوایت را
+بپوشان ز همه جنگل موهایت را
+شدم در به در کوی تو من دریابم
+عشق دلخواه من و ماه من و مهتابم
+خدا کند تب کند جان بیمارم
+ببینمت که شدی تو پرستارم
+به درد عشق مبتلا شد دل زارم
+جان به جانم نکن ای دل آزارم
+نرنجان دل این عاشقه رسوایت را
+بپوشان ز همه جنگل موهایت را
+شدم در به در کوی تو من دریابم
+عشق دلخواه من و ماه من و مهتابم
+نرنجان دل این عاشقه رسوایت را
+بپوشان ز همه جنگل موهایت را
+شدم در به در کوی تو من دریابم
+
+https://next1.ir/%d8%b1%d8%b6%d8%a7-%d8%b4%db%8c%d8%b1%db%8c-%d8%b1%d9%82%db%8c%d8%a8%d8%aa/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/RezaShiri-Raghibet-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/RezaShiri-Raghibet-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/video/RezaShiri-Raghibet%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/RezaShiri-Raghibet-480x480.jpg
+******** extract title
+دانلود آهنگ رضا شیری با نام رقیبت - نکست وان
+******** extract h1
+دانلود آهنگ رضا شیری با نام رقیبت
+******** extract eng
+Raghibet 
+Reza Shiri
+******** extract more info
+ترانه سرا : مهریار     تنظیم : سعید رضا
+******** extract lyric
+برق اون چشمات یه کاری کردن که یادم بره حرفام
+کافیه نگام کنی تا دلم جوون بشه صد سال
+مثل یه خواب خاطره هات میکشه هربار
+یه دونه ای واسم کی مث من تورو میخواد
+میشه یکی رقیبت باشه که چشاش شبیهت باشه
+اصلا هم رفیقت باشه خیره شم به نگاش
+میشه یکی رقیبت باشه که چشاش شبیهت باشه
+اصلا هم رفیقت باشه خیره شم به نگاش
+یه جوری عاشقم که باورش واسم سخته
+تو یه جور رفتی که یادم مونده چند وقته
+تو نیای انگاری عمرم هدر رفته
+بدون تو زندم ولی زندگی چقدر سخته
+میشه یکی رقیبت باشه که چشاش شبیهت باشه
+اصلا هم رفیقت باشه خیره شم به نگاش
+میشه یکی رقیبت باشه که چشاش شبیهت باشه
+اصلا هم رفیقت باشه خیره شم به نگاش
+
+https://next1.ir/%d8%b4%d9%87%d8%b1%d8%a7%d9%85-%d8%b4%da%a9%d9%88%d9%87%db%8c-%d9%85%d8%ad%d8%b1%d9%85-%d8%a7%d8%b3%d8%b1%d8%a7%d8%b1/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/05/tak/ShahramShokoohi-MahrameAsrar-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/05/tak/ShahramShokoohi-MahrameAsrar-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/ShahramShokoohi-MahrameAsrar-480x480.jpg
+******** extract title
+دانلود آهنگ شهرام شکوهی با نام محرم اسرار - نکست وان
+******** extract h1
+دانلود آهنگ شهرام شکوهی با نام محرم اسرار
+******** extract eng
+Mahrame Asrar 
+Shahram Shokoohi
+******** extract more info
+ترانه سرا : محمد کاظمی      آهنگساز : بهنام صفوی      تنظیم : امیرحسین کاشانیان
+******** extract lyric
+ما محرم اسرار هم میشیم
+چیزی واسه از دست دادن نیست
+من مثل تو از عشق خط خوردم
+اونی که میخوام عاشق من نیست
+تو مثل من زخم زبون خوردی
+اونی که میخواستی باهات بد کرد
+دستای عشق تازشو چسبید
+دستای لرزون تورو رد کرد
+فکر من مثل تو درگیره
+فکر تو مثل من آشوبه
+عاشقی سخته تو ان اوضاع
+اما واسه هر دومون خوبه
+فکر من مثل تو درگیره
+فکر تو مثل من آشوبه
+عاشقی سخته تو ان اوضاع
+اما واسه هر دومون خوبه
+ما هر دو درگیر یه کابوسیم
+باید یکم از غصه خالی شیم
+این بهترین راه فرار ماست
+ما عاشق چشمای هم میشیم
+تو چشمای هم خیره میمونیم
+مث دو تا دیوونه ی همراز
+اما حواس هر دومون بازم
+درگیر چشمای یکی دیگه است
+درگیر چشمای یکی دیگه است
+فکر من مثل تو درگیره
+فکر تو مثل من آشوبه
+عاشقی سخته تو ان اوضاع
+اما واسه هر دومون خوبه
+فکر من مثل تو درگیره
+فکر تو مثل من آشوبه
+عاشقی سخته تو ان اوضاع
+
+https://next1.ir/%d8%b9%d9%84%db%8c-%d8%ae%d8%af%d8%a7%d8%a8%d9%86%d8%af%d9%87-%d8%ad%d8%a7%d9%84%d8%a7-%da%a9%d9%87-%d9%85%db%8c%d8%a8%db%8c%d9%86%db%8c/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/AliKhodabandeh-HalaKeMibini-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/AliKhodabandeh-HalaKeMibini-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AliKhodabandeh-HalaKeMibini-480x480.jpg
+******** extract title
+دانلود آهنگ علی خدابنده با نام حالا که میبینی - نکست وان
+******** extract h1
+دانلود آهنگ علی خدابنده با نام حالا که میبینی
+******** extract eng
+Hala Ke Mibini
+Ali Khodabandeh
+******** extract more info
+ترانه سرا و آهنگساز : علی خدابنده       تنظیم, میکس و مسترینگ : فرید مهاجرپور
+******** extract lyric
+هنوز پیگیر کارامی خوبه که همه جا همرامی
+با تو عاشقیو من میشم بلد فقط
+خوبه کنارتو راه میرم خوبه که دلتو دادی من
+جز تو نمیزنم با هیچکس قدم منم
+اگه میشه بهم لطف کنی دلمو‌ به دلت قفل کنی
+جاتو توی قلبم به کسی که نمیدم من
+حتی اگه دلت از سنگ شه
+نمیشه عشقتو کمرنگ شه
+ضربان قلبم تویی شب و روز همدم
+حالا که میبینی دیوونتم بزار بشم دیوونه تر
+به بودنت چقد بد عادتم خوبه باتو حال بدم
+حالا که میبینی اسیرتم نذار بشم رازی بکم
+محاله بزنم قید تورو هرجا بری پیگیرتم
+هنوز میگم عشق من کیه بلند بهم میگی من
+مگه میشت ازت چیزی بخوام گلم بهم بگی نه
+میبینی چقد بهم میایم خیلی تو چشیم پیش هم
+شدی همه قلب من با تو از دلم میره غم
+حالا که میبینی دیوونتم بزار بشم دیوونه تر
+به بودنت چقد بد عادتم خوبه باتو حال بدم
+حالا که میبینی اسیرتم نذار بشم رازی بکم
+
+https://next1.ir/%d8%a2%d8%b1%db%8c%d9%86-%d8%a2%d8%b1%d8%a7-%da%a9%d9%87%da%a9%d8%b4%d8%a7%d9%86/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/ArianAra-Kahkeshan-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/ArianAra-Kahkeshan-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/ArianAra-Kahkeshan-480x480.jpg
+******** extract title
+دانلود آهنگ آرین آرا با نام کهکشان - نکست وان
+******** extract h1
+دانلود آهنگ آرین آرا با نام کهکشان
+******** extract eng
+Kahkeshan
+Arian Ara
+******** extract more info
+******** extract lyric
+از کدوم منظومه ایی الان تو کهکشان منی
+که اینقده عجیب شدید هم ارتعاش همیم
+قول بده باشی حتی تو جهان بدی که بُعد مجهول ناخودگاهم نشی
+بریم روی ماه دوتایی ما فصل پاییزه بغلم کنا
+چند ماه دیگه برفه خاطرات میان ، چشماتو ببند بغلم کنا
+توی مدار بریم سیاره شیما باهم همه جارو قدم زدیما بگو دیگه چقد منو میخای عشقم چشماتو میبندی رو همه آدما
+تو بیا باهم شمالم میریم همه جارو فتح میکنیم جنوبم میریم
+میزنیم رو دست همه عاشقا جوری که اسمم بره توی کتابا
+عشقم بیا تو به من بگو خوب کجا بریم ما هرجا بخای تو حتی شده تو اسمون ها این شبا چقد خوبه چون تو پیشمی رنگین کمون هفت رنگمی چشاتم دلبر اسمت رو قلبم بیا بزن حرف شاید شی دلبر عزیزجونم
+عشقم بیا تو به من بگو خوب کجا بریم ما هرجا بخای تو حتی شده تو اسمون ها این شبا چقد خوبه چون تو پیشمی رنگین کمون هفت رنگمی چشاتم دلبر اسمت رو قلبم بیا بزن حرف شاید شی دلبر عزیزجونم
+شاه دلم یکم همون خاطرات رو یادت بیار ببین چقد ما باهم خاطرات خوبی داریم نبینم بخوای بگی برم
+من فقط به تو امید بستم گلم نبینم بخای بگی برم
+بخای بگی برم
+من
+شدی فقط مال من
+اسمته حک شده روی دلم
+عشقم بیا تو به من بگو خوب کجا بریم ما هرجا بخای تو حتی شده تو اسمون ها این شبا چقد خوبه چون تو پیشمی رنگین کمون هفت رنگمی چشاتم دلبر اسمت رو قلبم بیا بزن حرف شاید شی دلبر
+
+https://next1.ir/%d8%b3%d9%87%d8%b1%d8%a7%d8%a8-%d9%be%d8%a7%da%a9%d8%b2%d8%a7%d8%af-%d8%b9%d8%a7%d8%af%d8%aa/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/SohrabPakzad-Adat-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/SohrabPakzad-Adat-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/video/SohrabPakzad-Adat%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/SohrabPakzad-Adat-480x480.jpg
+******** extract title
+دانلود آهنگ سهراب پاکزاد با نام عادت - نکست وان
+******** extract h1
+دانلود آهنگ سهراب پاکزاد با نام عادت
+******** extract eng
+Adat 
+Sohrab Pakzad
+******** extract more info
+ترانه سرا : حسین حافظ و فرزام      آهنگساز : حسین حافظ و سهراب پاکزاد     تنظیم : علی تیرداد
+******** extract lyric
+من خودم تنهایی روزای خوبتو میسازم
+میشه یکم ساده بگردی رو این چیزا حساسم
+شما کارتون معلومه درسته خاکی و خون گرمی
+تو مثل خودم میمونی با هرکی نمیگردی
+عادتت میدم بی من جایی نری همش بهونمو بگیری
+عادتت میدم بهم بگی نفس روزی یه بار همو ببینیم
+عادتت میدم بی من جایی نری همش بهونمو بگیری
+عادتت میدم بهم بگی نفس روزی یه بار همو ببینیم
+جز تو کی پای حرفای دلم میشینه
+جز من کی کمتر از گلم بهت نمیگه
+حیفه بخواد این رابطه جدی نباشه
+عشقت میخواد هرشب به موقع خونه باشه
+عادتت میدم بی من جایی نری همش بهونمو بگیری
+عادتت میدم بهم بگی نفس روزی یه بار همو ببینیم
+عادتت میدم بی من جایی نری همش بهونمو بگیری
+
+https://next1.ir/%d9%85%d8%b3%db%8c%d8%ad-%d9%88-%d8%a2%d8%b1%d8%b4-ap-%d9%86%d9%85%db%8c%d8%b4%d8%af-%d8%b1%d8%a7%d8%ad%d8%aa/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/MasihAndArashAP-NemishodRahat-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/MasihAndArashAP-NemishodRahat-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/video/MasihAndArashAP-NemishodRahat%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/MasihAndArashAP-NemishodRahat-480x480.jpg
+******** extract title
+دانلود آهنگ مسیح و آرش AP با نام نمیشد راحت - نکست وان
+******** extract h1
+دانلود آهنگ مسیح و آرش AP با نام نمیشد راحت
+******** extract eng
+Nemishod Rahat 
+<a style="color: #800000;" href="https://next1.ir/tag/masih/">Masih </a>
+******** extract more info
+******** extract lyric
+نه نمیشد راحت از تو دل کند نه نمیشد دیگه تحملت کرد
+همینطور جولون میدادی هر جور که قلبت میخواست مریض مغرور
+شدم ازت دور دلمو بردن دیگه بکن که کم آوردم
+دیگه نمیخوام به یاد تو بریزم اشکی برام مهم نیست بعد من باشی با هرکی
+دلم از عمد باخت که فقط برم از این بازی میرقضیم باز تو با هیچ سازی نمیسازی
+نه نمیشد راحت کنار اومد باهات تا تهش وایسادم تا سر میخورد پات
+دلم آدم بود بود نفهمیدی تو تو لجبازیات نفس گیر میشد
+میدونم الان میزنی نیشخند میفهمی روزی که دیگه نیستم
+دیگه نمیخوام به یاد تو بریزم اشکی برام مهم نیست بعد من باشی با هرکی
+
+https://next1.ir/%d8%b9%d9%84%db%8c-%d8%aa%d9%87%d8%b1%d8%a7%d9%86%db%8c-%d8%a2%d8%b0%d8%b1%d8%a8%d8%a7%db%8c%d8%ac%d8%a7%d9%86/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/AliTehrani-Azerbaycan-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/AliTehrani-Azerbaycan-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AliTehrani-Azerbaycan-480x480.jpg
+******** extract title
+دانلود آهنگ علی تهرانی با نام آذربایجان - نکست وان
+******** extract h1
+دانلود آهنگ علی تهرانی با نام آذربایجان
+******** extract eng
+Azerbaycan
+Ali Tehrani
+******** extract more info
+ترانه سرا : امیر ستاری.     تنظیم، میکس و مسترینگ : علیرضا داراب
+******** extract lyric
+آذربایجان
+کوبلت اول
+آدین گلجک چیرپیر اورک
+هر بیر یانین گولدورچیچک
+اوریمده مین بیر دیلک
+واردیر سنه آذربایجان
+داغین داشین قیزیل منه
+سنسیز دونیا خزل منه
+هر بیر یانین گوزل منه
+گوزل یوردوم آذربایجان
+سنده دوغوب آنام منی
+نجه اولار دانام سنی
+بو اوغلونون بو جان تنی
+قوربان سنه آذربایجان
+ناقارات
+واردیر قوپوز کامان تارین
+اوزوم حیوا آلما نارین
+هر بیر نعمت سنده وارین
+ای جنتیم آذربایجان
+بولاقلارین سویو سرین
+شور دنیزین واردی درین
+جنتدی سانکی هر یئرین
+ای جنتیم آذربایجان
+کوبلت دوم
+چولونده لاله لر آچیر
+بنوشه لر عطیر ساچیر
+اورهدن غوصه لر قاچیر
+بیر ناغیلسان آذربایجان
+ساوالانین باشی قاردیر
+سهند قارداشینا یاردیر
+غیرت سیز یاشاماق آردیر
+غیرت یوکو آذربایجان
+چوللرینده یاشیل سونبول
+گول باشینا دونور بولبول
+سانکی یاشیر دلی دومرول
+هر ائوینده آذربایجان
+ناقارات
+واردیر قوپوز کامان تارین
+اوزوم حیوا آلما نارین
+هر بیر نعمت سنده وارین
+ای جنتیم آذربایجان
+‌بولاقلارین سویو سرین
+شور دنیزین واردی درین
+جنتدی سانکی هر یئرین
+
+https://next1.ir/%d8%a2%d8%b1%d9%85%db%8c%d9%86-%d8%b2%d8%a7%d8%b1%d8%b9%db%8c-%d8%b4%d9%85%d8%a7%d8%b1%d9%87-%d8%ac%d8%af%db%8c%d8%af%d9%85/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/ArminZarei-ShomareJadidam-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/ArminZarei-ShomareJadidam-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/video/ArminZarei-ShomareJadidam%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/ArminZarei-ShomareJadidam-480x480.jpg
+******** extract title
+دانلود آهنگ آرمین زارعی با نام شماره جدیدم - نکست وان
+******** extract h1
+دانلود آهنگ آرمین زارعی با نام شماره جدیدم
+******** extract eng
+Shomare Jadidam
+ 
+******** extract more info
+ترانه سرا و آهنگساز : آرمین زارعی       تنظیم : مسعود جهانی
+******** extract lyric
+دوباره نصف شب خیره به در و دیوار
+دوباره فکرت نگه داشته منو بیدار
+میدونم توام دلت تنگ شده میدونم دلت الان منو میخواد
+دوست دارم دستم تو دستت باشه همیشه تو گوشیم عکست باشه
+اون وقتایی که کدر و کسلی هی شوخی کنم باهات تا اخمت واشه
+هی بگو کی مث منه که گیر بده بهت هی یه سره
+بتونه خیره شه ساعتا بهت بدون اینکه پلک بزنه
+کی گفته حیف منه که میجنگم واست هی یه تنه
+وقتی نیستی مث همه چطور آدم ازت دل بکنه
+دلم تنگه واسه تو آره شدیدا مثل تو آره ندیدم
+الان کجایی دقیقا مگه چیزی شده دوباره جدیدا
+من و تو نداره تو آره یعنی من نمیشه پیدا کنیم دوباره شبیه هم
+دلشو ندارم نبینمت یه روز من فقط دست توئه شماره جدیدم
+یه سری چیزا تو کتم نمیرن نمیذارم که تورو ازم بگیرن
+یه وقتایی تکست اصلا نمیدم که هی پیگیریاتو ازت ببینم
+من دلم تنگه کوشی که لباس به سلیقه من بپوشی
+
+https://next1.ir/%d9%85%db%8c%d8%ab%d9%85-%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%db%8c%d9%85%db%8c-%d8%a2%d9%87%d9%88/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/MeysamEbrahimi-Ahoo-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/MeysamEbrahimi-Ahoo-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/video/MeysamEbrahimi-Ahoo%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/MeysamEbrahimi-Ahoo-480x480.jpg
+******** extract title
+دانلود آهنگ میثم ابراهیمی با نام آهو - نکست وان
+******** extract h1
+دانلود آهنگ میثم ابراهیمی با نام آهو
+******** extract eng
+Ahoo 
+Meysam Ebrahimi
+******** extract more info
+ترانه سرا و آهنگساز : آرشا رادین      تنظیم : مسعود جهانی
+******** extract lyric
+چشای خوشگل تو برم کوبیده میخشو تو دلم
+پیچیده عطر تو تو سرم میبینم روحتو تو تنم
+تا خود صبح میکنه گرم دل منو آتیش تو
+روشنی حتی تو نور کم تو ماهی من آسمونتم
+شیرینه حتی غرورتم اسیرم خوبه زندونتم
+دنبالتم مثل شیر کجا میری آهوی من
+به تو خوش دلم بدون مکث بدون حرف بیا پیش خودم
+بزن یه چنگ رو دل من بذار دیوونه شم
+آتیش قلب من واست میمونه گرم تا که کنارتم
+به تو خوش دلم بدون مکث بدون حرف بیا پیش خودم
+بزن یه چنگ رو دل من بذار دیوونه شم
+آتیش قلب من واست میمونه گرم کنارتم
+ببین هرچی تو سینمه به تو گفتم حسمو دادمش به تو لو من
+یه چی ام تو بگو لطفا
+وقتی یه دقیقه نیستم خوب عصبی نباش
+پشت هم نگیر تو تصویری تماس
+حسابت از همه واسه من سواس
+به تو خوش دلم بدون مکث بدون حرف بیا پیش خودم
+بزن یه چنگ رو دل من بذار دیوونه شم
+آتیش قلب من واست میمونه گرم کنارتم
+به تو خوش دلم بدون مکث بدون حرف بیا پیش خودم
+بزن یه چنگ رو دل من بذار دیوونه شم
+
+https://next1.ir/%db%8c%d8%a7%d8%b3%d8%a7%d9%86-%d8%ae%d9%88%d8%af-%d9%85%d9%86/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/Yasan-KhodeMan-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/Yasan-KhodeMan-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/Yasan-KhodeMan-480x480.jpg
+******** extract title
+دانلود آهنگ یاسان با نام خود من - نکست وان
+******** extract h1
+دانلود آهنگ یاسان با نام خود من
+******** extract eng
+Khode Man
+<a style="color: #800000;" href="https://next1.ir/tag/mohammad-alizadeh">Y</a>asan
+******** extract more info
+ترانه سرا : محمد مبارکی     آهنگساز : مهدی منافی      تنظیم : مجید ملوندی
+******** extract lyric
+اسمتو که میشنوم یه حالی ام آروم میگیرم
+تو‌نباشی تا سر کوچمونم تنها نمیرم
+حرف تو که میشه انگاری من وسط ابرام
+جون من جون خودت اشاره کن برات بمیرم
+تو‌ خود من خود من خود منی
+با نگات کنده میشم از رو زمین
+تو‌خود من خود خود منی
+نبینم ساز مخالف بزنی
+پاشو پاشو بیا دل منو همین الان جمع کن
+من بدون تو میمیرم چون نفسمی در کل
+دیوونتم آخه بیشتر از جونم میخوامت
+
+https://next1.ir/%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%a8%d8%b1%db%8c-%d8%aa%d8%b5%d9%85%db%8c%d9%85/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/MasoudSaberi-Tasmim-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/MasoudSaberi-Tasmim-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/video/MasoudSaberi-Tasmim%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/MasoudSaberi-Tasmim-480x480.jpg
+******** extract title
+دانلود آهنگ مسعود صابری با نام تصمیم - نکست وان
+******** extract h1
+دانلود آهنگ مسعود صابری با نام تصمیم
+******** extract eng
+Tasmim 
+Masoud Saberi
+******** extract more info
+ترانه سرا و آهنگساز : هادی زینتی      تنظیم : سهیل شمس
+******** extract lyric
+من اگه خودم بخوامم که ازم رد بشی راحت
+جلوی در نرسیده کوچه بن بست میشه واست
+من اگه خودم بخوامم بری پای من نشینی
+یه جوری بارون میگیره جلو چشماتم نبینی
+جلو چشماتم نبینی
+میبینی همه یه جور هم دستمن
+تا از دست من تو دورتر نشی
+تو گلی مراقب گلبرگتم
+تو دست غریبه ها پرپر نشی
+ترس نبودن تو بد حالیه یه چند سالیه دنبالمه
+باورت میشه همین الانشم نمیدونم خودم چند سالمه
+منتظر تصمیمتم هرجا بری من پیشتم
+محاله من دووم بیارم
+پاتو بذار بیرون ببین خاطره ها پشت درن
+خاطره ها رحمی ندارن
+میبینی همه یه جور هم دستمن
+تا از دست من تو دورتر نشی
+تو گلی مراقب گلبرگتم
+تو دست غریبه ها پرپر نشی
+ترس نبودن تو بد حالیه یه چند سالیه دنبالمه
+
+https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%b1%d9%be-%d9%be%d8%a7%d9%be-%d9%84%d8%b1%db%8c-%da%af%d9%84-%d8%b7%d9%84%d8%a7/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/AhmadiBrothersAndAshkanMohebi-GolTala-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/AhmadiBrothersAndAshkanMohebi-GolTala-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/AhmadiBrothersAndAshkanMohebi-GolTala-480x480.jpg
+******** extract title
+دانلود آهنگ رپ پاپ لری گل طلا از برادران احمدی و اشکان محبی - نکست وان
+******** extract h1
+دانلود آهنگ رپ پاپ لری گل طلا از برادران احمدی و اشکان محبی
+******** extract eng
+Gol Tala
+Ahmadi Brothers 
+******** extract more info
+******** extract lyric
+شاه دور باریک بلد میل برنویه یارم
+توچویل سوزیو مو خار کنگر یارم
+بیوی خانزادیه مث ماه شویه یارم
+لک نره وی تیلم افتو زنونه یارم
+بیو و واجوره حالم بو
+بیو که ناجوره حالم رود
+بیو که تیم و کاکو ره
+همو مرد غزونم که
+ته دلم صافه ولی درب زبونم
+بیو و ساحل کو ای مرده     گل
+حجیم کرده وری مو ای دردله نامسلمون
+بو و ککا نیکنه زندی مه گرو و دندون
+بلگ بلگ زندگیمه دردم سرت
+واگردو بیو وابو تسکین دلم
+خوشبختی کنار تو تضمین گلم
+ای خش هواتره فرهدینی
+یار ای یار ای یار و غم خارم
+درد و غم د نیکنه عارم
+یار ای یارم رهتی و ایچو
+
+https://next1.ir/%d8%a7%d9%85%db%8c%d8%b1-%d8%b1%d8%b4%d9%88%d9%86%d8%af-%d8%b4%d9%88%d9%86%d9%87/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/AmirRashvand-Shooneh-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/AmirRashvand-Shooneh-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/video/AmirRashvand-Shooneh%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/AmirRashvand-Shooneh-480x480.jpg
+******** extract title
+دانلود آهنگ امیر رشوند با نام شونه - نکست وان
+******** extract h1
+دانلود آهنگ امیر رشوند با نام شونه
+******** extract eng
+Shooneh 
+Amir Rashvand
+******** extract more info
+ترانه سرا و آهنگساز : نیما معین      تنظیم : علی بیات
+******** extract lyric
+دورت کنم از کی گلم حواست اصلا نیست
+کسی تو قلبم نیست توام نباشی پس من چی
+دلت تنگ میشه بیا پهلو خودم
+بیا دورت بگردم بغضتو بذار برا خودم
+بیا بی خیال همه شیم گلم من که کنارتم
+حالا توام بذار رو شونه ی من سرتو سرتو
+میدم هرچی دارم برا تو تو قشنگ ترین عادتمی
+پس تو بذار شبا رو شونه ی من سرتو سرتو
+میدم هرچی دارم برا تو تو قشنگ ترین عادتمی
+من میمیرم برا تو
+تو ‌که باشی پیش من واسه کل شهر شاخ و شونه میکشم
+تو میخوای رو چشم
+دلت تنگ میشه بیا پهلو خودم
+بیا دورت بگردم بغضتو بذار برا خودم
+بیا بی خیال همه شیم گلم من که کنارتم
+حالا توام بذار رو شونه ی من سرتو سرتو
+میدم هرچی دارم برا تو تو قشنگ ترین عادتمی
+پس تو بذار شبا رو شونه ی من سرتو سرتو
+میدم هرچی دارم برا تو تو قشنگ ترین عادتمی
+
+https://next1.ir/%d8%b4%d9%87%d8%a7%d8%a8-%d8%a8%d8%ae%d8%a7%d8%b1%d8%a7%db%8c%db%8c-%d8%a8%db%8c-%d8%ae%d9%88%d8%a7%d8%a8%db%8c/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/ShahabBokharaei-Bikhabi-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/ShahabBokharaei-Bikhabi-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/ShahabBokharaei-Bikhabi-480x480.jpg
+******** extract title
+دانلود آهنگ شهاب بخارایی با نام بی خوابی - نکست وان
+******** extract h1
+دانلود آهنگ شهاب بخارایی با نام بی خوابی
+******** extract eng
+Bikhabi
+Shahab Bokharaei
+******** extract more info
+ترانه سرا و آهنگساز :  شهاب بخارایی    تنظیم، میکس و مسترینگ : محمد شایان
+******** extract lyric
+ما هر دوتامون مال هم بودیم
+طوفان این عشق جدامون کرد
+نه من مقصر بودم و نه تو
+دنیای نامردی رهامون کرد
+با خاطراتت زندگی کردم
+با جای خالیت زندگی کردم
+این روزارو من بی تو مجبورم
+هی با خودم میگم که محکومم
+اصلا نمیخوام باخبر باشم
+دستاتو توو دست کی میزاری
+حس میکنم از ترس تنهایی
+مثل منم شبها تو بیداری
+لعنت به این دنیا لعنت
+لعنت به این عشقای پوشالی
+لعنت به این دنیا
+لعنت به این قلبای توو خالی
+با یاد تو خوبم با یاد اون لحظه که میگفتی دوستم داری
+اونروز و میبینی حس میکنی جای منو پیشت تو کم داری
+لعنت به این دنیا لعنت به این عشقای پوشالی
+
+https://next1.ir/%db%8c%d8%a7%d8%b3%d8%a7%d9%86-%da%af%d9%84-%d8%b1%d8%b2/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/Yasan-GoleRose-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/Yasan-GoleRose-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/Yasan-GoleRose-480x480.jpg
+******** extract title
+دانلود آهنگ یاسان با نام گل رز - نکست وان
+******** extract h1
+دانلود آهنگ یاسان با نام گل رز
+******** extract eng
+Gole Rose
+<a style="color: #800000;" href="https://next1.ir/tag/mohammad-alizadeh">Y</a>asan
+******** extract more info
+ترانه سرا، آهنگسازی و تنظیم : یاسان
+******** extract lyric
+تو واسم بخند تا که آروم شم
+تو بیا برگرد بذار از آدما دور شم
+بایدم حتما با تو مغرور شم
+تو زدی رو دست هر چی دلبر تو شهر
+عشق بی قلبم تو واسم خاصی
+چی شده که این روزا منو نمیشناسی
+تو به دل نگیر اگه من سردم
+تو که میشناسی منو دور تو میگردم
+بی زحمت کنار من بمون میترسم
+میدونی آدما بی رحم ن
+حال عاشق و نمیفهمن
+گل رز خوشگل من بیا بمون پشت دلم
+حالا که من عاشقتم حواستو باشه به من
+اون دوتا چشمات زندگی مو عوض کردن
+تو خندیدی من از ته دل حظ کردم
+به عشق اون چشات با دنیا من جنگ کردم
+همه حسودا رو از زندگیم حذف کردم
+تو نمیدونی واسه دیدنت تب کردم
+همون لباسی که تو دوس داری تن کردم
+نفسم شدی نفس مو حبس کردم
+
+https://next1.ir/%d8%b3%d8%b9%db%8c%d8%af-%d8%b4%d9%87%d8%b1%d9%88%d8%b2-%d9%85%d9%86-%d8%af%db%8c%d8%af%d9%85%d8%aa/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/SaeidShahrouz-ManDidamet-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/SaeidShahrouz-ManDidamet-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/SaeidShahrouz-ManDidamet-480x480.jpg
+******** extract title
+دانلود آهنگ سعید شهروز با نام من دیدمت - نکست وان
+******** extract h1
+دانلود آهنگ سعید شهروز با نام من دیدمت
+******** extract eng
+Man Didamet
+Saeid Shahrouz
+******** extract more info
+ترانه سرا : علی صالحی      آهنگساز : شهداد شهروز
+******** extract lyric
+همین که چشم من به چشمت افتاد
+دلم ویرونه شد رازشو لو داد
+تموم درد دنیا بی اثر شد
+چشاتو دیدم و چشمام تر شد
+من دیدمتو پسندیمتو این عشق شروع شد
+تو دیدی منو پسندیدی منو این عشق شروع شد
+من گیره دلم درگیر دلم ای وای چه حالی
+تو گیره دلت درگیره دلت ای وای چه حالی
+به چشمات خیره موندم برف اومد
+دلم با تو دوباره حرف اومد
+چقدر عاشق شدم پیش تو ای وای
+چی از جون من بیچاره میخوای
+من دیدمتو پسندیمتو این عشق شروع شد
+تو دیدی منو پسندیدی منو این عشق شروع شد
+من گیره دلم درگیر دلم ای وای چه حالی
+
+https://next1.ir/%d8%ad%d8%ac%d8%aa-%d8%a7%d8%b4%d8%b1%d9%81-%d8%b2%d8%a7%d8%af%d9%87-%d8%b9%d8%a7%d8%b4%d9%82%d9%85-%d8%a8%d8%a7%d8%b4/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/HojatAshrafzadeh-AsheghamBash-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/HojatAshrafzadeh-AsheghamBash-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/video/HojatAshrafzadeh-AsheghamBash%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/HojatAshrafzadeh-AsheghamBash-480x480.jpg
+******** extract title
+دانلود آهنگ حجت اشرف زاده با نام عاشقم باش - نکست وان
+******** extract h1
+دانلود آهنگ حجت اشرف زاده با نام عاشقم باش
+******** extract eng
+Ashegham Bash 
+Hojat Ashrafzadeh
+******** extract more info
+ترانه سرا : احمد امیرخلیلی     آهنگساز : علیرضا خرداد      تنظیم : معین حبیبی
+******** extract lyric
+تو داری با چشات دنیامو میگیری
+تو یه احساس خیلی خاص زیبایی
+نه با خورشید نه دریا نه حتی ماه
+فقط تنها تویی مقیاس زیبایی
+تویی کسی که دیوونم کردی
+به قلب عاشقم کاش برگردی
+تویی قرار من فقط کنار من بمون و عاشقم باش
+بمون و عاشقم باش
+هوای خنده هایت تو خوبه
+دلم برای عشقت میکوبه
+تو که مسافری خدا کنه نری بمون و عاشقم باش
+بمون و عاشقم باش
+حواسم باز به موهای تو پرته
+یه دنیا با جنونت زندگی کرده
+یه کاری با چشات کردی که این روزا
+خود زیبایی دنبال تو میگرده
+تویی کسی که دیوونم کردی
+به قلب عاشقم کاش برگردی
+تویی قرار من فقط کنار من بمون و عاشقم باش
+بمون و عاشقم باش
+هوای خنده هایت تو خوبه
+دلم برای عشقت میکوبه
+تو که مسافری خدا کنه نری بمون و عاشقم باش
+
+https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d9%81%d8%b1%d8%b2%db%8c%d9%86-%d8%ac%d9%88%d8%a7%d9%87%d8%b1/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/FarzadFarzin-Javaher-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/FarzadFarzin-Javaher-320%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/video/FarzadFarzin-Javaher%28www.Next1.ir%29.mp4
+https://next1.ir/wp-content/uploads/2023/05/FarzadFarzin-Javaher-480x480.jpg
+******** extract title
+دانلود آهنگ فرزاد فرزین با نام جواهر - نکست وان
+******** extract h1
+دانلود آهنگ فرزاد فرزین با نام جواهر
+******** extract eng
+Javaher 
+Farzad Farzin
+******** extract more info
+******** extract lyric
+همش اخمویی اما ته قلبت مهربونه
+تورو داشتن عزیزم یه تیر و دو تا نشونه
+تورو دیدم و قلبم یه سره میزنه تند تند
+با اون اخم قشنگت یه کمی خنده رو لطف کن
+آخ تویی جواهر تو دلبری چه ماهر
+همه چی تموم و کامل امون از دل غافل
+یهو اصلا چه طور شد قلبم یهو چه هول شد
+تو اوج ناامیدی سهمم یه دسته گل شد
+چی شد عشق تو جدی شد
+واسه منی که مشتم واسه هیچکی وا نمیشد
+دیدی دستمو رو کردی ولی فکرشو نمیکردی
+یه روزی دل ببندی
+من مودی آره همه جوره پات گیرم
+بدون اگه تو بخوای میرم ولی بی تو میمیرم
+آخ تویی جواهر تو دلبری چه ماهر
+همه چی تموم و کامل امون از دل غافل
+یهو اصلا چه طور شد قلبم یهو چه هول شد
+
+https://next1.ir/%d9%85%db%8c%d9%84%d8%a7%d8%af-%d8%b9%d8%a8%d8%a7%d8%b3%db%8c-%d8%af%d9%84%d8%aa%d9%86%da%af%d8%aa%d9%85/
+******** wget
+******** extract mp3
+******** extract mp4
+******** extract jpg
+******** cat mp3 + mp4 + jpg
+https://dl.next1.ir/files/2023/04/tak/MiladAbbasi-Deltangetam-128%28www.Next1.ir%29.mp3
+https://dl.next1.ir/files/2023/04/tak/MiladAbbasi-Deltangetam-320%28www.Next1.ir%29.mp3
+https://next1.ir/wp-content/uploads/2023/05/MiladAbbasi-Deltangetam-480x480.jpg
+******** extract title
+دانلود آهنگ میلاد عباسی با نام دلتنگتم - نکست وان
+******** extract h1
+دانلود آهنگ میلاد عباسی با نام دلتنگتم
+******** extract eng
+Deltangetam
+Milad Abbasi
+******** extract more info
+******** extract lyric
 
