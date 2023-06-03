@@ -9,3 +9,4 @@ pip install tiktok-scraper
 npm install tiktok-scraper
 npm install tiktok-scraper-nowatermarks
 npm install tiktok-scraper-api
+pip install selenium beautifulsoup4
