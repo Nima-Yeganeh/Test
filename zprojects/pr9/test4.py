@@ -1,0 +1,32 @@
+from TikTokApi import TikTokApi
+import pandas as pd
+
+# Create an instance of the TikTokApi
+api = TikTokApi()
+
+# Specify the username of the TikTok user
+username = "tiktok_user"
+
+# Fetch user data using TikTokApi.getUserByUsername()
+user_data = api.getUserByUsername(username)
+
+# Extract the desired information from the user data
+user_id = user_data["userInfo"]["user"]["id"]
+follower_count = user_data["userInfo"]["stats"]["followerCount"]
+following_count = user_data["userInfo"]["stats"]["followingCount"]
+video_count = user_data["userInfo"]["stats"]["videoCount"]
+
+# Create a dictionary to store the extracted data
+data = {
+    "Username": username,
+    "User ID": user_id,
+    "Follower Count": follower_count,
+    "Following Count": following_count,
+    "Video Count": video_count
+}
+
+# Create a Pandas DataFrame from the data dictionary
+df = pd.DataFrame([data])
+
+# Print the DataFrame
+print(df)
