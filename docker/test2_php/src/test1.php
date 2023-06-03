@@ -3,7 +3,7 @@
 $filename = $_GET['filename'];
 
 // Define the path to the directory where the video files are stored
-$videoDir = './';
+$videoDir = '';
 
 // Specify the full path of the video file
 $videoPath = $videoDir . $filename;
