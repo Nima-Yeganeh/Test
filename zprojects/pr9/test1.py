@@ -18,6 +18,7 @@ def download_tiktok_video(url, output_dir):
 
 # Example usage
 video_url = "https://www.tiktok.com/@username/video/1234567890"
+video_url = "https://www.tiktok.com/@actorchristiankeyes/video/7230559113724366122"
 output_directory = "/root/test/zprojects/pr9/"
 
 download_tiktok_video(video_url, output_directory)
