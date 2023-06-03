@@ -1,3 +1,3 @@
 docker compose up -d
-docker ps -a | grep 8000
+docker ps -a | grep php
 
