@@ -3,7 +3,7 @@ from wordpress_xmlrpc.methods import media, posts
 from wordpress_xmlrpc.compat import xmlrpc_client
 
 # Set up WordPress XML-RPC client
-url = 'https://test2.nimayeganeh.ir/xmlrpc.php'  # Replace with your WordPress site URL
+url = 'http://test2.nimayeganeh.ir/xmlrpc.php'  # Replace with your WordPress site URL
 username = 'admin'  # Replace with your WordPress username
 password = 'P@ssw0rd'  # Replace with your WordPress password
 
