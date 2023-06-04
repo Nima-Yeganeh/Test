@@ -4,3 +4,6 @@ docker volume rm test5_wordpress_redis1_data
 docker volume rm test5_wordpress_wordpress1_content
 docker compose up -d
 docker ps -a
+sleep 10
+bash commands_host_ver3_temp.sh
+
