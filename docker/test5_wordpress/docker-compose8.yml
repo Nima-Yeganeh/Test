@@ -16,7 +16,9 @@ services:
   wordpress1:
     depends_on:
       - db1
-    image: wordpress:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
     volumes:
       - wordpress1_content:/var/www/html/
       - ./htaccess:/var/www/html/.htaccess:ro
