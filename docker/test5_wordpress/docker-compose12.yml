@@ -58,20 +58,6 @@ services:
     volumes:
       - wordpress1_content:/var/www/html/
     restart: always
-    environment:
-      WORDPRESS_DB_HOST: db1:3306
-      WORDPRESS_DB_USER: wordpress
-      WORDPRESS_DB_PASSWORD: your_wordpress_password
-      WORDPRESS_DB_NAME: wordpress
-      WORDPRESS_CONFIG_EXTRA: |
-        /* Redis configuration */
-        define('WP_REDIS_HOST', 'redis1');
-        define('WP_REDIS_PORT', '6379');
-        define('WP_REDIS_PASSWORD', 'your-redis-password-here');
-        define('WP_CACHE_KEY_SALT', 'your-unique-salt-here');
-        define('WP_CACHE', true);
-        define('DISALLOW_FILE_EDIT', true);
-      REDIS_HOST: redis1
 
   nginx:
     image: nginx:latest
