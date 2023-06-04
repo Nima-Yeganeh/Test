@@ -13,9 +13,21 @@ services:
       MYSQL_USER: wordpress
       MYSQL_PASSWORD: your_wordpress_password
 
+  redis1:
+    image: redis:latest
+    restart: always
+    entrypoint: redis-server --appendonly yes --requirepass your-redis-password-here --maxmemory-policy allkeys-lru
+    ports:
+      - "6379"
+    volumes:
+      - redis1_data:/data
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+
   wordpress1:
     depends_on:
       - db1
+      - redis1
     build:
       context: .
       dockerfile: Dockerfile
@@ -37,6 +49,17 @@ services:
         define('WP_CACHE_KEY_SALT', 'your-unique-salt-here');
         define('WP_CACHE', true);
         define('DISALLOW_FILE_EDIT', true);
+      REDIS_HOST: redis1
+    ports:
+      - "8000"
+
+  nginx:
+    image: nginx:latest
+    restart: always
+    depends_on:
+      - wordpress1
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
     ports:
       - "80:80"
 
