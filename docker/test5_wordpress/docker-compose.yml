@@ -1,5 +1,7 @@
 version: '3.9'
+
 services:
+
   db1:
     image: mysql:5.7
     volumes:
@@ -10,6 +12,7 @@ services:
       MYSQL_DATABASE: wordpress
       MYSQL_USER: wordpress
       MYSQL_PASSWORD: your_wordpress_password
+
   redis1:
     image: redis:latest
     restart: always
@@ -20,6 +23,7 @@ services:
       - redis1_data:/data
       - /etc/timezone:/etc/timezone:ro
       - /etc/localtime:/etc/localtime:ro
+
   wordpress1:
     depends_on:
       - db1
@@ -46,6 +50,7 @@ services:
       REDIS_HOST: redis1
     ports:
       - "8000:80"
+
   nginx:
     image: nginx:latest
     restart: always
@@ -56,6 +61,7 @@ services:
       - ./htaccess:/var/www/html/.htaccess:ro
     ports:
       - "80:80"
+
 volumes:
   db1_data:
   wordpress1_content:
