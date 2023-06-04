@@ -16,7 +16,7 @@ services:
   redis1:
     image: redis:latest
     restart: always
-    entrypoint: redis-server --appendonly yes --requirepass your-redis-password-here --maxmemory-policy allkeys-lru
+    entrypoint: redis-server --appendonly yes --requirepass your-redis-password-here --maxmemory 512mb --maxmemory-policy allkeys-lru
     ports:
       - "6379"
     volumes:
