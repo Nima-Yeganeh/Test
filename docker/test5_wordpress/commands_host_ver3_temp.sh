@@ -1,5 +1,5 @@
 targethost="test5_wordpress-wordpress1-1"
-zurl="http://test2.nimayeganeh.ir"
+zurl="https://test2.nimayeganeh.ir"
 title="Just Another Blog"
 dbname="wordpress"
 dbuser="wordpress"
