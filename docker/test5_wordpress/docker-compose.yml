@@ -47,9 +47,10 @@ services:
         define('WP_REDIS_PASSWORD', 'your-redis-password-here');
         define('WP_CACHE_KEY_SALT', 'your-unique-salt-here');
         define('WP_CACHE', true);
+        define('DISALLOW_FILE_EDIT', true);
       REDIS_HOST: redis1
     ports:
-      - "8000:80"
+      - "8000"
 
   nginx:
     image: nginx:latest
