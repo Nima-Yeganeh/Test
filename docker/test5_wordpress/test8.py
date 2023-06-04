@@ -1,5 +1,6 @@
 from wordpress_xmlrpc import Client, WordPressPost
 from wordpress_xmlrpc.methods import media, posts
+from wordpress_xmlrpc.compat import xmlrpc_client
 
 # Set up WordPress XML-RPC client
 url = 'https://test2.nimayeganeh.ir/xmlrpc.php'  # Replace with your WordPress site URL
@@ -11,9 +12,17 @@ client = Client(url, username, password)
 # Path to the MP4 video file
 video_file_path = 'C:/Users/Nimay/nima_git/Test/docker/test5_wordpress/file.mp4'
 
-# Upload the video file to WordPress media library
+# Read the video file content
 with open(video_file_path, 'rb') as video_file:
-    response = client.call(media.UploadFile(video_file.name, video_file.read()))
+    video_data = video_file.read()
+
+# Create the WordPress media object
+data = {
+    'name': 'My Video',
+    'type': 'video/mp4',
+}
+
+response = client.call(media.UploadFile(data, video_data))
 
 # Get the URL of the uploaded video file
 video_url = response['url']
