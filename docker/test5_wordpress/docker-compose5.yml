@@ -34,7 +34,6 @@ services:
     volumes:
       - wordpress1_content:/var/www/html/
       - ./htaccess:/var/www/html/.htaccess:ro
-      - ./google0f1ec02adaf8b2e0.html:/var/www/html/google0f1ec02adaf8b2e0.html:ro
     restart: always
     environment:
       WORDPRESS_DB_HOST: db1:3306
@@ -60,6 +59,7 @@ services:
       - wordpress1
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./htaccess:/var/www/html/.htaccess:ro
     ports:
       - "80:80"
 
@@ -67,4 +67,3 @@ volumes:
   db1_data:
   wordpress1_content:
   redis1_data:
-
