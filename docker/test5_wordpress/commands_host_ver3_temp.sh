@@ -46,5 +46,8 @@ docker exec -it $targethost bash -c "chmod 400 wp-config.php"
 docker exec -it $targethost bash -c "rm -f license.txt"
 docker exec -it $targethost bash -c "rm -f readme.html"
 docker exec -it $targethost bash -c "wp plugin install login-lockdown --activate --allow-root"
-
+docker exec -it $targethost bash -c "chmod 755 wp-content"
+docker exec -it $targethost bash -c "chmod 755 wp-content/themes"
+docker exec -it $targethost bash -c "chmod 755 wp-content/plugins"
+docker exec -it $targethost bash -c "chmod 755 /var/www/html"
 
