@@ -13,7 +13,7 @@ services:
       MYSQL_USER: wordpress
       MYSQL_PASSWORD: your_wordpress_password
 
-  wp1:
+  wordpress1:
     depends_on:
       - db1
     image: wordpress:latest
@@ -37,16 +37,6 @@ services:
         define('DISALLOW_FILE_EDIT', true);
     ports:
       - "80:80"
-
-  wordpress1:
-    depends_on:
-      - wp1
-    build:
-      context: .
-      dockerfile: Dockerfile
-    volumes:
-      - wordpress1_content:/var/www/html/
-    restart: always
 
 volumes:
   db1_data:
