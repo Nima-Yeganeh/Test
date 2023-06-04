@@ -24,7 +24,7 @@ print(video_url)
 
 post = WordPressPost()
 post.title = 'My Video Post'
-post.content = f'<video src="{video_url}" controls></video>'
+post.content = f'<video src="{video_url}" controls frameborder="0" type="video/mp4 width="320" height="240"></video>'
 # post.content = 'Your post description'
 tags = ['tag1', 'tag2', 'tag3']
 post.terms_names = {
