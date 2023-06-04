@@ -19,7 +19,7 @@ data = {
 }
 with open(video_file_path, 'rb') as video_file:
     video_data = xmlrpc_client.Binary(video_file.read())
-    media_item = media.WordPressFile(video_data, data)
+    media_item = media.WordPressMedia(video_data, data)
     response = client.call(media.UploadFile(media_item))
 
 # Get the URL of the uploaded video file
