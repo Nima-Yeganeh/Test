@@ -41,3 +41,10 @@ docker exec -it $targethost bash -c "wp rewrite structure '/%year%/%monthnum%/%p
 docker exec -it $targethost bash -c "wp rewrite structure '/%postname%/' --allow-root"
 docker exec -it $targethost bash -c "wp cache flush --allow-root"
 docker exec -it $targethost bash -c "wp rewrite flush --allow-root"
+docker exec -it $targethost bash -c "rm -f wp-config-sample.php"
+docker exec -it $targethost bash -c "chmod 400 wp-config.php"
+docker exec -it $targethost bash -c "rm -f license.txt"
+docker exec -it $targethost bash -c "rm -f readme.html"
+docker exec -it $targethost bash -c "wp plugin install login-lockdown --activate --allow-root"
+
+
