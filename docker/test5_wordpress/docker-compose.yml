@@ -5,7 +5,7 @@ services:
   db1:
     image: mysql:5.7
     volumes:
-      - db_data1:/var/lib/mysql
+      - db1_data:/var/lib/mysql
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: your_mysql_password
