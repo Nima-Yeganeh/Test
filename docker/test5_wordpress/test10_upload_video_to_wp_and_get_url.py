@@ -5,7 +5,7 @@ from wordpress_xmlrpc.methods.media import UploadFile
 from wordpress_xmlrpc.methods.posts import NewPost
 from wordpress_xmlrpc.compat import xmlrpc_client
 
-url = 'https://test2.nimayeganeh.ir/xmlrpc.php'
+url = 'http://test2.nimayeganeh.ir/xmlrpc.php'
 username = 'admin'
 password = 'P@ssw0rd'
 
