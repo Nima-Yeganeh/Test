@@ -17,3 +17,7 @@ docker exec -it test5_wordpress-wordpress1-1 bash -c "wp site switch-language en
 docker exec -it test5_wordpress-wordpress1-1 bash -c "wp language core install fa_IR --allow-root"
 docker exec -it test5_wordpress-wordpress1-1 bash -c "wp site switch-language fa_IR --allow-root"
 
+docker exec -it test5_wordpress-wordpress1-1 bash -c "ls -anp"
+docker exec -it test5_wordpress-wordpress1-1 bash -c "cat wp-config.php"
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp plugin install loginizer --activate --allow-root"
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp plugin deactivate loginizer --allow-root"
