@@ -84,3 +84,5 @@ while IFS= read -r line; do
 	docker exec $targethost bash -c "wp post update 2 --post_content='Contact' --allow-root"
 done <<< "$file_contents"
 
+docker exec -it $targethost bash -c "chmod 755 wp-content/cache"
+

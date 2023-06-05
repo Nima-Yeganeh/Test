@@ -44,3 +44,12 @@ docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post update 2 --post_ti
 
 docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post update 2 --post_name='Contact' --allow-root"
 
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "ls -anp"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "ls -anp wp-content/themes"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "cat wp-content/themes/kadence/footer.php"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "chmod 755 wp-content/cache"
+
