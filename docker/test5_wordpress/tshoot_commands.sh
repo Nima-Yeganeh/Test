@@ -53,3 +53,6 @@ docker exec -it test5_wordpress-wordpress1-1 bash -c "cat wp-content/themes/kade
 
 docker exec -it test5_wordpress-wordpress1-1 bash -c "chmod 755 wp-content/cache"
 
+docker exec -it test5_wordpress-nginx-1 bash -c "ls -anp"
+
+docker exec -it test5_wordpress-nginx-1 bash -c "ls -anp /var/www/default"

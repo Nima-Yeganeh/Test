@@ -80,6 +80,7 @@ services:
       - wp1
     volumes:
       - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./default_html/:/var/www/default/:ro
     ports:
       - "80:80"
 
@@ -87,5 +88,4 @@ volumes:
   db1_data:
   wordpress1_content:
   redis1_data:
-
 
