@@ -22,10 +22,14 @@ echo '**** wp core install ****'
 # docker exec -it $targethost bash -c "wp core install --url=$zurl --title='$title' --admin_user=$admin_user --admin_password=$admin_password --admin_email=$admin_email --path=/var/www/html --allow-root --skip-email"
 echo '**** error checking ****'
 while [[ $current_attempt -le $max_attempts && $connected == false ]]; do
-    output=$(docker exec $targethost bash -c "wp core install --url=$zurl --title='$title' --admin_user=$admin_user --admin_password=$admin_password --admin_email=$admin_email --path=/var/www/html --allow-root --skip-email")
+    docker exec $targethost bash -c "wp core install --url=$zurl --title='$title' --admin_user=$admin_user --admin_password=$admin_password --admin_email=$admin_email --path=/var/www/html --allow-root --skip-email" > tempfile 2>&1
+    output=$(cat tempfile)
+    # echo $output
+    # sleep 20
+    # cat tempfile | grep -w 'Error'
     # cat $output
     # echo $output
-    echo $output
+    # echo $output
     echo '********'
     # sleep 20
     if [[ $output == *"Error"* ]]; then
