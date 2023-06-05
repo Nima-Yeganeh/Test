@@ -88,4 +88,3 @@ volumes:
   wordpress1_content:
   redis1_data:
 
-
