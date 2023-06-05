@@ -14,10 +14,10 @@ client = Client(url, username, password)
 post = WordPressPost()
 
 post.post_type = 'post'
-post.title = 'Example Post'
-post.content = 'This is the content of the example post.'
+post.title = 'عنوان پست جدید'
+post.content = 'سلام. این توضیحات جدید برای پست می باشد. تشکر'
 post.thumbnail = '26'
-post.terms_names = {'category': ['Test Category 3'], 'post_tag': ['tag11', 'tag22', 'tag33']}
+post.terms_names = {'category': ['Test Category 3 | گروه تست سوم'], 'post_tag': ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']}
 # post.terms_names = {'post_tag': ['tag11', 'tag22', 'tag33']}
 post.post_status = 'publish'
 
