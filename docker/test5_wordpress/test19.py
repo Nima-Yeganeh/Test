@@ -25,6 +25,8 @@ filename = os.path.basename(image_path)
 file = {'name': filename, 'type': 'image/jpeg', 'bits': xmlrpc_client.Binary(data)}
 response = client.call(UploadFile(file))
 
+print(response['id'])
+
 # Create a new post object
 post = {
     'post_type': 'post',
