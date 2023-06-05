@@ -6,4 +6,7 @@ docker compose up -d
 docker ps -a
 # sleep 20
 bash commands_host_ver3_temp.sh
+bash commands_host_ver3_temp_test1.sh
+bash commands_host_ver3_temp_test5.sh
+# bash do5.sh
 
