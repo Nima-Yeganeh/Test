@@ -9,30 +9,7 @@ dbprefix="wp_"
 admin_user="admin"
 admin_password="P@ssw0rd"
 admin_email="admin@domain.local"
-
-max_attempts=9999
-current_attempt=1
-connected=false
-
 docker exec -it $targethost bash -c "wp --info"
-
-while [[ $current_attempt -le $max_attempts && $connected == false ]]; do
-    output=$(docker exec -it $targethost bash -c "wp core config --dbname=$dbname --dbuser=$dbuser --dbpass=$dbpass --dbhost=$dbhost --dbprefix=$dbprefix --path=/var/www/html --allow-root")
-    if [[ $output == *"Error establishing a database connection."* ]]; then
-        echo "Database connection error. Retrying... (Attempt: $current_attempt)"
-        sleep 5  # Adjust the sleep duration as needed
-        current_attempt=$((current_attempt + 1))
-    else
-        echo "Database connection successful!"
-        connected=true
-    fi
-done
-
-if [[ $connected == false ]]; then
-    echo "Failed to establish a database connection after $max_attempts attempts."
-    exit 1
-fi
-
 docker exec -it $targethost bash -c "wp core config --dbname=$dbname --dbuser=$dbuser --dbpass=$dbpass --dbhost=$dbhost --dbprefix=$dbprefix --path=/var/www/html --allow-root"
 docker exec -it $targethost bash -c "wp core install --url=$zurl --title='$title' --admin_user=$admin_user --admin_password=$admin_password --admin_email=$admin_email --path=/var/www/html --allow-root --skip-email"
 docker exec -it $targethost bash -c "wp config list --allow-root"
