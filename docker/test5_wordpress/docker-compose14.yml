@@ -26,18 +26,32 @@ services:
 
   wp1:
     depends_on:
-      - wordpress1
+      - db1
+      - redis1
     image: wordpress:latest
     volumes:
       - wordpress1_content:/var/www/html/
       - ./htaccess:/var/www/html/.htaccess:ro
       - ./google0f1ec02adaf8b2e0.html:/var/www/html/google0f1ec02adaf8b2e0.html:ro
     restart: always
+    environment:
+      WORDPRESS_DB_HOST: db1:3306
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: your_wordpress_password
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_CONFIG_EXTRA: |
+        /* Redis configuration */
+        define('WP_REDIS_HOST', 'redis1');
+        define('WP_REDIS_PORT', '6379');
+        define('WP_REDIS_PASSWORD', 'your-redis-password-here');
+        define('WP_CACHE_KEY_SALT', 'your-unique-salt-here');
+        define('WP_CACHE', true);
+        define('DISALLOW_FILE_EDIT', true);
+      REDIS_HOST: redis1
 
   wordpress1:
     depends_on:
-      - db1
-      - redis1
+      - wp1
     build:
       context: .
       dockerfile: Dockerfile
