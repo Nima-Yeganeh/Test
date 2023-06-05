@@ -14,7 +14,7 @@ password = 'P@ssw0rd'
 client = Client(url, username, password)
 
 # Create a new post
-post = WordPressPost()
+# post = WordPressPost()
 
 # Upload the image file
 image_path = 'file1.jpg'
@@ -26,6 +26,8 @@ file = {'name': filename, 'type': 'image/jpeg', 'bits': xmlrpc_client.Binary(dat
 response = client.call(UploadFile(file))
 
 print(response['id'])
+response_id = response['id']
+print(response_id)
 
 # Create a new post object
 post = {
@@ -33,7 +35,7 @@ post = {
     'post_title': 'Example Post',
     'post_content': 'This is the content of the example post.',
     'post_status': 'publish',
-    'thumbnail': response['id'],
+    'thumbnail': '26',
     'terms_names': {
         'post_tag': ['tag11', 'tag22', 'tag33']  # Assign existing tags to the post
     }
