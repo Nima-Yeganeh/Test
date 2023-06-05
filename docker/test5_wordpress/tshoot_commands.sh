@@ -23,3 +23,24 @@ docker exec -it test5_wordpress-wordpress1-1 bash -c "wp plugin install loginize
 docker exec -it test5_wordpress-wordpress1-1 bash -c "wp plugin deactivate loginizer --allow-root"
 
 docker exec -it test5_wordpress-wordpress1-1 bash -c "wp config set DISALLOW_FILE_EDIT true --raw --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post list --post_type=page --post_status=draft --post_title='privacy policy' --field=ID --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post delete $(wp post list --post_type=page --post_status=draft --post_title='privacy policy' --field=ID --allow-root) --force --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post --help --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post list --post_type=post --post_status=any --post_title='Hello World' --field=ID --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c ""
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post list --post_type=page --post_status=publish --s='Sample Page' --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post list --post_type=page --post_status=publish --s='Sample Page' --field=ID --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post update <sample_page_id> --post_title='Contact' --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post update 2 --post_title='Contact' --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp post update 2 --post_name='Contact' --allow-root"
+
