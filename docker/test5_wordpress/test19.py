@@ -40,7 +40,7 @@ post = {
 # post.thumbnail = response['id']
 
 # Publish the post
-post.post_status = 'publish'
+# post.post_status = 'publish'
 
 # Create the new post on WordPress
 post_id = client.call(NewPost(post))
