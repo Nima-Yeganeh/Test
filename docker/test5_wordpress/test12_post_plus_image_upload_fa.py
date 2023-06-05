@@ -29,7 +29,7 @@ post.terms_names = {
 }
 
 # Set the post category
-category = ['Test Category 3']
+category = ['Test Category 3 | گروه تست سوم']
 post.terms_names = {
     'category': category
 }
