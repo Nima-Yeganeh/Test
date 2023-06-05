@@ -22,6 +22,7 @@ tags = client.call(GetTerms('post_tag'))
 tag_names = ['tag1', 'tag2', 'tag3']
 tag_slugs = [tag.slug for tag in tags if tag.name in tag_names]
 post.terms_names = {'post_tag': tag_slugs}
+post.post_status = 'publish'
 
 # Publish the post
 post_id = client.call(NewPost(post))
