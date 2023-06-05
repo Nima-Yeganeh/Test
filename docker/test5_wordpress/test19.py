@@ -16,6 +16,15 @@ client = Client(url, username, password)
 # Create a new post
 post = WordPressPost()
 
+# Upload the image file
+image_path = 'file1.jpg'
+
+with open(image_path, 'rb') as img:
+    data = img.read()
+filename = os.path.basename(image_path)
+file = {'name': filename, 'type': 'image/jpeg', 'bits': xmlrpc_client.Binary(data)}
+response = client.call(UploadFile(file))
+
 # Create a new post object
 post = {
     'post_type': 'post',
@@ -27,17 +36,8 @@ post = {
     }
 }
 
-# Upload the image file
-image_path = 'file1.jpg'
-
-with open(image_path, 'rb') as img:
-    data = img.read()
-filename = os.path.basename(image_path)
-file = {'name': filename, 'type': 'image/jpeg', 'bits': xmlrpc_client.Binary(data)}
-response = client.call(UploadFile(file))
-
 # Set the image as the featured image of the post
-post.thumbnail = response['id']
+# post.thumbnail = response['id']
 
 # Publish the post
 post.post_status = 'publish'
