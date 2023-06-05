@@ -17,10 +17,11 @@ post.post_type = 'post'
 post.title = 'Example Post'
 post.content = 'This is the content of the example post.'
 post.thumbnail = '26'
-post.terms_names = {'category': ['Test Category 3']}
-post.terms_names = {'post_tag': ['tag11', 'tag22', 'tag33']}
+post.terms_names = {'category': ['Test Category 3'], 'post_tag': ['tag11', 'tag22', 'tag33']}
+# post.terms_names = {'post_tag': ['tag11', 'tag22', 'tag33']}
 post.post_status = 'publish'
 
 post_id = client.call(NewPost(post))
 
 print('New post created with ID:', post_id)
+
