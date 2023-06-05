@@ -13,7 +13,7 @@ client = Client(site_url, username, password)
 # Create a new tag
 new_tag = WordPressTerm()
 new_tag.taxonomy = 'post_tag'  # Specify the taxonomy as 'post_tag' for tags
-new_tag.name = 'New Tag'  # Specify the name of the new tag
+new_tag.name = 'tag3'  # Specify the name of the new tag
 
 # Create the tag
 created_tag = client.call(taxonomies.NewTerm(new_tag))
