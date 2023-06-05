@@ -14,9 +14,10 @@ client = Client(url, username, password)
 post = WordPressPost()
 
 post.post_type = 'post'
-post.post_title = 'Example Post'
-post.post_content = 'This is the content of the example post.'
+post.title = 'Example Post'
+post.content = 'This is the content of the example post.'
 post.thumbnail = '26'
+post.terms_names = {'category': ['Test Category 3']}
 post.terms_names = {'post_tag': ['tag11', 'tag22', 'tag33']}
 post.post_status = 'publish'
 
