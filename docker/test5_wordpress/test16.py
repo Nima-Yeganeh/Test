@@ -20,6 +20,6 @@ created_tag = client.call(taxonomies.NewTerm(new_tag))
 
 # Check if the tag was created successfully
 if created_tag:
-    print('Tag created successfully with ID:', created_tag.id)
+    print('Tag created successfully.')
 else:
     print('Failed to create the tag.')
