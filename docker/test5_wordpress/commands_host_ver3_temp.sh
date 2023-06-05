@@ -57,4 +57,4 @@ docker exec -it $targethost bash -c "wp user update admin --user_nicename='Nimax
 # docker exec -it $targethost bash -c "wp option update hide_login_slug new-login-url --allow-root"
 # docker exec -it $targethost bash -c "wp rewrite flush --allow-root"
 # docker exec -it $targethost bash -c "wp plugin deactivate hide-login --allow-root"
-
+docker exec -it $targethost bash -c "wp config set DISALLOW_FILE_EDIT true --raw --allow-root"

@@ -21,3 +21,5 @@ docker exec -it test5_wordpress-wordpress1-1 bash -c "ls -anp"
 docker exec -it test5_wordpress-wordpress1-1 bash -c "cat wp-config.php"
 docker exec -it test5_wordpress-wordpress1-1 bash -c "wp plugin install loginizer --activate --allow-root"
 docker exec -it test5_wordpress-wordpress1-1 bash -c "wp plugin deactivate loginizer --allow-root"
+
+docker exec -it test5_wordpress-wordpress1-1 bash -c "wp config set DISALLOW_FILE_EDIT true --raw --allow-root"
