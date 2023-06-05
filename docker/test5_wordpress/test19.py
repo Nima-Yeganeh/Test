@@ -31,6 +31,7 @@ post = {
     'post_title': 'Example Post',
     'post_content': 'This is the content of the example post.',
     'post_status': 'publish',
+    'thumbnail': response['id'],
     'terms_names': {
         'post_tag': ['tag11', 'tag22', 'tag33']  # Assign existing tags to the post
     }
