@@ -10,7 +10,7 @@ admin_user="admin"
 admin_password="P@ssw0rd"
 admin_email="admin@domain.local"
 
-max_attempts=9999
+max_attempts=99
 current_attempt=1
 connected=false
 
@@ -21,8 +21,8 @@ docker exec -it $targethost bash -c "wp core config --dbname=$dbname --dbuser=$d
 echo '**** wp core install ****'
 # docker exec -it $targethost bash -c "wp core install --url=$zurl --title='$title' --admin_user=$admin_user --admin_password=$admin_password --admin_email=$admin_email --path=/var/www/html --allow-root --skip-email"
 echo '**** error checking ****'
+echo 'Error' > tempfile
 while [[ $current_attempt -le $max_attempts && $connected == false ]]; do
-    docker exec $targethost bash -c "wp core install --url=$zurl --title='$title' --admin_user=$admin_user --admin_password=$admin_password --admin_email=$admin_email --path=/var/www/html --allow-root --skip-email" > tempfile 2>&1
     output=$(cat tempfile)
     # echo $output
     # sleep 20
@@ -36,6 +36,7 @@ while [[ $current_attempt -le $max_attempts && $connected == false ]]; do
         echo "Database connection error. Retrying... (Attempt: $current_attempt)"
         sleep 2  # Adjust the sleep duration as needed
         current_attempt=$((current_attempt + 1))
+	docker exec $targethost bash -c "wp core install --url=$zurl --title='$title' --admin_user=$admin_user --admin_password=$admin_password --admin_email=$admin_email --path=/var/www/html --allow-root --skip-email" > tempfile 2>&1
     else
         echo "Database connection successful!"
         connected=true
@@ -48,7 +49,7 @@ if [[ $connected == false ]]; then
 fi
 
 echo '**** error resolved ****'
-sleep 20
+sleep 5
 
 docker exec -it $targethost bash -c "wp core config --dbname=$dbname --dbuser=$dbuser --dbpass=$dbpass --dbhost=$dbhost --dbprefix=$dbprefix --path=/var/www/html --allow-root"
 docker exec -it $targethost bash -c "wp core install --url=$zurl --title='$title' --admin_user=$admin_user --admin_password=$admin_password --admin_email=$admin_email --path=/var/www/html --allow-root --skip-email"
