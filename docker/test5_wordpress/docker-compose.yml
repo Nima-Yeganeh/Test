@@ -30,9 +30,6 @@ services:
     image: wordpress:latest
     volumes:
       - wordpress1_content:/var/www/html/
-      - ./htaccess:/var/www/html/.htaccess:ro
-      - ./google0f1ec02adaf8b2e0.html:/var/www/html/google0f1ec02adaf8b2e0.html:ro
-      - ./footer.php:/var/www/html/footer2.php:ro
     restart: always
 
   wordpress1:
@@ -44,6 +41,9 @@ services:
       dockerfile: Dockerfile
     volumes:
       - wordpress1_content:/var/www/html/
+      - ./htaccess:/var/www/html/.htaccess:ro
+      - ./google0f1ec02adaf8b2e0.html:/var/www/html/google0f1ec02adaf8b2e0.html:ro
+      - ./footer.php:/var/www/html/footer.php:ro
     restart: always
     environment:
       WORDPRESS_DB_HOST: db1:3306
