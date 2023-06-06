@@ -32,6 +32,7 @@ if ($lineNumber !== false) {
                 // echo "The line number $lineNumber in $file2 contains: $line";
                 $mp3_url = $line;
                 $mp3_url = str_replace(' ', '', $mp3_url);
+                $mp3_url = 'https://dl.next1.ir/files/2023/06/tak/MortezaPashaei-NazarBiHamsafarSham-128%28www.Next1.ir%29.mp3';
                 // Fetch the MP3 file contents
                 $mp3_data = file_get_contents($mp3_url);
                 // Check if the file data was retrieved successfully
