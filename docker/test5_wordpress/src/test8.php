@@ -1,5 +1,7 @@
 <?php
 
+// Start To Play Without Delay
+
 $filename = $_GET['filename'];
 
 // Search for the filename in file1.txt and retrieve the line number
