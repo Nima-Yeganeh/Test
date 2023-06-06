@@ -34,10 +34,10 @@ if ($lineNumber !== false) {
 		        $mp3_url = str_replace(' ', '', $mp3_url);
 		        $mp3_url = trim($mp3_url);
                 // Get the file size
-                $file_size = filesize($mp3_url);
+                // $file_size = filesize($mp3_url);
                 // Set appropriate headers for streaming
                 header('Content-Type: audio/mpeg');
-                header('Content-Length: ' . $file_size);
+                // header('Content-Length: ' . $file_size);
                 header('Content-Disposition: inline; filename="file.mp3"');
                 // Stream the MP3 file
                 readfile($mp3_url);
