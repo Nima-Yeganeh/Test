@@ -31,6 +31,7 @@ if ($lineNumber !== false) {
             if ($currentLine === $lineNumber) {
                 // echo "The line number $lineNumber in $file2 contains: $line";
                 $mp3_url = $line;
+                $mp3_url = str_replace(' ', '', $mp3_url);
                 // Fetch the MP3 file contents
                 $mp3_data = file_get_contents($mp3_url);
                 // Check if the file data was retrieved successfully
