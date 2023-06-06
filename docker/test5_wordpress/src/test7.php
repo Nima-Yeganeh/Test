@@ -32,7 +32,7 @@ if ($lineNumber !== false) {
                 // echo "The line number $lineNumber in $file2 contains: $line";
                 $mp3_url = $line;
                 // Fetch the MP3 file contents
-                $mp3_data = file_get_contents($mp3_url);              
+                $mp3_data = file_get_contents($mp3_url);
                 // Check if the file data was retrieved successfully
                 if ($mp3_data === false) {
                     echo "Failed to retrieve the MP3 file.";
@@ -42,7 +42,7 @@ if ($lineNumber !== false) {
                 $mp3_size = strlen($mp3_data);
                 // Set the appropriate content type and content length headers for playing audio
                 header('Content-type: audio/mpeg');
-                header("Content-length: $mp3_size");               
+                header("Content-length: $mp3_size");
                 // Output the MP3 file data
                 echo $mp3_data;
                 break;
