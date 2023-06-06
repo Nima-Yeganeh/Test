@@ -39,16 +39,8 @@ if ($lineNumber !== false) {
                 header('Content-Type: audio/mpeg');
                 header('Content-Length: ' . $file_size);
                 header('Content-Disposition: inline; filename="file.mp3"');
-                // Open the MP3 file using fopen and stream it
-                $file_handle = fopen($mp3_url, 'rb');
-                if ($file_handle) {
-                    while (!feof($file_handle)) {
-                        echo fread($file_handle, 4096);
-                    }
-                    fclose($file_handle);
-                } else {
-                    echo 'Failed to open the MP3 file.';
-                }
+                // Stream the MP3 file
+                readfile($mp3_url);
                 break;
             }
         }
