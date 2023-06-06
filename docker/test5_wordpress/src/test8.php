@@ -38,7 +38,7 @@ if ($lineNumber !== false) {
                 // Set appropriate headers for streaming
                 header('Content-Type: audio/mpeg');
                 header('Content-Length: ' . filesize($mp3_url));
-                header('Content-Disposition: inline; filename="'.$filename.'"');
+                header('Content-Disposition: inline; filename="file.mp3"');
                 // Stream the file
                 readfile($mp3_url);
                 break;
@@ -51,3 +51,4 @@ if ($lineNumber !== false) {
 } else {
     echo "The filename '$filename' was not found!";
 }
+

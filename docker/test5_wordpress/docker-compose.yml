@@ -64,8 +64,6 @@ services:
     volumes:
       - ./src:/var/www/html:ro
       - ./php.ini:/usr/local/etc/php/php.ini:ro
-    ports:
-      - "8081:80"
 
   nginx:
     image: nginx:latest
