@@ -59,11 +59,6 @@ services:
         define('DISALLOW_FILE_EDIT', true);
       REDIS_HOST: redis1
 
-  php1:
-    image: php:7.4-apache
-    volumes:
-      - ./src:/var/www/html:ro
-
   nginx:
     image: nginx:latest
     restart: always
