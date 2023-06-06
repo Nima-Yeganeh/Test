@@ -63,6 +63,8 @@ services:
     image: php:7.4-apache
     volumes:
       - ./src:/var/www/html:ro
+      - ./php.ini:/usr/local/etc/php/php.ini:ro
+      - ./apache.conf:/etc/apache2/conf-available/my-apache.conf:ro
     ports:
       - "8081:80"
 
