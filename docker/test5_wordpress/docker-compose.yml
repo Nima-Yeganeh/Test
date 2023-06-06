@@ -63,6 +63,8 @@ services:
     image: php:7.4-apache
     volumes:
       - ./src:/var/www/html:ro
+    ports:
+      - "8081:80"
 
   nginx:
     image: nginx:latest
