@@ -13,8 +13,8 @@ zdetailfile="zdetailfile.txt"
 zcontentfile="zcontentfile.txt"
 ztestfile="test8.txt"
 ztesttemp="test8_temp.txt"
-rm -f $file2
-touch $file2
+# rm -f $file2
+# touch $file2
 # echo "" > $file2
 
 # echo "Enter a 4-character code: "
