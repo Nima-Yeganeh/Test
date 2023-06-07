@@ -111,7 +111,8 @@ while IFS= read -r zline; do
     fi
 
     echo "$zline" >> $file2
-    sleep 20  
-    
+    sleep 5  
+
+
   fi
 done < "$file1"
