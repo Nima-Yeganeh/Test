@@ -26,6 +26,7 @@ while IFS= read -r zline; do
     # cat test8_temp.txt
     if [ -s "test8_temp.txt" ]; then
       echo "File is not empty."
+
       rm -f $zmp3file
       while IFS= read -r line; do
         # echo "$line"
@@ -39,6 +40,7 @@ while IFS= read -r zline; do
       done < "test8_temp.txt"
       cat $zmp3file
       ls -anp | grep mp3
+
     else
       echo "File is empty."
     fi
