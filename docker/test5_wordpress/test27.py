@@ -21,6 +21,8 @@ post.thumbnail_url = 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Nature
 post.external_image = 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Nature_.jpg'
 post.external_image_url = 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Nature_.jpg'
 post.external_featured_image_url = 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Nature_.jpg'
+post.external_url = 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Nature_.jpg'
+post.dcmsExternalImage = 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Nature_.jpg'
 post.post_status = 'publish'
 
 # Publish the post
