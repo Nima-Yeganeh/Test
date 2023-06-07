@@ -90,7 +90,7 @@ while IFS= read -r zline; do
 
     echo "$zline" >> $file2
     echo "**********"
-    read -p "Press Enter to continue: " input
+    read input
     
   fi
 done < "$file1"
