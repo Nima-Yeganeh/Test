@@ -59,18 +59,23 @@ while IFS= read -r zline; do
       cat $ztestfile | grep 'text-align: center;' | grep -oP '(?<=\>).*?(?=</span></p>)' | grep -oP '(?<=\>).*$' | grep -vE '<a\s|http' | grep -vE 'a\s|style' > $zdetailfile
       
       echo "ztitlefile:"
+      cat $ztitlefile
       cat $ztitlefile > $zcontentfile
       echo "zengfile:"
+      cat $zengfile
       cat $zengfile >> $zcontentfile
       echo "zinfofile:"
+      cat $zinfofile
       cat $zinfofile >> $zcontentfile
+      echo "zdetailfile:"
+      cat $zdetailfile
       cat $zdetailfile >> $zcontentfile
-      echo "zcontentfile:"
-      cat $zcontentfile
+      # echo "zcontentfile:"
+      # cat $zcontentfile
       cat $ztitlefile > $ztitle2file
       cat $zengfile >> $ztitle2file
-      echo "ztitle2file:"
-      cat $ztitle2file
+      # echo "ztitle2file:"
+      # cat $ztitle2file
       
     else
       echo "File is empty."
