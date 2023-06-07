@@ -30,7 +30,7 @@ while IFS= read -r zline; do
     while [ ! -s "$ztestfile" ]; do
       echo "File size is zero, retrying..."
       wget -O $ztestfile "$zline"
-      sleep 2
+      sleep 1
     done
     echo "File size is greater than zero." 
     cat $ztestfile | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 > $ztesttemp
@@ -40,8 +40,9 @@ while IFS= read -r zline; do
     else
       echo "File is empty."
     fi
-    sleep 10
+
+    echo "$zline" >> $file2
+    sleep 1
 
   fi
 done < "$file1"
-
