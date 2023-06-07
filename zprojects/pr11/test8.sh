@@ -3,8 +3,11 @@
 file1="file.txt"
 file2="filedone.txt"
 zmp3file="zmp3file.txt"
+zmp3fileurl="zmp3fileurl.txt"
 zmp4file="zmp4file.txt"
+zmp4fileurl="zmp4fileurl.txt"
 zjpgfile="zjpgfile.txt"
+zjpgfileurl="zjpgfileurl.txt"
 ztitlefile="ztitlefile.txt"
 ztitle2file="ztitle2file.txt"
 zengfile="zengfile.txt"
@@ -34,9 +37,16 @@ while IFS= read -r zline; do
     done
     echo "File size is greater than zero." 
     cat $ztestfile | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 > $ztesttemp
-    cat $ztesttemp
     if [ -s "$ztesttemp" ]; then
       echo "File is not empty."
+      cat $ztesttemp > $zmp3fileurl
+      cat $zmp3fileurl
+      cat test8.txt | grep -o '.*\.mp4' | grep -oP 'href="\K[^"]+' | grep mp4 > $ztesttemp
+      cat $ztesttemp > $zmp4fileurl
+      cat $zmp4fileurl
+      cat test8.txt | grep -o '.*\.jpg' | grep -oP 'src="\K[^"]+' | grep 480 > $ztesttemp
+      cat $ztesttemp > $zjpgfileurl
+      cat $zjpgfileurl
       
     else
       echo "File is empty."
