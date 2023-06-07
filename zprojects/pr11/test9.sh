@@ -1,5 +1,4 @@
-cat test8.txt | grep -n '<p style="text-align: center;"><span id="more-' | cut -d: -f1
-
+# cat test8.txt | grep -n '<p style="text-align: center;"><span id="more-' | cut -d: -f1
 # Find line number(s) for string1
 string1_line_numbers=$(grep -n '<p style="text-align: center;"><span id="more-' test8.txt | cut -d: -f1)
 
