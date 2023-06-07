@@ -86,6 +86,8 @@ while IFS= read -r zline; do
 
       cat test8.txt | grep -P '(?<=<p style="text-align: center;">).*?(?=</p>)|(?<=<span style).*?(?=</span>)' | sed 's/<span.*;">//g' | sed 's/<span.*;">//g' | sed 's/<\/span>//g' | sed 's/<span.*;">//g' | sed 's/<\/span>//g' | sed 's/<strong>//g' | sed 's|</strong>||g' | grep -vE '<a\s|http' | grep -vE '<a\s|span id' | sed 's/<br \/>//g' | sed 's/<\/p>//g' | sed 's/<p style="text-align: center;">//g' | sed 's/^[[:space:]]*//' | sed 's/<p>//g' | sed 's/<p class.*;">//g' | sed 's/<div.*">//g' | sed 's/<\/div>//g' | sed 's/ &#8230;//g' > $zdetailfile
 
+      bash test9.sh | grep -E -e 'text-align: center;' -e '<br />' -e '</p>' | grep -vE '<a\s|http' | grep -v '<span id="more' | sed 's/<p style=.*center;">//g' | sed 's/<br \/>//g' | sed 's/<\/p>//g' | sed 's/<span.*;"> //g' | sed 's/<span.*;">//g' | sed 's/<\/span>//g' | sed 's/<strong>//g' | sed 's|</strong>||g' | grep -vE '<a\s|aligncenter' >> $zdetailfile
+
 
       echo "ztitlefile:"
       cat $ztitlefile
