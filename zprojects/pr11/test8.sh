@@ -26,13 +26,12 @@ while IFS= read -r zline; do
     rm -f $ztempfile
     touch $ztempfile
     # Loop until the file size is more than zero
-    while [ ! -s "$file_path" ]; do
+    while [ ! -s "$ztempfile" ]; do
         echo "File size is zero, retrying..."
+        # wget -O $ztempfile "$zline"
         sleep 1
     done
-    echo "File size is greater than zero."
-
-    # wget -O test8.txt "$zline"
+    echo "File size is greater than zero." 
 
   fi
 done < "$file1"
