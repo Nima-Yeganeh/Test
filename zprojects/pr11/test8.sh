@@ -44,10 +44,10 @@ while IFS= read -r zline; do
       cat test8.txt | grep -o '.*\.mp4' | grep -oP 'href="\K[^"]+' | grep mp4 > $ztesttemp
       cat $ztesttemp > $zmp4fileurl
       cat $zmp4fileurl
-      cat test8.txt | grep -o '.*\.jpg' | grep -oP 'src="\K[^"]+' | grep 480 > $ztesttemp
+      cat test8.txt | grep 'img loading' | grep -o '.*\.jpg' |  grep -oP 'src="\K[^"]+' > $ztesttemp
       cat $ztesttemp > $zjpgfileurl
       cat $zjpgfileurl
-      
+
     else
       echo "File is empty."
     fi
