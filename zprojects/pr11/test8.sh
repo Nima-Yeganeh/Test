@@ -63,7 +63,7 @@ while IFS= read -r zline; do
 
       # bash test9.sh | grep -E -e 'text-align: center;' -e '<br />' -e '</p>' |  bash test9.sh | grep -E -e 'text-align: center;' -e '<br />' -e '</p>' | grep -vE '<a\s|http' | grep -v '<span id="more' | sed 's/<p style=.*center;">//g' | sed 's/<br \/>//g' | sed 's/<\/p>//g' > $zdetailfile
 
-      bash test9.sh | grep -E -e 'text-align: center;' -e '<br />' -e '</p>' | grep -vE '<a\s|http' | grep -v '<span id="more' | sed 's/<p style=.*center;">//g' | sed 's/<br \/>//g' | sed 's/<\/p>//g' | sed 's/<span.*;">//g' | sed 's/<\/span>//g' | sed 's/<strong>//g' | sed 's|</strong>||g'
+      bash test9.sh | grep -E -e 'text-align: center;' -e '<br />' -e '</p>' | grep -vE '<a\s|http' | grep -v '<span id="more' | sed 's/<p style=.*center;">//g' | sed 's/<br \/>//g' | sed 's/<\/p>//g' | sed 's/<span.*;">//g' | sed 's/<\/span>//g' | sed 's/<strong>//g' | sed 's|</strong>||g' > $zdetailfile
 
       echo "ztitlefile:"
       cat $ztitlefile
