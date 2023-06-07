@@ -89,8 +89,8 @@ while IFS= read -r zline; do
     fi
 
     echo "$zline" >> $file2
-    echo "**********"
-    read input
+    sleep 20
+    
     
   fi
 done < "$file1"
