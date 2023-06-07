@@ -89,11 +89,8 @@ while IFS= read -r zline; do
     fi
 
     echo "$zline" >> $file2
+    echo "**********"
+    read -p "Press Enter to continue: " input
     
-    read -p "Press Enter to continue or type 'q' to quit: " $input
-    if [[ "$input" == "q" ]]; then
-        break
-    fi
-
   fi
 done < "$file1"
