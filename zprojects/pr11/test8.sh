@@ -11,7 +11,8 @@ zengfile="zengfile.txt"
 zinfofile="zinfofile.txt"
 zdetailfile="zdetailfile.txt"
 zcontentfile="zcontentfile.txt"
-ztempfile="test8.txt"
+ztestfile="test8.txt"
+ztesttemp="test8_temp.txt"
 rm -f $file2
 touch $file2
 # echo "" > $file2
@@ -23,15 +24,18 @@ while IFS= read -r zline; do
   if ! grep -qF "$zline" "$file2"; then
 
     echo "$line"
-    rm -f $ztempfile
-    touch $ztempfile
+    rm -f $ztestfile
+    touch $ztestfile
     # Loop until the file size is more than zero
-    while [ ! -s "$ztempfile" ]; do
+    while [ ! -s "$ztestfile" ]; do
         echo "File size is zero, retrying..."
-        # wget -O $ztempfile "$zline"
+        wget -O $ztestfile "$zline"
         sleep 1
     done
     echo "File size is greater than zero." 
+    cat $ztestfile | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 > $ztesttemp
+    cat $ztesttemp
+    sleep 10
 
   fi
 done < "$file1"
