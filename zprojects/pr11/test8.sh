@@ -61,8 +61,12 @@ while IFS= read -r zline; do
 
       cat $ztestfile | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<strong>).*?(?=</strong>)' | grep -vE '<a\s|http' | sed '/^$/d' | grep -v '^[[:space:]]*$' | grep -vE '^\s*$' | grep -vE '<a\s|style' > $zengfile
 
+      echo '' > $zengfile
+
       # cat $ztestfile | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<span style="color: #800000;">).*?(?=</span>)' | head -2 | tail -1 | grep -vE '<a\s|http' > $zinfofile
+      
       cat $ztestfile | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<span style="color: #800000;">).*?(?=</span>)' | grep -vE '<a\s|http' > $zinfofile
+
       # cat $ztestfile | grep -o '.*<br />' | sed 's/<p style="text-align: center;">//g' | sed 's/^[[:space:]]*//' | sed 's/<br \/>//g' | grep -vE '<a\s|http' | grep -vE 'a\s|strong' | grep -vE 'a\s|&#8211;' > $zdetailfile
       
       # cat $ztestfile | grep 'text-align: center;' | grep -oP '(?<=\>).*?(?=</span></p>)' | grep -oP '(?<=\>).*$' | grep -vE '<a\s|http' | grep -vE 'a\s|style' > $zdetailfile
@@ -72,6 +76,8 @@ while IFS= read -r zline; do
       # bash test9.sh | grep -E -e 'text-align: center;' -e '<br />' -e '</p>' |  bash test9.sh | grep -E -e 'text-align: center;' -e '<br />' -e '</p>' | grep -vE '<a\s|http' | grep -v '<span id="more' | sed 's/<p style=.*center;">//g' | sed 's/<br \/>//g' | sed 's/<\/p>//g' > $zdetailfile
 
       bash test9.sh | grep -E -e 'text-align: center;' -e '<br />' -e '</p>' | grep -vE '<a\s|http' | grep -v '<span id="more' | sed 's/<p style=.*center;">//g' | sed 's/<br \/>//g' | sed 's/<\/p>//g' | sed 's/<span.*;"> //g' | sed 's/<span.*;">//g' | sed 's/<\/span>//g' | sed 's/<strong>//g' | sed 's|</strong>||g' | grep -vE '<a\s|aligncenter' > $zdetailfile
+
+      cat test8.txt | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | sed 's/<span.*;">//g' | sed 's/<span.*;">//g' | sed 's/<\/span>//g' | sed 's/<span.*;">//g' | sed 's/<\/span>//g' | sed 's/<strong>//g' | sed 's|</strong>||g' | grep -vE '<a\s|http' | grep -vE '<a\s|span id' > $zdetailfile
 
       echo "ztitlefile:"
       cat $ztitlefile
