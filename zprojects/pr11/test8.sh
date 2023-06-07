@@ -13,6 +13,7 @@ zdetailfile="zdetailfile.txt"
 zcontentfile="zcontentfile.txt"
 ztestfile="test8.txt"
 ztesttemp="test8_temp.txt"
+zsleeptime=10
 rm -f $file2
 touch $file2
 # echo "" > $file2
@@ -28,14 +29,19 @@ while IFS= read -r zline; do
     touch $ztestfile
     # Loop until the file size is more than zero
     while [ ! -s "$ztestfile" ]; do
-        echo "File size is zero, retrying..."
-        wget -O $ztestfile "$zline"
-        sleep 1
+      echo "File size is zero, retrying..."
+      wget -O $ztestfile "$zline"
+      sleep $zsleeptime
     done
     echo "File size is greater than zero." 
     cat $ztestfile | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 > $ztesttemp
     cat $ztesttemp
-    sleep 10
+    if [ -s "$ztesttemp" ]; then
+      echo "File is not empty."
+    else
+      echo "File is empty."
+    fi
+    sleep $zsleeptime
 
   fi
 done < "$file1"
