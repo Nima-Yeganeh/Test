@@ -40,26 +40,38 @@ while IFS= read -r zline; do
     if [ -s "$ztesttemp" ]; then
       echo "File is not empty."
       cat $ztesttemp > $zmp3fileurl
+      echo "zmp3fileurl:"
       cat $zmp3fileurl
       cat $ztestfile | grep -o '.*\.mp4' | grep -oP 'href="\K[^"]+' | grep mp4 > $ztesttemp
       cat $ztesttemp > $zmp4fileurl
+      echo "zmp4fileurl:"
       cat $zmp4fileurl
       cat $ztestfile | grep 'img loading' | grep -o '.*\.jpg' |  grep -oP 'src="\K[^"]+' > $ztesttemp
       cat $ztesttemp > $zjpgfileurl
+      echo "zjpgfileurl:"
       cat $zjpgfileurl
 
       cat $ztestfile | grep -oP '(?<=<h1>).*?(?=</h1>)' > $ztitlefile
       cat $ztestfile | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<strong>).*?(?=</strong>)' | head -2 > $zengfile
-      cat $ztestfile | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<span style="color: #800000;">).*?(?=</span>)' | head -2 | tail -1 | grep -vE '<a\s|http' > $zinfofile
-      cat $ztestfile | grep -o '.*<br />' | sed 's/<p style="text-align: center;">//g' | sed 's/^[[:space:]]*//' | sed 's/<br \/>//g' | grep -vE '<a\s|http' | grep -vE 'a\s|strong' | grep -vE 'a\s|&#8211;' > $zdetailfile
+      # cat $ztestfile | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<span style="color: #800000;">).*?(?=</span>)' | head -2 | tail -1 | grep -vE '<a\s|http' > $zinfofile
+      cat $ztestfile | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<span style="color: #800000;">).*?(?=</span>)' | grep -vE '<a\s|http' > $zinfofile
+      # cat $ztestfile | grep -o '.*<br />' | sed 's/<p style="text-align: center;">//g' | sed 's/^[[:space:]]*//' | sed 's/<br \/>//g' | grep -vE '<a\s|http' | grep -vE 'a\s|strong' | grep -vE 'a\s|&#8211;' > $zdetailfile
+      cat $ztestfile | grep 'text-align: center;' | grep -oP '(?<=\>).*?(?=</span></p>)' | grep -oP '(?<=\>).*$' | grep -vE '<a\s|http' | grep -vE 'a\s|style' > $zdetailfile
+      
+      echo "ztitlefile:"
       cat $ztitlefile > $zcontentfile
+      echo "zengfile:"
       cat $zengfile >> $zcontentfile
+      echo "zinfofile:"
       cat $zinfofile >> $zcontentfile
       cat $zdetailfile >> $zcontentfile
+      echo "zcontentfile:"
       cat $zcontentfile
       cat $ztitlefile > $ztitle2file
       cat $zengfile >> $ztitle2file
-
+      echo "ztitle2file:"
+      cat $ztitle2file
+      
     else
       echo "File is empty."
     fi
