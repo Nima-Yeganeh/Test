@@ -35,12 +35,13 @@ with open(ztitlefile, 'r') as file:
     file_contents = file.read()
 post.title = file_contents
 
+post.thumbnail = response['id']
+znewimageurl = response['url']
+
 # Read the file contents into a variable
 with open(zcontentfile, 'r') as file:
     file_contents = file.read()
 post.content = file_contents
-
-post.thumbnail = response['id']
 
 # Read the file contents into a variable
 with open(zcatfile, 'r') as file:
@@ -60,3 +61,4 @@ post.post_status = 'publish'
 post_id = client.call(NewPost(post))
 
 print('New post created with ID:', post_id)
+print('Image URL: ', znewimageurl)
