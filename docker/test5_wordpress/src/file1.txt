@@ -7,3 +7,5 @@ file5.mp3
 file6.mp3
 MehdiAhmadvand-Baroon320.mp3
 MehdiAhmadvand-Baroon128.mp3
+MajidRostami-HamoonHamishegi320.mp3
+MajidRostami-HamoonHamishegi128.mp3
