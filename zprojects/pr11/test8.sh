@@ -148,7 +148,7 @@ while IFS= read -r zline; do
         ls -anp | grep $filename
         zimagefile=$filename
 
-        if [[ $(curl -s "$zmp3fileurl" | wc -l) -gt 0 ]]; then
+        if [[ $(cat $zmp3fileurl | wc -l) -gt 0 ]]; then
 
           echo "mp3 files to check..."
 
