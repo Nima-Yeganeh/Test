@@ -1,8 +1,8 @@
-zjpgfilename = "zjpgfilename.txt"
+zjpgfilename = "path/to/your/zjpgfilename.txt"
 
-# Read the file contents into a variable
+# Read the first line of the file into a variable
 with open(zjpgfilename, 'r') as file:
-    file_contents = file.read()
+    first_line = file.readline().strip()
 
 # Print the variable
-print(file_contents)
+print(first_line)
