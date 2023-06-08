@@ -51,8 +51,14 @@ formatted_string = ', '.join(f"'{word}'" for word in words)
 # Print the formatted string
 # print(formatted_string)
 ztag = formatted_string
+<<<<<<< HEAD
 print(ztag)
 post.terms_names = {'category': [zcat], 'post_tag': ztag}
+=======
+# ztag = ['tag11 | ﺖﮔ', 'tag22 | ﺖﮔ', 'tag33 | ﺖﮔ']
+print([ztag])
+post.terms_names = {'category': [zcat], 'post_tag': [ztag]}
+>>>>>>> 77cfecd (done)
 
 post.post_status = 'publish'
 
