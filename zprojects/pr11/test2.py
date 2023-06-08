@@ -10,13 +10,14 @@ with open(file4_path, 'a') as file4:
     file4.write(content1)
 
 # Read contents of file2
-with open(file2_path, 'r') as file1:
+with open(file2_path, 'r') as file2:
     content2 = file2.read()
 with open(file4_path, 'a') as file4:
     file4.write(content2)
 
 # Read contents of file3
-with open(file3_path, 'r') as file1:
+with open(file3_path, 'r') as file3:
     content3 = file3.read()
 with open(file4_path, 'a') as file4:
     file4.write(content3)
+
