@@ -136,6 +136,7 @@ while IFS= read -r zline; do
       done
       echo "File size is greater than zero."
       ls -anp | grep $filename
+      zimagefile = $filename
 
       rm -f $zmp3newfileurl
       while IFS= read -r line; do
@@ -156,7 +157,7 @@ while IFS= read -r zline; do
       echo "" >> $zcontentfile
 
       python3 test21_post_cat_tag_image_upload_fa.py
-      rm -f $filename
+      rm -f $zimagefile
 
     else
       echo "File is empty."
