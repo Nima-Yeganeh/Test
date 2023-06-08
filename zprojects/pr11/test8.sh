@@ -23,6 +23,7 @@ ztesttemp="test8_temp.txt"
 zdlsitefilepath1filename="/root/test/docker/test5_wordpress/src/file1.txt"
 zdlsitefilepath2fileurl="/root/test/docker/test5_wordpress/src/file2.txt"
 zdlurlpath="https://test2-dl.nimayeganeh.ir/mp3-play.php?filename="
+zfile4="file4.htm"
 
 # rm -f $file2
 # touch $file2
@@ -159,6 +160,8 @@ while IFS= read -r zline; do
       # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
       # echo "" >> $zcontentfile
 
+      rm -f $zfile4
+      touch $zfile4
       python3 test21_post_cat_tag_image_upload_fa.py
       rm -f $zimagefile
 
@@ -168,7 +171,6 @@ while IFS= read -r zline; do
 
     echo "$zline" >> $file2
     sleep 20  
-
 
   fi
 done < "$file1"
