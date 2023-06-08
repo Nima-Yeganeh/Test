@@ -37,6 +37,7 @@ while IFS= read -r zline; do
     echo "$zline"
     rm -f $ztestfile
     touch $ztestfile
+
     # Loop until the file size is more than zero
     while [ ! -s "$ztestfile" ]; do
       echo "File size is zero, retrying..."
@@ -44,8 +45,10 @@ while IFS= read -r zline; do
       sleep 1
     done
     echo "File size is greater than zero." 
+
     cat $ztestfile | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 > $ztesttemp
     if [ -s "$ztesttemp" ]; then
+
       echo "File is not empty."
       cat $ztesttemp > $zmp3fileurl
       echo "zmp3fileurl:"
@@ -123,51 +126,59 @@ while IFS= read -r zline; do
       
       rm -f $zjpgfile
       rm -f $zjpgfilename
-      url=$(cat $zjpgfileurl | head -n 1)
-      echo $url
-      filename=$(basename "$url")
-      echo $filename
-      echo $filename > $zjpgfilename
-      cat $zjpgfilename
-      rm -f $filename
-      touch $filename
-      # Loop until the file size is more than zero
-      while [ ! -s "$filename" ]; do
-        echo "File size is zero, retrying..."
-        wget -O $filename "$url"
-        sleep 1
-      done
-      echo "File size is greater than zero."
-      ls -anp | grep $filename
-      zimagefile=$filename
+      if [[ $(cat "$zjpgfileurl" | wc -l) -gt 0 ]]; then
 
-      rm -f $zmp3newfileurl
-      while IFS= read -r line; do
-        echo "$line"
-        url=$line
-        echo $url >> $zdlsitefilepath2fileurl
-        filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
+        url=$(cat $zjpgfileurl | head -n 1)
+        echo $url
+        filename=$(basename "$url")
         echo $filename
-        echo $filename >> $zdlsitefilepath1filename
-        echo "$zdlurlpath$filename" >> $zmp3newfileurl
-      done < "$zmp3fileurl"
-      cat $zmp3newfileurl
+        echo $filename > $zjpgfilename
+        cat $zjpgfilename
+        rm -f $filename
+        touch $filename
 
-      url=$(cat $zmp3newfileurl | grep '128.mp3' | head -n1)
-      echo $url > $zmp3new128fileurl
-      cat $zmp3new128fileurl
-      
-      # echo "" >> $zcontentfile
-      # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
-      # echo "" >> $zcontentfile
+        # Loop until the file size is more than zero
+        while [ ! -s "$filename" ]; do
+          echo "File size is zero, retrying..."
+          wget -O $filename "$url"
+          sleep 1
+        done
+        echo "File size is greater than zero."
 
-      rm -f $zfile4
-      touch $zfile4
-      python3 test21_post_cat_tag_image_upload_fa.py
-      rm -f $zimagefile
+        ls -anp | grep $filename
+        zimagefile=$filename
+
+        rm -f $zmp3newfileurl
+        while IFS= read -r line; do
+          echo "$line"
+          url=$line
+          echo $url >> $zdlsitefilepath2fileurl
+          filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
+          echo $filename
+          echo $filename >> $zdlsitefilepath1filename
+          echo "$zdlurlpath$filename" >> $zmp3newfileurl
+        done < "$zmp3fileurl"
+        cat $zmp3newfileurl
+
+        url=$(cat $zmp3newfileurl | grep '128.mp3' | head -n1)
+        echo $url > $zmp3new128fileurl
+        cat $zmp3new128fileurl
+        
+        # echo "" >> $zcontentfile
+        # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
+        # echo "" >> $zcontentfile
+
+        rm -f $zfile4
+        touch $zfile4
+        python3 test21_post_cat_tag_image_upload_fa.py
+        rm -f $zimagefile
+
+      else
+        echo "No image file found!"
+      fi
 
     else
-      echo "File is empty."
+      echo "File is empty!"
     fi
 
     echo "$zline" >> $file2
