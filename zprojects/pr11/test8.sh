@@ -123,8 +123,18 @@ while IFS= read -r zline; do
       echo $filename
       echo $filename > $zjpgfilename
       cat $zjpgfilename
-      # wget -O $filename $url
-      sleep 10
+      rm -f $filename
+      touch $filename
+      # Loop until the file size is more than zero
+      while [ ! -s "$filename" ]; do
+        echo "File size is zero, retrying..."
+        wget -O $filename "$url"
+        sleep 1
+      done
+      echo "File size is greater than zero."
+      ls -anp | grep $filename
+      rm -f $filename
+      sleep 20
 
     else
       echo "File is empty."
