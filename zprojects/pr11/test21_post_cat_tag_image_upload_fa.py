@@ -41,7 +41,17 @@ post.thumbnail = response['id']
 with open(zcatfile, 'r') as file:
     file_contents = file.read()
 zcat = file_contents
-ztag = ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']
+
+# ztag = ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']
+string = 'دانلود آهنگ جدید Emo Band با نام شک'
+# Split the string into words
+words = string.split()
+# Create a new formatted string with single quotes and commas
+formatted_string = ', '.join(f"'{word}'" for word in words)
+# Print the formatted string
+# print(formatted_string)
+ztag = [formatted_string]
+
 post.terms_names = {'category': [zcat], 'post_tag': ztag}
 
 post.post_status = 'publish'
