@@ -3,7 +3,9 @@
 zmp3fileurl="zmp3fileurl.txt"  # Replace with the actual path to your file
 zmp3newfileurl="zmp3newfileurl.txt"
 
+
 rm -f $zmp3newfileurl
+
 
 # Read the file line by line and echo each line
 while IFS= read -r line; do

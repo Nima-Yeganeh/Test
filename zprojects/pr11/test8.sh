@@ -4,6 +4,7 @@ file1="file.txt"
 file2="filedone.txt"
 zmp3file="zmp3file.txt"
 zmp3fileurl="zmp3fileurl.txt"
+zmp3newfileurl="zmp3newfileurl.txt"
 zmp4file="zmp4file.txt"
 zmp4fileurl="zmp4fileurl.txt"
 zjpgfile="zjpgfile.txt"
@@ -18,6 +19,9 @@ zdetailfile2="zdetailfile2.txt"
 zcontentfile="zcontentfile.txt"
 ztestfile="test8.txt"
 ztesttemp="test8_temp.txt"
+zdlsitefilepath1filename="/root/test/docker/test5_wordpress/src/file1.txt"
+zdlsitefilepath2fileurl="/root/test/docker/test5_wordpress/src/file2.txt"
+zdlurlpath="https://test2-dl.nimayeganeh.ir/mp3-play.php?filename="
 
 # rm -f $file2
 # touch $file2
@@ -28,7 +32,7 @@ ztesttemp="test8_temp.txt"
 while IFS= read -r zline; do
   if ! grep -qF "$zline" "$file2"; then
 
-    echo "$line"
+    echo "$zline"
     rm -f $ztestfile
     touch $ztestfile
     # Loop until the file size is more than zero
@@ -114,7 +118,6 @@ while IFS= read -r zline; do
       # echo "ztitle2file:"
       # cat $ztitle2file
       
-
       rm -f $zjpgfile
       rm -f $zjpgfilename
       url=$(cat $zjpgfileurl | head -n 1)
@@ -133,6 +136,20 @@ while IFS= read -r zline; do
       done
       echo "File size is greater than zero."
       ls -anp | grep $filename
+
+      rm -f $zmp3newfileurl
+      while IFS= read -r line; do
+        echo "$line"
+        url=$line
+        echo $url >> $zdlsitefilepath2fileurl
+        filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
+        echo $filename
+        echo $filename >> $zdlsitefilepath1filename
+        echo "$zdlurlpath$filename" >> $zmp3newfileurl
+      done < "$zmp3fileurl"
+      cat $zmp3newfileurl
+
+
       python3 test21_post_cat_tag_image_upload_fa.py
       rm -f $filename
 
