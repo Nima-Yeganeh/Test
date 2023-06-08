@@ -168,6 +168,7 @@ while IFS= read -r zline; do
             fi
           done < "$zmp3fileurl"
 
+          echo $valid
           sleep 20
 
           if $valid; then
