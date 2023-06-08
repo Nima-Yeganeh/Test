@@ -8,6 +8,7 @@ zmp4file="zmp4file.txt"
 zmp4fileurl="zmp4fileurl.txt"
 zjpgfile="zjpgfile.txt"
 zjpgfileurl="zjpgfileurl.txt"
+zjpgfilename="zjpgfilename.txt"
 ztitlefile="ztitlefile.txt"
 ztitle2file="ztitle2file.txt"
 zengfile="zengfile.txt"
@@ -113,6 +114,18 @@ while IFS= read -r zline; do
       # echo "ztitle2file:"
       # cat $ztitle2file
       
+
+      rm -f $zjpgfile
+      rm -f $zjpgfilename
+      url=$(cat $zjpgfileurl)
+      echo $url
+      filename=$(basename "$url")
+      echo $filename
+      echo $filename > $zjpgfilename
+      cat $zjpgfilename
+      # wget -O $filename $url
+      sleep 10
+
     else
       echo "File is empty."
     fi
