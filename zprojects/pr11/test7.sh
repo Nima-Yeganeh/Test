@@ -1,4 +1,4 @@
-zmp3fileurls="zmp3fileurl.txt"
+zmp3fileurl="zmp3fileurl.txt"
 
 valid=true
 
