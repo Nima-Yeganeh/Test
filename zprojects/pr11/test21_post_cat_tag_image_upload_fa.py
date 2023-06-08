@@ -35,9 +35,14 @@ with open(zcontentfile, 'r') as file:
     file_contents = file.read()
 post.content = file_contents
 
-zcat = 'test1'
 post.thumbnail = response['id']
+
+# Read the file contents into a variable
+with open(zcatfile, 'r') as file:
+    file_contents = file.read()
+zcat = file_contents
 post.terms_names = {'category': [zcat], 'post_tag': ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']}
+
 post.post_status = 'publish'
 
 post_id = client.call(NewPost(post))
