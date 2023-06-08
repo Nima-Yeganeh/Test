@@ -151,40 +151,63 @@ while IFS= read -r zline; do
         if [[ $(cat $zmp3fileurl | wc -l) -gt 0 ]]; then
 
           echo "mp3 files to check..."
+          valid=true
 
-          rm -f $zmp3newfileurl
-          while IFS= read -r line; do
-            echo "$line"
-            url=$line
-            echo $url >> $zdlsitefilepath2fileurl
-            filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
-            echo $filename
-            echo $filename >> $zdlsitefilepath1filename
-            echo "$zdlurlpath$filename" >> $zmp3newfileurl
+          while IFS= read -r url; do         
+            echo $url
+            headers=$(curl -sI "$url")
+            content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
+            if [[ -n "$content_length" ]]; then
+              if (( content_length <= 1024 )); then
+                valid=false
+                break
+              fi
+            else
+              valid=false
+              break
+            fi
           done < "$zmp3fileurl"
-          cat $zmp3newfileurl
 
-          if [[ $(cat "$zmp3newfileurl" | grep -E '128\.mp3|320\.mp3' | head -n1 | wc -l) -gt 0 ]]; then
+          if $valid; then
+            echo "OK mp3 url links..."
           
-            echo "ok"
-            url=$(cat $zmp3newfileurl | grep -E '128\.mp3|320\.mp3' | head -n1)
-            echo $url > $zmp3new128fileurl
-            cat $zmp3new128fileurl
-            
-            # echo "" >> $zcontentfile
-            # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
-            # echo "" >> $zcontentfile
+            rm -f $zmp3newfileurl
+            while IFS= read -r line; do
+              echo "$line"
+              url=$line
+              echo $url >> $zdlsitefilepath2fileurl
+              filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
+              echo $filename
+              echo $filename >> $zdlsitefilepath1filename
+              echo "$zdlurlpath$filename" >> $zmp3newfileurl
+            done < "$zmp3fileurl"
+            cat $zmp3newfileurl
 
-            rm -f $zfile4
-            touch $zfile4
-            python3 test21_post_cat_tag_image_upload_fa.py
+            if [[ $(cat "$zmp3newfileurl" | grep -E '128\.mp3|320\.mp3' | head -n1 | wc -l) -gt 0 ]]; then
 
+              echo "ok"
+              url=$(cat $zmp3newfileurl | grep -E '128\.mp3|320\.mp3' | head -n1)
+              echo $url > $zmp3new128fileurl
+              cat $zmp3new128fileurl
+              
+              # echo "" >> $zcontentfile
+              # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
+              # echo "" >> $zcontentfile
+
+              rm -f $zfile4
+              touch $zfile4
+              python3 test21_post_cat_tag_image_upload_fa.py
+
+            fi
+          
+          else
+            echo "no mp3 files to check!"
           fi
         
         else
-          echo "no mp3 files to check!"
+            echo "Not valid mp3 urls!"
         fi
-        
+
         rm -f $zimagefile
 
       else
