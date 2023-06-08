@@ -65,6 +65,7 @@ while IFS= read -r zline; do
       echo "File is empty."
     fi
 
+
     cat test8.txt | grep -o '.*\.jpg' | grep -oP 'src="\K[^"]+' | grep 480 > test8_temp.txt
     # cat test8_temp.txt
     if [ -s "test8_temp.txt" ]; then

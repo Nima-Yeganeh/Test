@@ -134,7 +134,8 @@ while IFS= read -r zline; do
       echo "File size is greater than zero."
       ls -anp | grep $filename
       rm -f $filename
-      sleep 20
+
+      
 
     else
       echo "File is empty."
