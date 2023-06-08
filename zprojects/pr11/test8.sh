@@ -153,7 +153,7 @@ while IFS= read -r zline; do
       done < "$zmp3fileurl"
       cat $zmp3newfileurl
 
-      url=$(cat $zmp3newfileurl | grep '128.mp3')
+      url=$(cat $zmp3newfileurl | grep '128.mp3' | head -n1)
       echo $url > $zmp3new128fileurl
       cat $zmp3new128fileurl
       
