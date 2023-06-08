@@ -5,6 +5,7 @@ file2="filedone.txt"
 zmp3file="zmp3file.txt"
 zmp3fileurl="zmp3fileurl.txt"
 zmp3newfileurl="zmp3newfileurl.txt"
+zmp3new128fileurl="zmp3new128fileurl.txt"
 zmp4file="zmp4file.txt"
 zmp4fileurl="zmp4fileurl.txt"
 zjpgfile="zjpgfile.txt"
@@ -151,10 +152,12 @@ while IFS= read -r zline; do
       cat $zmp3newfileurl
 
       url=$(cat $zmp3newfileurl | grep '128.mp3')
-      echo $url
-      echo "" >> $zcontentfile
-      echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
-      echo "" >> $zcontentfile
+      echo $url > $zmp3new128fileurl
+      cat $zmp3new128fileurl
+      
+      # echo "" >> $zcontentfile
+      # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
+      # echo "" >> $zcontentfile
 
       python3 test21_post_cat_tag_image_upload_fa.py
       rm -f $zimagefile
