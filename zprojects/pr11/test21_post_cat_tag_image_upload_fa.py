@@ -12,10 +12,23 @@ ztitlefile = "ztitlefile.txt"
 zcontentfile = "zcontentfile.txt"
 zcatfile = "zcatfile.txt"
 zjpgfilename = "zjpgfilename.txt"
+zfile1 = 'file1.htm'
+zfile2 = 'file2.htm'
+zfile3 = 'file3.htm'
+zfile4 = 'file4.htm'
+zmp3new128fileurl = 'zmp3new128fileurl.txt'
+mp3url = ''
+imgurl = ''
 
 client = Client(url, username, password)
 
 post = WordPressPost()
+
+# Get MP3 File URL Link
+# Read the first line of the file into a variable
+with open(zmp3new128fileurl, 'r') as file:
+    first_line = file.readline().strip()
+mp3url = first_line
 
 # Read the first line of the file into a variable
 with open(zjpgfilename, 'r') as file:
@@ -36,10 +49,44 @@ with open(ztitlefile, 'r') as file:
 post.title = file_contents
 
 post.thumbnail = response['id']
-znewimageurl = response['url']
+
+# Get Image File URL Link
+imgurl = response['url']
+
+# Read contents of zcontentfile
+with open(zcontentfile, 'r') as file:
+    file_contents = file.read()
+with open(zfile4, 'a') as file4:
+    file4.write(file_contents)
+
+# Read contents of file1
+with open(zfile1, 'r') as file1:
+    content1 = file1.read()
+with open(zfile4, 'a') as file4:
+    file4.write(content1)
+
+# Append contents of the variable to file4
+with open(zfile4, 'a') as file4:
+    file4.write(mp3url)
+
+# Read contents of file2
+with open(zfile2, 'r') as file2:
+    content2 = file2.read()
+with open(zfile4, 'a') as file4:
+    file4.write(content2)
+
+# Append contents of the variable to file4
+with open(zfile4, 'a') as file4:
+    file4.write(imgurl)
+
+# Read contents of file3
+with open(zfile3, 'r') as file3:
+    content3 = file3.read()
+with open(zfile4, 'a') as file4:
+    file4.write(content3)
 
 # Read the file contents into a variable
-with open(zcontentfile, 'r') as file:
+with open(zfile4, 'r') as file:
     file_contents = file.read()
 post.content = file_contents
 
@@ -61,4 +108,6 @@ post.post_status = 'publish'
 post_id = client.call(NewPost(post))
 
 print('New post created with ID:', post_id)
-print('Image URL: ', znewimageurl)
+print('Image URL: ', imgurl)
+print('MP3 URL: ', mp3url)
+

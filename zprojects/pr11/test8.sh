@@ -113,6 +113,7 @@ while IFS= read -r zline; do
       echo "zdetailfile:"
       cat $zdetailfile
       cat $zdetailfile >> $zcontentfile
+      echo "" >> $zcontentfile
       # echo "zcontentfile:"
       # cat $zcontentfile
       cat $ztitlefile > $ztitle2file
