@@ -152,8 +152,6 @@ while IFS= read -r zline; do
 
           echo "mp3 files to check..."
           valid=true
-          
-          sleep 20
 
           while IFS= read -r url; do         
             echo $url
@@ -169,6 +167,8 @@ while IFS= read -r zline; do
               break
             fi
           done < "$zmp3fileurl"
+
+          sleep 20
 
           if $valid; then
             echo "OK mp3 url links..."
