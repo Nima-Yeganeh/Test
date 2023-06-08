@@ -50,7 +50,7 @@ words = string.split()
 formatted_string = ', '.join(f"'{word}'" for word in words)
 # Print the formatted string
 # print(formatted_string)
-ztag = [formatted_string]
+ztag = formatted_string
 print(ztag)
 post.terms_names = {'category': [zcat], 'post_tag': ztag}
 
