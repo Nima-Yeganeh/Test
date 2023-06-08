@@ -43,22 +43,23 @@ with open(zcatfile, 'r') as file:
 zcat = file_contents
 
 # ztag = ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']
-string = "How Are You"
+# string = "How Are You"
 # Split the string into words
-words = string.split()
+# words = string.split()
 # Create a new formatted string with single quotes and commas
-formatted_string = ', '.join(f"'{word}'" for word in words)
+# formatted_string = ', '.join(f"'{word}'" for word in words)
 # Print the formatted string
 # print(formatted_string)
-ztag = formatted_string
-<<<<<<< HEAD
-print(ztag)
+# ztag = formatted_string
+# print(ztag)
+
+string = 'how are you'
+# Split the string into words
+words = string.split()
+# Create a new list with single quotes for each word
+ztag = [f"'{word}'" for word in words]
+
 post.terms_names = {'category': [zcat], 'post_tag': ztag}
-=======
-# ztag = ['tag11 | ﺖﮔ', 'tag22 | ﺖﮔ', 'tag33 | ﺖﮔ']
-print([ztag])
-post.terms_names = {'category': [zcat], 'post_tag': [ztag]}
->>>>>>> 77cfecd (done)
 
 post.post_status = 'publish'
 
