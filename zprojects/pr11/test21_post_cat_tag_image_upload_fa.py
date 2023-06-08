@@ -17,10 +17,10 @@ client = Client(url, username, password)
 
 post = WordPressPost()
 
-# Read the file contents into a variable
+# Read the first line of the file into a variable
 with open(zjpgfilename, 'r') as file:
-    file_contents = file.read()
-image_path = file_contents
+    first_line = file.readline().strip()
+image_path = first_line
 
 with open(image_path, 'rb') as img:
     data = img.read()
