@@ -117,7 +117,7 @@ while IFS= read -r zline; do
 
       rm -f $zjpgfile
       rm -f $zjpgfilename
-      url=$(cat $zjpgfileurl)
+      url=$(cat $zjpgfileurl | head -n 1)
       echo $url
       filename=$(basename "$url")
       echo $filename
@@ -133,16 +133,15 @@ while IFS= read -r zline; do
       done
       echo "File size is greater than zero."
       ls -anp | grep $filename
+      python3 test21_post_cat_tag_image_upload_fa.py
       rm -f $filename
-
-      
 
     else
       echo "File is empty."
     fi
 
     echo "$zline" >> $file2
-    sleep 5  
+    sleep 20  
 
 
   fi
