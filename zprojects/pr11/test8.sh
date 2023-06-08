@@ -137,7 +137,7 @@ while IFS= read -r zline; do
       done
       echo "File size is greater than zero."
       ls -anp | grep $filename
-      zimagefile = $filename
+      zimagefile=$filename
 
       rm -f $zmp3newfileurl
       while IFS= read -r line; do
