@@ -169,10 +169,9 @@ while IFS= read -r zline; do
           done < "$zmp3fileurl"
 
           echo $valid
-          sleep 20
-
+          
           if $valid; then
-            echo "OK mp3 url links..."
+            echo "OK found valid mp3 url links..."
           
             rm -f $zmp3newfileurl
             while IFS= read -r line; do
@@ -204,11 +203,11 @@ while IFS= read -r zline; do
             fi
           
           else
-            echo "no mp3 files to check!"
+            echo "Not valid mp3 urls to check!"
           fi
         
         else
-            echo "Not valid mp3 urls!"
+            echo "No mp3 urls!"
         fi
 
         rm -f $zimagefile
