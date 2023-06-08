@@ -10,6 +10,7 @@ username = 'admin'
 password = 'P@ssw0rd'
 ztitlefile = "ztitlefile.txt"
 zcontentfile = "zcontentfile.txt"
+zcatfile = "zcatfile.txt"
 
 client = Client(url, username, password)
 
@@ -34,10 +35,9 @@ with open(zcontentfile, 'r') as file:
     file_contents = file.read()
 post.content = file_contents
 
+zcat = 'test1'
 post.thumbnail = response['id']
-# post.thumbnail = '26'
-post.terms_names = {'category': ['Test Category 3 | گروه تست سوم'], 'post_tag': ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']}
-# post.terms_names = {'post_tag': ['tag11', 'tag22', 'tag33']}
+post.terms_names = {'category': [zcat], 'post_tag': ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']}
 post.post_status = 'publish'
 
 post_id = client.call(NewPost(post))
