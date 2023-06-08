@@ -164,17 +164,22 @@ while IFS= read -r zline; do
           done < "$zmp3fileurl"
           cat $zmp3newfileurl
 
-          url=$(cat $zmp3newfileurl | grep '128.mp3' | head -n1)
-          echo $url > $zmp3new128fileurl
-          cat $zmp3new128fileurl
+          if [[ $(cat "$zmp3newfileurl" | grep -E '128\.mp3|320\.mp3' | head -n1 | wc -l) -gt 0 ]]; then
           
-          # echo "" >> $zcontentfile
-          # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
-          # echo "" >> $zcontentfile
+            echo "ok"
+            url=$(cat $zmp3newfileurl | grep -E '128\.mp3|320\.mp3' | head -n1)
+            echo $url > $zmp3new128fileurl
+            cat $zmp3new128fileurl
+            
+            # echo "" >> $zcontentfile
+            # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
+            # echo "" >> $zcontentfile
 
-          rm -f $zfile4
-          touch $zfile4
-          python3 test21_post_cat_tag_image_upload_fa.py
+            rm -f $zfile4
+            touch $zfile4
+            python3 test21_post_cat_tag_image_upload_fa.py
+
+          fi
         
         else
           echo "no mp3 files to check!"
