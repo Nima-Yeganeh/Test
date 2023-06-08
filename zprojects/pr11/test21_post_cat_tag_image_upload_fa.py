@@ -41,8 +41,8 @@ post.thumbnail = response['id']
 with open(zcatfile, 'r') as file:
     file_contents = file.read()
 zcat = file_contents
-ztag = 'tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ'
-post.terms_names = {'category': [zcat], 'post_tag': ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']}
+ztag = "'tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ'"
+post.terms_names = {'category': [zcat], 'post_tag': [ztag]}
 
 post.post_status = 'publish'
 
