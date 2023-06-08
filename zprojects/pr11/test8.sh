@@ -149,6 +149,11 @@ while IFS= read -r zline; do
       done < "$zmp3fileurl"
       cat $zmp3newfileurl
 
+      url=$(cat $zmp3newfileurl | grep '128.mp3')
+      echo $url
+      echo "" >> $zcontentfile
+      echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
+      echo "" >> $zcontentfile
 
       python3 test21_post_cat_tag_image_upload_fa.py
       rm -f $filename
