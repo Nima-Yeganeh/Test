@@ -5,10 +5,10 @@ from wordpress_xmlrpc.methods.media import UploadFile
 from wordpress_xmlrpc.methods.posts import NewPost
 from wordpress_xmlrpc.compat import xmlrpc_client
 
-# Define the WordPress credentials
 url = 'http://test2.nimayeganeh.ir/xmlrpc.php'
 username = 'admin'
 password = 'P@ssw0rd'
+ztitlefile = "ztitlefile.txt"
 
 client = Client(url, username, password)
 
@@ -22,7 +22,12 @@ file = {'name': filename, 'type': 'image/jpeg', 'bits': xmlrpc_client.Binary(dat
 response = client.call(UploadFile(file))
 
 post.post_type = 'post'
-post.title = 'عنوان پست جدید'
+
+# Read the file contents into a variable
+with open(ztitlefile, 'r') as file:
+    file_contents = file.read()
+post.title = file_contents
+
 post.content = 'سلام. این توضیحات جدید برای پست می باشد. تشکر'
 post.thumbnail = response['id']
 # post.thumbnail = '26'
