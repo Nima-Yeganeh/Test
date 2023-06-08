@@ -8,25 +8,25 @@
 		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>دانلود آهنگ جدید Emo Band با نام شک - نکست وان</title>
-	<meta name="description" content="دانلود آهنگ جدید Emo Band با نام شک با کیفیت های مختلف به صورت رایگان" />
-	<link rel="canonical" href="https://next1.ir/دانلود-آهنگ-جدید-emo-band-با-نام-شک/" />
+	<title>دانلود آهنگ زیبای مهدی احمدوند با نام بارون - نکست وان</title>
+	<meta name="description" content="دانلود آهنگ زیبای مهدی احمدوند با نام بارون با کیفیت های مختلف به صورت رایگان" />
+	<link rel="canonical" href="https://next1.ir/دانلود-آهنگ-زیبای-مهدی-احمدوند-با-نام-ب/" />
 	<meta property="og:locale" content="fa_IR" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="دانلود آهنگ جدید Emo Band با نام شک - نکست وان" />
-	<meta property="og:description" content="دانلود آهنگ جدید Emo Band با نام شک با کیفیت های مختلف به صورت رایگان" />
-	<meta property="og:url" content="https://next1.ir/دانلود-آهنگ-جدید-emo-band-با-نام-شک/" />
+	<meta property="og:title" content="دانلود آهنگ زیبای مهدی احمدوند با نام بارون - نکست وان" />
+	<meta property="og:description" content="دانلود آهنگ زیبای مهدی احمدوند با نام بارون با کیفیت های مختلف به صورت رایگان" />
+	<meta property="og:url" content="https://next1.ir/دانلود-آهنگ-زیبای-مهدی-احمدوند-با-نام-ب/" />
 	<meta property="og:site_name" content="بزرگترین سایت دانلود آهنگ جدید - نکست وان" />
 	<meta property="article:publisher" content="https://www.facebook.com/Next1Song" />
-	<meta property="article:published_time" content="2015-06-15T18:12:10+00:00" />
-	<meta property="article:modified_time" content="2015-06-15T18:50:57+00:00" />
-	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2015/06/EMOBand-Shak.jpg" />
-	<meta property="og:image:width" content="480" />
-	<meta property="og:image:height" content="480" />
+	<meta property="article:published_time" content="2015-05-13T10:45:01+00:00" />
+	<meta property="article:modified_time" content="2016-08-05T19:04:23+00:00" />
+	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2015/05/MehdiAhmadvand-Baroon.jpg" />
+	<meta property="og:image:width" content="450" />
+	<meta property="og:image:height" content="450" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta name="twitter:label1" content="نوشته‌شده بدست" />
 	<meta name="twitter:data1" content="next11admin" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/06/EMOBand-Shak.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2015/06/EMOBand-Shak.jpg","width":480,"height":480,"caption":"Emo Band - شک"},{"@type":"WebPage","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#webpage","url":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/","name":"دانلود آهنگ جدید Emo Band با نام شک - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#primaryimage"},"datePublished":"2015-06-15T18:12:10+00:00","dateModified":"2015-06-15T18:50:57+00:00","description":"دانلود آهنگ جدید Emo Band با نام شک با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ جدید Emo Band با نام شک"}]},{"@type":"Article","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#article","isPartOf":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ جدید Emo Band با نام شک","datePublished":"2015-06-15T18:12:10+00:00","dateModified":"2015-06-15T18:50:57+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#webpage"},"wordCount":10,"commentCount":1,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2015/06/EMOBand-Shak.jpg","keywords":["Emo Band","Emo Band آهنگ شک","New Song","Nex 1 Music","Nex One Music","Nex1","Nex1Music","Next One Music","Next.ir","Next1","Next1Music","Song Of Shak From EMO Band","آهنگ","آهنگ Emo Band","آهنگ Emo Band با نام شک","آهنگ جدید","آهنگ جدید Emo Band","آهنگ جدید Emo Band با نام شک","آهنگ شک Emo Band","آهنگ شک از Emo Band","دانلود آهنگ","دانلود آهنگ Emo Band","دانلود آهنگ Emo Band با نام شک","دانلود آهنگ جدید","دانلود آهنگ جدید Emo Band","دانلود آهنگ جدید Emo Band با نام شک","دانلود آهنگ شک Emo Band","دانلود آهنگ شک از Emo Band","دانلود آهنگ نکست وان","دانلود موزیک","دانلود موزیک جدید","رسانه موسیقی نکست وان","سایت دانلود آهنگ","شک Emo Band","شک از Emo Band","موزیک جدید","نکس وان","نکس وان موزیک","نکست وان","نکست وان موزیک"],"articleSection":["Emo Band","تک آهنگ ها","غمگین","ویژه","پاپ"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/MehdiAhmadvand-Baroon.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/MehdiAhmadvand-Baroon.jpg","width":450,"height":450,"caption":"مهدی احمدوند - بارون"},{"@type":"WebPage","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#webpage","url":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/","name":"دانلود آهنگ زیبای مهدی احمدوند با نام بارون - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#primaryimage"},"datePublished":"2015-05-13T10:45:01+00:00","dateModified":"2016-08-05T19:04:23+00:00","description":"دانلود آهنگ زیبای مهدی احمدوند با نام بارون با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ زیبای مهدی احمدوند با نام بارون"}]},{"@type":"Article","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#article","isPartOf":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ زیبای مهدی احمدوند با نام بارون","datePublished":"2015-05-13T10:45:01+00:00","dateModified":"2016-08-05T19:04:23+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#webpage"},"wordCount":2,"commentCount":14,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2015/05/MehdiAhmadvand-Baroon.jpg","keywords":["Mehdi Ahmadvand","New Song","Nex 1 Music","Nex One Music","Nex1","Nex1Music","Next One Music","Next.ir","Next1","Next1Music","Song Of Baroon From Mehdi Ahmadvand","آهنگ بارون از مهدی احمدوند","آهنگ بارون مهدی احمدوند","آهنگ جدید","آهنگ جدید مهدی احمدوند","آهنگ جدید مهدی احمدوند با نام بارون","آهنگ زیبای مهدی احمدوند با نام بارون","آهنگ مهدی احمدوند","آهنگ مهدی احمدوند با نام بارون","بارون از مهدی احمدوند","بارون مهدی احمدوند","دانلود آهنگ","دانلود آهنگ بارون از مهدی احمدوند","دانلود آهنگ بارون مهدی احمدوند","دانلود آهنگ جدید","دانلود آهنگ جدید مهدی احمدوند","دانلود آهنگ جدید مهدی احمدوند با نام بارون","دانلود آهنگ زیبای مهدی احمدوند با نام بارون","دانلود آهنگ مهدی احمدوند","دانلود آهنگ مهدی احمدوند با نام بارون","دانلود آهنگ نکست وان","دانلود موزیک","دانلود موزیک جدید","رسانه موسیقی نکست وان","سایت دانلود آهنگ","متن آهنگ بارون از مهدی احمدوند","متن آهنگ بارون مهدی احمدوند","مهدی احمدوند","موزیک جدید","نکس وان","نکس وان موزیک","نکست وان","نکست وان موزیک"],"articleSection":["تک آهنگ ها","درخواستی","غمگین","مهدی احمدوند","پاپ"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -54,9 +54,9 @@ img.emoji {
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
 <link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='https://next1.ir/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6' type='text/css' media='screen' />
-<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/2743" /><link rel='shortlink' href='https://next1.ir/?p=2743' />
-<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-emo-band-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B4%25DA%25A9%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-emo-band-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B4%25DA%25A9%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/2206" /><link rel='shortlink' href='https://next1.ir/?p=2206' />
+<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25B2%25DB%258C%25D8%25A8%25D8%25A7%25DB%258C-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25A8%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25B2%25DB%258C%25D8%25A8%25D8%25A7%25DB%258C-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25A8%2F&#038;format=xml" />
 <script>
 	var blogUrl = 'https://next1.ir';
 	function likeThis(a){
@@ -74,7 +74,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</script><script>
 					(document.onload = function(){
 						var xhttp = new XMLHttpRequest();
-						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=2743&_="+(Math.floor(Math.random() * 99999) + 10000), true);
+						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=2206&_="+(Math.floor(Math.random() * 99999) + 10000), true);
 						xhttp.send();
 					})();
 				</script>				<script>(function () {var INSTALL_OPTIONS = {"token":"UA-113624283-1"}; (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", INSTALL_OPTIONS.token, "auto");ga("send", "pageview");})()</script>
@@ -214,122 +214,111 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<article>
 	<div class="box post">
 											<header>
-				<div class="title"><a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/" title="دانلود آهنگ جدید Emo Band با نام شک"><h1>دانلود آهنگ جدید Emo Band با نام شک</h1></a></div>	
+				<div class="title"><a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/" title="دانلود آهنگ زیبای مهدی احمدوند با نام بارون"><h1>دانلود آهنگ زیبای مهدی احمدوند با نام بارون</h1></a></div>	
 				<div class="under-title"><span class="right">
-								<a href="/category/tak/" title="تک آهنگ" class="post-type">تک آهنگ</a>
+									<a href="/category/requested/" title="درخواستی کاربران" class="post-type">درخواستی</a>
 				 , 
-				7,072 بازدید</span><span class="left">۲۵ام خرداد ۱۳۹۴</span></div>
+				67,246 بازدید</span><span class="left">۲۳ام اردیبهشت ۱۳۹۴</span></div>
 				</header>
 				<div class="content e-content">
-					<p style="text-align: center;"><a href="https://next1.ir/wp-content/uploads/2015/06/EMOBand-Shak.jpg"><img loading="lazy"class="aligncenter wp-image-2935 size-full" src="https://next1.ir/wp-content/uploads/2015/06/EMOBand-Shak.jpg" alt="Emo Band - شک" width="480" height="480" /></a></p>
-<p style="text-align: center;"><span style="color: #000000;"><strong><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ جدید</a> Emo Band با نام شک<br />
-</strong></span></p>
-<p style="text-align: center;"><span style="color: #800000;">ترانه سرا : باران بهرامی     تنظیم ، میکس و مسترینگ : رضا پناهی</span></p>
-<p style="text-align: center;"><strong><span style="color: #800000;">منتشر شد</span></strong></p>
-<p class="ac" style="text-align: center;"><span style="color: #000000;">جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> شک از <a href="https://next1.ir/category/artists/emo-band/">Emo Band</a> با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن آهنگ از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید…</span></p>
-<p class="ac" style="text-align: center;"><span id="more-2743"></span></p>
-<p style="text-align: center;"><strong>متن <span style="color: #000000;">آهنگ شک از Emo Band</span> :</strong></p>
+					<p style="text-align: center;"><a href="https://next1.ir/wp-content/uploads/2015/05/MehdiAhmadvand-Baroon.jpg"><img loading="lazy"class="aligncenter wp-image-2207 size-full" src="https://next1.ir/wp-content/uploads/2015/05/MehdiAhmadvand-Baroon.jpg" alt="مهدی احمدوند - بارون" width="450" height="450" /></a></p>
+<p style="text-align: center;"><strong><span style="color: #000000;"><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ</a> زیبای مهدی احمدوند با نام بارون</span></strong></p>
+<p style="text-align: center;"><span style="color: #000000;"><span style="color: #800000;">ترانه سرا : مهرزاد امیرخانی     آهنگسازی و تنظیم : میلاد ترابی</span> </span></p>
+<p class="aligncenter" style="text-align: center;"><span style="color: #000000;">جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> بارون از <a href="https://next1.ir/category/artists/%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af/">مهدی احمدوند</a> با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن این آهنگ زیبا از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید…</span></p>
+<p class="aligncenter" style="text-align: center;"><span style="color: #000000;"><span id="more-2206"></span></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>متن آهنگ بارون از مهدی احمدوند :</strong></span></p>
 <p style="text-align: center;"><span style="color: #800000;"> <strong>♫     ♫  <a style="color: #800000;" href="https://next1.ir/tag/%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">نکست وان</a>  ♫    ♫</strong></span></p>
-<p style="text-align: center;"><span style="color: #000000;">به جای این که آرومم کنی دلمو به آتیش میکشی</span><br />
-<span style="color: #000000;"> نه میتونی از من بگذری نه با من دنباله آرامشی</span><br />
-<span style="color: #000000;"> میبینی چشمایه خیسمو ولی حواست نیست به حاله من</span><br />
-<span style="color: #000000;"> تو فراموشم کردی ولی نمیره فکرت از خیاله من</span><br />
-<span style="color: #000000;"> واضح تر از او چیزی که فکر بکنی تصویرتو تویه ذهنم حک میکنم</span><br />
-<span style="color: #000000;"> وقتی میبی<a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-emo-band-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%b4%da%a9/">ن</a>م که همش تو خودتی به بودنم کنار تو شک میکنم</span><br />
-<span style="color: #000000;"> شک میکنم حتی به حس بینمونم اما بازم میامو پیشت میشینم</span><br />
-<span style="color: #000000;"> وقتی ازم حستو پنهون میکنی خودمو دور از دنیای تو میبینم</span><br />
-<span style="color: #000000;"> به جای این که آرومم کنی دلمو به آتیش میکشی</span><br />
-<span style="color: #000000;"> نه میتونی از من بگذری نه با من دنباله آرامشی</span><br />
-<span style="color: #000000;"> میبینی چشمایه خیسمو ولی حواست نیست به حاله من</span><br />
-<span style="color: #000000;"> تو فراموشم کردی ولی نمیره فکرت از خیاله من</span></p>
-<p style="text-align: center;"><span style="color: #000000;">به جای این که آرومم کنی دلمو به آتیش میکشی</span><br />
-<span style="color: #000000;"> نه میتونی از من بگذری نه با من دنباله آرامشی</span><br />
-<span style="color: #000000;"> میبینی چشمایه خیسمو ولی حواست نیست به حاله من</span><br />
-<span style="color: #000000;"> تو فراموشم کردی ولی نمیره فکرت از خیاله من</span></p>
+<p style="text-align: center;"><span style="color: #000000;">این اتفاقی نیست که من تو این شلوغی دیدمت</span><br />
+<span style="color: #000000;"> فهمیدمت تا دیدمت ، تا دیدمت فهمیدمت</span><br />
+<span style="color: #000000;"> این اتفاقی نیست که من می‌بی<a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%b2%db%8c%d8%a8%d8%a7%db%8c-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a8/">ن</a>مت بازم تو رو</span><br />
+<span style="color: #000000;"> انگار تو تقدیر منی دیگه نمی‌بازم تو رو</span><br />
+<span style="color: #000000;"> زیر بارون با توام تو خیابون با توام</span><br />
+<span style="color: #000000;"> تو دلم برف اومده من تو زمستون با توام</span><br />
+<span style="color: #000000;"> حرفی از رفتن نزن نه نمیشه</span><br />
+<span style="color: #000000;"> من تو خیالم با توام تا خوبه حالم با توام</span><br />
+<span style="color: #000000;"> فنجون قهوه‌م خالیه اما تو فالم با توام</span><br />
+<span style="color: #000000;"> خواهشی دیگه ندارم این آخریشه</span><br />
+<span style="color: #000000;"> زیر بارون</span></p>
 <div dir="rtl" style="text-align: center;">
-<p><span style="color: #800000;"><strong>♫     ♫     ♫    ♫</strong></span></p>
+<p><span style="color: #800000;"> <strong>♫     ♫     ♫    ♫</strong></span></p>
 <div>
 <p><span style="color: #800000;"><strong>♫     ♫    <a style="color: #800000;" href="https://next1.ir/tag/next1/">Next1</a>.ir    ♫     ♫</strong></span></p>
 <p><span style="color: #800000;"><strong>♫     ♫     ♫    ♫</strong></span></p>
 </div>
 </div>
-<p style="text-align: center;"><span style="color: #000000;">از تو واسم مونده یه دنیا فاصله</span></p>
-<p style="text-align: center;"><span style="color: #000000;">تنها میمونی میگی نداری حوصله</span><br />
-<span style="color: #000000;"> واسه تو آسون اما واسه من مشکله</span><br />
-<span style="color: #000000;"> با خودمو فکر تو کلنجار میرم</span></p>
-<p style="text-align: center;"><span style="color: #000000;">با این شرایط نمیشه آروم بگیرم</span><br />
-<span style="color: #000000;"> خودت میدونی واسه چی از تو دلگیرم</span></p>
-<p style="text-align: center;"><span style="color: #000000;">به جای این که آرومم کنی دلمو به آتیش میکشی</span><br />
-<span style="color: #000000;"> نه میتونی از من بگذری نه با من دنباله آرامشی</span><br />
-<span style="color: #000000;"> میبینی چشمایه خیسمو ولی حواست نیست به حاله من</span><br />
-<span style="color: #000000;"> تو فراموشم کردی ولی نمیره فکرت از خیاله من</span></p>
-<p style="text-align: center;"><span style="color: #000000;">به جای این که آرومم کنی دلمو به آتیش میکشی</span><br />
-<span style="color: #000000;"> نه میتونی از من بگذری نه با من د<a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-emo-band-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%b4%da%a9/">ن</a>باله آرامشی</span><br />
-<span style="color: #000000;"> میبینی چشمایه خیسمو ولی حواست نیست به حاله من</span><br />
-<span style="color: #000000;"> تو فراموشم کردی ولی نمیره فکرت از خیاله من</span></p>
+<p style="text-align: center;"><span style="color: #000000;"> این اتفاقی نیست هنوز نگاه تو شکل منه</span><br />
+<span style="color: #000000;"> احساس من مثل توئه احساس تو مثل منه</span><br />
+<span style="color: #000000;"> این اتفاقی نیست ببین عطرت هنوزم با منه</span><br />
+<span style="color: #000000;"> احساس این لحظه‌ی من بدتر از عاشق بودنه</span><br />
+<span style="color: #000000;"> زیر بارون با توام تو خیابون با توام</span><br />
+<span style="color: #000000;"> تو دلم برف اومده من تو زمستون با توام</span><br />
+<span style="color: #000000;"> حرفی از رفتن نزن نه نمیشه</span><br />
+<span style="color: #000000;"> من تو خیالم با توام تا خوبه حالم با توام</span><br />
+<span style="color: #000000;"> فنجون قهوه‌م خالیه اما تو فالم با توام</span><br />
+<span style="color: #000000;"> خواهشی دیگه <a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%b2%db%8c%d8%a8%d8%a7%db%8c-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a8/">ن</a>دارم این آخریشه</span><br />
+<span style="color: #000000;"> زیر بارون</span></p>
 <p style="text-align: center;"><span style="color: #800000;"> <strong>♫     ♫  نکست وان  ♫    ♫</strong></span></p>
-<p class="ac" style="text-align: center;"><span style="color: #000000;"> </span></p>
 	
 				</div>
 							<div class="post-footer">
-					<div class="ft-like" style="width:50%;"><div id="iLikeThis-2743" class="iLikeThis"><div class="counter"><a onclick="likeThis(2743);" class="image">85 لایک</a></div></div></div>
-					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#comments">يک نظر</a></div>
+					<div class="ft-like" style="width:50%;"><div id="iLikeThis-2206" class="iLikeThis"><div class="counter"><a onclick="likeThis(2206);" class="image">770 لایک</a></div></div></div>
+					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comments">14 نظر</a></div>
 				</div>
 												<div class="box" id="downloads">
 						<div class="title"><h2>دانلود</h2></div>
-						<a rel="nofollow" href="https://dl.next1.ir/files/2015/06/tak/EMOBand-Shak-320%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2015/06/tak/EMOBand-Shak-128%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> 											</div>
+						<a rel="nofollow" href="https://dl.next1.ir/files/2015/05/tak/MehdiAhmadvand-Baroon-320%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2015/05/tak/MehdiAhmadvand-Baroon-128%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> 											</div>
 								<div class="box" id="playbox">
 					<div class="title">بفرستید برای دوستانتان</div>
 					<ul class="share_with">
-												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-emo-band-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B4%25DA%25A9%2F">تلگرام</a></li>
-						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-emo-band-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B4%25DA%25A9%2F">توییتر</a></li>
-						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-emo-band-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B4%25DA%25A9%2F">فیسبوک</a></li>
-						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-emo-band-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B4%25DA%25A9%2F">واتس آپ</a></li>
-						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-emo-band-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B4%25DA%25A9%2F">پینترست</a></li>
-						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-emo-band-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B4%25DA%25A9%2F">ایمیل</a></li>
+												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25B2%25DB%258C%25D8%25A8%25D8%25A7%25DB%258C-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25A8%2F">تلگرام</a></li>
+						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25B2%25DB%258C%25D8%25A8%25D8%25A7%25DB%258C-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25A8%2F">توییتر</a></li>
+						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25B2%25DB%258C%25D8%25A8%25D8%25A7%25DB%258C-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25A8%2F">فیسبوک</a></li>
+						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25B2%25DB%258C%25D8%25A8%25D8%25A7%25DB%258C-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25A8%2F">واتس آپ</a></li>
+						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25B2%25DB%258C%25D8%25A8%25D8%25A7%25DB%258C-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25A8%2F">پینترست</a></li>
+						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25B2%25DB%258C%25D8%25A8%25D8%25A7%25DB%258C-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25A8%2F">ایمیل</a></li>
 					</ul>
 				</div>
 													<div class="box" id="playbox">
 						<div class="title">هم اکنون گوش کنید</div>
-						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2015/06/tak/EMOBand-Shak-128%28www.Next1.ir%29.mp3" controls="controls" style="width: 100%;"></audio>
+						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2015/05/tak/MehdiAhmadvand-Baroon-128%28www.Next1.ir%29.mp3" controls="controls" style="width: 100%;"></audio>
 					</div>
 					<div class="box" id="code">
 						<div class="title">کد پخش این آهنگ در سایت و وبلاگ شما</div>
 						<textarea readonly="readonly" onclick="javascript:this.select();" tabindex="4">
 				<!-- Begin https://next1.ir -->
 				<script type="text/javascript">
-				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2015/06/tak/EMOBand-Shak-128%28www.Next1.ir%29.mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
+				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2015/05/tak/MehdiAhmadvand-Baroon-128%28www.Next1.ir%29.mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
 				</script>
 				<object id="player" height="24" width="190" type="application/x-shockwave-flash" name="player" style="outline: none" data="https://next1.ir/wp-content/themes/next1/audioplayer.swf">
 				<param name="bgcolor" value="#FFFFFF">
 				<param name="wmode" value="transparent">
 				<param name="menu" value="false">
-				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2015/06/tak/EMOBand-Shak-128%28www.Next1.ir%29.mp3&autostart=yes&titles=دانلود آهنگ جدید Emo Band با نام شک&loop=no&playerID=player">
+				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2015/05/tak/MehdiAhmadvand-Baroon-128%28www.Next1.ir%29.mp3&autostart=yes&titles=دانلود آهنگ زیبای مهدی احمدوند با نام بارون&loop=no&playerID=player">
 				<h2><a title="دانلود آهنگ جدید" href="https://next1.ir" target="_blank">دانلود آهنگ جدید</a></h2>
 				</object>
 				<!-- End https://next1.ir -->
 						</textarea>
 					</div>
-								<div class="alert"><a href="https://next1.ir/category/artists/emo-band/" rel="category tag">Emo Band</a> ، <a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a> ، <a href="https://next1.ir/category/style/%D8%BA%D9%85%DA%AF%DB%8C%D9%86/" rel="category tag">غمگین</a> ، <a href="https://next1.ir/category/special/" rel="category tag">ویژه</a> ، <a href="https://next1.ir/category/style/%D9%BE%D8%A7%D9%BE/" rel="category tag">پاپ</a></div>
+								<div class="alert"><a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a> ، <a href="https://next1.ir/category/requested/" rel="category tag">درخواستی</a> ، <a href="https://next1.ir/category/style/%D8%BA%D9%85%DA%AF%DB%8C%D9%86/" rel="category tag">غمگین</a> ، <a href="https://next1.ir/category/artists/%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF/" rel="category tag">مهدی احمدوند</a> ، <a href="https://next1.ir/category/style/%D9%BE%D8%A7%D9%BE/" rel="category tag">پاپ</a></div>
 						 
 	</div>
 	</article>
 																				<div class="box" id="latest">
-								<div class="title"><a rel="category tag" href="/category/artists/emo-band"><h3>دانلود آهنگ های Emo Band</a></h3></div>
-															<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d8%a7%d9%85%d9%88-%d8%a8%d8%a7%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d9%87%d9%86%d9%88%d8%b2%d9%85/" title="دانلود آهنگ امو باند با نام هنوزم"><div class="item">
-									<h2>امو باند  -  هنوزم</h2><span class="item-info">بدون نظر | 4,251 بازدید</span>
+								<div class="title"><a rel="category tag" href="/category/artists/%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF"><h3>دانلود آهنگ های مهدی احمدوند</a></h3></div>
+															<a rel="bookmark" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%ba%d9%84%d8%b7-%da%a9%d8%b1%d8%af%d9%85/" title="دانلود آهنگ مهدی احمدوند با نام غلط کردم"><div class="item">
+									<h2>مهدی احمدوند  -  غلط کردم</h2><span class="item-info">يک نظر | 13,083 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%a7%d9%85%d9%88-%d8%a8%d8%a7%d9%86%d8%af-%d8%a7%db%8c%d9%86-%d8%af%d9%86%db%8c%d8%a7/" title="دانلود آهنگ امو باند با نام این دنیا"><div class="item">
-									<h2>امو باند  -  این دنیا</h2><span class="item-info">بدون نظر | 4,816 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a8%da%af%db%8c%d8%b1-%d9%86%da%af/" title="دانلود آهنگ مهدی احمدوند با نام بگیر نگیر"><div class="item">
+									<h2>مهدی احمدوند  -  بگیر نگیر</h2><span class="item-info">2 نظر | 4,944 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%a7%d9%85%d9%88-%d8%a8%d8%a7%d9%86%d8%af-%d8%af%d9%84%d9%85-%d9%85%db%8c%d8%ae%d9%88%d8%a7%d8%af/" title="دانلود آهنگ امو باند با نام دلم میخواد"><div class="item">
-									<h2>امو باند  -  دلم میخواد</h2><span class="item-info">بدون نظر | 4,429 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%b3%d8%a7%d8%ad%d9%84/" title="دانلود آهنگ مهدی احمدوند با نام ساحل"><div class="item">
+									<h2>مهدی احمدوند  -  ساحل</h2><span class="item-info">بدون نظر | 7,525 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d8%a7%d9%85%d9%88-%d8%a8%d8%a7%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d9%87%d9%85%d8%af%d9%85/" title="دانلود آهنگ جدید امو باند با نام همدم"><div class="item">
-									<h2>امو باند  -  همدم</h2><span class="item-info">بدون نظر | 2,559 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a7%d9%84/" title="دانلود آهنگ جدید مهدی احمدوند با نام الهه ی ناز"><div class="item">
+									<h2>مهدی احمدوند  -  الهه ی ناز</h2><span class="item-info">بدون نظر | 10,581 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d8%a7%d9%85%d9%88-%d8%a8%d8%a7%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d9%85%d8%a7%d9%87-%d8%ae%d9%88%d8%b4/" title="دانلود آهنگ جدید امو باند با نام ماه خوشگلم"><div class="item">
-									<h2>امو باند  -  ماه خوشگلم</h2><span class="item-info">بدون نظر | 2,179 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d9%82%d8%af/" title="دانلود آهنگ جدید مهدی احمدوند با نام قدم قدم"><div class="item">
+									<h2>مهدی احمدوند  -  قدم قدم</h2><span class="item-info">بدون نظر | 6,638 بازدید</span>
 								</div></a>
 														</div>
 														
@@ -337,19 +326,189 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						<div class="title"><h5>نظرات</h5></div>
 						<div id="comments">
 						<div id="comments-wrap" class="comment-warp">
-					<div class="under-title"><span class="right">1 نظر ارسال شده </span></div>	
+					<div class="under-title"><span class="right">14 نظر ارسال شده </span></div>	
 <ul class="comments-list">
-		<li class="comment even thread-even depth-1" id="comment-799">
-				<div id="div-comment-799" class="comment-body">
+		<li class="comment even thread-even depth-1" id="comment-627">
+				<div id="div-comment-627" class="comment-body">
 				<div class="comment-author vcard">
-						<cite class="fn">تکصدا</cite> <span class="says">گفت:</span>		</div>
+						<cite class="fn">پویان</cite> <span class="says">گفت:</span>		</div>
 		
 		<div class="comment-meta commentmetadata">
-			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#comment-799">خرداد 17, 1394 در 8:39 ب.ظ</a>		</div>
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-627">اردیبهشت 23, 1394 در 7:31 ب.ظ</a>		</div>
 
-		<p>سلام آهنگ خیلی قشنگیه پیشنهاد میکنم دانلود کنید.</p>
+		<p>خیلی اهنگ قشنگی هست دمش گرم مهدی کارش حرف نداره :)</p>
 
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-799' data-commentid="799" data-postid="2743" data-belowelement="div-comment-799" data-respondelement="respond" data-replyto="پاسخ به تکصدا" aria-label='پاسخ به تکصدا'></a></div>
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-627' data-commentid="627" data-postid="2206" data-belowelement="div-comment-627" data-respondelement="respond" data-replyto="پاسخ به پویان" aria-label='پاسخ به پویان'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-1037">
+				<div id="div-comment-1037" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">matin</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-1037">مرداد 23, 1394 در 0:44 ق.ظ</a>		</div>
+
+		<p>OMAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY<br />
+GODDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-1037' data-commentid="1037" data-postid="2206" data-belowelement="div-comment-1037" data-respondelement="respond" data-replyto="پاسخ به matin" aria-label='پاسخ به matin'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-3729">
+				<div id="div-comment-3729" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">رزسبز</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-3729">فروردین 20, 1395 در 4:29 ب.ظ</a>		</div>
+
+		<p>عااالی بود ممنون</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-3729' data-commentid="3729" data-postid="2206" data-belowelement="div-comment-3729" data-respondelement="respond" data-replyto="پاسخ به رزسبز" aria-label='پاسخ به رزسبز'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-19101">
+				<div id="div-comment-19101" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">مهران</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-19101">دی 5, 1395 در 12:21 ب.ظ</a>		</div>
+
+		<p>عااااااالیه</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-19101' data-commentid="19101" data-postid="2206" data-belowelement="div-comment-19101" data-respondelement="respond" data-replyto="پاسخ به مهران" aria-label='پاسخ به مهران'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-19102">
+				<div id="div-comment-19102" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">مهران</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-19102">دی 5, 1395 در 12:22 ب.ظ</a>		</div>
+
+		<p>عااااااالیه. واقعا کارش درسته</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-19102' data-commentid="19102" data-postid="2206" data-belowelement="div-comment-19102" data-respondelement="respond" data-replyto="پاسخ به مهران" aria-label='پاسخ به مهران'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-24239">
+				<div id="div-comment-24239" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">یه دوست</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-24239">فروردین 14, 1396 در 3:32 ب.ظ</a>		</div>
+
+		<p>واقعا عالی مرسی اقا مهدی گل</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-24239' data-commentid="24239" data-postid="2206" data-belowelement="div-comment-24239" data-respondelement="respond" data-replyto="پاسخ به یه دوست" aria-label='پاسخ به یه دوست'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-28875">
+				<div id="div-comment-28875" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">atrisa</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-28875">مهر 11, 1396 در 9:58 ب.ظ</a>		</div>
+
+		<p>مهدی جونم اهنگات حرف نداره عاشقتم</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-28875' data-commentid="28875" data-postid="2206" data-belowelement="div-comment-28875" data-respondelement="respond" data-replyto="پاسخ به atrisa" aria-label='پاسخ به atrisa'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-37698">
+				<div id="div-comment-37698" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Arghavan</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-37698">دی 30, 1396 در 4:44 ب.ظ</a>		</div>
+
+		<p>آهنگ قشنگیه perfect :)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-37698' data-commentid="37698" data-postid="2206" data-belowelement="div-comment-37698" data-respondelement="respond" data-replyto="پاسخ به Arghavan" aria-label='پاسخ به Arghavan'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-45519">
+				<div id="div-comment-45519" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">کوثر</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-45519">آبان 28, 1397 در 4:45 ب.ظ</a>		</div>
+
+		<p>عااااااالی فقط همین⁦❤️⁩⁦❤️⁩</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-45519' data-commentid="45519" data-postid="2206" data-belowelement="div-comment-45519" data-respondelement="respond" data-replyto="پاسخ به کوثر" aria-label='پاسخ به کوثر'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-46637">
+				<div id="div-comment-46637" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Melika</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-46637">دی 7, 1397 در 10:49 ب.ظ</a>		</div>
+
+		<p>عشقی عشق</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-46637' data-commentid="46637" data-postid="2206" data-belowelement="div-comment-46637" data-respondelement="respond" data-replyto="پاسخ به Melika" aria-label='پاسخ به Melika'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-59647">
+				<div id="div-comment-59647" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">رضا باقری</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-59647">فروردین 2, 1399 در 10:29 ب.ظ</a>		</div>
+
+		<p>مرسی.عالی بود.دم همتون گرم</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-59647' data-commentid="59647" data-postid="2206" data-belowelement="div-comment-59647" data-respondelement="respond" data-replyto="پاسخ به رضا باقری" aria-label='پاسخ به رضا باقری'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-59713">
+				<div id="div-comment-59713" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">فاطمه</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-59713">فروردین 7, 1399 در 7:33 ق.ظ</a>		</div>
+
+		<p>عالی عالی بود جناب احمدوند</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-59713' data-commentid="59713" data-postid="2206" data-belowelement="div-comment-59713" data-respondelement="respond" data-replyto="پاسخ به فاطمه" aria-label='پاسخ به فاطمه'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-61679">
+				<div id="div-comment-61679" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">عسل</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-61679">مرداد 11, 1399 در 10:30 ب.ظ</a>		</div>
+
+		<p>عالی</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-61679' data-commentid="61679" data-postid="2206" data-belowelement="div-comment-61679" data-respondelement="respond" data-replyto="پاسخ به عسل" aria-label='پاسخ به عسل'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-62050">
+				<div id="div-comment-62050" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">زهرا</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#comment-62050">شهریور 13, 1399 در 5:00 ب.ظ</a>		</div>
+
+		<p>عالی بود</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-62050' data-commentid="62050" data-postid="2206" data-belowelement="div-comment-62050" data-respondelement="respond" data-replyto="پاسخ به زهرا" aria-label='پاسخ به زهرا'></a></div>
 				</div>
 				</li><!-- #comment-## -->
 </ul>
@@ -359,7 +518,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>
 <div id="respond">
 <div class="cancel-comment-reply">
-<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-emo-band-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B4%DA%A9/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
+<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%A8/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
 </div>
 <form action="https://next1.ir/wp-comments-post.php" method="post" id="commentform">
 <div class="commentdata">
@@ -376,10 +535,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>
 <div class="clear"></div>
 <input class="bluekey comment-button" name="submit" type="submit" id="submit" tabindex="5" value="ارسال نظر">
-<input type="hidden" name="comment_post_ID" value="2743">
-<input type='hidden' name='comment_post_ID' value='2743' id='comment_post_ID' />
+<input type="hidden" name="comment_post_ID" value="2206">
+<input type='hidden' name='comment_post_ID' value='2206' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="cf7eb9e52a" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="16"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="56a611049a" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="245"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
 </form>
 </div>
 </div>							<div class="alert">نظرات شما پس از بررسی و تایید نمایش داده می شود.</div>
@@ -389,7 +548,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 										<div class="box" id="alltags">
 						<div class="title">برچسب ها</div>
 						<ul>
-						<li>Emo Band</li><li>Emo Band آهنگ شک</li><li>New Song</li><li>Nex 1 Music</li><li>Nex One Music</li><li>Nex1</li><li>Nex1Music</li><li>Next One Music</li><li>Next.ir</li><li>Next1</li><li>Next1Music</li><li>Song Of Shak From EMO Band</li><li>آهنگ</li><li>آهنگ Emo Band</li><li>آهنگ Emo Band با نام شک</li><li>آهنگ جدید</li><li>آهنگ جدید Emo Band</li><li>آهنگ جدید Emo Band با نام شک</li><li>آهنگ شک Emo Band</li><li>آهنگ شک از Emo Band</li><li>دانلود آهنگ</li><li>دانلود آهنگ Emo Band</li><li>دانلود آهنگ Emo Band با نام شک</li><li>دانلود آهنگ جدید</li><li>دانلود آهنگ جدید Emo Band</li><li>دانلود آهنگ جدید Emo Band با نام شک</li><li>دانلود آهنگ شک Emo Band</li><li>دانلود آهنگ شک از Emo Band</li><li>دانلود آهنگ نکست وان</li><li>دانلود موزیک</li><li>دانلود موزیک جدید</li><li>رسانه موسیقی نکست وان</li><li>سایت دانلود آهنگ</li><li>شک Emo Band</li><li>شک از Emo Band</li><li>موزیک جدید</li><li>نکس وان</li><li>نکس وان موزیک</li><li>نکست وان</li><li>نکست وان موزیک</li>						</ul>
+						<li>Mehdi Ahmadvand</li><li>New Song</li><li>Nex 1 Music</li><li>Nex One Music</li><li>Nex1</li><li>Nex1Music</li><li>Next One Music</li><li>Next.ir</li><li>Next1</li><li>Next1Music</li><li>Song Of Baroon From Mehdi Ahmadvand</li><li>آهنگ بارون از مهدی احمدوند</li><li>آهنگ بارون مهدی احمدوند</li><li>آهنگ جدید</li><li>آهنگ جدید مهدی احمدوند</li><li>آهنگ جدید مهدی احمدوند با نام بارون</li><li>آهنگ زیبای مهدی احمدوند با نام بارون</li><li>آهنگ مهدی احمدوند</li><li>آهنگ مهدی احمدوند با نام بارون</li><li>بارون از مهدی احمدوند</li><li>بارون مهدی احمدوند</li><li>دانلود آهنگ</li><li>دانلود آهنگ بارون از مهدی احمدوند</li><li>دانلود آهنگ بارون مهدی احمدوند</li><li>دانلود آهنگ جدید</li><li>دانلود آهنگ جدید مهدی احمدوند</li><li>دانلود آهنگ جدید مهدی احمدوند با نام بارون</li><li>دانلود آهنگ زیبای مهدی احمدوند با نام بارون</li><li>دانلود آهنگ مهدی احمدوند</li><li>دانلود آهنگ مهدی احمدوند با نام بارون</li><li>دانلود آهنگ نکست وان</li><li>دانلود موزیک</li><li>دانلود موزیک جدید</li><li>رسانه موسیقی نکست وان</li><li>سایت دانلود آهنگ</li><li>متن آهنگ بارون از مهدی احمدوند</li><li>متن آهنگ بارون مهدی احمدوند</li><li>مهدی احمدوند</li><li>موزیک جدید</li><li>نکس وان</li><li>نکس وان موزیک</li><li>نکست وان</li><li>نکست وان موزیک</li>						</ul>
 					</div>
 						</div>
 </main><nav>
@@ -456,7 +615,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="footer-box">
 							<div class="title"><h2>پیشنهاد روز بخش موزیک ویدئو</h2></div>	
 				<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%85%D9%88%D8%B2%DB%8C%DA%A9-%D9%88%DB%8C%D8%AF%D8%A6%D9%88-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%81%D8%B1%D8%B2%D8%A7%D8%AF-%D9%81%D8%B1%D8%B2%DB%8C%D9%86-%D8%A8%D8%A7-6/" title="دانلود موزیک ویدئو جدید فرزاد فرزین با نام روزای تاریک"><div class="item">
-											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2017/11/FarzadFarzin-RoozayeTarik-65x65.jpg"  title="FarzadFarzin-RoozayeTarik" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="فرزاد فرزین - روزای تاریک" loading="lazy" />دانلود موزیک ویدئو جدید فرزاد فرزین با نام روزای تاریک<span class="item-info">بدون نظر | 3,143 بازدید</span></div></a>
+											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2017/11/FarzadFarzin-RoozayeTarik-65x65.jpg"  title="FarzadFarzin-RoozayeTarik" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="فرزاد فرزین - روزای تاریک" loading="lazy" />دانلود موزیک ویدئو جدید فرزاد فرزین با نام روزای تاریک<span class="item-info">بدون نظر | 3,144 بازدید</span></div></a>
 							</div>
 				<div class="footer-box" id="tags">
 					<div class="title">برترین خواننده ها</div>	
@@ -481,5 +640,5 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</footer>
 	<script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script></body>
 </html>
-<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-08 12:47:54 -->
+<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-08 15:44:21 -->
 <!-- Guest Mode -->
