@@ -194,3 +194,7 @@ AliLohrasbi-ManBeToHaghMidam320.mp3
 AliLohrasbi-ManBeToHaghMidam128.mp3
 HoseinEstiri-DivoonatamDivoone320.mp3
 HoseinEstiri-DivoonatamDivoone128.mp3
+MehdiMoghadam-YekiYedooneh320.mp3
+MehdiMoghadam-YekiYedooneh320.mp3
+AmirMohammadAndRezaSadeghi-Asheghi320.mp3
+AmirMohammadAndRezaSadeghi-Asheghi128.mp3
