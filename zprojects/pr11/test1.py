@@ -1,4 +1,4 @@
-zjpgfilename = "path/to/your/zjpgfilename.txt"
+zjpgfilename = "zjpgfilename.txt"
 
 # Read the first line of the file into a variable
 with open(zjpgfilename, 'r') as file:
