@@ -148,29 +148,38 @@ while IFS= read -r zline; do
         ls -anp | grep $filename
         zimagefile=$filename
 
-        rm -f $zmp3newfileurl
-        while IFS= read -r line; do
-          echo "$line"
-          url=$line
-          echo $url >> $zdlsitefilepath2fileurl
-          filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
-          echo $filename
-          echo $filename >> $zdlsitefilepath1filename
-          echo "$zdlurlpath$filename" >> $zmp3newfileurl
-        done < "$zmp3fileurl"
-        cat $zmp3newfileurl
+        if [[ $(curl -s "$zmp3fileurl" | wc -l) -gt 0 ]]; then
 
-        url=$(cat $zmp3newfileurl | grep '128.mp3' | head -n1)
-        echo $url > $zmp3new128fileurl
-        cat $zmp3new128fileurl
+          echo "mp3 files to check..."
+
+          rm -f $zmp3newfileurl
+          while IFS= read -r line; do
+            echo "$line"
+            url=$line
+            echo $url >> $zdlsitefilepath2fileurl
+            filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
+            echo $filename
+            echo $filename >> $zdlsitefilepath1filename
+            echo "$zdlurlpath$filename" >> $zmp3newfileurl
+          done < "$zmp3fileurl"
+          cat $zmp3newfileurl
+
+          url=$(cat $zmp3newfileurl | grep '128.mp3' | head -n1)
+          echo $url > $zmp3new128fileurl
+          cat $zmp3new128fileurl
+          
+          # echo "" >> $zcontentfile
+          # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
+          # echo "" >> $zcontentfile
+
+          rm -f $zfile4
+          touch $zfile4
+          python3 test21_post_cat_tag_image_upload_fa.py
         
-        # echo "" >> $zcontentfile
-        # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
-        # echo "" >> $zcontentfile
-
-        rm -f $zfile4
-        touch $zfile4
-        python3 test21_post_cat_tag_image_upload_fa.py
+        else
+          echo "no mp3 files to check!"
+        fi
+        
         rm -f $zimagefile
 
       else
