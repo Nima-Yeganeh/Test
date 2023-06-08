@@ -9,6 +9,7 @@ url = 'http://test2.nimayeganeh.ir/xmlrpc.php'
 username = 'admin'
 password = 'P@ssw0rd'
 ztitlefile = "ztitlefile.txt"
+zcontentfile = "zcontentfile.txt"
 
 client = Client(url, username, password)
 
@@ -28,7 +29,11 @@ with open(ztitlefile, 'r') as file:
     file_contents = file.read()
 post.title = file_contents
 
-post.content = 'سلام. این توضیحات جدید برای پست می باشد. تشکر'
+# Read the file contents into a variable
+with open(zcontentfile, 'r') as file:
+    file_contents = file.read()
+post.content = file_contents
+
 post.thumbnail = response['id']
 # post.thumbnail = '26'
 post.terms_names = {'category': ['Test Category 3 | گروه تست سوم'], 'post_tag': ['tag11 | تگ', 'tag22 | تگ', 'tag33 | تگ']}
