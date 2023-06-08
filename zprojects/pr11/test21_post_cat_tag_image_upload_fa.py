@@ -53,12 +53,11 @@ zcat = file_contents
 # ztag = formatted_string
 # print(ztag)
 
-string = 'how are you'
+string = post.title
 # Split the string into words
 words = string.split()
 # Create a new list with single quotes for each word
 ztag = [f"'{word}'" for word in words]
-
 post.terms_names = {'category': [zcat], 'post_tag': ztag}
 
 post.post_status = 'publish'
