@@ -144,103 +144,131 @@ while IFS= read -r zline; do
         touch $filename
 
         # Loop until the file size is more than zero
+        # while [ ! -s "$filename" ]; do
+        #   echo "File size is zero, retrying..."
+        #   wget -O $filename "$url"
+        #   sleep 1
+        # done
+
+        validjpg=0
         while [ ! -s "$filename" ]; do
-          echo "File size is zero, retrying..."
-          wget -O $filename "$url"
+          echo "JPG File size is zero, retrying..."
+          wget -O $filename -o z.txt "$url"
+          errorcheck200=$(cat z.txt | grep '200' | wc -l)
+          errorcheck404=$(cat z.txt | grep '404' | wc -l)
+          if [[ $errorcheck200 -ge 1 ]]; then
+            validjpg=200
+            break
+          elif [[ $errorcheck404 -ge 1 ]]; then
+            validjpg=404
+            break
+          fi
+          echo $validjpg
           sleep 1
         done
-        echo "File size is greater than zero."
-
-        ls -anp | grep $filename
+        echo $validjpg
         zimagefile=$filename
 
-        if [[ $(cat $zmp3fileurl | wc -l) -gt 0 ]]; then
+        sleep 50
 
-          echo "mp3 files to check..."
-          valid=true
+        if [[ $validjpg -eq 200 ]]; then
+          echo "Valid JPG: 200"   
+          echo "JPG File size is greater than zero."
+          ls -anp | grep $filename
 
-          while IFS= read -r url; do         
-            echo $url
-            headers=$(curl -sI "$url")
-            content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
-            if [[ -n "$content_length" ]]; then
-              if (( content_length <= 1024 )); then
+          if [[ $(cat $zmp3fileurl | wc -l) -gt 0 ]]; then
+
+            echo "mp3 files to check..."
+            valid=true
+
+            while IFS= read -r url; do         
+              echo $url
+              headers=$(curl -sI "$url")
+              content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
+              if [[ -n "$content_length" ]]; then
+                if (( content_length <= 1024 )); then
+                  valid=false
+                  break
+                fi
+              else
                 valid=false
                 break
               fi
-            else
-              valid=false
-              break
-            fi
-          done < "$zmp3fileurl"
-
-          echo $valid
-          
-          if $valid; then
-            echo "OK found valid mp3 url links..."
-          
-            rm -f $zmp3newfileurl
-            while IFS= read -r line; do
-              echo "$line"
-              url=$line
-              echo $url >> $zdlsitefilepath2fileurl
-              filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
-              echo $filename
-              echo $filename >> $zdlsitefilepath1filename
-              echo "$zdlurlpath$filename" >> $zmp3newfileurl
             done < "$zmp3fileurl"
-            cat $zmp3newfileurl
 
-            valid2=false
-            if [[ $(cat "$zmp3newfileurl" | grep -E '128\.mp3' | head -n1 | wc -l) -gt 0 ]]; then
+            echo $valid
+            
+            if $valid; then
+              echo "OK found valid mp3 url links..."
+            
+              rm -f $zmp3newfileurl
+              while IFS= read -r line; do
+                echo "$line"
+                url=$line
+                echo $url >> $zdlsitefilepath2fileurl
+                filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
+                echo $filename
+                echo $filename >> $zdlsitefilepath1filename
+                echo "$zdlurlpath$filename" >> $zmp3newfileurl
+              done < "$zmp3fileurl"
+              cat $zmp3newfileurl
 
-              valid2=true
-              echo "ok with 128"
-              url=$(cat $zmp3newfileurl | grep -E '128\.mp3' | head -n1)
-              echo $url > $zmp3new128fileurl
-              cat $zmp3new128fileurl
+              valid2=false
+              if [[ $(cat "$zmp3newfileurl" | grep -E '128\.mp3' | head -n1 | wc -l) -gt 0 ]]; then
 
-            elif [[ $(cat "$zmp3newfileurl" | grep -E '320\.mp3' | head -n1 | wc -l) -gt 0 ]]; then
+                valid2=true
+                echo "ok with 128"
+                url=$(cat $zmp3newfileurl | grep -E '128\.mp3' | head -n1)
+                echo $url > $zmp3new128fileurl
+                cat $zmp3new128fileurl
 
-              valid2=true
-              echo "ok with 320"
-              url=$(cat $zmp3newfileurl | grep -E '320\.mp3' | head -n1)
-              echo $url > $zmp3new128fileurl
-              cat $zmp3new128fileurl
+              elif [[ $(cat "$zmp3newfileurl" | grep -E '320\.mp3' | head -n1 | wc -l) -gt 0 ]]; then
 
+                valid2=true
+                echo "ok with 320"
+                url=$(cat $zmp3newfileurl | grep -E '320\.mp3' | head -n1)
+                echo $url > $zmp3new128fileurl
+                cat $zmp3new128fileurl
+
+              else
+
+                echo "No dl file found!"
+
+              fi
+
+              echo $valid2
+              if $valid2; then
+                
+                echo "لینک دانلود فایل موزیک/آهنگ با کیفیت 128 یا 320 موجود است. جهت دانلود کلیک نمایید" >> $zcontentfile
+                while IFS= read -r ylink; do
+                  ynewlink=$(echo "$ylink" | sed 's/mp3-play.php/mp3-download.php/g')
+                  ylinkfile=$(basename "$ylink" | sed 's/mp3-play.php?filename=//g')
+                  echo '<a href="'$ynewlink'" download="'$ylinkfile'">'$ylinkfile'</a>' >> $zcontentfile
+                done < "$zmp3newfileurl"
+                # sleep 50
+                # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
+                # echo "" >> $zcontentfile
+                echo "wordpress process..."
+                rm -f $zfile4
+                touch $zfile4
+                python3 test21_post_cat_tag_image_upload_fa.py
+
+              fi
+            
             else
-
-              echo "No dl file found!"
-
-            fi
-
-            echo $valid2
-            if $valid2; then
-              
-              echo "لینک دانلود فایل موزیک/آهنگ با کیفیت 128 یا 320 موجود است. جهت دانلود کلیک نمایید" >> $zcontentfile
-              while IFS= read -r ylink; do
-                ynewlink=$(echo "$ylink" | sed 's/mp3-play.php/mp3-download.php/g')
-                ylinkfile=$(basename "$ylink" | sed 's/mp3-play.php?filename=//g')
-                echo '<a href="'$ynewlink'" download="'$ylinkfile'">'$ylinkfile'</a>' >> $zcontentfile
-              done < "$zmp3newfileurl"
-              # sleep 50
-              # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
-              # echo "" >> $zcontentfile
-              echo "wordpress process..."
-              rm -f $zfile4
-              touch $zfile4
-              python3 test21_post_cat_tag_image_upload_fa.py
-
+              echo "Not valid mp3 urls to check!"
             fi
           
           else
-            echo "Not valid mp3 urls to check!"
+              echo "No mp3 urls!"
           fi
-        
-        else
-            echo "No mp3 urls!"
-        fi
 
+        elif [[ $validjpg -eq 404 ]]; then
+          echo "JPG Not Found: 404"
+        else
+          echo "JPG Unknown Status: $validjpg"
+        fi
+        
         rm -f $zimagefile
 
       else
