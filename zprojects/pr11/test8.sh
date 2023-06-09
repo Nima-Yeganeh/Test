@@ -169,8 +169,6 @@ while IFS= read -r zline; do
         echo $validjpg
         zimagefile=$filename
 
-        sleep 50
-
         if [[ $validjpg -eq 200 ]]; then
           echo "Valid JPG: 200"   
           echo "JPG File size is greater than zero."
@@ -270,6 +268,7 @@ while IFS= read -r zline; do
         fi
         
         rm -f $zimagefile
+        sleep 50
 
       else
         echo "No image file found!"
