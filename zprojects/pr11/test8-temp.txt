@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa-IR" xmlns="http://www.w3.org/1999/xhtml">
+	<head><script data-no-optimize="1">var litespeed_docref=sessionStorage.getItem("litespeed_docref");litespeed_docref&&(Object.defineProperty(document,"referrer",{get:function(){return litespeed_docref}}),sessionStorage.removeItem("litespeed_docref"));</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<link rel="preload stylesheet" href="https://next1.ir/wp-content/themes/next1/style.min.css?v=1.1.1" as="style" media="all" />
+		<link href="https://next1.ir/wp-content/themes/next1/favicon.png" rel="shortcut icon"/> 
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی) - نکست وان</title>
+	<meta name="description" content="دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی) با کیفیت های مختلف به صورت رایگان" />
+	<link rel="canonical" href="https://next1.ir/آهنگ-عربی-صوت-صفیر-البلبلی/" />
+	<meta property="og:locale" content="fa_IR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی) - نکست وان" />
+	<meta property="og:description" content="دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی) با کیفیت های مختلف به صورت رایگان" />
+	<meta property="og:url" content="https://next1.ir/آهنگ-عربی-صوت-صفیر-البلبلی/" />
+	<meta property="og:site_name" content="بزرگترین سایت دانلود آهنگ جدید - نکست وان" />
+	<meta property="article:publisher" content="https://www.facebook.com/Next1Song" />
+	<meta property="article:published_time" content="2023-01-06T16:52:03+00:00" />
+	<meta property="article:modified_time" content="2023-01-07T20:18:14+00:00" />
+	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2023/01/Sawt-Safiri-El-Bolboli.jpg" />
+	<meta property="og:image:width" content="703" />
+	<meta property="og:image:height" content="703" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:label1" content="نوشته‌شده بدست" />
+	<meta name="twitter:data1" content="next11admin" />
+	<meta name="twitter:label2" content="زمان تقریبی برای خواندن" />
+	<meta name="twitter:data2" content="2 دقیقه" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2023/01/Sawt-Safiri-El-Bolboli.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2023/01/Sawt-Safiri-El-Bolboli.jpg","width":703,"height":703,"caption":"آهنگ عربی صوت صفیر البلبلی"},{"@type":"WebPage","@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#webpage","url":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/","name":"دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی) - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#primaryimage"},"datePublished":"2023-01-06T16:52:03+00:00","dateModified":"2023-01-07T20:18:14+00:00","description":"دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی) با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)"}]},{"@type":"Article","@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#article","isPartOf":{"@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)","datePublished":"2023-01-06T16:52:03+00:00","dateModified":"2023-01-07T20:18:14+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#webpage"},"wordCount":4,"commentCount":36,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2023/01/Sawt-Safiri-El-Bolboli.jpg","keywords":["Safiri Bolboli","Sawt Safiri El Bolboli","آهنگ صفیر بلبلی","آهنگ صوت صفیر البلبلی","دانلود آهنگ صوت صفیر البلبلی","صفیر البلبلی","صفیر بلبلی","صوت صفیر البلبلی"],"articleSection":["آهنگ عربی","تک آهنگ ها","درخواستی"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/next1.ir\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.7"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='https://next1.ir/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6' type='text/css' media='screen' />
+<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/43362" /><link rel='shortlink' href='https://next1.ir/?p=43362' />
+<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25d8%25a2%25d9%2587%25d9%2586%25da%25af-%25d8%25b9%25d8%25b1%25d8%25a8%25db%258c-%25d8%25b5%25d9%2588%25d8%25aa-%25d8%25b5%25d9%2581%25db%258c%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a8%25d9%2584%25d8%25a8%25d9%2584%25db%258c%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25d8%25a2%25d9%2587%25d9%2586%25da%25af-%25d8%25b9%25d8%25b1%25d8%25a8%25db%258c-%25d8%25b5%25d9%2588%25d8%25aa-%25d8%25b5%25d9%2581%25db%258c%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a8%25d9%2584%25d8%25a8%25d9%2584%25db%258c%2F&#038;format=xml" />
+<script>
+	var blogUrl = 'https://next1.ir';
+	function likeThis(a){
+		document.getElementById("iLikeThis-"+a).innerHTML = '<div class="counter">'+"\u0645\u0645\u0646\u0648\u0646"+'</div>';
+		var xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				document.getElementById("iLikeThis-"+a).innerHTML = '<div class="counter">'+this.responseText+'</div>';
+			}
+		};
+		xhttp.open("POST", blogUrl+"/wp-content/plugins/i-like-this/like.php", true);
+		xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+		xhttp.send("id="+a);
+	}
+	</script><script>
+					(document.onload = function(){
+						var xhttp = new XMLHttpRequest();
+						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=43362&_="+(Math.floor(Math.random() * 99999) + 10000), true);
+						xhttp.send();
+					})();
+				</script>				<script>(function () {var INSTALL_OPTIONS = {"token":"UA-113624283-1"}; (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", INSTALL_OPTIONS.token, "auto");ga("send", "pageview");})()</script>
+	</head>
+	<body>
+		<div id="site">
+			<header>
+			<div id="top">
+				<nav>
+				<div id="topoptionsdevice">
+					<a href="javascript:;" onclick="openTop()"> ☰ منو</a>
+				</div>
+				<div id="topoptions">
+					<div id="closebtn" onclick="closeTop()">×</div>
+					<a title="دانلود آهنگ" href="https://next1.ir/">دانلود آهنگ</a>
+					<a title="تک آهنگ" href="https://next1.ir/category/tak/">تک آهنگ</a>
+					<a title="آلبوم" href="https://next1.ir/category/albums/">آلبوم</a>
+					<a title="موزیک ویدئو" href="https://next1.ir/category/musicvideo/">موزیک ویدئو</a>
+					<a title="انتشار آهنگ" href="https://next1.ir/broadcast/">انتشار آهنگ</a>
+				</div>
+				<script>
+				function openTop() {
+					document.getElementById("topoptions").style.display = "block";
+					document.getElementById("topoptions").style.width = "100%";
+				}
+
+				function closeTop() {
+					document.getElementById("topoptions").style.display = "none";
+					document.getElementById("topoptions").style.width = "0";
+				}
+				</script>
+				</nav>
+			</div>
+			<div id="header">
+				<div id="logo">
+					<a href="/">
+					<img width="283" height="99" src="https://next1.ir/wp-content/themes/next1/images/logo.png" alt="next1 logo">
+					</a>
+									</div>
+				<div id="header-right">
+				<h3>جامعترین رسانه موسیقی ایران</h3>
+				<b>نکست وان</b>
+				</div>
+			</div>
+										<div class="box" id="broadcast">
+					<a href="/broadcast/" title="پخش موزیک در سایت"><span class="right">پخش آهنگ شما در نکست وان و تمام سایت های معتبر موسیقی</span><span class="left">۰۹۳۸ ۱۰ ۲۰ ۶۹۲</span></a>
+				</div>
+									<div class="box" id="specials">
+				<div class="title"><a href="https://next1.ir/category/special/"><h2>ویژه ها</h2></a></div>
+				<ul>
+								<li><a href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d8%b1%d9%88%d8%af-%d8%b4%d9%85%db%8c%d9%85-%d9%88%d9%84%d8%a7%db%8c%d8%aa-%db%8c%d8%b2%d8%af-%db%8c%d8%a7%d8%b1%d8%a7%d9%86-%d8%ae%d8%b1%d8%a7%d8%b3%d8%a7%d9%86%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/ShamimVelayat-YaraneKhorasani-150x150.jpg"  title="ShamimVelayat-YaraneKhorasani" class="attachment-thumbnail size-thumbnail wp-post-image" alt="گروه سرود شمیم ولایت یزد - یاران خراسانی" loading="lazy" /><p class="special-info"><span> گروه سرود شمیم ولایت یزد  -  یاران خراسانی</span></p></a></li>		
+								<li><a href="https://next1.ir/%d9%88%d8%ad%db%8c%d8%af-%d8%b7%d8%a7%d9%87%d8%b1%d9%be%d9%88%d8%b1-%d8%b1%d8%b3%d9%85-%d9%81%d9%84%da%a9/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/VahidTaherpur-RasmFalak-150x150.jpg"  title="VahidTaherpur-RasmFalak" class="attachment-thumbnail size-thumbnail wp-post-image" alt="وحید طاهرپور - رسم فلک" loading="lazy" /><p class="special-info"><span> وحید طاهرپور  -  رسم فلک</span></p></a></li>		
+								<li><a href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%d8%ae%d9%88%d8%a7%d8%a8%d8%aa%d9%88-%d8%af%db%8c%d8%af%d9%85/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/AliMontazeri-KhabetoDidam-150x150.jpg"  title="AliMontazeri-KhabetoDidam" class="attachment-thumbnail size-thumbnail wp-post-image" alt="علی منتظری - خوابتو دیدم" loading="lazy" /><p class="special-info"><span> علی منتظری  -  خوابتو دیدم</span></p></a></li>		
+								<li><a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%db%8c%da%af%d8%b1%d9%86-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a8%db%8c%d8%af%d8%a7%d8%b1/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/Migren-Bidar-150x150.jpg"  title="Migren-Bidar" class="attachment-thumbnail size-thumbnail wp-post-image" alt="میگرن - بیدار" loading="lazy" /><p class="special-info"><span> میگرن  -  بیدار</span></p></a></li>		
+								<li><a href="https://next1.ir/%d9%85%d8%ad%d8%b3%d9%86-%da%86%d8%a7%d9%88%d8%b4%db%8c-%d9%85%d9%86-%d8%a8%d8%a7%db%8c%d8%af-%d9%85%db%8c%d8%b1%d9%81%d8%aa%d9%85/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/MohsenChavoshi-ManBayadMiraftam-150x150.jpg"  title="MohsenChavoshi-ManBayadMiraftam" class="attachment-thumbnail size-thumbnail wp-post-image" alt="محسن چاوشی - من باید میرفتم" loading="lazy" /><p class="special-info"><span> محسن چاوشی  -  من باید میرفتم</span></p></a></li>		
+								<li><a href="https://next1.ir/%d8%ac%d9%88%d8%a7%d8%af-%da%a9%d9%84%db%8c%d8%af%d8%b1%db%8c-%d8%aa%d9%88%d9%84%d8%af/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/JavadKelidari-Tavalod-150x150.jpg"  title="JavadKelidari-Tavalod" class="attachment-thumbnail size-thumbnail wp-post-image" alt="جواد کلیدری - تولد" loading="lazy" /><p class="special-info"><span> جواد کلیدری  -  تولد</span></p></a></li>		
+								<li><a href="https://next1.ir/%d8%b1%d8%a7%d8%ba%d8%a8-%d9%be%d8%b1-%d9%be%d8%b1%d9%88%d8%a7%d8%b2/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/Ragheb-PareParvaz-150x150.jpg"  title="Ragheb-PareParvaz" class="attachment-thumbnail size-thumbnail wp-post-image" alt="راغب - پر پرواز" loading="lazy" /><p class="special-info"><span> راغب  -  پر پرواز</span></p></a></li>		
+							</ul>
+			</div>
+			<div class="box">
+			<form action="/">
+				<input type="search" name="s" placeholder="جستجو ...">
+			</form>
+			</div>
+			</header>
+			<div id="content-page">				<nav>
+				<div id="side-right">
+					<aside>
+					<div class="box" id="menu">
+						<div class="title">موزیک ها براساس سبک ها</div>
+						<a title="آهنگ های پاپ" class="option-right" href="/category/style/پاپ/">پاپ</a>
+						<a title="آهنگ های سنتی" href="/category/style/سنتی/">سنتی</a>
+						<a title="آهنگ های شاد" class="option-right" href="/category/style/شاد/">شاد</a>
+						<a title="آهنگ های غمگین" href="/category/style/غمگین/">غمگین</a>
+						<a title="نوحه و مداحی" class="option-right" href="/category/style/نوحه-و-مداحی/">نوحه و مداحی</a>
+						<a title="آهنگ های ملایم" href="/category/style/ملایم/">ملایم</a>
+						<a title="آهنگ های بی کلام" class="option-right" href="/category/style/بی-کلام/">بی کلام</a>
+						<a title="آهنگ های رمیکس" href="/category/style/رمیکس/">رمیکس</a>
+					</div>
+					<a href="/request" ><div style="color: rgb(255, 255, 255); font-size: 15px;" class="box" id="subscribe">برای درخواست آهنگ کلیک کنید</div></a>
+					</aside>
+					
+																	<aside><div class="box" id="requested">
+							<div class="title"><a title="درخواستی کاربران" href="/category/requested/"><span>درخواستی کاربران</span></a></div>	
+													<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d8%a8%d9%87%d8%b1%d8%a7%d9%85%db%8c-%d8%a7%d9%85%d8%b4%d8%a8/" title="دانلود آهنگ فرزاد بهرامی با نام امشب">
+								فرزاد بهرامی  -  امشب							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d8%a8%d9%87%d8%b1%d8%a7%d9%85%db%8c-%da%af%d9%84-%d9%85%d9%86/" title="دانلود آهنگ فرزاد بهرامی با نام گل من">
+								فرزاد بهرامی  -  گل من							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%b4%d8%b1%d9%88%db%8c%d9%86-%d8%ad%d8%a7%d8%ac%db%8c-%d9%be%d9%88%d8%b1-%d8%ad%d8%b3%d9%88%d8%af/" title="دانلود آهنگ شروین حاجی پور با نام حسود">
+								 شروین حاجی پور  -  حسود							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/" title="دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)">
+								عربی صوت صفیر البلبلی (صفیر بلبلی)							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%b2%d8%a7%d9%86%da%a9%d9%88-%d9%85%d8%ab%d9%84%d8%a7/" title="دانلود آهنگ زانکو با نام مثلا">
+								زانکو  -  مثلا							</a></h3>
+												</div></aside>
+											
+																	<aside><div class="box" id="coming-soon">
+							<div class="title"><a title="بزودی" href="/category/coming-soon/"><span>بزودی در نکست وان</span></a></div>	
+													<h3><a class="item" href="https://next1.ir/%d9%85%d8%ac%db%8c%d8%af-%d8%b1%d8%b6%d9%88%db%8c-%d8%b2%db%8c%d8%a8%d8%a7/" title="دانلود آهنگ مجید رضوی با نام زیبا">
+								مجید رضوی  -  زیبا							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d9%87%d9%85%d8%a7%db%8c%d9%88%d9%86-%d8%a7%db%8c%d9%86-%d8%b1%d9%88%d8%b2%d8%a7/" title="دانلود آهنگ حامد همایون با نام این روزا">
+								حامد همایون  -  این روزا							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%84%d9%87%d8%b1%d8%a7%d8%b3%d8%a8%db%8c-%d8%ae%db%8c%d8%a7%d8%a8%d9%88%d9%86%d8%a7/" title="دانلود آهنگ علی لهراسبی با نام خیابونا">
+								علی لهراسبی  -  خیابونا							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%af%d9%82%d9%84%d9%88-%d9%85%d8%ab%d9%84-%da%af%d9%84/" title="دانلود آهنگ مسعود صادقلو با نام مثل گل">
+								مسعود صادقلو  -  مثل گل							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%b3%db%8c%d9%86-%d8%aa%d9%88%da%a9%d9%84%db%8c-%d8%a7%d8%b2-%d8%a7%d9%88%d9%86-%d8%b4%d8%a8/" title="دانلود آهنگ حسین توکلی با نام از اون شب">
+								حسین توکلی  -  از اون شب							</a></h3>
+												</div></aside>
+																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d9%be%d8%a7%d8%b1%d8%b3%d8%a7-%d8%ac%d8%b2%db%8c%d8%b1%d9%87/" title="دانلود آهنگ حامد پارسا با نام جزیره">
+								حامد پارسا  -  جزیره							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%a8%d8%b1%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a2%d8%b3%d9%88%d8%af%d9%87-%d9%85%db%8c/" title="دانلود آهنگ مسعود صابری با نام آسوده میخوابی">
+								مسعود صابری  -  آسوده میخوابی							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%b1%db%8c%d9%88%d8%a7%d9%86-%db%8c%d9%87-%d8%b4%d8%a8-%d9%82%d8%b4%d9%86%da%af/" title="دانلود آهنگ ریوان با نام یه شب قشنگ">
+								ریوان  -  یه شب قشنگ							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d9%85%d9%82%d8%af%d9%85-%d9%86%d9%88%d8%a7%d8%b1-%d9%82%d9%84%d8%a8/" title="دانلود آهنگ مهدی مقدم با نام نوار قلب">
+								مهدی مقدم  -  نوار قلب							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%a2%d8%b1%d9%88%d9%86-%d8%a7%d9%81%d8%b4%d8%a7%d8%b1-%d9%86%d9%81%d8%b3-%d9%86%d9%81%d8%b3/" title="دانلود آهنگ آرون افشار با نام نفس نفس">
+								آرون افشار  -  نفس نفس							</a></h3>
+																
+																	<aside><div class="box" id="archive-list">
+							<div class="title"><a href="/category/آرشیو/" title="آرشیو موسیقی"><span>آخرین های آرشیو</span></a></div>	
+													<h3><a class="item" href="https://next1.ir/%d9%85%d8%ac%db%8c%d8%af-%d8%a7%d8%b5%d9%84%d8%a7%d8%ad%db%8c-%d8%aa%d9%88-%d8%a8%d8%b1%d9%88/" title="دانلود آهنگ مجید اصلاحی با نام تو برو">
+								مجید اصلاحی  -  تو برو							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d9%81%d8%b1%db%8c%d8%af%d9%88%d9%86-%d8%a2%d8%b3%d8%b1%d8%a7%db%8c%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-12/" title="دانلود آهنگ جدید فریدون آسرایی با نام حسرت">
+								فریدون آسرایی  -  حسرت							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D8%B9%DB%8C%D9%86-%D8%B2%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%AE%D8%AF%D8%A7-%D8%B1%D9%88-%D8%B4%DA%A9%D8%B1-%DA%A9%D9%86/" title="دانلود آهنگ معین زد با نام خدا رو شکر کن">
+								 معین زد  -  خدا رو شکر کن							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%BE%DB%8C%D9%85%D8%A7%D9%86-%DA%A9%DB%8C%D9%88%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%BA%D9%85%D9%84%DB%8C-%D8%A8/" title="دانلود آهنگ پیمان کیوانی با نام غملی بیر سوز">
+								 پیمان کیوانی  -  غملی بیر سوز							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%BE%DB%8C%D9%85%D8%A7%D9%86-%DA%A9%DB%8C%D9%88%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B3%D8%A7%D8%B1%D8%A7/" title="دانلود آهنگ پیمان کیوانی با نام سارا">
+								پیمان کیوانی  -  سارا							</a></h3>
+												</div></aside>
+																				</div>
+				</nav>
+<main><div id="side-content">
+	<article>
+	<div class="box post">
+											<header>
+				<div class="title"><a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/" title="دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)"><h1>دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)</h1></a></div>	
+				<div class="under-title"><span class="right">
+									<a href="/category/requested/" title="درخواستی کاربران" class="post-type">درخواستی</a>
+				 , 
+				1,176,378 بازدید</span><span class="left">۱۶ام دی ۱۴۰۱</span></div>
+				</header>
+				<div class="content e-content">
+					<p style="text-align: center;"><strong><span style="color: #800000;">Sawt Safiri El Bolboli</span></strong></p>
+<p style="text-align: center;"><img loading="lazy"class="alignnone size-medium wp-image-43363" src="https://next1.ir/wp-content/uploads/2023/01/Sawt-Safiri-El-Bolboli-480x480.jpg" alt="آهنگ عربی صوت صفیر البلبلی" width="480" height="480" /></p>
+<p style="text-align: center;"><strong><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ</a> عربی صوت صفیر البلبلی (صفیر بلبلی)</strong></p>
+<div style="text-align: center;">
+<div class="single_content_r">
+<p>جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> صوت صفیر البلبلی با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن این آهنگ از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید …</p>
+</div>
+</div>
+<p style="text-align: center;"><span id="more-43362"></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>متن آهنگ صوت صفیر البلبلی :</strong></span></p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
+<p style="text-align: center;">صـــوت صفیر البلبلی   هــیـج قلبـی الـثملي<br />
+صدای اواز بلبل*** دل سرمست مرا به هیجان اورد<br />
+الماء والزهر معا   مع زهر لحظ المقلی<br />
+اب و شکوفه ها هم*** همنوا با گل ها تولد شکوفه ها را جشن گرفتند<br />
+وانت یا سید لی   وسیدی وموللی<br />
+وتو ای مولای من*** و اقا و سرور من<br />
+فكم وكم تیمنی  جزیل عقیقلی<br />
+چقدر خوش سعادتی است*** و چه پاداش گرانبهایی است(که به حضورت رسیده ام)<br />
+قطفته من وجنة   من لثم ورد الخجلی<br />
+ثمره گونه ای است*** که گلهای حیا و شرم را نقاب کشیده است<br />
+فقال :لا لا لا لا لا   فقد غدا مهرولی<br />
+وگفت: نه،نه،نه،نه*** و نیمه خیز روان رفت<br />
+والخود مالت طربا   من فعل هذا الرجل<br />
+و از کار این مرد(كارخودش را مي گويد(سرودن اين شعر))  آلات موسیقی طرب انگیز شدند<br />
+فولوَلت وولولت   ولی ولی یا ویللی<br />
+مویه کنان شروع به ناله کرد  وای وای میکرد<br />
+فقلت : لا تولولی   وبیِّنی اللؤلؤ الی<br />
+پس به وی گفتم ناله مکن درعوض گزیده گوی چون در<br />
+قالت : له حین كذا   انهض وجد بالنقلی<br />
+به وی در ان حالت گفت:پس تو برخیز و کلام زیبا را بیاب</p>
+<p style="text-align: center;">وفتیة سقوننی   من قهوة كالعسلی<br />
+دران حال دخترکی  قهوه ای شیرین تر از عسل به من تقدیم کرد<br />
+شممتها بأنفی   أزكى من القرنفلی<br />
+ان را بوییدم و دیدم که  از بوی میخک خوشتر است<br />
+فی وسط بستان حلی   بزهرٍ والسرور لی<br />
+شاداب در میان باغی زیبا  مزین به شکوفه هایی زیبا بودم<br />
+والعود دندن دنلی   والطبل طبطب طبلی<br />
+و عود معطر در کنارم بود  و طبل اغاز نواختن کرد</p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
+	
+				</div>
+							<div class="post-footer">
+					<div class="ft-like" style="width:50%;"><div id="iLikeThis-43362" class="iLikeThis"><div class="counter"><a onclick="likeThis(43362);" class="image">1478 لایک</a></div></div></div>
+					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comments">36 نظر</a></div>
+				</div>
+												<div class="box" id="downloads">
+						<div class="title"><h2>دانلود</h2></div>
+						<a rel="nofollow" href="https://dl.next1.ir/files/2023/01/tak/SawtSafiriElBolboli-320%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2023/01/tak/SawtSafiriElBolboli-128%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> 											</div>
+								<div class="box" id="playbox">
+					<div class="title">بفرستید برای دوستانتان</div>
+					<ul class="share_with">
+												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25d8%25a2%25d9%2587%25d9%2586%25da%25af-%25d8%25b9%25d8%25b1%25d8%25a8%25db%258c-%25d8%25b5%25d9%2588%25d8%25aa-%25d8%25b5%25d9%2581%25db%258c%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a8%25d9%2584%25d8%25a8%25d9%2584%25db%258c%2F">تلگرام</a></li>
+						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25d8%25a2%25d9%2587%25d9%2586%25da%25af-%25d8%25b9%25d8%25b1%25d8%25a8%25db%258c-%25d8%25b5%25d9%2588%25d8%25aa-%25d8%25b5%25d9%2581%25db%258c%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a8%25d9%2584%25d8%25a8%25d9%2584%25db%258c%2F">توییتر</a></li>
+						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25d8%25a2%25d9%2587%25d9%2586%25da%25af-%25d8%25b9%25d8%25b1%25d8%25a8%25db%258c-%25d8%25b5%25d9%2588%25d8%25aa-%25d8%25b5%25d9%2581%25db%258c%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a8%25d9%2584%25d8%25a8%25d9%2584%25db%258c%2F">فیسبوک</a></li>
+						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25d8%25a2%25d9%2587%25d9%2586%25da%25af-%25d8%25b9%25d8%25b1%25d8%25a8%25db%258c-%25d8%25b5%25d9%2588%25d8%25aa-%25d8%25b5%25d9%2581%25db%258c%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a8%25d9%2584%25d8%25a8%25d9%2584%25db%258c%2F">واتس آپ</a></li>
+						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25d8%25a2%25d9%2587%25d9%2586%25da%25af-%25d8%25b9%25d8%25b1%25d8%25a8%25db%258c-%25d8%25b5%25d9%2588%25d8%25aa-%25d8%25b5%25d9%2581%25db%258c%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a8%25d9%2584%25d8%25a8%25d9%2584%25db%258c%2F">پینترست</a></li>
+						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25d8%25a2%25d9%2587%25d9%2586%25da%25af-%25d8%25b9%25d8%25b1%25d8%25a8%25db%258c-%25d8%25b5%25d9%2588%25d8%25aa-%25d8%25b5%25d9%2581%25db%258c%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a8%25d9%2584%25d8%25a8%25d9%2584%25db%258c%2F">ایمیل</a></li>
+					</ul>
+				</div>
+													<div class="box" id="playbox">
+						<div class="title">هم اکنون گوش کنید</div>
+						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2023/01/tak/SawtSafiriElBolboli-128%28www.Next1.ir%29.mp3" controls="controls" style="width: 100%;"></audio>
+					</div>
+					<div class="box" id="code">
+						<div class="title">کد پخش این آهنگ در سایت و وبلاگ شما</div>
+						<textarea readonly="readonly" onclick="javascript:this.select();" tabindex="4">
+				<!-- Begin https://next1.ir -->
+				<script type="text/javascript">
+				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2023/01/tak/SawtSafiriElBolboli-128%28www.Next1.ir%29.mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
+				</script>
+				<object id="player" height="24" width="190" type="application/x-shockwave-flash" name="player" style="outline: none" data="https://next1.ir/wp-content/themes/next1/audioplayer.swf">
+				<param name="bgcolor" value="#FFFFFF">
+				<param name="wmode" value="transparent">
+				<param name="menu" value="false">
+				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2023/01/tak/SawtSafiriElBolboli-128%28www.Next1.ir%29.mp3&autostart=yes&titles=دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)&loop=no&playerID=player">
+				<h2><a title="دانلود آهنگ جدید" href="https://next1.ir" target="_blank">دانلود آهنگ جدید</a></h2>
+				</object>
+				<!-- End https://next1.ir -->
+						</textarea>
+					</div>
+								<div class="alert"><a href="https://next1.ir/category/style/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c/" rel="category tag">آهنگ عربی</a> ، <a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a> ، <a href="https://next1.ir/category/requested/" rel="category tag">درخواستی</a></div>
+						 
+	</div>
+	</article>
+							
+					<div class="box" id="commentsbox">
+						<div class="title"><h5>نظرات</h5></div>
+						<div id="comments">
+						<div id="comments-wrap" class="comment-warp">
+					<div class="under-title"><span class="right">36 نظر ارسال شده </span></div>	
+<ul class="comments-list">
+		<li class="comment even thread-even depth-1" id="comment-77270">
+				<div id="div-comment-77270" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">ممدم</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77270">بهمن 6, 1401 در 5:40 ب.ظ</a>		</div>
+
+		<p>به خودم افتخار میکنم که عربم❤❤</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77270' data-commentid="77270" data-postid="43362" data-belowelement="div-comment-77270" data-respondelement="respond" data-replyto="پاسخ به ممدم" aria-label='پاسخ به ممدم'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-77347">
+				<div id="div-comment-77347" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">m.m</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77347">بهمن 14, 1401 در 8:49 ب.ظ</a>		</div>
+
+		<p>amazing</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77347' data-commentid="77347" data-postid="43362" data-belowelement="div-comment-77347" data-respondelement="respond" data-replyto="پاسخ به m.m" aria-label='پاسخ به m.m'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-77449">
+				<div id="div-comment-77449" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">سلطان محمد خان آل بویه</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77449">بهمن 26, 1401 در 10:04 ب.ظ</a>		</div>
+
+		<p>فقال لا لا لا لا لا لا لا ال لا لا لا لا لال</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77449' data-commentid="77449" data-postid="43362" data-belowelement="div-comment-77449" data-respondelement="respond" data-replyto="پاسخ به سلطان محمد خان آل بویه" aria-label='پاسخ به سلطان محمد خان آل بویه'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-77463">
+				<div id="div-comment-77463" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Exol</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77463">بهمن 29, 1401 در 10:23 ق.ظ</a>		</div>
+
+		<p>عالیییی<br />
+محشر</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77463' data-commentid="77463" data-postid="43362" data-belowelement="div-comment-77463" data-respondelement="respond" data-replyto="پاسخ به Exol" aria-label='پاسخ به Exol'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-77468">
+				<div id="div-comment-77468" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">علی نوحانی</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77468">بهمن 29, 1401 در 5:47 ب.ظ</a>		</div>
+
+		<p>چه آهنگ خوبه</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77468' data-commentid="77468" data-postid="43362" data-belowelement="div-comment-77468" data-respondelement="respond" data-replyto="پاسخ به علی نوحانی" aria-label='پاسخ به علی نوحانی'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-77487">
+				<div id="div-comment-77487" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">FM</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77487">اسفند 2, 1401 در 10:34 ق.ظ</a>		</div>
+
+		<p>عالی بود</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77487' data-commentid="77487" data-postid="43362" data-belowelement="div-comment-77487" data-respondelement="respond" data-replyto="پاسخ به FM" aria-label='پاسخ به FM'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-77502">
+				<div id="div-comment-77502" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">میم</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77502">اسفند 3, 1401 در 2:22 ب.ظ</a>		</div>
+
+		<p>به خودت افتخار نکن که عربی،چون نژاد پرستی افتخار نیست و مایه ی شرمساریه&#8230; به خودت افتخار کن بهترین زبان دنیا که عربیه رو بلدی :)</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77502' data-commentid="77502" data-postid="43362" data-belowelement="div-comment-77502" data-respondelement="respond" data-replyto="پاسخ به میم" aria-label='پاسخ به میم'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-77517">
+				<div id="div-comment-77517" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">آسیه</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77517">اسفند 5, 1401 در 11:51 ق.ظ</a>		</div>
+
+		<p>عالیه&#8230;..‌‌‌‌&#8230;..</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77517' data-commentid="77517" data-postid="43362" data-belowelement="div-comment-77517" data-respondelement="respond" data-replyto="پاسخ به آسیه" aria-label='پاسخ به آسیه'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-77849">
+				<div id="div-comment-77849" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Mrzie</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77849">اسفند 14, 1401 در 8:24 ق.ظ</a>		</div>
+
+		<p>سلطان میم تویی ک میگی بهترین زبان دنیا&#8230;<br />
+ خب توام که خودشیفته ای </p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77849' data-commentid="77849" data-postid="43362" data-belowelement="div-comment-77849" data-respondelement="respond" data-replyto="پاسخ به Mrzie" aria-label='پاسخ به Mrzie'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-77852">
+				<div id="div-comment-77852" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">مهرانا</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77852">اسفند 14, 1401 در 12:47 ب.ظ</a>		</div>
+
+		<p>بهترین زبان دنیا زبان مادریتونه، افتخار کنین ب انسان با شرف بودن، و گرنه هر کی با هر نژادی میتونه نژاد پرست باشه. اهنگ زیباییه</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77852' data-commentid="77852" data-postid="43362" data-belowelement="div-comment-77852" data-respondelement="respond" data-replyto="پاسخ به مهرانا" aria-label='پاسخ به مهرانا'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-77863">
+				<div id="div-comment-77863" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">محمد</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77863">اسفند 15, 1401 در 11:55 ق.ظ</a>		</div>
+
+		<p>عرب و فارس بودن افتخار نیست اتفاقه<br />
+نژادپرستی هم فقط نشانه حماقت و نادانیه<br />
+ضمن اینکه عربی صحبت کردن و اصولا زبان عربی یه منطقه نشان دهنده نژاد عرب داشتن نیست همون‌طور که داشتن یه مذهب نشون دهنده ریشه در اون قوم و قبیله داشتن نیست<br />
+خیلی از حملات اقوام در تاریخ و فتوحاتشون باعث تغییر زبان در اون منطقه شده<br />
+اصلا بحثش هم ارزش نداره من موندم چقدر چیپ و سطح پایین میتونه باشه کسی که به فارس بودن یا عرب بودن یا ترک بودن یا کرد بودنش  فخر فروشی کنه به بقیه</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77863' data-commentid="77863" data-postid="43362" data-belowelement="div-comment-77863" data-respondelement="respond" data-replyto="پاسخ به محمد" aria-label='پاسخ به محمد'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-77874">
+				<div id="div-comment-77874" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">حسن</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77874">اسفند 16, 1401 در 12:35 ب.ظ</a>		</div>
+
+		<p>نه خیر زیباترین  ترین زبان فارسیه . قشنگیه دنیا به همینه دیگه این میگه من بهترم اون میگه من بهترم . رقابتش قشنگه .جنگشم قشنگه وگرنه همه مثه دام های دامپروریه خدای متعال بودیم . نه!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77874' data-commentid="77874" data-postid="43362" data-belowelement="div-comment-77874" data-respondelement="respond" data-replyto="پاسخ به حسن" aria-label='پاسخ به حسن'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-77935">
+				<div id="div-comment-77935" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">فاطمه</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77935">اسفند 22, 1401 در 3:56 ق.ظ</a>		</div>
+
+		<p>اهنگ در مورد کیه؟؟</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77935' data-commentid="77935" data-postid="43362" data-belowelement="div-comment-77935" data-respondelement="respond" data-replyto="پاسخ به فاطمه" aria-label='پاسخ به فاطمه'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-77950">
+				<div id="div-comment-77950" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">آیلین</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77950">اسفند 23, 1401 در 7:32 ب.ظ</a>		</div>
+
+		<p>به خدت افتخار نکن اگه عربی بودی پس چرا فارسی حرف میزنی به خودت افتخار کن که فارسی هستی❤️❤️</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77950' data-commentid="77950" data-postid="43362" data-belowelement="div-comment-77950" data-respondelement="respond" data-replyto="پاسخ به آیلین" aria-label='پاسخ به آیلین'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-77964">
+				<div id="div-comment-77964" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Ehsan</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-77964">اسفند 25, 1401 در 0:16 ق.ظ</a>		</div>
+
+		<p>یعنی الان همه شماها بخواطر ی آهنگ با هم جرو بحث میکنید .</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-77964' data-commentid="77964" data-postid="43362" data-belowelement="div-comment-77964" data-respondelement="respond" data-replyto="پاسخ به Ehsan" aria-label='پاسخ به Ehsan'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78013">
+				<div id="div-comment-78013" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">خخخخ</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78013">فروردین 1, 1402 در 1:22 ق.ظ</a>		</div>
+
+		<p>حاجی این  &#8230;را رو ول کنید آهنگو حال کنیددد</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78013' data-commentid="78013" data-postid="43362" data-belowelement="div-comment-78013" data-respondelement="respond" data-replyto="پاسخ به خخخخ" aria-label='پاسخ به خخخخ'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78015">
+				<div id="div-comment-78015" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">دیوید</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78015">فروردین 1, 1402 در 4:03 ق.ظ</a>		</div>
+
+		<p>آهنگتو گوش کن جو گیر نشو &#8230;</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78015' data-commentid="78015" data-postid="43362" data-belowelement="div-comment-78015" data-respondelement="respond" data-replyto="پاسخ به دیوید" aria-label='پاسخ به دیوید'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78057">
+				<div id="div-comment-78057" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">محمد</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78057">فروردین 7, 1402 در 8:23 ب.ظ</a>		</div>
+
+		<p>بسی رنج برد در آن سال سی ،،،،عجم زنده کرد بدین پارسی &#8230;&#8230;‌اینم حلاوت زبان پارسی</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78057' data-commentid="78057" data-postid="43362" data-belowelement="div-comment-78057" data-respondelement="respond" data-replyto="پاسخ به محمد" aria-label='پاسخ به محمد'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78065">
+				<div id="div-comment-78065" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">دینا</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78065">فروردین 9, 1402 در 6:11 ب.ظ</a>		</div>
+
+		<p>عالی</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78065' data-commentid="78065" data-postid="43362" data-belowelement="div-comment-78065" data-respondelement="respond" data-replyto="پاسخ به دینا" aria-label='پاسخ به دینا'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78122">
+				<div id="div-comment-78122" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">الهام</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78122">فروردین 19, 1402 در 4:21 ب.ظ</a>		</div>
+
+		<p>ترجمش برام خیلی جالب بود یه ترجمه ناب و زیبا<br />
+هر دو زبان قشنگیای خودشو داره</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78122' data-commentid="78122" data-postid="43362" data-belowelement="div-comment-78122" data-respondelement="respond" data-replyto="پاسخ به الهام" aria-label='پاسخ به الهام'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78143">
+				<div id="div-comment-78143" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">As</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78143">فروردین 20, 1402 در 7:30 ب.ظ</a>		</div>
+
+		<p>برای این اقا محمد که نوشتن برا زبان پارسی ،بدون هیچ گونه جهت گیری تینو بدونید زبان فارسی لهجه از زبان عربی هست ،</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78143' data-commentid="78143" data-postid="43362" data-belowelement="div-comment-78143" data-respondelement="respond" data-replyto="پاسخ به As" aria-label='پاسخ به As'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78157">
+				<div id="div-comment-78157" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">Na✌</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78157">فروردین 23, 1402 در 5:46 ب.ظ</a>		</div>
+
+		<p>شمایی که میگی زبان فارسی لهجه عربیه .همین زبون عربی رو یه فارسی زبان نوشته و به وجودش اورده که شما بیای افتخار کنی بهش .باور نداری بیشتر در مورد عربی تحقیق کن .بیشترم بهش افتخار کن .افتخار میکنم فارسم ✌</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78157' data-commentid="78157" data-postid="43362" data-belowelement="div-comment-78157" data-respondelement="respond" data-replyto="پاسخ به Na✌" aria-label='پاسخ به Na✌'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78169">
+				<div id="div-comment-78169" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">میلاد</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78169">فروردین 25, 1402 در 8:20 ب.ظ</a>		</div>
+
+		<p>بلبلی بلبلی بلبلی بلبلی حال کردیم خدایی فازش اینه اسباب بزنی بری حموم اینو بخونی اهل دلا میدونن من چی میگم قا قا قا قا قا قا قا قا  فقط آخرس</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78169' data-commentid="78169" data-postid="43362" data-belowelement="div-comment-78169" data-respondelement="respond" data-replyto="پاسخ به میلاد" aria-label='پاسخ به میلاد'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78189">
+				<div id="div-comment-78189" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">بهار</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78189">فروردین 27, 1402 در 4:17 ب.ظ</a>		</div>
+
+		<p>منی که فکر میکردم میگه سرخ و سفید چ بلبلی خخخخ</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78189' data-commentid="78189" data-postid="43362" data-belowelement="div-comment-78189" data-respondelement="respond" data-replyto="پاسخ به بهار" aria-label='پاسخ به بهار'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78192">
+				<div id="div-comment-78192" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">ناشناس</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78192">فروردین 28, 1402 در 7:48 ق.ظ</a>		</div>
+
+		<p>این آهنگ در واقع یه شعر خیلی قدیمیه  این شعر رو به شکل اهنگ خونده</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78192' data-commentid="78192" data-postid="43362" data-belowelement="div-comment-78192" data-respondelement="respond" data-replyto="پاسخ به ناشناس" aria-label='پاسخ به ناشناس'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78193">
+				<div id="div-comment-78193" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">ناشناس</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78193">فروردین 28, 1402 در 7:48 ق.ظ</a>		</div>
+
+		<p>این آهنگ در واقع یه شعر خیلی قدیمیه  این شعر رو به شکل اهنگ خونده  شعر اصلیش کلی قافیه داره و خیلی قشنگه</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78193' data-commentid="78193" data-postid="43362" data-belowelement="div-comment-78193" data-respondelement="respond" data-replyto="پاسخ به ناشناس" aria-label='پاسخ به ناشناس'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78195">
+				<div id="div-comment-78195" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">مریم</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78195">فروردین 28, 1402 در 1:54 ب.ظ</a>		</div>
+
+		<p>متن این آهنگ برمیگرده ب زمان هارون الرشید و داستان خیلی جالبی داره<br />
+هارون الرشید فوق العاده ب شعرسرودن علاقه داشته و به مردم ابلاغ میکنه هرکسی شعری تازه بگه پیش‌من جایزه نفیسی داره<br />
+خلاصه هروز یکی بایک شعر به قصر می اومده ولی هارون هم زرنگ تر این حرفا بوده که بخواد جایزه رو بده ی کنیز و یه خدمتکار داشت که استعداد خاصی در حفظ اشعار بعد از یکبار گوش دادن داشتن و هارون بعد از سه بازشعرو حفظ میکرد و این شد که به همه میگفت شعرتون قدیمیه من اینو اززبان خدمتکارم شنیدم و میگه ک خدمتکارش بخونه شعرو خلاصه شاعرای زیادی میان و رد میشن یکی از شعرا باشعری اومد که هیچکس نتونه بایکبار گوش دادن اونو حفظ کنه و همین شعر  صوت صفیر البلبلی رو میسرایه و جایزه رو از هارون الرشید میگیره</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78195' data-commentid="78195" data-postid="43362" data-belowelement="div-comment-78195" data-respondelement="respond" data-replyto="پاسخ به مریم" aria-label='پاسخ به مریم'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78221">
+				<div id="div-comment-78221" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">mohammad</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78221">فروردین 31, 1402 در 11:48 ب.ظ</a>		</div>
+
+		<p>این شعر سروده شاعری بنام اصمعی است که در مجلس منصور دوانیقی خلیفه دوم عباسی که حافظه بالایی در حفظ شعر داشت سرود و چون خلیفه و غلام و کنیزش نتوانتستند این شعر را حفظ و تکرار کنند بنا به توافقی که قبل از شرط بندی کرده بودند خلیفه ناچار شد تمام ثروت و دارایی خود را تسلیم اصمعی کند سپس از شاعر درخواست استیراد مالش را کرد شاعر بشرط استیراد حقوق شاعران این درخواست را پذیرفت</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78221' data-commentid="78221" data-postid="43362" data-belowelement="div-comment-78221" data-respondelement="respond" data-replyto="پاسخ به mohammad" aria-label='پاسخ به mohammad'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78281">
+				<div id="div-comment-78281" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">خبخیخ</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78281">اردیبهشت 9, 1402 در 4:28 ب.ظ</a>		</div>
+
+		<p>به خاطر یه موزیک بهم دارن بحث عرب و عجم میکنن </p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78281' data-commentid="78281" data-postid="43362" data-belowelement="div-comment-78281" data-respondelement="respond" data-replyto="پاسخ به خبخیخ" aria-label='پاسخ به خبخیخ'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78292">
+				<div id="div-comment-78292" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">محمد امین</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78292">اردیبهشت 11, 1402 در 0:56 ق.ظ</a>		</div>
+
+		<p>با احترام فراوانی که برای فارسی زبانان قائل هستم زبان فارسی 60 درصدش عربیه و 20 درصدش انگلیسی و فرانسوی و ترکی هست</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78292' data-commentid="78292" data-postid="43362" data-belowelement="div-comment-78292" data-respondelement="respond" data-replyto="پاسخ به محمد امین" aria-label='پاسخ به محمد امین'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78293">
+				<div id="div-comment-78293" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">محمد امین</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78293">اردیبهشت 11, 1402 در 0:59 ق.ظ</a>		</div>
+
+		<p>زبان فارسی خودش زیر مجموعه زبان عربیه تقریبا ۶۰ درصدش</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78293' data-commentid="78293" data-postid="43362" data-belowelement="div-comment-78293" data-respondelement="respond" data-replyto="پاسخ به محمد امین" aria-label='پاسخ به محمد امین'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78350">
+				<div id="div-comment-78350" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">امیرصفا</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78350">اردیبهشت 17, 1402 در 0:15 ق.ظ</a>		</div>
+
+		<p>بسیار عالی یاره مزیبه</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78350' data-commentid="78350" data-postid="43362" data-belowelement="div-comment-78350" data-respondelement="respond" data-replyto="پاسخ به امیرصفا" aria-label='پاسخ به امیرصفا'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78353">
+				<div id="div-comment-78353" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">حاج مسعود</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78353">اردیبهشت 17, 1402 در 9:02 ق.ظ</a>		</div>
+
+		<p>به خودتان افتخار کنید چون اینجا برای همتون پیام گذاشتم<br />
+منت سر شما گذاشتم و شما را برشمردم .</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78353' data-commentid="78353" data-postid="43362" data-belowelement="div-comment-78353" data-respondelement="respond" data-replyto="پاسخ به حاج مسعود" aria-label='پاسخ به حاج مسعود'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78460">
+				<div id="div-comment-78460" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">وحید دغاغله</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78460">اردیبهشت 27, 1402 در 5:52 ق.ظ</a>		</div>
+
+		<p>به خودم افتخار میکنم که از پدری عرب و مادری فارس هستم و عاشق تمام اقوام ایرانی از ترک و لر و کرد و شمالی و &#8230;..   پاینده ایران</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78460' data-commentid="78460" data-postid="43362" data-belowelement="div-comment-78460" data-respondelement="respond" data-replyto="پاسخ به وحید دغاغله" aria-label='پاسخ به وحید دغاغله'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1" id="comment-78461">
+				<div id="div-comment-78461" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">وحید دغاغله</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78461">اردیبهشت 27, 1402 در 5:52 ق.ظ</a>		</div>
+
+		<p>به خودم افتخار میکنم که از پدری عرب و مادری فارس هستم و عاشق تمام اقوام ایرانی از ترک و لر و کرد و شمالی و &#8230;&#8230;&#8230;   پاینده ایران</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78461' data-commentid="78461" data-postid="43362" data-belowelement="div-comment-78461" data-respondelement="respond" data-replyto="پاسخ به وحید دغاغله" aria-label='پاسخ به وحید دغاغله'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-78572">
+				<div id="div-comment-78572" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">علی احمدی</cite> <span class="says">گفت:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#comment-78572">خرداد 9, 1402 در 1:07 ق.ظ</a>		</div>
+
+		<p>کی گفته فارسی لهجه زبان عربی عربی خیلی زبان قشنگیه ولی دیگه جک نگید ناموسا تو دنیا سه خانواده زبانی بزرگ هست هند و اروپایی   چینی تبتی   افرو اسیایی  که زبان فارسی جز هند اروپایی هست و عربی افرو اسیایی کلا با هم فرق دارن و فقط خطشون مشترکه  با اطلاعات حرف بزنید</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-78572' data-commentid="78572" data-postid="43362" data-belowelement="div-comment-78572" data-respondelement="respond" data-replyto="پاسخ به علی احمدی" aria-label='پاسخ به علی احمدی'></a></div>
+				</div>
+				</li><!-- #comment-## -->
+</ul>
+<div class="navigation">
+<div class="alignleft"></div>
+<div class="alignright"></div>
+</div>
+<div id="respond">
+<div class="cancel-comment-reply">
+<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
+</div>
+<form action="https://next1.ir/wp-comments-post.php" method="post" id="commentform">
+<div class="commentdata">
+<label for="author">نام شما :</label>
+<input type="text" name="author" id="author" value=""  tabindex="1" class="input-comment">
+<div class="clear"></div>
+<label for="email">ایمیل :</label>
+<input type="text" name="email" id="email" value="" tabindex="2" class="input-comment">
+<div class="clear"></div>
+</div>
+<div class="textarea-box">
+<label for="comment">نظر شما:</label><div class="clear"></div>
+<textarea name="comment" id="comment" tabindex="4" class="text-box"></textarea>
+</div>
+<div class="clear"></div>
+<input class="bluekey comment-button" name="submit" type="submit" id="submit" tabindex="5" value="ارسال نظر">
+<input type="hidden" name="comment_post_ID" value="43362">
+<input type='hidden' name='comment_post_ID' value='43362' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3220ccc066" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="50"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
+</form>
+</div>
+</div>							<div class="alert">نظرات شما پس از بررسی و تایید نمایش داده می شود.</div>
+							<div class="alert">لطفا نظرات خود را فقط در مورد مطلب بالا ارسال کنید.</div>
+						</div>
+					</div>
+										<div class="box" id="alltags">
+						<div class="title">برچسب ها</div>
+						<ul>
+						<li>Safiri Bolboli</li><li>Sawt Safiri El Bolboli</li><li>آهنگ صفیر بلبلی</li><li>آهنگ صوت صفیر البلبلی</li><li>دانلود آهنگ صوت صفیر البلبلی</li><li>صفیر البلبلی</li><li>صفیر بلبلی</li><li>صوت صفیر البلبلی</li>						</ul>
+					</div>
+						</div>
+</main><nav>
+<div id="side-left">
+		<aside><div class="box" id="artists-by">
+		<div class="title">خوانندگان براساس الفبا</div>
+		<a href="/artists-ا/">ا</a><a href="/artists-ب/">ب</a><a href="/artists-پ/">پ</a><a href="/artists-ت/">ت</a><a href="/artists-ث/">ث</a><a href="/artists-ج/">ج</a><a href="/artists-چ/">چ</a><a href="/artists-ح/">ح</a><a href="/artists-خ/">خ</a><a href="/artists-د/">د</a><a href="/artists-ذ/">ذ</a><a href="/artists-ر/">ر</a><a href="/artists-ز/">ز</a><a href="/artists-ژ/">ژ</a><a href="/artists-س/">س</a><a href="/artists-ش/">ش</a><a href="/artists-ص/">ص</a><a href="/artists-ض/">ض</a><a href="/artists-ط/">ط</a><a href="/artists-ظ/">ظ</a><a href="/artists-ع/">ع</a><a href="/artists-غ/">غ</a><a href="/artists-ف/">ف</a><a href="/artists-ق/">ق</a><a href="/artists-ک/">ک</a><a href="/artists-گ/">گ</a><a href="/artists-ل/">ل</a><a href="/artists-م/">م</a><a href="/artists-ن/">ن</a><a href="/artists-و/">و</a><a href="/artists-ه/">ه</a><a href="/artists-ی/">ی</a>	</div></aside>
+		
+					<aside><div class="box" id="requested-left">
+			<div class="title"><a title="آهنگ درخواستی" href="/category/requested/"><span>درخواستی کاربران</span></a></div>	
+					<h3><a class="item" href="https://next1.ir/%d9%85%d8%ac%db%8c%d8%af-%d8%a7%d8%ad%d9%85%d8%af%db%8c-%d8%b2%db%8c%d8%a8%d8%a7%db%8c-%d9%85%d9%86/" title="دانلود آهنگ مجید احمدی با نام زیبای من">
+				مجید احمدی  -  زیبای من			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d8%a8%d9%87%d8%b1%d8%a7%d9%85%db%8c-%d8%a7%d9%85%d8%b4%d8%a8/" title="دانلود آهنگ فرزاد بهرامی با نام امشب">
+				فرزاد بهرامی  -  امشب			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d8%a8%d9%87%d8%b1%d8%a7%d9%85%db%8c-%da%af%d9%84-%d9%85%d9%86/" title="دانلود آهنگ فرزاد بهرامی با نام گل من">
+				فرزاد بهرامی  -  گل من			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b4%d8%b1%d9%88%db%8c%d9%86-%d8%ad%d8%a7%d8%ac%db%8c-%d9%be%d9%88%d8%b1-%d8%ad%d8%b3%d9%88%d8%af/" title="دانلود آهنگ شروین حاجی پور با نام حسود">
+				 شروین حاجی پور  -  حسود			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/" title="دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)">
+				عربی صوت صفیر البلبلی (صفیر بلبلی)			</a></h3>
+				</div></aside>
+				
+			
+					<aside><div class="box" id="newset">
+			<div class="title"><span>جدیدترین ها در نکست وان</span></div>	
+					<h3><a class="item" href="https://next1.ir/%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d8%af%d8%b1%d8%ae%d8%aa/" title="دانلود آهنگ رضا یزدانی با نام درخت">
+				رضا یزدانی  -  درخت			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c%d8%b1%d8%b6%d8%a7-%da%af%d8%b1%d9%88%d8%b3%db%8c-%d9%85%d9%86-%d8%a7%db%8c%d9%86%d8%ac%d8%a7-%d9%88%d8%b3%d8%b7-%d9%85%d8%b1%d8%af%d8%a7%d8%a8/" title="دانلود آهنگ علیرضا گروسی با نام من اینجا وسط مرداب">
+				علیرضا گروسی  -  من اینجا وسط مرداب			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d9%85%db%8c%d9%84%d8%a7%d8%af-%d8%ac%d9%87%d8%a7%d9%86%d8%a8%d8%ae%d8%b4-%d8%a8%da%86%d9%87-%d9%be%d8%a7%db%8c%db%8c%d9%86/" title="دانلود آهنگ میلاد جهانبخش با نام بچه پایین">
+				میلاد جهانبخش  -  بچه پایین			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c%d8%b1%d8%b6%d8%a7-%d9%82%d8%b1%d8%a8%d8%a7%d9%86%db%8c-%d9%be%d8%b1%db%8c%d8%b4%d8%a7%d9%86%db%8c/" title="دانلود آهنگ علیرضا قربانی با نام پریشانی">
+				علیرضا قربانی  -  پریشانی			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d9%82%d9%82%d9%86%d9%88%d8%b3-%da%af%d8%b0%d8%b4%d8%aa%d9%85/" title="دانلود آهنگ ققنوس با نام گذشتم">
+				ققنوس  -  گذشتم			</a></h3>
+				</div></aside>
+								<h3><a class="item" href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d8%b1%d9%88%d8%af-%d8%b4%d9%85%db%8c%d9%85-%d9%88%d9%84%d8%a7%db%8c%d8%aa-%db%8c%d8%b2%d8%af-%db%8c%d8%a7%d8%b1%d8%a7%d9%86-%d8%ae%d8%b1%d8%a7%d8%b3%d8%a7%d9%86%db%8c/" title="دانلود آهنگ گروه سرود شمیم ولایت یزد با نام یاران خراسانی">
+				گروه سرود شمیم ولایت یزد  -  یاران خراسانی			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d9%88%d8%ad%db%8c%d8%af-%d8%b7%d8%a7%d9%87%d8%b1%d9%be%d9%88%d8%b1-%d8%b1%d8%b3%d9%85-%d9%81%d9%84%da%a9/" title="دانلود آهنگ وحید طاهرپور با نام رسم فلک">
+				وحید طاهرپور  -  رسم فلک			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d8%b5%d9%81%d8%af%d8%b1%db%8c%d8%a7%d9%86-%d8%b3%d9%86-%da%af%d9%84%d9%85%d8%af%db%8c%d9%86/" title="دانلود آهنگ علی صفدریان با نام سن گلمدین">
+				علی صفدریان  -  سن گلمدین			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d8%b5%d9%81%d8%af%d8%b1%db%8c%d8%a7%d9%86-%d8%a2%d9%86%d8%a7/" title="دانلود آهنگ علی صفدریان با نام آنا">
+				علی صفدریان  -  آنا			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d8%b5%d9%81%d8%af%d8%b1%db%8c%d8%a7%d9%86-%d8%b3%d9%86-%d9%85%d9%86%db%8c%d9%85-%d9%86%db%8c%da%af%d8%a7%d8%b1%db%8c%d9%85/" title="دانلود آهنگ علی صفدریان با نام سن منیم نیگاریم">
+				علی صفدریان  -  سن منیم نیگاریم			</a></h3>
+				
+	
+	
+</div>
+</nav>			</div>
+		</div>
+		<footer>
+		<div id="footer">
+			<div id="footer-content">
+				<div class="footer-box" id="mainlinks">
+					<div class="title">لینک های سایت</div>	
+					<a href="/">صفحه اصلی</a>
+					<a href="/category/tak">تک آهنگ ها</a>
+					<a href="/category/albums">آلبوم ها</a>
+					<a href="/category/musicvideo">موزیک ویدئو ها</a>
+					<a href="/تبلیغات/">تبلیغات</a>
+				</div>
+				<div class="footer-box">
+							<div class="title"><h2>پیشنهاد روز بخش ملایم</h2></div>	
+				<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%88-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%B2%DB%8C%D8%A8%D8%A7%DB%8C-%D8%B1%D8%B6%D8%A7-%D8%B5%D8%A7%D8%AF%D9%82/" title="دانلود آهنگ جدید و بسیار زیبای رضا صادقی با نام مرد دیوونه"><div class="item">
+											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2014/12/Reza-Sadeghi-Marde-Divooneh-65x65.jpg"  title="Reza Sadeghi - Marde Divooneh" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="رضاصادقی - مرد دیوونه" loading="lazy" />دانلود آهنگ جدید و بسیار زیبای رضا صادقی با نام مرد دیوونه<span class="item-info">بدون نظر | 1,796 بازدید</span></div></a>
+							</div>
+				<div class="footer-box" id="tags">
+					<div class="title">برترین خواننده ها</div>	
+					<a href="https://next1.ir/category/artists/%D8%B1%D8%B6%D8%A7-%D8%B5%D8%A7%D8%AF%D9%82%DB%8C/">رضا صادقی</a>
+					<a href="https://next1.ir/category/artists/%D9%85%D8%AD%D8%B3%D9%86-%DA%86%D8%A7%D9%88%D8%B4%DB%8C/">محسن چاوشی</a>
+					<a href="https://next1.ir/category/artists/%D9%BE%D9%88%DB%8C%D8%A7-%D8%A8%DB%8C%D8%A7%D8%AA%DB%8C/">پویا بیاتی</a>
+					<a href="https://next1.ir/category/artists/%D9%85%D8%AD%D8%B3%D9%86-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85-%D8%B2%D8%A7%D8%AF%D9%87/">محسن ابراهیم زاده</a>
+					<a href="https://next1.ir/category/artists/%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF/">مهدی احمدوند</a>
+					<a href="https://next1.ir/category/artists/%D8%B3%DB%8C%D9%86%D8%A7-%D8%B3%D8%B1%D9%84%DA%A9/">سینا سرلک</a>
+					<a href="https://next1.ir/category/artists/%D8%B3%D8%A7%D9%84%D8%A7%D8%B1-%D8%B9%D9%82%DB%8C%D9%84%DB%8C/">سالار عقیلی</a>
+					<a href="https://next1.ir/category/artists/%DB%8C%D9%88%D8%B3%D9%81-%D8%B2%D9%85%D8%A7%D9%86%DB%8C/">یوسف زمانی</a>
+					<a href="https://next1.ir/category/artists/%D8%B3%D8%A7%D9%85%D8%A7%D9%86-%D8%AC%D9%84%DB%8C%D9%84%DB%8C/">سامان جلیلی</a>
+					<a href="https://next1.ir/category/artists/%D9%81%D8%B1%D8%B2%D8%A7%D8%AF-%D9%81%D8%B1%D8%B2%DB%8C%D9%86/">فرزاد فرزین</a>
+					<a href="https://next1.ir/category/artists/%D8%AD%D9%85%DB%8C%D8%AF-%D9%87%DB%8C%D8%B1%D8%A7%D8%AF/">حمید هیراد</a>
+					<a href="https://next1.ir/category/artists/%D8%B9%D9%84%DB%8C-%D9%84%D9%87%D8%B1%D8%A7%D8%B3%D8%A8%DB%8C/">علی لهراسبی</a>
+				</div>
+				<div id="footer-bottom">تمامی حقوق و مالکیت قالب متعلق به <a href="https://next1.ir">نکست وان</a> می باشد.</div>
+			</div>
+		</div>
+		<br /><br />
+		<a rel="nofollow" target="_blank" href="https://instagram.com/next1_ir/" class="fixed-instagram">اینستاگرام نکست وان را فالو کنید</a>
+		</footer>
+	<script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script></body>
+</html>
+<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-09 15:11:44 -->
+<!-- Guest Mode -->

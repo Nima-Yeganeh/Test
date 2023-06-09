@@ -1,6 +1,7 @@
 # cat test8.txt | grep -n '<p style="text-align: center;"><span id="more-' | cut -d: -f1
+cat test8.txt | sed 's/\*\*\*\*/ /g' > test8-temp.txt
 # Find line number(s) for string1
-string1_line_numbers=$(grep -n '<p style="text-align: center;"><span id="more-' test8.txt | cut -d: -f1)
+string1_line_numbers=$(grep -n '<p style="text-align: center;"><span id="more-' test8-temp.txt | cut -d: -f1)
 
 # Read lines from string1_line_numbers until string2 is found
 while read line; do
@@ -9,4 +10,5 @@ while read line; do
         break
     fi
     echo $line
-done < <(awk "NR>=$string1_line_numbers" test8.txt)
+done < <(awk "NR>=$string1_line_numbers" test8-temp.txt)
+
