@@ -1817,3 +1817,7 @@ MortazaAshrafi-TaKey320.mp3
 MortazaAshrafi-TaKey128.mp3
 RezaMalekzadeh-Shoma320.mp3
 RezaMalekzadeh-Shoma128.mp3
+MortezaPashaei-Asheghetam320.mp3
+MortezaPashaei-Asheghetam128.mp3
+MortezaPashaei-Asheghetam320.mp3
+MortezaPashaei-Asheghetam128.mp3
