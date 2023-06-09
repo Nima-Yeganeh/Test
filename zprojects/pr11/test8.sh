@@ -217,10 +217,16 @@ while IFS= read -r zline; do
             echo $valid2
             if $valid2; then
               
-              echo "wordpress process..."
-              # echo "" >> $zcontentfile
+              
+              echo "" >> $zcontentfile
+              while IFS= read -r yline; do
+                echo "$yline"
+                echo '<a href="'$yline'" download="file.mp3">Download MP3</a>' >> $zcontentfile
+              done < "$zmp3newfileurl"
+
               # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
               # echo "" >> $zcontentfile
+              echo "wordpress process..."
               rm -f $zfile4
               touch $zfile4
               python3 test21_post_cat_tag_image_upload_fa.py
