@@ -1813,3 +1813,7 @@ RezaYazdani-EshgheBiZaval320.mp3
 RezaYazdani-EshgheBiZaval128.mp3
 AhmadSaeedi-EshghFaghatTo320.mp3
 AhmadSaeedi-EshghFaghatTo128.mp3
+MortazaAshrafi-TaKey320.mp3
+MortazaAshrafi-TaKey128.mp3
+RezaMalekzadeh-Shoma320.mp3
+RezaMalekzadeh-Shoma128.mp3
