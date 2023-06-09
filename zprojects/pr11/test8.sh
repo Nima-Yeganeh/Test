@@ -116,6 +116,12 @@ while IFS= read -r zline; do
       echo "zdetailfile:"
       cat $zdetailfile
       cat $zdetailfile >> $zcontentfile
+      
+      echo "********" >> log.txt
+      echo $zline >> log.txt
+      cat $zcontentfile >> log.txt
+      echo "********" >> log.txt
+      
       # echo "" >> $zcontentfile
       # echo "zcontentfile:"
       # cat $zcontentfile
