@@ -106,10 +106,10 @@ post.terms_names = {'category': [zcat], 'post_tag': ztag}
 post.post_status = 'publish'
 
 post_id = client.call(NewPost(post))
-post_url = client.call('post.getPermalink', post_id)
+# post_url = client.call('post.getPermalink', post_id)
 
 print('Post created successfully!')
 print('New post created with ID:', post_id)
 print('Image URL: ', imgurl)
 print('MP3 URL: ', mp3url)
-print('Post URL:', post_url)
+# print('Post URL:', post_url)
