@@ -219,9 +219,10 @@ while IFS= read -r zline; do
               
               
               echo "" >> $zcontentfile
-              while IFS= read -r yline; do
-                echo "$yline"
-                echo '<a href="'$yline'" download="file.mp3">Download MP3</a>' >> $zcontentfile
+              while IFS= read -r ylink; do
+                echo "$ylink"
+                ylinkfile=$(basename "$ylink")
+                echo '<a href="'$ylink'" download="'$ylinkfile'">Download MP3 File: '$ylinkfile'لینک دانلود فایل </a>' >> $zcontentfile
               done < "$zmp3newfileurl"
               # sleep 50
               # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
