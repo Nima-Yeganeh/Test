@@ -1,0 +1,11 @@
+--2023-06-09 17:24:47--  https://next1.ir/wp-content/uploads/2023/06/RezaYazdani-Derakht-480x480.jpg
+Resolving next1.ir (next1.ir)... 138.201.219.121
+Connecting to next1.ir (next1.ir)|138.201.219.121|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48981 (48K) [image/jpeg]
+Saving to: ‘z.jpg’
+
+     0K .......... .......... .......... .......... .......   100%  232K=0.2s
+
+2023-06-09 17:24:48 (232 KB/s) - ‘z.jpg’ saved [48981/48981]
+
