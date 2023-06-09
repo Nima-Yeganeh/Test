@@ -245,10 +245,10 @@ while IFS= read -r zline; do
       echo "File is empty!"
     fi
 
-    sleep 50
+    # sleep 50
     echo "$zline" >> $file2
     echo "**** Done! ****"
-    sleep 50
+    sleep 5
 
   fi
 done < "$file1"
