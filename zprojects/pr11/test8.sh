@@ -223,7 +223,7 @@ while IFS= read -r zline; do
                 ylinkfile=$(basename "$ylink" | sed 's/mp3-play.php?filename=//g')
                 echo '<a href="'$ynewlink'" download="'$ylinkfile'">'$ylinkfile'</a>' >> $zcontentfile
               done < "$zmp3newfileurl"
-              sleep 50
+              # sleep 50
               # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
               # echo "" >> $zcontentfile
               echo "wordpress process..."
