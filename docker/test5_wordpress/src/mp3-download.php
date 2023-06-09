@@ -40,7 +40,7 @@ if ($lineNumber !== false) {
                 // Set appropriate headers for streaming
                 header('Content-Type: audio/mpeg');
                 // header('Content-Length: ' . $file_size);
-                header('Content-Disposition: inline; filename="'$filename'"');
+                header('Content-Disposition: inline; filename="'.$filename.'"');
                 // Stream the MP3 file
                 readfile($mp3_url);
                 break;
