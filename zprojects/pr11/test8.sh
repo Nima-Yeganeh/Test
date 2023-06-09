@@ -217,7 +217,6 @@ while IFS= read -r zline; do
             echo $valid2
             if $valid2; then
               
-              
               echo "لینک دانلود فایل موزیک/آهنگ با کیفیت 128 یا 320 موجود است. جهت دانلود کلیک نمایید" >> $zcontentfile
               while IFS= read -r ylink; do
                 echo "$ylink"
