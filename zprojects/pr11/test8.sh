@@ -173,7 +173,7 @@ while IFS= read -r zline; do
           echo "Valid JPG: 200"   
           echo "JPG File size is greater than zero."
           ls -anp | grep $filename
-
+          sleep 50
           if [[ $(cat $zmp3fileurl | wc -l) -gt 0 ]]; then
 
             echo "mp3 files to check..."
@@ -268,7 +268,6 @@ while IFS= read -r zline; do
         fi
         
         rm -f $zimagefile
-        sleep 50
 
       else
         echo "No image file found!"
