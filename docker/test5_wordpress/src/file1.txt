@@ -1240,3 +1240,5 @@ Zanco-GhashangShod320.mp3
 Zanco-GhashangShod128.mp3
 Ragheb-GoleSefideArezoo320.mp3
 Ragheb-GoleSefideArezoo128.mp3
+SawtSafiriElBolboli320.mp3
+SawtSafiriElBolboli128.mp3
