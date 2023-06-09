@@ -219,11 +219,11 @@ while IFS= read -r zline; do
               
               echo "لینک دانلود فایل موزیک/آهنگ با کیفیت 128 یا 320 موجود است. جهت دانلود کلیک نمایید" >> $zcontentfile
               while IFS= read -r ylink; do
-                echo "$ylink"
+                ynewlink=$(echo "$ylink" | sed 's/mp3-play.php/mp3-download.php/g')
                 ylinkfile=$(basename "$ylink" | sed 's/mp3-play.php?filename=//g')
-                echo '<a href="'$ylink'" download="'$ylinkfile'">'$ylinkfile'</a>' >> $zcontentfile
+                echo '<a href="'$ynewlink'" download="'$ylinkfile'">'$ylinkfile'</a>' >> $zcontentfile
               done < "$zmp3newfileurl"
-              # sleep 50
+              sleep 50
               # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
               # echo "" >> $zcontentfile
               echo "wordpress process..."
