@@ -153,7 +153,7 @@ while IFS= read -r zline; do
         validjpg=0
         while [ ! -s "$filename" ]; do
           echo "JPG File size is zero, retrying..."
-          wget -O $filename -o z.txt "$url"
+          wget -O $filename -o z.txt --no-check-certificate "$url"
           errorcheck200=$(cat z.txt | grep '200' | wc -l)
           errorcheck404=$(cat z.txt | grep '404' | wc -l)
           if [[ $errorcheck200 -ge 1 ]]; then
