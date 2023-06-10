@@ -1,0 +1,6 @@
+--2023-06-10 18:02:39--  https://next1song.ir/wp-content/uploads/2016/04/Arshavin-KashBetoni.jpg
+Resolving next1song.ir (next1song.ir)... 138.201.219.121
+Connecting to next1song.ir (next1song.ir)|138.201.219.121|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘next1song.ir’.
+To connect to next1song.ir insecurely, use `--no-check-certificate'.
