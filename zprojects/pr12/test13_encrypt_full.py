@@ -33,12 +33,13 @@ def decrypt_string(encrypted_message, encryption_key):
 encryption_key = result+'ABC='
 # print(encryption_key)
 
-input_string = input("Enter the string to encrypt: ")
-# Encrypt the input string using the encryption key
-encrypted_string = encrypt_string(input_string, encryption_key)
-# print("Encrypted string:", encrypted_string)
-# Write the input to a file
-with open(file_name, "a") as file:
-    file.write(encrypted_string)
-print("Input written to", file_name)
-
+prompts = ["Tel Bot Token: ", "Tel Chat ID: ", "WP Domain: ", "WP User: ", "WP Pass: "]
+for prompt in prompts:
+    input_string = input(prompt)
+    # Encrypt the input string using the encryption key
+    encrypted_string = encrypt_string(input_string, encryption_key)
+    # print("Encrypted string:", encrypted_string)
+    # Write the input to a file
+    with open(file_name, "a") as file:
+        file.write(encrypted_string)
+    print("Input written to", file_name)
