@@ -1,7 +1,7 @@
 # pip install cryptography
 from cryptography.fernet import Fernet
 code = input("Enter a 4-character code: ")
-# Check if the input code is exactly 4 characters long
+# Check if the input code is exactly 40 characters long
 if len(code) == 40:
     result = code
     # print("Result:", result)
