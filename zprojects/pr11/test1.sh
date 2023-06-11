@@ -11,4 +11,5 @@ while IFS= read -r line; do
   cat test1_temp.txt | grep -oP '(?<=<loc>).*?(?=</loc>)' | sed 's/^[[:space:]]*//' | sed 's/<loc>//g' >> test1_result.txt
 done < "$xml_file_path"
 rm -f test1_temp.txt
+cat test1_result.txt > file.txt
 
