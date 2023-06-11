@@ -21,9 +21,11 @@ for number in range(1000, 10000):
                     decrypted_string = decrypt_string(content, encryption_key)
                     print("Decrypted string from file:", decrypted_string)
                     print(code)
+                    valid = True
                     break
                 except Exception as e:
-                    print("Error decrypting:", str(e))
+                    # print("Error decrypting:", str(e))
+                    valid = False
         except FileNotFoundError:
             print("File not found.")
     else:
