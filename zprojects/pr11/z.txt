@@ -1,11 +1,11 @@
---2023-06-11 08:30:05--  https://next1.ir/wp-content/uploads/2023/06/JavadKelidari-Tavalod-480x480.jpg
+--2023-06-11 09:09:06--  https://next1.ir/wp-content/uploads/2023/06/Ghoghnusw-.Gozashtam-480x480.jpg
 Resolving next1.ir (next1.ir)... 138.201.219.121
 Connecting to next1.ir (next1.ir)|138.201.219.121|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 44724 (44K) [image/jpeg]
-Saving to: ‘JavadKelidari-Tavalod-480x480.jpg’
+Length: 21202 (21K) [image/jpeg]
+Saving to: ‘Ghoghnusw-.Gozashtam-480x480.jpg’
 
-     0K .......... .......... .......... .......... ...       100%  213K=0.2s
+     0K .......... ..........                                 100%  198K=0.1s
 
-2023-06-11 08:30:06 (213 KB/s) - ‘JavadKelidari-Tavalod-480x480.jpg’ saved [44724/44724]
+2023-06-11 09:09:06 (198 KB/s) - ‘Ghoghnusw-.Gozashtam-480x480.jpg’ saved [21202/21202]
 

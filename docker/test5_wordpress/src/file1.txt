@@ -12700,3 +12700,5 @@ AhmadSafaei-Bikhyali320.mp3
 AhmadSafaei-Bikhyali128.mp3
 JavadKelidari-Tavalod320.mp3
 JavadKelidari-Tavalod128.mp3
+Ghoghnusw.Gozashtam320.mp3
+Ghoghnusw.Gozashtam128.mp3
