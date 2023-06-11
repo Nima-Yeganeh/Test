@@ -6,7 +6,7 @@ def decrypt_string(encrypted_message, encryption_key):
     decrypted_message = cipher_suite.decrypt(encrypted_message.encode())
     return decrypted_message.decode()
 for number in range(1000, 10000):
-    code = number
+    code = str(number)
     print(code)
     if len(code) == 4:
         result = code
