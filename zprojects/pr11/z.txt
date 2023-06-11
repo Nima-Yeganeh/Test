@@ -1,6 +1,13 @@
---2023-06-10 18:02:39--  https://next1song.ir/wp-content/uploads/2016/04/Arshavin-KashBetoni.jpg
-Resolving next1song.ir (next1song.ir)... 138.201.219.121
-Connecting to next1song.ir (next1song.ir)|138.201.219.121|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘next1song.ir’.
-To connect to next1song.ir insecurely, use `--no-check-certificate'.
+--2023-06-10 20:36:51--  https://next1.ir/wp-content/uploads/2015/09/MohammadRezaMoshiri-Midooni.jpg
+Resolving next1.ir (next1.ir)... 138.201.219.121
+Connecting to next1.ir (next1.ir)|138.201.219.121|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105149 (103K) [image/jpeg]
+Saving to: ‘MohammadRezaMoshiri-Midooni.jpg’
+
+     0K .......... .......... .......... .......... .......... 48%  241K 0s
+    50K .......... .......... .......... .......... .......... 97%  492K 0s
+   100K ..                                                    100% 5.00T=0.3s
+
+2023-06-10 20:36:52 (332 KB/s) - ‘MohammadRezaMoshiri-Midooni.jpg’ saved [105149/105149]
+
