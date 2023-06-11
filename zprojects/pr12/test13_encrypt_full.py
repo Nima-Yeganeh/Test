@@ -43,3 +43,7 @@ for prompt in prompts:
     with open(file_name, "a") as file:
         file.write(encrypted_string + "\n")
     print("Input written to", file_name)
+
+with open(file_name, "r") as file:
+    for line in file:
+        print(line.rstrip('\n'))
