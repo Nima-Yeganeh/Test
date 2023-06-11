@@ -204,7 +204,7 @@ while IFS= read -r zline; do
                 echo "$line"
                 url=$line
                 echo $url >> $zdlsitefilepath2fileurl
-                filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/')
+                filename=$(basename "$url" | sed 's/-320.*\.mp3/320.mp3/' | sed 's/-128.*\.mp3/128.mp3/' | sed 's/%[0-9][0-9]//g')
                 echo $filename
                 echo $filename >> $zdlsitefilepath1filename
                 echo "$zdlurlpath$filename" >> $zmp3newfileurl
