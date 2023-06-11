@@ -7,7 +7,6 @@ def decrypt_string(encrypted_message, encryption_key):
     return decrypted_message.decode()
 for number in range(1000, 10000):
     code = str(number)
-    print(code)
     if len(code) == 4:
         result = code
         for _ in range(9):
@@ -17,10 +16,11 @@ for number in range(1000, 10000):
         try:
             with open(file_name, "r") as file:
                 content = file.read()
-                print(content)
+                # print(content)
                 try:
                     decrypted_string = decrypt_string(content, encryption_key)
                     print("Decrypted string from file:", decrypted_string)
+                    print(code)
                     break
                 except Exception as e:
                     print("Error decrypting:", str(e))
