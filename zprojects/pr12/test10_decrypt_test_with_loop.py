@@ -5,7 +5,7 @@ def decrypt_string(encrypted_message, encryption_key):
     cipher_suite = Fernet(encryption_key)
     decrypted_message = cipher_suite.decrypt(encrypted_message.encode())
     return decrypted_message.decode()
-for number in range(1000000000000000000000000000000000000000, 1000000000000000000000000000000000000001):
+for number in range(1000000000000000000000000000000000000000, 9999999999999999999999999999999999999999):
     code = str(number)
     if len(code) == 40:
         result = code
@@ -22,7 +22,7 @@ for number in range(1000000000000000000000000000000000000000, 100000000000000000
                     valid = True
                     break
                 except Exception as e:
-                    print("Error decrypting:", str(e))
+                    # print("Error decrypting:", str(e))
                     valid = False
         except FileNotFoundError:
             print("File not found.")
