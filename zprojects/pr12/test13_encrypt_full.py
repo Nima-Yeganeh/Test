@@ -41,5 +41,5 @@ for prompt in prompts:
     # print("Encrypted string:", encrypted_string)
     # Write the input to a file
     with open(file_name, "a") as file:
-        file.write(encrypted_string)
+        file.write(encrypted_string + "\n")
     print("Input written to", file_name)
