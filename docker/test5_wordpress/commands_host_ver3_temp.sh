@@ -126,4 +126,5 @@ while IFS= read -r line; do
 done <<< "$file_contents"
 
 docker exec -it $targethost bash -c "chmod 755 wp-content/cache"
-
+docker exec -it $targethost bash -c "chmod 755 wp-content/upgrade"
+docker exec -it $targethost bash -c "chmod 755 wp-content/uploads"
