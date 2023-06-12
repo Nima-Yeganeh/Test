@@ -62,7 +62,7 @@ services:
   php1:
     image: php:7.4-apache
     volumes:
-      - ./src:/var/www/html:ro
+      - php1_data:/var/www/html:ro
       - ./php.ini:/usr/local/etc/php/php.ini:ro
 
   nginx:
@@ -80,3 +80,4 @@ volumes:
   db1_data:
   wordpress1_content:
   redis1_data:
+  php1_data:
