@@ -32,31 +32,22 @@ if len(sys.argv) == 3:
             # print("Line 3:", line3)
             # print("Line 4:", line4)
             # print("Line 5:", line5)
-            content = line1
-            try:
-                decrypted_string = decrypt_string(content, encryption_key)
-                print("Decrypted string from file:", decrypted_string)
-            except Exception as e:
-                print("Error decrypting:", str(e))
-            content = line2
-            try:
-                decrypted_string = decrypt_string(content, encryption_key)
-                print("Decrypted string from file:", decrypted_string)
-            except Exception as e:
-                print("Error decrypting:", str(e))
-            content = line3
-            try:
-                decrypted_string = decrypt_string(content, encryption_key)
-                print("Decrypted string from file:", decrypted_string)
-            except Exception as e:
-                print("Error decrypting:", str(e))
-            content = line4
-            try:
-                decrypted_string = decrypt_string(content, encryption_key)
-                print("Decrypted string from file:", decrypted_string)
-            except Exception as e:
-                print("Error decrypting:", str(e))
-            content = line5
+
+            if arg1 == 1:
+                content = line1
+                try:
+                    decrypted_string = decrypt_string(content, encryption_key)
+                    print("Decrypted string from file:", decrypted_string)
+                except Exception as e:
+                    print("Error decrypting:", str(e))
+            elif arg1 == 2:
+                content = line2
+                try:
+                    decrypted_string = decrypt_string(content, encryption_key)
+                    print("Decrypted string from file:", decrypted_string)
+                except Exception as e:
+                    print("Error decrypting:", str(e))
+
             try:
                 decrypted_string = decrypt_string(content, encryption_key)
                 print("Decrypted string from file:", decrypted_string)
@@ -66,13 +57,6 @@ if len(sys.argv) == 3:
             print("File not found.")
     else:
         print("Invalid code. Please enter a 4-character code.")
-
-    # if arg1 == 1:
-    #     variable1 = "Value for variable 1"
-    #     print(variable1)
-    # elif arg1 == 2:
-    #     variable2 = "Value for variable 2"
-    #     print(variable2)
 
 else:
     print("Please provide two arguments.")
