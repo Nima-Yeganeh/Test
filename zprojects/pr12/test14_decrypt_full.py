@@ -29,7 +29,30 @@ if len(code) == 40:
         try:
             decrypted_string = decrypt_string(content, encryption_key)
             print("Decrypted string from file:", decrypted_string)
-            # print(code)
+        except Exception as e:
+            print("Error decrypting:", str(e))
+        content = line2
+        try:
+            decrypted_string = decrypt_string(content, encryption_key)
+            print("Decrypted string from file:", decrypted_string)
+        except Exception as e:
+            print("Error decrypting:", str(e))
+        content = line3
+        try:
+            decrypted_string = decrypt_string(content, encryption_key)
+            print("Decrypted string from file:", decrypted_string)
+        except Exception as e:
+            print("Error decrypting:", str(e))
+        content = line4
+        try:
+            decrypted_string = decrypt_string(content, encryption_key)
+            print("Decrypted string from file:", decrypted_string)
+        except Exception as e:
+            print("Error decrypting:", str(e))
+        content = line5
+        try:
+            decrypted_string = decrypt_string(content, encryption_key)
+            print("Decrypted string from file:", decrypted_string)
         except Exception as e:
             print("Error decrypting:", str(e))
     except FileNotFoundError:
