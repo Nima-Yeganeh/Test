@@ -37,14 +37,35 @@ if len(sys.argv) == 3:
                 content = line1
                 try:
                     decrypted_string = decrypt_string(content, encryption_key)
-                    print("Decrypted string from file:", decrypted_string)
+                    print(decrypted_string)
                 except Exception as e:
                     print("Error decrypting:", str(e))
             elif arg1 == 2:
                 content = line2
                 try:
                     decrypted_string = decrypt_string(content, encryption_key)
-                    print("Decrypted string from file:", decrypted_string)
+                    print(decrypted_string)
+                except Exception as e:
+                    print("Error decrypting:", str(e))
+            elif arg1 == 3:
+                content = line3
+                try:
+                    decrypted_string = decrypt_string(content, encryption_key)
+                    print(decrypted_string)
+                except Exception as e:
+                    print("Error decrypting:", str(e))
+            elif arg1 == 4:
+                content = line4
+                try:
+                    decrypted_string = decrypt_string(content, encryption_key)
+                    print(decrypted_string)
+                except Exception as e:
+                    print("Error decrypting:", str(e))
+            elif arg1 == 5:
+                content = line5
+                try:
+                    decrypted_string = decrypt_string(content, encryption_key)
+                    print(decrypted_string)
                 except Exception as e:
                     print("Error decrypting:", str(e))
 
