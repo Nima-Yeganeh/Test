@@ -65,8 +65,18 @@ services:
       - ./src:/var/www/html:ro
       - ./php.ini:/usr/local/etc/php/php.ini:ro
 
+  nginx:
+    image: nginx:latest
+    restart: always
+    depends_on:
+      - wp1
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./default_html/:/var/www/default/:ro
+    ports:
+      - "80:80"
+
 volumes:
   db1_data:
   wordpress1_content:
   redis1_data:
-
