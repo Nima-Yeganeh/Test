@@ -2,8 +2,6 @@
 from cryptography.fernet import Fernet
 import sys
 
-# code = input("Enter a 40-character code: ")
-
 def decrypt_string(encrypted_message, encryption_key):
     cipher_suite = Fernet(encryption_key)
     decrypted_message = cipher_suite.decrypt(encrypted_message.encode())
@@ -27,11 +25,6 @@ if len(sys.argv) == 3:
                 line3 = file.readline().rstrip('\n')
                 line4 = file.readline().rstrip('\n')
                 line5 = file.readline().rstrip('\n')           
-            # print("Line 1:", line1)
-            # print("Line 2:", line2)
-            # print("Line 3:", line3)
-            # print("Line 4:", line4)
-            # print("Line 5:", line5)
 
             if arg1 == 1:
                 content = line1
