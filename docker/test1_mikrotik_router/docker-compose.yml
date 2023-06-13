@@ -10,7 +10,7 @@ services:
       - "1701:1701/udp"
       - "4500:4500/udp"
       - "47:47/udp"
-      - "8089:8080"
+      - "8080:8080"
     volumes:
       - mikrotik-data:/mikrotik-data
 
