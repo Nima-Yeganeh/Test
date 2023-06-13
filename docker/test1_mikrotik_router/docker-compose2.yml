@@ -5,6 +5,8 @@ services:
     image: evilfreelancer/docker-routeros:6.42.12
     ports:
       - "8291:8291"
+      - "80:80"
+      - "443:443"
     volumes:
       - mikrotik-data:/mikrotik-data
 
