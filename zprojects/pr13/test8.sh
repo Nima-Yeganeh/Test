@@ -28,8 +28,19 @@ zfile4="file4.htm"
 # rm -f $file2
 # touch $file2
 
-# echo "Enter a 4-character code: "
-# read code
+echo "Enter a 40-character code: "
+read code
+Tel_Bot_Token=$(python3 test_decrypt_full_arg.py 1 $code)
+Tel_Chat_ID=$(python3 test_decrypt_full_arg.py 2 $code)
+WP_Domain=$(python3 test_decrypt_full_arg.py 3 $code)
+WP_User=$(python3 test_decrypt_full_arg.py 4 $code)
+WP_Pass=$(python3 test_decrypt_full_arg.py 5 $code)
+# echo $Tel_Bot_Token
+# echo $Tel_Chat_ID
+# echo $WP_Domain
+# echo $WP_User
+# echo $WP_Pass
+
 
 while IFS= read -r zline; do
   if ! grep -qF "$zline" "$file2"; then
@@ -249,7 +260,7 @@ while IFS= read -r zline; do
                 echo "wordpress process..."
                 rm -f $zfile4
                 touch $zfile4
-                python3 test21_post_cat_tag_image_upload_fa.py
+                python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
 
               fi
             
