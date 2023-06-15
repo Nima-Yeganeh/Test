@@ -10,9 +10,6 @@ if len(sys.argv) > 2:
     bot_token = sys.argv[1]
     chat_id = '@'+sys.argv[2]
 
-    print(bot_token)
-    print(chat_id)
-
     bot = Bot(token=bot_token)
 
     photofile = 'zjpgfile.txt'
@@ -26,7 +23,7 @@ if len(sys.argv) > 2:
     else:
         print("File is empty.")
 
-    captionfile = 'zcontentfile.txt'
+    captionfile = 'ztelcontentfile.txt'
     caption = ''
 
     with open(captionfile, 'r') as file:

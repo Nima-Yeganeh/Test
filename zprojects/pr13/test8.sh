@@ -18,6 +18,7 @@ zinfofile="zinfofile.txt"
 zdetailfile="zdetailfile.txt"
 zdetailfile2="zdetailfile2.txt"
 zcontentfile="zcontentfile.txt"
+ztelcontentfile="ztelcontentfile.txt"
 ztestfile="test8.txt"
 ztesttemp="test8_temp.txt"
 zdlsitefilepath1filename="/var/lib/docker/volumes/test5_wordpress_php1_data/_data/file1.txt"
@@ -118,15 +119,19 @@ while IFS= read -r zline; do
       echo "ztitlefile:"
       cat $ztitlefile
       cat $ztitlefile > $zcontentfile
+      cat $ztitlefile > $ztelcontentfile
       echo "zengfile:"
       cat $zengfile
       cat $zengfile >> $zcontentfile
+      cat $zengfile >> $ztelcontentfile
       echo "zinfofile:"
       cat $zinfofile
       cat $zinfofile >> $zcontentfile
+      cat $zinfofile >> $ztelcontentfile
       echo "zdetailfile:"
       cat $zdetailfile
       cat $zdetailfile >> $zcontentfile
+      cat $zdetailfile >> $ztelcontentfile
       
       echo "********" >> log.txt
       echo $zline >> log.txt
@@ -264,6 +269,7 @@ while IFS= read -r zline; do
                 touch $zfile4
                 python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
                 echo 'tel...'
+                
                 sleep 50
                 python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
 
