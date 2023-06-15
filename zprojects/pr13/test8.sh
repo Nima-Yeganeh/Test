@@ -294,7 +294,7 @@ while IFS= read -r zline; do
     # sleep 50
     echo "$zline" >> $file2
     echo "**** Done! ****"
-    sleep 5
+    sleep 20
 
   fi
 done < "$file1"
