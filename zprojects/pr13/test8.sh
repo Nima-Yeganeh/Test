@@ -121,7 +121,7 @@ while IFS= read -r zline; do
       cat $ztitlefile
       cat $ztitlefile > $zteltitlefile
       echo '@'$Tel_Chat_ID >> $zteltitlefile
-      
+
       cat $ztitlefile > $zcontentfile
       cat $ztitlefile > $ztelcontentfile
       echo "zengfile:"
@@ -282,9 +282,8 @@ while IFS= read -r zline; do
                 rm -f $zfile4
                 touch $zfile4
                 python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
-                echo 'tel...'
-
-                sleep 50
+                # echo 'tel...'
+                # sleep 50
                 echo "wordpress process..."
                 python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
 
