@@ -75,7 +75,7 @@ while IFS= read -r zline; do
       echo "zjpgfileurl:"
       cat $zjpgfileurl
 
-      cat $ztestfile | grep -oP '(?<=<h1>).*?(?=</h1>)' | sed 's/&#.*;//g' > $ztitlefile
+      cat $ztestfile | grep -oP '(?<=<h1>).*?(?=</h1>)' | sed 's/&#[0-9][0-9][0-9][0-9];//g' > $ztitlefile
       
       # cat $ztestfile | grep -oP '(?<=<p style="text-align: center;">).*?(?=</p>)' | grep -oP '(?<=<strong>).*?(?=</strong>)' | head -2 > $zengfile
 
