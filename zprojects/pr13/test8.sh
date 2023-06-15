@@ -120,6 +120,8 @@ while IFS= read -r zline; do
       echo "ztitlefile:"
       cat $ztitlefile
       cat $ztitlefile > $zteltitlefile
+      echo '@'$Tel_Chat_ID >> $zteltitlefile
+      
       cat $ztitlefile > $zcontentfile
       cat $ztitlefile > $ztelcontentfile
       echo "zengfile:"
