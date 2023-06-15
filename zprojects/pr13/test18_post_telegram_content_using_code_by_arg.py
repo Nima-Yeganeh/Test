@@ -36,7 +36,7 @@ if len(sys.argv) > 2:
     loop = asyncio.get_event_loop()
     loop.run_until_complete(send_telegram_photo())
 
-    captionfile = 'ztitle2file.txt'
+    captionfile = 'ztitlefile.txt'
     caption = ''
 
     with open(captionfile, 'r') as file:

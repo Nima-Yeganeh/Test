@@ -218,7 +218,8 @@ while IFS= read -r zline; do
             
             if $valid; then
               echo "OK found valid mp3 url links..."
-            
+
+              rm -f $zmp3file            
               rm -f $zmp3newfileurl
               while IFS= read -r line; do
                 echo "$line"
@@ -228,6 +229,8 @@ while IFS= read -r zline; do
                 echo $filename
                 echo $filename >> $zdlsitefilepath1filename
                 echo "$zdlurlpath$filename" >> $zmp3newfileurl
+                wget -O $filename $url
+                echo $filename >> $zmp3file
               done < "$zmp3fileurl"
               cat $zmp3newfileurl
 
