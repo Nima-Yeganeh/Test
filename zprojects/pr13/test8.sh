@@ -186,8 +186,6 @@ while IFS= read -r zline; do
           ls -anp | grep $filename
           echo $zimagefile > $zjpgfile
           cat $zjpgfile
-          echo '....'
-          sleep 50
 
           if [[ $(cat $zmp3fileurl | wc -l) -gt 0 ]]; then
 
@@ -264,6 +262,7 @@ while IFS= read -r zline; do
                 echo "wordpress process..."
                 rm -f $zfile4
                 touch $zfile4
+                python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
                 python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
 
               fi
