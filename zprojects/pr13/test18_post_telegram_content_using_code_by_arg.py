@@ -10,6 +10,9 @@ if len(sys.argv) > 2:
     bot_token = sys.argv[1]
     chat_id = sys.argv[2]
 
+    print(bot_token)
+    print(chat_id)
+
     bot = Bot(token=bot_token)
 
     photofile = 'zjpgfile.txt'
