@@ -239,6 +239,10 @@ while IFS= read -r zline; do
                 id3v2 -s $filename
                 id3v2 -r $filename
                 id3v2 -D $filename
+                id3v2 --TIT3 "$filename" $filename
+                id3v2 -t "$filename" $filename
+                id3v2 -c "$filename" $filename
+                id3v2 --list $filename
                 echo $filename >> $zmp3file
               done < "$zmp3fileurl"
               cat $zmp3newfileurl
