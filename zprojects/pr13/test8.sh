@@ -12,6 +12,7 @@ zjpgfile="zjpgfile.txt"
 zjpgfileurl="zjpgfileurl.txt"
 zjpgfilename="zjpgfilename.txt"
 ztitlefile="ztitlefile.txt"
+zteltitlefile="zteltitlefile.txt"
 ztitle2file="ztitle2file.txt"
 zengfile="zengfile.txt"
 zinfofile="zinfofile.txt"
@@ -118,6 +119,7 @@ while IFS= read -r zline; do
 
       echo "ztitlefile:"
       cat $ztitlefile
+      cat $ztitlefile > $zteltitlefile
       cat $ztitlefile > $zcontentfile
       cat $ztitlefile > $ztelcontentfile
       echo "zengfile:"
@@ -234,6 +236,7 @@ while IFS= read -r zline; do
                 id3v2 -d $filename
                 id3v2 -s $filename
                 id3v2 -r $filename
+                id3v2 -D $filename
                 echo $filename >> $zmp3file
               done < "$zmp3fileurl"
               cat $zmp3newfileurl
@@ -273,13 +276,14 @@ while IFS= read -r zline; do
                 # sleep 50
                 # echo '<!DOCTYPE html><html><head></head><body><audio controls preload="auto" autoplay><source src="'$url'" type="audio/mpeg"></audio></body></html>' >> $zcontentfile
                 # echo "" >> $zcontentfile
-                echo "wordpress process..."
+                echo "telegram process..."
                 rm -f $zfile4
                 touch $zfile4
                 python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
                 echo 'tel...'
 
                 sleep 50
+                echo "wordpress process..."
                 python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
 
               fi
@@ -299,6 +303,7 @@ while IFS= read -r zline; do
         fi
         
         rm -f $zimagefile
+        rm -f *.mp3
 
       else
         echo "No image file found!"
