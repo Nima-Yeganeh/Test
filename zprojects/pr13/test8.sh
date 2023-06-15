@@ -132,6 +132,8 @@ while IFS= read -r zline; do
       cat $zdetailfile
       cat $zdetailfile >> $zcontentfile
       cat $zdetailfile >> $ztelcontentfile
+
+      echo '@'$Tel_Chat_ID >> $ztelcontentfile
       
       echo "********" >> log.txt
       echo $zline >> log.txt
@@ -269,7 +271,7 @@ while IFS= read -r zline; do
                 touch $zfile4
                 python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
                 echo 'tel...'
-                
+
                 sleep 50
                 python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
 
