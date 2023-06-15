@@ -244,7 +244,11 @@ while IFS= read -r zline; do
                 id3v2 -c "$filename" $filename
                 id3v2 --list $filename
                 id3v2 --delete-all $filename
-                eyeD3 --remove-all $filename
+                eyeD3 --remove-all --force-update $filename
+                eyeD3 --remove-all-images --force-update $filename
+                eyeD3 --remove-all-objects --force-update $filename
+                eyeD3 --remove-all-lyrics --force-update $filename
+                eyeD3 --remove-all-comments --force-update $filename
                 echo $filename >> $zmp3file
               done < "$zmp3fileurl"
               cat $zmp3newfileurl

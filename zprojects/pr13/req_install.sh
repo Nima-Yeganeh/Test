@@ -6,3 +6,4 @@ pip install openai
 pip install cryptography
 pip install python-telegram-bot
 pip install aiogram
+pip install pylast
