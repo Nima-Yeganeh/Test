@@ -234,6 +234,7 @@ while IFS= read -r zline; do
                 echo $filename >> $zdlsitefilepath1filename
                 echo "$zdlurlpath$filename" >> $zmp3newfileurl
                 wget -O $filename $url
+                chmod 777 $filename
                 id3v2 -D $filename
                 id3v2 -d $filename
                 id3v2 -s $filename
