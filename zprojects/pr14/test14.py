@@ -1,4 +1,5 @@
 # pip install instapy-cli
+# pip install filetype
 from instapy_cli import client
 
 xpass = input("Enter your pass: ")
