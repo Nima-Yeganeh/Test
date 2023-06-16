@@ -12,3 +12,8 @@ pip install selenium
 # pip install --upgrade emoji
 pip install InstagramAPI
 pip install instagrapi
+sudo apt update -y
+sudo apt install ffmpeg -y
+ffmpeg -version
+pip install pillow
+pip install --upgrade pillow
