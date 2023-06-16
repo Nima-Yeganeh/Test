@@ -1,6 +1,6 @@
 import instagrapi
 from instagrapi import Client
-from instagrapi import MediaVideo
+from instagrapi.types import MediaVideo
 
 xpass = input("Enter your pass: ")
 
