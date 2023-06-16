@@ -22,7 +22,7 @@ caption = "Check out this awesome video!"
 # Upload the video to Instagram
 try:
     # Upload the video
-    video = client.video_upload_to_feed(video_path, thumbnail=thumbnail_path, caption=caption)
+    video = client.video_upload(video_path, thumbnail=thumbnail_path, caption=caption)
 
     # Print the media ID of the uploaded video
     print("Video uploaded successfully. Media ID:", video.pk)
