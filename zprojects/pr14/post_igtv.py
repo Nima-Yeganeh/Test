@@ -4,5 +4,5 @@ username = "hithisisatestacc"
 password = xpass
 client = Client()
 client.login(username, password)
-media = client.igtv_upload('temp.mp4', title='newvid!', caption='Check out this awesome video!... #video #instagood #videooftheday #like4follow #short #happy #cute #tbt #followme #picoftheday #like4like #follow #me #selfie #art #instadaily #friends #nature #fun #funny #lol #humor #comedy #hilarious #laugh #viral #entertainment #jokes #pranks #funnyvideos #memes #laughter #giggles #entertaining #funnyclips #funnyvine #haha')
+media = client.igtv_upload('temp.mp4', title='newvid!', caption='#awesome #video #instagood #videooftheday #like4follow #short #happy #cute #followme #picoftheday #like4like #art #instadaily #friends #fun #funny #lol #humor #comedy #laugh #viral #entertainment')
 client.logout()
