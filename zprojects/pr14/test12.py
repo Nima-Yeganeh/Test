@@ -14,7 +14,7 @@ client.login(username, password)
 video_path = "/root/temp/temp.mp4"
 
 # Upload the video to Instagram
-media = client.video_upload(video_path)
+media = client.video_upload(video_path, caption="test!")
 
 # Print the URL of the uploaded video
 print("Video uploaded successfully!")
