@@ -14,7 +14,8 @@ client.login(username, password)
 video_path = "/root/temp/temp.mp4"
 
 # Prepare the video for upload
-video = client.video_upload_prepare(video_path)
+# video = client.video_upload_prepare(video_path)
+video = client.video_upload_to_direct(video_path)
 
 # Set the caption for the video
 caption = "Check out this awesome video!"
