@@ -2,4 +2,4 @@ from instagrapi import Client
 import userinfo
 
 cl = Client()
-cl.login(userinfo.username, userinfo.password, relogin=Ture)
+cl.login(userinfo.username, userinfo.password)
