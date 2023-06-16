@@ -1,4 +1,4 @@
-from instagrapi import client
+from instagrapi import Client
 
 xpass = input("Enter your pass: ")
 
@@ -6,6 +6,7 @@ username = "hithisisatestacc"
 password = xpass
 video_path = "file.mp4"
 
+client = Client()
 client.login(username, password)
 
 # Title for the IGTV video
