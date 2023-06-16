@@ -1,4 +1,4 @@
-from instagrapi import Client
+from instagrapi import client
 
 xpass = input("Enter your pass: ")
 
