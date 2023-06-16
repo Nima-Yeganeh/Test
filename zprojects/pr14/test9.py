@@ -23,3 +23,4 @@ except ClientLoginRequired as e:
 
 # Logout of your Instagram account
 client.logout()
+
