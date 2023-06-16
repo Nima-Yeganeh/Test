@@ -9,7 +9,7 @@ video_path = "file.mp4"
 
 # Login to your Instagram account
 client = Client()
-client.login("your_username", "your_password")
+client.login(username, password)
 
 # Upload the video
 video = MediaVideo(video_path)
