@@ -1,3 +1,4 @@
+# pip install instabot
 from instabot import Bot
 
 xpass = input("Enter your pass: ")
