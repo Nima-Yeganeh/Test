@@ -3,7 +3,7 @@ from instagrapi.exceptions import ClientLoginRequired
 
 # Set up your instagrapi session
 client = Client()
-client.login("nimaxyeganeh", "")
+client.login("user", "pass")
 
 # Define the Instagram tag to search for
 tag = "food"

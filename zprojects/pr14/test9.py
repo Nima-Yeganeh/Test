@@ -5,7 +5,7 @@ from instagrapi.exceptions import ClientLoginRequired
 
 # Set up your instagrapi session
 client = Client()
-client.login("nimaxyeganeh", "")
+client.login("user", "pass")
 
 # Define the path to your image file and caption
 image_path = 'C:/Users/Nimay/nima_git/Test/insta/photo2.jpg'
