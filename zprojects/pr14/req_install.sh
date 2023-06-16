@@ -17,3 +17,4 @@ sudo apt install ffmpeg -y
 ffmpeg -version
 pip install pillow
 pip install --upgrade pillow
+pip install imageio
