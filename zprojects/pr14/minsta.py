@@ -7,5 +7,5 @@ class Minsta(Client):
         # xpass = input("Enter your pass: ")
         # username = "hithisisatestacc"
         # password = xpass
-        cl.login(userinfo.username, userinfo.password)
+        cl.login(userinfo.username, userinfo.password, relogin=ture)
         return cl
