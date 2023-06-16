@@ -11,7 +11,7 @@ password = xpass
 client.login(username, password)
 
 # Path to the video file
-video_path = "file.mp4"
+video_path = "temp.mp4"
 
 # Path to the thumbnail image (optional)
 thumbnail_path = "photo1.jpg"
