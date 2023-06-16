@@ -13,7 +13,7 @@ client = Client()
 client.login(username, password)
 
 # Upload the video
-video = MediaVideo(video_path)
+video = Media(video_path)
 media = client.post_video(video, caption="your_caption")
 
 # Logout
