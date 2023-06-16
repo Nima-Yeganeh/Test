@@ -1,6 +1,6 @@
 import instagrapi
 from instagrapi import Client
-from instagrapi.types import Media
+from instagrapi.types import Resource
 
 xpass = input("Enter your pass: ")
 
@@ -13,7 +13,7 @@ client = Client()
 client.login(username, password)
 
 # Upload the video
-video = Media(video_path)
+video = Resource(video_path)
 media = client.post_video(video, caption="your_caption")
 
 # Logout
