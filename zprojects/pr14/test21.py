@@ -14,7 +14,7 @@ client.login(username, password)
 
 # Upload the video
 video = Resource(video_path)
-media = client.post_video(video, caption="your_caption")
+media = client.post_video(video)
 
 # Logout
 client.logout()
