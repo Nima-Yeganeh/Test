@@ -11,11 +11,13 @@ if len(sys.argv) > 2:
 
     bot = Bot(token=bot_token)
 
-    caption = 'Test!'
+    captionfile = 'ztelcontentfile.txt'
+    caption = ''
+    with open(captionfile, 'r') as file:
+        caption = file.read()
 
     mp4file = 'zmp4file.txt'
     mp4file_path = ''
-
     with open(mp4file, 'r') as file:
         lines = file.readlines()
     for line in lines:
@@ -32,4 +34,3 @@ if len(sys.argv) > 2:
 
 else:
     print("No input provided.")
-

@@ -7,3 +7,4 @@ url="https://snaptik.app/file.php?token=1NzIzNTQ3Mzg2Njk3MjIyMDY3OF92MDkwNDRnNDA
 wget -O temp.mp4 "$url"
 echo 'temp.mp4' > zmp4file.txt
 python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
+
