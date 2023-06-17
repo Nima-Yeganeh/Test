@@ -24,6 +24,7 @@ while true; do
       sleep 20
     fi
   done < "$file1"
+  echo "**** Update (pr15) ****"
   git pull
   sleep 20
 done
