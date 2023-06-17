@@ -21,10 +21,10 @@ while true; do
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
-      sleep 20
+      sleep 120
     fi
   done < "$file1"
   echo "**** Update (pr15) ****"
   git pull
-  sleep 20
+  sleep 120
 done
