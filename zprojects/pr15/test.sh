@@ -25,4 +25,5 @@ while true; do
     fi
   done < "$file1"
   git pull
+  sleep 20
 done
