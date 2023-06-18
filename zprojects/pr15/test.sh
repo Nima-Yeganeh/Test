@@ -19,9 +19,10 @@ while true; do
       number=$(echo "$url" | grep -oE '[0-9]+')
       zfilename=$number'.mp4'
       echo $zfilename
-      node index.js "$url"
-      sleep 2
+      # node index.js "$url"
+      # sleep 2
       file_path="downloads/$zfilename"
+      echo $file_path
       if [ -s "$file_path" ]; then
           echo "OK >> $file_path"
       else
