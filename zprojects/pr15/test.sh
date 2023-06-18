@@ -13,12 +13,15 @@ while true; do
       echo "**** Started ****"
       echo "$zline"
       rm -f downloads/*.mp4
-      ls -anp downloads/
+      # ls -anp downloads/
       # rm -f temp.mp4
       url=$zline
       number=$(echo "$url" | grep -oE '[0-9]+')
       zfilename=$number'.mp4'
       echo $zfilename
+      node index.js "$url"
+      ls -anp downloads/ | grep $zfilename
+      echo ""
       sleep 100
 
       wget -O temp.mp4 "$url"
