@@ -25,15 +25,16 @@ while true; do
       echo $file_path
       if [ -s "$file_path" ]; then
           echo "OK >> $file_path"
+          # sleep 100
+          # wget -O temp.mp4 "$url"
+          # echo 'temp.mp4' > zmp4file.txt
+          echo $file_path > zmp4file.txt
+          python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
+          # rm -f temp.mp4
       else
           echo "File does not exist or is empty >> $file_path"
       fi
-      sleep 100
-
-      wget -O temp.mp4 "$url"
-      echo 'temp.mp4' > zmp4file.txt
-      # python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
-      rm -f temp.mp4
+      rm -f downloads/*.mp4
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
@@ -44,4 +45,3 @@ while true; do
   git pull
   sleep 120
 done
-
