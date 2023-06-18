@@ -25,7 +25,7 @@ while true; do
       if [ -s "$file_path" ]; then
           echo "OK >> $file_path"
       else
-          echo "File does not exist or is empty"
+          echo "File does not exist or is empty >> $file_path"
       fi
       sleep 100
 
