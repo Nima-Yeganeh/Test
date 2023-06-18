@@ -20,6 +20,7 @@ while true; do
       zfilename=$number'.mp4'
       echo $zfilename
       node index.js "$url"
+      sleep 2
       ls -anp downloads/ | grep $zfilename
       echo ""
       sleep 100
