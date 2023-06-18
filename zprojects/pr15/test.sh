@@ -16,7 +16,7 @@ while true; do
       # ls -anp downloads/
       # rm -f temp.mp4
       url=$zline
-      number=$(echo "$url" | grep -oE '[0-9]+')
+      number=$(echo "$url" | grep -oE 'video/([0-9]+)' | cut -d '/' -f2)
       zfilename=$number'.mp4'
       echo $zfilename
       # node index.js "$url"
