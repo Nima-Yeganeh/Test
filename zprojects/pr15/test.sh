@@ -21,8 +21,12 @@ while true; do
       echo $zfilename
       node index.js "$url"
       sleep 2
-      ls -anp downloads/ | grep $zfilename
-      echo ""
+      file_path="downloads/$zfilename"
+      if [ -s "$file_path" ]; then
+          echo "OK >> $file_path"
+      else
+          echo "File does not exist or is empty"
+      fi
       sleep 100
 
       wget -O temp.mp4 "$url"
