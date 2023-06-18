@@ -19,7 +19,7 @@ while true; do
       number=$(echo "$url" | grep -oE 'video/([0-9]+)' | cut -d '/' -f2)
       zfilename=$number'.mp4'
       echo $zfilename
-      # node index.js "$url"
+      node index.js "$url"
       # sleep 2
       file_path="downloads/$zfilename"
       echo $file_path
