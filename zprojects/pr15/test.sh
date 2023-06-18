@@ -33,7 +33,7 @@ while true; do
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
-      sleep 1800
+      sleep 7200
     fi
   done < "$file1"
   echo "**** Update (pr15) ****"
