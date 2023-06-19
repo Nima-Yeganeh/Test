@@ -8,25 +8,25 @@
 		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>دانلود آهنگ مهدی احمدوند با نام عاشق شدم - نکست وان</title>
-	<meta name="description" content="دانلود آهنگ مهدی احمدوند با نام عاشق شدم با کیفیت های مختلف به صورت رایگان" />
-	<link rel="canonical" href="https://next1.ir/دانلود-آهنگ-مهدی-احمدوند-با-نام-عاشق-شد/" />
+	<title>دانلود آهنگ جدید رضا یزدانی با نام گمشدگان - نکست وان</title>
+	<meta name="description" content="دانلود آهنگ جدید رضا یزدانی با نام گمشدگان با کیفیت های مختلف به صورت رایگان" />
+	<link rel="canonical" href="https://next1.ir/دانلود-آهنگ-جدید-رضا-یزدانی-با-نام-گمشد/" />
 	<meta property="og:locale" content="fa_IR" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="دانلود آهنگ مهدی احمدوند با نام عاشق شدم - نکست وان" />
-	<meta property="og:description" content="دانلود آهنگ مهدی احمدوند با نام عاشق شدم با کیفیت های مختلف به صورت رایگان" />
-	<meta property="og:url" content="https://next1.ir/دانلود-آهنگ-مهدی-احمدوند-با-نام-عاشق-شد/" />
+	<meta property="og:title" content="دانلود آهنگ جدید رضا یزدانی با نام گمشدگان - نکست وان" />
+	<meta property="og:description" content="دانلود آهنگ جدید رضا یزدانی با نام گمشدگان با کیفیت های مختلف به صورت رایگان" />
+	<meta property="og:url" content="https://next1.ir/دانلود-آهنگ-جدید-رضا-یزدانی-با-نام-گمشد/" />
 	<meta property="og:site_name" content="بزرگترین سایت دانلود آهنگ جدید - نکست وان" />
 	<meta property="article:publisher" content="https://www.facebook.com/Next1Song" />
-	<meta property="article:published_time" content="2014-04-22T05:18:40+00:00" />
-	<meta property="article:modified_time" content="2016-08-13T06:02:31+00:00" />
-	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2016/08/MehdiAhmadvand-AsheghShodam.jpg" />
-	<meta property="og:image:width" content="480" />
-	<meta property="og:image:height" content="480" />
+	<meta property="article:published_time" content="2017-08-05T17:29:46+00:00" />
+	<meta property="article:modified_time" content="2017-08-05T17:30:29+00:00" />
+	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2017/08/RezaYazdani-Gomshodegan.jpg" />
+	<meta property="og:image:width" content="500" />
+	<meta property="og:image:height" content="500" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta name="twitter:label1" content="نوشته‌شده بدست" />
 	<meta name="twitter:data1" content="next11admin" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2016/08/MehdiAhmadvand-AsheghShodam.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2016/08/MehdiAhmadvand-AsheghShodam.jpg","width":480,"height":480,"caption":"مهدی احمدوند - عاشق شدم"},{"@type":"WebPage","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#webpage","url":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/","name":"دانلود آهنگ مهدی احمدوند با نام عاشق شدم - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#primaryimage"},"datePublished":"2014-04-22T05:18:40+00:00","dateModified":"2016-08-13T06:02:31+00:00","description":"دانلود آهنگ مهدی احمدوند با نام عاشق شدم با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ مهدی احمدوند با نام عاشق شدم"}]},{"@type":"Article","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#article","isPartOf":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ مهدی احمدوند با نام عاشق شدم","datePublished":"2014-04-22T05:18:40+00:00","dateModified":"2016-08-13T06:02:31+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#webpage"},"wordCount":9,"commentCount":3,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2016/08/MehdiAhmadvand-AsheghShodam.jpg","keywords":["Mehdi Ahmadvand","New Song","Nex 1 Music","Nex One Music","Nex1","Nex1Music","Next One Music","Next1","Next1.ir","Next1Music","Song Of Ashegh Shodam From Mehdi Ahmadvand","آهنگ","آهنگ جدید","آهنگ جدید مهدی احمدوند","آهنگ جدید مهدی احمدوند با نام عاشق شدم","آهنگ عاشق شدم از مهدی احمدوند","آهنگ عاشق شدم مهدی احمدوند","آهنگ مهدی احمدوند","آهنگ مهدی احمدوند با نام عاشق شدم","دانلود آهنگ","دانلود آهنگ جدید","دانلود آهنگ جدید مهدی احمدوند","دانلود آهنگ جدید مهدی احمدوند با نام عاشق شدم","دانلود آهنگ عاشق شدم از مهدی احمدوند","دانلود آهنگ عاشق شدم مهدی احمدوند","دانلود آهنگ مهدی احمدوند","دانلود آهنگ مهدی احمدوند با نام عاشق شدم","دانلود آهنگ نکست وان","دانلود موزیک","دانلود موزیک جدید","رسانه موسیقی نکست وان","سایت دانلود آهنگ","عاشق شدم از مهدی احمدوند","عاشق شدم مهدی احمدوند","مهدی احمدوند","مهدی احمدوند آهنگ عاشق شدم","موزیک جدید","نکس وان","نکس وان موزیک","نکست وان","نکست وان موزیک"],"articleSection":["آرشیو","تک آهنگ ها","غمگین","مهدی احمدوند"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2017/08/RezaYazdani-Gomshodegan.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2017/08/RezaYazdani-Gomshodegan.jpg","width":500,"height":500,"caption":"رضا یزدانی - گمشدگان"},{"@type":"WebPage","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#webpage","url":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/","name":"دانلود آهنگ جدید رضا یزدانی با نام گمشدگان - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#primaryimage"},"datePublished":"2017-08-05T17:29:46+00:00","dateModified":"2017-08-05T17:30:29+00:00","description":"دانلود آهنگ جدید رضا یزدانی با نام گمشدگان با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ جدید رضا یزدانی با نام گمشدگان"}]},{"@type":"Article","@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#article","isPartOf":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ جدید رضا یزدانی با نام گمشدگان","datePublished":"2017-08-05T17:29:46+00:00","dateModified":"2017-08-05T17:30:29+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#webpage"},"wordCount":8,"commentCount":0,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2017/08/RezaYazdani-Gomshodegan.jpg","keywords":["gomshodegan","New Song","Nex 1 Music","Nex One Music","Nex1","Nex1Music","Next One Music","Next1","Next1.ir","Next1Music","Reza Yazdani","Song Of Gomshodegan From Reza Yazdani","آهنگ","آهنگ تیتراژ سریال گمشدگان","آهنگ جدید","آهنگ جدید رضا یزدانی","آهنگ جدید رضا یزدانی با نام گمشدگان","آهنگ رضا یزدانی","آهنگ رضا یزدانی با نام گمشدگان","آهنگ سریال گمشدگان","آهنگ گمشدگان از رضا یزدانی","آهنگ گمشدگان رضا یزدانی","تیتراژ سریال گمشدگان","دانلود آهنگ","دانلود آهنگ تیتراژ سریال گمشدگان","دانلود آهنگ جدید","دانلود آهنگ جدید رضا یزدانی","دانلود آهنگ جدید رضا یزدانی با نام گمشدگان","دانلود آهنگ رضا یزدانی","دانلود آهنگ رضا یزدانی با نام گمشدگان","دانلود آهنگ سریال گمشدگان","دانلود آهنگ نکست وان","دانلود آهنگ های رضا یزدانی","دانلود آهنگ گمشدگان از رضا یزدانی","دانلود آهنگ گمشدگان رضا یزدانی","دانلود تیتراژ سریال گمشدگان","دانلود موزیک","دانلود موزیک جدید","رسانه موسیقی نکست وان","رضا یزدانی","سایت دانلود آهنگ","سریال گمشدگان","موزیک جدید","نکس وان","نکس وان موزیک","نکست وان","نکست وان موزیک","گمشدگان از رضا یزدانی","گمشدگان رضا یزدانی"],"articleSection":["تک آهنگ ها","تیتراژ فیلم و سریال","راک","رضا یزدانی"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -54,9 +54,9 @@ img.emoji {
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
 <link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='https://next1.ir/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6' type='text/css' media='screen' />
-<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/11634" /><link rel='shortlink' href='https://next1.ir/?p=11634' />
-<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B9%25D8%25A7%25D8%25B4%25D9%2582-%25D8%25B4%25D8%25AF%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B9%25D8%25A7%25D8%25B4%25D9%2582-%25D8%25B4%25D8%25AF%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/19135" /><link rel='shortlink' href='https://next1.ir/?p=19135' />
+<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-%25D8%25B1%25D8%25B6%25D8%25A7-%25DB%258C%25D8%25B2%25D8%25AF%25D8%25A7%25D9%2586%25DB%258C-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25DA%25AF%25D9%2585%25D8%25B4%25D8%25AF%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-%25D8%25B1%25D8%25B6%25D8%25A7-%25DB%258C%25D8%25B2%25D8%25AF%25D8%25A7%25D9%2586%25DB%258C-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25DA%25AF%25D9%2585%25D8%25B4%25D8%25AF%2F&#038;format=xml" />
 <script>
 	var blogUrl = 'https://next1.ir';
 	function likeThis(a){
@@ -74,7 +74,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</script><script>
 					(document.onload = function(){
 						var xhttp = new XMLHttpRequest();
-						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=11634&_="+(Math.floor(Math.random() * 99999) + 10000), true);
+						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=19135&_="+(Math.floor(Math.random() * 99999) + 10000), true);
 						xhttp.send();
 					})();
 				</script>				<script>(function () {var INSTALL_OPTIONS = {"token":"UA-113624283-1"}; (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", INSTALL_OPTIONS.token, "auto");ga("send", "pageview");})()</script>
@@ -125,13 +125,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 									<div class="box" id="specials">
 				<div class="title"><a href="https://next1.ir/category/special/"><h2>ویژه ها</h2></a></div>
 				<ul>
+								<li><a href="https://next1.ir/%d8%b9%d9%84%db%8c-%db%8c%da%af%d8%a7%d9%86%d9%87-%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d9%87%d8%a7%d8%b1/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/AliYeganeh-BehtarinBahar-150x150.jpg"  title="AliYeganeh-BehtarinBahar" class="attachment-thumbnail size-thumbnail wp-post-image" alt="علی یگانه - بهترین بهار" loading="lazy" /><p class="special-info"><span> علی یگانه  -  بهترین بهار</span></p></a></li>		
+								<li><a href="https://next1.ir/%d8%b9%d9%84%db%8c-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%a7%d9%84%da%a9%db%8c-%d8%a2%d8%ae%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/AliAbdolmaleki-Akhey-150x150.jpg"  title="AliAbdolmaleki-Akhey" class="attachment-thumbnail size-thumbnail wp-post-image" alt="علی عبدالمالکی - آخی" loading="lazy" /><p class="special-info"><span> علی عبدالمالکی  -  آخی</span></p></a></li>		
+								<li><a href="https://next1.ir/%d8%b9%d9%84%db%8c%d8%b1%d8%b6%d8%a7-%d8%b7%d9%84%db%8c%d8%b3%da%86%db%8c-%d8%a8%d9%87-%d8%aa%d9%88-%da%86%d9%87/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/AlirezaTalischi-BeToChe-150x150.jpg"  title="AlirezaTalischi-BeToChe" class="attachment-thumbnail size-thumbnail wp-post-image" alt="علیرضا طلیسچی - به تو چه" loading="lazy" /><p class="special-info"><span> علیرضا طلیسچی  -  به تو چه</span></p></a></li>		
 								<li><a href="https://next1.ir/%d9%85%d8%ac%db%8c%d8%af-%d8%b1%d8%b6%d9%88%db%8c-%d8%b2%db%8c%d8%a8%d8%a7/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/05/MajidRazavi-Ziba-150x150.jpg"  title="MajidRazavi-Ziba" class="attachment-thumbnail size-thumbnail wp-post-image" alt="مجید رضوی - زیبا" loading="lazy" /><p class="special-info"><span> مجید رضوی  -  زیبا</span></p></a></li>		
 								<li><a href="https://next1.ir/%d9%85%d8%ad%d8%b3%d9%86-%d8%a7%d8%b5%d9%84%d8%a7%d9%86%db%8c-%d8%a8%da%af%d9%88-%d8%af%d9%88%d8%b3%d8%aa%d9%85-%d8%af%d8%a7%d8%b1%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/MohsenAslani-BegooDoostamDari-150x150.jpg"  title="MohsenAslani-BegooDoostamDari" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" loading="lazy" /><p class="special-info"><span> محسن اصلانی  -  بگو دوستم داری</span></p></a></li>		
 								<li><a href="https://next1.ir/%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%af%d9%82%d9%84%d9%88-%d9%85%d8%b4%d8%aa%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/MasoudSadeghloo-Mashti-150x150.jpg"  title="MasoudSadeghloo-Mashti" class="attachment-thumbnail size-thumbnail wp-post-image" alt="مسعود صادقلو - مشتی" loading="lazy" /><p class="special-info"><span> مسعود صادقلو  -  مشتی</span></p></a></li>		
 								<li><a href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d9%81%d8%b1%d8%ae-%d8%b9%d8%b4%d9%82-%db%8c%d8%b9%d9%86%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/FarzadFarokh-EshghYani-150x150.jpg"  title="FarzadFarokh-EshghYani" class="attachment-thumbnail size-thumbnail wp-post-image" alt="فرزاد فرخ - عشق یعنی" loading="lazy" /><p class="special-info"><span> فرزاد فرخ  -  عشق یعنی</span></p></a></li>		
-								<li><a href="https://next1.ir/%da%af%d8%b1%d9%88%d9%87-%d8%b3%d8%b1%d9%88%d8%af-%d8%b4%d9%85%db%8c%d9%85-%d9%88%d9%84%d8%a7%db%8c%d8%aa-%db%8c%d8%b2%d8%af-%db%8c%d8%a7%d8%b1%d8%a7%d9%86-%d8%ae%d8%b1%d8%a7%d8%b3%d8%a7%d9%86%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/ShamimVelayat-YaraneKhorasani-150x150.jpg"  title="ShamimVelayat-YaraneKhorasani" class="attachment-thumbnail size-thumbnail wp-post-image" alt="گروه سرود شمیم ولایت یزد - یاران خراسانی" loading="lazy" /><p class="special-info"><span> گروه سرود شمیم ولایت یزد  -  یاران خراسانی</span></p></a></li>		
-								<li><a href="https://next1.ir/%d9%88%d8%ad%db%8c%d8%af-%d8%b7%d8%a7%d9%87%d8%b1%d9%be%d9%88%d8%b1-%d8%b1%d8%b3%d9%85-%d9%81%d9%84%da%a9/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/VahidTaherpur-RasmFalak-150x150.jpg"  title="VahidTaherpur-RasmFalak" class="attachment-thumbnail size-thumbnail wp-post-image" alt="وحید طاهرپور - رسم فلک" loading="lazy" /><p class="special-info"><span> وحید طاهرپور  -  رسم فلک</span></p></a></li>		
-								<li><a href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%d8%ae%d9%88%d8%a7%d8%a8%d8%aa%d9%88-%d8%af%db%8c%d8%af%d9%85/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/AliMontazeri-KhabetoDidam-150x150.jpg"  title="AliMontazeri-KhabetoDidam" class="attachment-thumbnail size-thumbnail wp-post-image" alt="علی منتظری - خوابتو دیدم" loading="lazy" /><p class="special-info"><span> علی منتظری  -  خوابتو دیدم</span></p></a></li>		
 							</ul>
 			</div>
 			<div class="box">
@@ -159,7 +159,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					
 																	<aside><div class="box" id="requested">
 							<div class="title"><a title="درخواستی کاربران" href="/category/requested/"><span>درخواستی کاربران</span></a></div>	
-													<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d8%a8%d9%87%d8%b1%d8%a7%d9%85%db%8c-%d8%a7%d9%85%d8%b4%d8%a8/" title="دانلود آهنگ فرزاد بهرامی با نام امشب">
+													<h3><a class="item" href="https://next1.ir/%d9%85%d8%ac%db%8c%d8%af-%d8%a7%d8%ad%d9%85%d8%af%db%8c-%d8%b2%db%8c%d8%a8%d8%a7%db%8c-%d9%85%d9%86/" title="دانلود آهنگ مجید احمدی با نام زیبای من">
+								مجید احمدی  -  زیبای من							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d8%a8%d9%87%d8%b1%d8%a7%d9%85%db%8c-%d8%a7%d9%85%d8%b4%d8%a8/" title="دانلود آهنگ فرزاد بهرامی با نام امشب">
 								فرزاد بهرامی  -  امشب							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d8%a8%d9%87%d8%b1%d8%a7%d9%85%db%8c-%da%af%d9%84-%d9%85%d9%86/" title="دانلود آهنگ فرزاد بهرامی با نام گل من">
 								فرزاد بهرامی  -  گل من							</a></h3>
@@ -167,13 +169,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								 شروین حاجی پور  -  حسود							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/" title="دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)">
 								عربی صوت صفیر البلبلی (صفیر بلبلی)							</a></h3>
-																								<h3><a class="item" href="https://next1.ir/%d8%b2%d8%a7%d9%86%da%a9%d9%88-%d9%85%d8%ab%d9%84%d8%a7/" title="دانلود آهنگ زانکو با نام مثلا">
-								زانکو  -  مثلا							</a></h3>
 												</div></aside>
 											
 																	<aside><div class="box" id="coming-soon">
 							<div class="title"><a title="بزودی" href="/category/coming-soon/"><span>بزودی در نکست وان</span></a></div>	
-													<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%84%d9%87%d8%b1%d8%a7%d8%b3%d8%a8%db%8c-%d8%ae%db%8c%d8%a7%d8%a8%d9%88%d9%86%d8%a7/" title="دانلود آهنگ علی لهراسبی با نام خیابونا">
+													<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d9%87%d9%85%d8%a7%db%8c%d9%88%d9%86-%d8%a7%db%8c%d9%86-%d8%b1%d9%88%d8%b2%d8%a7/" title="دانلود آهنگ حامد همایون با نام این روزا">
+								حامد همایون  -  این روزا							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%84%d9%87%d8%b1%d8%a7%d8%b3%d8%a8%db%8c-%d8%ae%db%8c%d8%a7%d8%a8%d9%88%d9%86%d8%a7/" title="دانلود آهنگ علی لهراسبی با نام خیابونا">
 								علی لهراسبی  -  خیابونا							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%af%d9%82%d9%84%d9%88-%d9%85%d8%ab%d9%84-%da%af%d9%84/" title="دانلود آهنگ مسعود صادقلو با نام مثل گل">
 								مسعود صادقلو  -  مثل گل							</a></h3>
@@ -181,9 +183,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								حسین توکلی  -  از اون شب							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d9%be%d8%a7%d8%b1%d8%b3%d8%a7-%d8%ac%d8%b2%db%8c%d8%b1%d9%87/" title="دانلود آهنگ حامد پارسا با نام جزیره">
 								حامد پارسا  -  جزیره							</a></h3>
+												</div></aside>
 																								<h3><a class="item" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%a8%d8%b1%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a2%d8%b3%d9%88%d8%af%d9%87-%d9%85%db%8c/" title="دانلود آهنگ مسعود صابری با نام آسوده میخوابی">
 								مسعود صابری  -  آسوده میخوابی							</a></h3>
-												</div></aside>
 																								<h3><a class="item" href="https://next1.ir/%d8%b1%db%8c%d9%88%d8%a7%d9%86-%db%8c%d9%87-%d8%b4%d8%a8-%d9%82%d8%b4%d9%86%da%af/" title="دانلود آهنگ ریوان با نام یه شب قشنگ">
 								ریوان  -  یه شب قشنگ							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d9%85%d9%82%d8%af%d9%85-%d9%86%d9%88%d8%a7%d8%b1-%d9%82%d9%84%d8%a8/" title="دانلود آهنگ مهدی مقدم با نام نوار قلب">
@@ -192,8 +194,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								آرون افشار  -  نفس نفس							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%b4%d8%a7%d9%87%db%8c%d9%86-%d8%a8%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d8%b3/" title="دانلود آهنگ شاهین بنان با نام الماس">
 								شاهین بنان  -  الماس							</a></h3>
-																								<h3><a class="item" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d9%87%d8%af%db%8c-%d8%ac%d9%87%d8%a7%d9%86%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%b2%d8%ae%d9%85/" title="دانلود آهنگ مهدی جهانی با نام زخم">
-								مهدی جهانی  -  زخم							</a></h3>
 																
 																	<aside><div class="box" id="archive-list">
 							<div class="title"><a href="/category/آرشیو/" title="آرشیو موسیقی"><span>آخرین های آرشیو</span></a></div>	
@@ -214,104 +214,105 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<article>
 	<div class="box post">
 											<header>
-				<div class="title"><a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/" title="دانلود آهنگ مهدی احمدوند با نام عاشق شدم"><h1>دانلود آهنگ مهدی احمدوند با نام عاشق شدم</h1></a></div>	
+				<div class="title"><a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/" title="دانلود آهنگ جدید رضا یزدانی با نام گمشدگان"><h1>دانلود آهنگ جدید رضا یزدانی با نام گمشدگان</h1></a></div>	
 				<div class="under-title"><span class="right">
-									<a href="/category/آرشیو/" title="آرشیو" class="post-type">آرشیو</a>
+									<a href="/category/style/تیتراژ-فیلم-سریال/" title="تیتراژ فیلم و سریال" class="post-type">تیتراژ</a>
 				 , 
-				34,381 بازدید</span><span class="left">۲ام اردیبهشت ۱۳۹۳</span></div>
+				1,904 بازدید</span><span class="left">۱۴ام مرداد ۱۳۹۶</span></div>
 				</header>
 				<div class="content e-content">
-					<p style="text-align: center;"><span style="color: #800000;">Song Of <strong>Ashegh Shodam</strong> From <a style="color: #800000;" href="https://next1.ir/tag/mehdi-ahmadvand/"><strong>Mehdi Ahmadvand</strong></a></span></p>
-<p style="text-align: center;"><img loading="lazy"class="alignnone size-full wp-image-11635" src="https://next1.ir/wp-content/uploads/2016/08/MehdiAhmadvand-AsheghShodam.jpg" alt="مهدی احمدوند - عاشق شدم" width="480" height="480" /></p>
-<p style="text-align: center;"><strong><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ</a> <a href="https://next1.ir/category/artists/مهدی-احمدوند/">مهدی احمدوند</a> با نام عاشق شدم</strong></p>
-<p style="text-align: center;"><span style="color: #800000;">ترانه سرا ، آهنگسازی و تنظیم : مهدی احمدوند</span></p>
+					<p style="text-align: center;"><span style="color: #800000;">Song Of <strong>Gomshodegan </strong>From <a style="color: #800000;" href="https://next1.ir/tag/reza-yazdani"><strong>Reza Yazdani</strong></a></span></p>
+<p style="text-align: center;"><img loading="lazy"class="alignnone size-medium wp-image-19136" src="https://next1.ir/wp-content/uploads/2017/08/RezaYazdani-Gomshodegan-480x480.jpg" alt="رضا یزدانی - گمشدگان" width="480" height="480" /></p>
+<p style="text-align: center;"><strong><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ جدید</a> <a href="https://next1.ir/category/artists/%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C/">رضا یزدانی</a> با نام گمشدگان</strong></p>
+<p style="text-align: center;"><span style="color: #800000;">ترانه سرا : مهدی ایوبی       تنظیم : کیوان جهانشاهی</span></p>
+<p style="text-align: center;"><strong><span style="color: #800000;">آهنگ تیتراژ سریال گمشدگان</span></strong></p>
 <div style="text-align: center;">
 <div class="single_content_r">
-<p>جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> عاشق شدم از <a href="https://next1.ir/category/artists/مهدی-احمدوند/">مهدی احمدوند</a> با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن این آهنگ از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید …</p>
+<p>جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> گمشدگان از <a href="https://next1.ir/category/artists/%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C/">رضا یزدانی</a> با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن این آهنگ از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید …</p>
 </div>
 </div>
-<p style="text-align: center;"><span id="more-11634"></span></p>
-<p style="text-align: center;"><span style="color: #000000;"><strong>متن آهنگ عاشق شدم از <a style="color: #000000;" href="https://next1.ir/category/artists/مهدی-احمدوند/">مهدی احمدوند</a> :</strong></span></p>
-<p style="text-align: center;"><strong><span style="color: #800000;">♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</span></strong></p>
-<p style="color: #000000; text-align: center;"><span style="color: #000000;">معلومه یه حسی توی نگامه که مثل خواهش</span></p>
-<p style="text-align: center;"><span style="color: #000000;">چشای تو برای من رنگ آرامش</span></p>
-<p style="text-align: center;"><span style="color: #000000;">معلومه اصلا شبیه تو پیدا نمیشه کسی</span></p>
-<p style="text-align: center;"><span style="color: #000000;">چه حسی داره نباشی تو دلواپسی</span></p>
-<p style="text-align: center;"><span style="color: #000000;">معلومه یه احساسی به تو دارم</span></p>
-<p style="text-align: center;"><span style="color: #000000;">من <a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%b9%d8%a7%d8%b4%d9%82-%d8%b4%d8%af/">عاشق</a> شدم</span></p>
-<p style="text-align: center;"><span style="color: #000000;">هر صبح که از خواب پا میشم آرزوم با تو بودنه</span></p>
-<p style="text-align: center;"><span style="color: #000000;">دوست دارم از همون روزی. که دستتو تو دست من</span></p>
-<p style="text-align: center;"><span style="color: #000000;">تو دست من تو دست من بود ترس از روزای بی تو بودن</span></p>
+<p style="text-align: center;"><span id="more-19135"></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>متن آهنگ <a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%da%af%d9%85%d8%b4%d8%af/">گمشدگان</a> از <a style="color: #000000;" href="https://next1.ir/category/artists/%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C/">رضا یزدانی</a> :</strong></span></p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
+<p style="text-align: center;"><span style="color: #000000;">هیچ راهی واسه موندن نداریم وقتی با غریب ها خودی تریم</span></p>
+<p style="text-align: center;"><span style="color: #000000;">وقتی که خونه شبیه خونه نیست خودتو به سمت غربت میبری</span></p>
+<p style="text-align: center;"><span style="color: #000000;">تنهایی حالتو بدتر میکنه وقتی <a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%da%af%d9%85%d8%b4%d8%af/">گمشده</a> باشی تو سکوت</span></p>
+<p style="text-align: center;"><span style="color: #000000;">ریشه هاتو درمیاری از خاک وقتی هیچ راهی نمونده رو به روت</span></p>
+<p style="text-align: center;"><span style="color: #000000;">چه دقیقه هایی که با حسرت بین آدمای خوشبخت گذشت</span></p>
+<p style="text-align: center;"><span style="color: #000000;">کی میتونه حالتو درک کنه کی میدون که چقدر سخت گذشت</span></p>
 <p style="text-align: center;"><strong><span style="color: #800000;">♫   ♫   ♫   ♫</span></strong></p>
-<p style="text-align: center;"><strong><span style="color: #800000;">♫   ♫  <a style="color: #800000;" href="https://next1.ir"><strong>NEXT1.IR</strong></a>  ♫   ♫</span></strong></p>
-<p style="text-align: center;"><span style="color: #800000;">♫   ♫   ♫   ♫</span></p>
-<p style="color: #000000; text-align: center;"><span style="color: #000000;">معلومه یه احساسی به تو دارم</span></p>
-<p style="text-align: center;"><span style="color: #000000;">من <a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%b9%d8%a7%d8%b4%d9%82-%d8%b4%d8%af/">عاشق</a> شدم</span></p>
-<p style="text-align: center;"><span style="color: #000000;">هر صبح که از خواب پا میشم آرزوم با تو بودنه</span></p>
-<p style="text-align: center;"><span style="color: #000000;">دوست دارم از همون روزی که دستتو تو دست من</span></p>
-<p style="text-align: center;"><span style="color: #000000;">تو دست من تو دست من بود ترس از روزای بی تو بودن</span></p>
-<p style="text-align: center;"><strong><span style="color: #800000;">♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #800000;">♫   ♫  <a style="color: #800000;" href="https://next1.ir"><strong>NEXT1.IR</strong></a>  ♫   ♫</span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #800000;">♫   ♫   ♫   ♫</span></strong></p>
+<p style="text-align: center;"> <span style="color: #000000;">روی پاهای خودت درد بکش توی قید و بند این شهر نباش</span></p>
+<p style="text-align: center;"><span style="color: #000000;">به خودت تو زندگی پشت نکن با خودت تو آینه قهر نباش</span></p>
+<p style="text-align: center;"><span style="color: #000000;">حتی با دستای خالی میشه گریه های زندگیرو وا کرد</span></p>
+<p style="text-align: center;"><span style="color: #000000;">سمت آینده روشن با عشق میشه راه تازه های پیدا</span></p>
+<p style="text-align: center;"><span style="color: #000000;">ته قصه خودشو پیدا کرد اون که بین جمعیت گم شده بود</span></p>
+<p style="text-align: center;"><span style="color: #000000;">اونی که به جای زخمای خودش مرهم زخمای مردم شده بود</span></p>
+<p style="text-align: center;"><span style="color: #000000;">چه دقیقه هایی که با حسرت بین آدمای خوشبخت گذشت</span></p>
+<p style="text-align: center;"><span style="color: #000000;">کی میتونه حالتو درک کنه کی میدون که چقدر سخت گذشت</span></p>
+<p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
 	
 				</div>
 							<div class="post-footer">
-					<div class="ft-like" style="width:50%;"><div id="iLikeThis-11634" class="iLikeThis"><div class="counter"><a onclick="likeThis(11634);" class="image">122 لایک</a></div></div></div>
-					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#comments">3 نظر</a></div>
+					<div class="ft-like" style="width:50%;"><div id="iLikeThis-19135" class="iLikeThis"><div class="counter"><a onclick="likeThis(19135);" class="image">30 لایک</a></div></div></div>
+					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#respond">بدون نظر</a></div>
 				</div>
 												<div class="box" id="downloads">
 						<div class="title"><h2>دانلود</h2></div>
-						<a rel="nofollow" href="https://dl.next1.ir/files/2014/12/tak/MehdiAhmadvand-AsheghShodam-320%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2014/12/tak/MehdiAhmadvand-AsheghShodam-128%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> 											</div>
+						<a rel="nofollow" href="https://dl.next1.ir/files/2017/08/tak/RezaYazdani-Gomshodegan-320(www.Next1.ir).mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2017/08/tak/RezaYazdani-Gomshodegan-128(www.Next1.ir).mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> 											</div>
 								<div class="box" id="playbox">
 					<div class="title">بفرستید برای دوستانتان</div>
 					<ul class="share_with">
-												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B9%25D8%25A7%25D8%25B4%25D9%2582-%25D8%25B4%25D8%25AF%2F">تلگرام</a></li>
-						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B9%25D8%25A7%25D8%25B4%25D9%2582-%25D8%25B4%25D8%25AF%2F">توییتر</a></li>
-						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B9%25D8%25A7%25D8%25B4%25D9%2582-%25D8%25B4%25D8%25AF%2F">فیسبوک</a></li>
-						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B9%25D8%25A7%25D8%25B4%25D9%2582-%25D8%25B4%25D8%25AF%2F">واتس آپ</a></li>
-						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B9%25D8%25A7%25D8%25B4%25D9%2582-%25D8%25B4%25D8%25AF%2F">پینترست</a></li>
-						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D9%2585%25D9%2587%25D8%25AF%25DB%258C-%25D8%25A7%25D8%25AD%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AF-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25D8%25B9%25D8%25A7%25D8%25B4%25D9%2582-%25D8%25B4%25D8%25AF%2F">ایمیل</a></li>
+												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-%25D8%25B1%25D8%25B6%25D8%25A7-%25DB%258C%25D8%25B2%25D8%25AF%25D8%25A7%25D9%2586%25DB%258C-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25DA%25AF%25D9%2585%25D8%25B4%25D8%25AF%2F">تلگرام</a></li>
+						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-%25D8%25B1%25D8%25B6%25D8%25A7-%25DB%258C%25D8%25B2%25D8%25AF%25D8%25A7%25D9%2586%25DB%258C-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25DA%25AF%25D9%2585%25D8%25B4%25D8%25AF%2F">توییتر</a></li>
+						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-%25D8%25B1%25D8%25B6%25D8%25A7-%25DB%258C%25D8%25B2%25D8%25AF%25D8%25A7%25D9%2586%25DB%258C-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25DA%25AF%25D9%2585%25D8%25B4%25D8%25AF%2F">فیسبوک</a></li>
+						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-%25D8%25B1%25D8%25B6%25D8%25A7-%25DB%258C%25D8%25B2%25D8%25AF%25D8%25A7%25D9%2586%25DB%258C-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25DA%25AF%25D9%2585%25D8%25B4%25D8%25AF%2F">واتس آپ</a></li>
+						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-%25D8%25B1%25D8%25B6%25D8%25A7-%25DB%258C%25D8%25B2%25D8%25AF%25D8%25A7%25D9%2586%25DB%258C-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25DA%25AF%25D9%2585%25D8%25B4%25D8%25AF%2F">پینترست</a></li>
+						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25D8%25AF%25D8%25A7%25D9%2586%25D9%2584%25D9%2588%25D8%25AF-%25D8%25A2%25D9%2587%25D9%2586%25DA%25AF-%25D8%25AC%25D8%25AF%25DB%258C%25D8%25AF-%25D8%25B1%25D8%25B6%25D8%25A7-%25DB%258C%25D8%25B2%25D8%25AF%25D8%25A7%25D9%2586%25DB%258C-%25D8%25A8%25D8%25A7-%25D9%2586%25D8%25A7%25D9%2585-%25DA%25AF%25D9%2585%25D8%25B4%25D8%25AF%2F">ایمیل</a></li>
 					</ul>
 				</div>
 													<div class="box" id="playbox">
 						<div class="title">هم اکنون گوش کنید</div>
-						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2014/12/tak/MehdiAhmadvand-AsheghShodam-128%28www.Next1.ir%29.mp3" controls="controls" style="width: 100%;"></audio>
+						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2017/08/tak/RezaYazdani-Gomshodegan-128(www.Next1.ir).mp3" controls="controls" style="width: 100%;"></audio>
 					</div>
 					<div class="box" id="code">
 						<div class="title">کد پخش این آهنگ در سایت و وبلاگ شما</div>
 						<textarea readonly="readonly" onclick="javascript:this.select();" tabindex="4">
 				<!-- Begin https://next1.ir -->
 				<script type="text/javascript">
-				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2014/12/tak/MehdiAhmadvand-AsheghShodam-128%28www.Next1.ir%29.mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
+				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2017/08/tak/RezaYazdani-Gomshodegan-128(www.Next1.ir).mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
 				</script>
 				<object id="player" height="24" width="190" type="application/x-shockwave-flash" name="player" style="outline: none" data="https://next1.ir/wp-content/themes/next1/audioplayer.swf">
 				<param name="bgcolor" value="#FFFFFF">
 				<param name="wmode" value="transparent">
 				<param name="menu" value="false">
-				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2014/12/tak/MehdiAhmadvand-AsheghShodam-128%28www.Next1.ir%29.mp3&autostart=yes&titles=دانلود آهنگ مهدی احمدوند با نام عاشق شدم&loop=no&playerID=player">
+				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2017/08/tak/RezaYazdani-Gomshodegan-128(www.Next1.ir).mp3&autostart=yes&titles=دانلود آهنگ جدید رضا یزدانی با نام گمشدگان&loop=no&playerID=player">
 				<h2><a title="دانلود آهنگ جدید" href="https://next1.ir" target="_blank">دانلود آهنگ جدید</a></h2>
 				</object>
 				<!-- End https://next1.ir -->
 						</textarea>
 					</div>
-								<div class="alert"><a href="https://next1.ir/category/%D8%A2%D8%B1%D8%B4%DB%8C%D9%88/" rel="category tag">آرشیو</a> ، <a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a> ، <a href="https://next1.ir/category/style/%D8%BA%D9%85%DA%AF%DB%8C%D9%86/" rel="category tag">غمگین</a> ، <a href="https://next1.ir/category/artists/%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF/" rel="category tag">مهدی احمدوند</a></div>
+								<div class="alert"><a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a> ، <a href="https://next1.ir/category/style/%D8%AA%DB%8C%D8%AA%D8%B1%D8%A7%DA%98-%D9%81%DB%8C%D9%84%D9%85-%D8%B3%D8%B1%DB%8C%D8%A7%D9%84/" rel="category tag">تیتراژ فیلم و سریال</a> ، <a href="https://next1.ir/category/style/%D8%B1%D8%A7%DA%A9/" rel="category tag">راک</a> ، <a href="https://next1.ir/category/artists/%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C/" rel="category tag">رضا یزدانی</a></div>
 						 
 	</div>
 	</article>
 																				<div class="box" id="latest">
-								<div class="title"><a rel="category tag" href="/category/artists/%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF"><h3>دانلود آهنگ های مهدی احمدوند</a></h3></div>
-															<a rel="bookmark" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%ba%d9%84%d8%b7-%da%a9%d8%b1%d8%af%d9%85/" title="دانلود آهنگ مهدی احمدوند با نام غلط کردم"><div class="item">
-									<h2>مهدی احمدوند  -  غلط کردم</h2><span class="item-info">يک نظر | 13,110 بازدید</span>
+								<div class="title"><a rel="category tag" href="/category/artists/%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C"><h3>دانلود آهنگ های رضا یزدانی</a></h3></div>
+															<a rel="bookmark" href="https://next1.ir/%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d8%af%d8%b1%d8%ae%d8%aa/" title="دانلود آهنگ رضا یزدانی با نام درخت"><div class="item">
+									<h2>رضا یزدانی  -  درخت</h2><span class="item-info">بدون نظر | 327 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a8%da%af%db%8c%d8%b1-%d9%86%da%af/" title="دانلود آهنگ مهدی احمدوند با نام بگیر نگیر"><div class="item">
-									<h2>مهدی احمدوند  -  بگیر نگیر</h2><span class="item-info">2 نظر | 4,963 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d9%85%db%8c-%d8%aa%d8%b1%d8%b3%d9%85/" title="دانلود آهنگ رضا یزدانی با نام می ترسم"><div class="item">
+									<h2>رضا یزدانی  -  می ترسم</h2><span class="item-info">بدون نظر | 420 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%b3%d8%a7%d8%ad%d9%84/" title="دانلود آهنگ مهدی احمدوند با نام ساحل"><div class="item">
-									<h2>مهدی احمدوند  -  ساحل</h2><span class="item-info">بدون نظر | 7,529 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d9%87%d9%86%d9%88%d8%b2-%d8%a7%d8%b2-%d8%af%d9%88%d8%b1-%d8%ad%d9%88%d8%a7%d8%b3%d9%85-%d8%a8%d9%87-%d8%aa%d9%88/" title="دانلود آهنگ رضا یزدانی با نام هنوز از دور حواسم به تو"><div class="item">
+									<h2>رضا یزدانی  -  هنوز از دور حواسم به تو</h2><span class="item-info">بدون نظر | 734 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a7%d9%84/" title="دانلود آهنگ جدید مهدی احمدوند با نام الهه ی ناز"><div class="item">
-									<h2>مهدی احمدوند  -  الهه ی ناز</h2><span class="item-info">بدون نظر | 10,587 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d8%ae%d9%88%d9%86-%d8%b3%d8%b1%d8%af/" title="دانلود آهنگ رضا یزدانی با نام خون سرد"><div class="item">
+									<h2>رضا یزدانی  -  خون سرد</h2><span class="item-info">بدون نظر | 1,710 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d9%82%d8%af/" title="دانلود آهنگ جدید مهدی احمدوند با نام قدم قدم"><div class="item">
-									<h2>مهدی احمدوند  -  قدم قدم</h2><span class="item-info">بدون نظر | 6,643 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d8%b4%d8%a8-%d9%87%d8%a7%d9%85%d9%88%d9%86/" title="دانلود آهنگ رضا یزدانی با نام شب هامون"><div class="item">
+									<h2>رضا یزدانی  -  شب هامون</h2><span class="item-info">بدون نظر | 1,794 بازدید</span>
 								</div></a>
 														</div>
 														
@@ -319,55 +320,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						<div class="title"><h5>نظرات</h5></div>
 						<div id="comments">
 						<div id="comments-wrap" class="comment-warp">
-					<div class="under-title"><span class="right">3 نظر ارسال شده </span></div>	
-<ul class="comments-list">
-		<li class="comment even thread-even depth-1" id="comment-62603">
-				<div id="div-comment-62603" class="comment-body">
-				<div class="comment-author vcard">
-						<cite class="fn">معین</cite> <span class="says">گفت:</span>		</div>
-		
-		<div class="comment-meta commentmetadata">
-			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#comment-62603">آبان 22, 1399 در 0:49 ق.ظ</a>		</div>
-
-		<p>خیلی دوسش دارم قدیمیه ولی تکراری نمیشه عالیه عاشقشم بهتر از این نمیشه</p>
-
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-62603' data-commentid="62603" data-postid="11634" data-belowelement="div-comment-62603" data-respondelement="respond" data-replyto="پاسخ به معین" aria-label='پاسخ به معین'></a></div>
-				</div>
-				</li><!-- #comment-## -->
-		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-62901">
-				<div id="div-comment-62901" class="comment-body">
-				<div class="comment-author vcard">
-						<cite class="fn">حمید رضا</cite> <span class="says">گفت:</span>		</div>
-		
-		<div class="comment-meta commentmetadata">
-			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#comment-62901">آذر 18, 1399 در 4:02 ق.ظ</a>		</div>
-
-		<p>فوق العا</p>
-
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-62901' data-commentid="62901" data-postid="11634" data-belowelement="div-comment-62901" data-respondelement="respond" data-replyto="پاسخ به حمید رضا" aria-label='پاسخ به حمید رضا'></a></div>
-				</div>
-				</li><!-- #comment-## -->
-		<li class="comment even thread-even depth-1" id="comment-62902">
-				<div id="div-comment-62902" class="comment-body">
-				<div class="comment-author vcard">
-						<cite class="fn">حمید رضا</cite> <span class="says">گفت:</span>		</div>
-		
-		<div class="comment-meta commentmetadata">
-			<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#comment-62902">آذر 18, 1399 در 4:03 ق.ظ</a>		</div>
-
-		<p>فوق العاده بود&#8230;.مرررسی</p>
-
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='#comment-62902' data-commentid="62902" data-postid="11634" data-belowelement="div-comment-62902" data-respondelement="respond" data-replyto="پاسخ به حمید رضا" aria-label='پاسخ به حمید رضا'></a></div>
-				</div>
-				</li><!-- #comment-## -->
-</ul>
-<div class="navigation">
-<div class="alignleft"></div>
-<div class="alignright"></div>
-</div>
+<!-- If comments are open, but there are no comments. -->
 <div id="respond">
 <div class="cancel-comment-reply">
-<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D9%85%D9%87%D8%AF%DB%8C-%D8%A7%D8%AD%D9%85%D8%AF%D9%88%D9%86%D8%AF-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%B9%D8%A7%D8%B4%D9%82-%D8%B4%D8%AF/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
+<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%B1%D8%B6%D8%A7-%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%DA%AF%D9%85%D8%B4%D8%AF/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
 </div>
 <form action="https://next1.ir/wp-comments-post.php" method="post" id="commentform">
 <div class="commentdata">
@@ -384,10 +340,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>
 <div class="clear"></div>
 <input class="bluekey comment-button" name="submit" type="submit" id="submit" tabindex="5" value="ارسال نظر">
-<input type="hidden" name="comment_post_ID" value="11634">
-<input type='hidden' name='comment_post_ID' value='11634' id='comment_post_ID' />
+<input type="hidden" name="comment_post_ID" value="19135">
+<input type='hidden' name='comment_post_ID' value='19135' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="9c5fd2b044" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="45"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="ab31565534" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="86"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
 </form>
 </div>
 </div>							<div class="alert">نظرات شما پس از بررسی و تایید نمایش داده می شود.</div>
@@ -397,7 +353,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 										<div class="box" id="alltags">
 						<div class="title">برچسب ها</div>
 						<ul>
-						<li>Mehdi Ahmadvand</li><li>New Song</li><li>Nex 1 Music</li><li>Nex One Music</li><li>Nex1</li><li>Nex1Music</li><li>Next One Music</li><li>Next1</li><li>Next1.ir</li><li>Next1Music</li><li>Song Of Ashegh Shodam From Mehdi Ahmadvand</li><li>آهنگ</li><li>آهنگ جدید</li><li>آهنگ جدید مهدی احمدوند</li><li>آهنگ جدید مهدی احمدوند با نام عاشق شدم</li><li>آهنگ عاشق شدم از مهدی احمدوند</li><li>آهنگ عاشق شدم مهدی احمدوند</li><li>آهنگ مهدی احمدوند</li><li>آهنگ مهدی احمدوند با نام عاشق شدم</li><li>دانلود آهنگ</li><li>دانلود آهنگ جدید</li><li>دانلود آهنگ جدید مهدی احمدوند</li><li>دانلود آهنگ جدید مهدی احمدوند با نام عاشق شدم</li><li>دانلود آهنگ عاشق شدم از مهدی احمدوند</li><li>دانلود آهنگ عاشق شدم مهدی احمدوند</li><li>دانلود آهنگ مهدی احمدوند</li><li>دانلود آهنگ مهدی احمدوند با نام عاشق شدم</li><li>دانلود آهنگ نکست وان</li><li>دانلود موزیک</li><li>دانلود موزیک جدید</li><li>رسانه موسیقی نکست وان</li><li>سایت دانلود آهنگ</li><li>عاشق شدم از مهدی احمدوند</li><li>عاشق شدم مهدی احمدوند</li><li>مهدی احمدوند</li><li>مهدی احمدوند آهنگ عاشق شدم</li><li>موزیک جدید</li><li>نکس وان</li><li>نکس وان موزیک</li><li>نکست وان</li><li>نکست وان موزیک</li>						</ul>
+						<li>gomshodegan</li><li>New Song</li><li>Nex 1 Music</li><li>Nex One Music</li><li>Nex1</li><li>Nex1Music</li><li>Next One Music</li><li>Next1</li><li>Next1.ir</li><li>Next1Music</li><li>Reza Yazdani</li><li>Song Of Gomshodegan From Reza Yazdani</li><li>آهنگ</li><li>آهنگ تیتراژ سریال گمشدگان</li><li>آهنگ جدید</li><li>آهنگ جدید رضا یزدانی</li><li>آهنگ جدید رضا یزدانی با نام گمشدگان</li><li>آهنگ رضا یزدانی</li><li>آهنگ رضا یزدانی با نام گمشدگان</li><li>آهنگ سریال گمشدگان</li><li>آهنگ گمشدگان از رضا یزدانی</li><li>آهنگ گمشدگان رضا یزدانی</li><li>تیتراژ سریال گمشدگان</li><li>دانلود آهنگ</li><li>دانلود آهنگ تیتراژ سریال گمشدگان</li><li>دانلود آهنگ جدید</li><li>دانلود آهنگ جدید رضا یزدانی</li><li>دانلود آهنگ جدید رضا یزدانی با نام گمشدگان</li><li>دانلود آهنگ رضا یزدانی</li><li>دانلود آهنگ رضا یزدانی با نام گمشدگان</li><li>دانلود آهنگ سریال گمشدگان</li><li>دانلود آهنگ نکست وان</li><li>دانلود آهنگ های رضا یزدانی</li><li>دانلود آهنگ گمشدگان از رضا یزدانی</li><li>دانلود آهنگ گمشدگان رضا یزدانی</li><li>دانلود تیتراژ سریال گمشدگان</li><li>دانلود موزیک</li><li>دانلود موزیک جدید</li><li>رسانه موسیقی نکست وان</li><li>رضا یزدانی</li><li>سایت دانلود آهنگ</li><li>سریال گمشدگان</li><li>موزیک جدید</li><li>نکس وان</li><li>نکس وان موزیک</li><li>نکست وان</li><li>نکست وان موزیک</li><li>گمشدگان از رضا یزدانی</li><li>گمشدگان رضا یزدانی</li>						</ul>
 					</div>
 						</div>
 </main><nav>
@@ -408,7 +364,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		
 					<aside><div class="box" id="requested-left">
 			<div class="title"><a title="آهنگ درخواستی" href="/category/requested/"><span>درخواستی کاربران</span></a></div>	
-					<h3><a class="item" href="https://next1.ir/%d9%85%d8%ac%db%8c%d8%af-%d8%a7%d8%ad%d9%85%d8%af%db%8c-%d8%b2%db%8c%d8%a8%d8%a7%db%8c-%d9%85%d9%86/" title="دانلود آهنگ مجید احمدی با نام زیبای من">
+					<h3><a class="item" href="https://next1.ir/%d9%85%d8%ad%d9%85%d9%88%d8%af-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a-%d8%b9%d8%a7%d8%b4%d9%82-%d9%85%d8%ac%d9%86%d9%88%d9%86/" title="دانلود آهنگ محمود التركي با نام عاشق مجنون">
+				محمود التركي  -  عاشق مجنون			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d9%85%d8%ac%db%8c%d8%af-%d8%a7%d8%ad%d9%85%d8%af%db%8c-%d8%b2%db%8c%d8%a8%d8%a7%db%8c-%d9%85%d9%86/" title="دانلود آهنگ مجید احمدی با نام زیبای من">
 				مجید احمدی  -  زیبای من			</a></h3>
 								<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d8%a8%d9%87%d8%b1%d8%a7%d9%85%db%8c-%d8%a7%d9%85%d8%b4%d8%a8/" title="دانلود آهنگ فرزاد بهرامی با نام امشب">
 				فرزاد بهرامی  -  امشب			</a></h3>
@@ -416,34 +374,32 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				فرزاد بهرامی  -  گل من			</a></h3>
 								<h3><a class="item" href="https://next1.ir/%d8%b4%d8%b1%d9%88%db%8c%d9%86-%d8%ad%d8%a7%d8%ac%db%8c-%d9%be%d9%88%d8%b1-%d8%ad%d8%b3%d9%88%d8%af/" title="دانلود آهنگ شروین حاجی پور با نام حسود">
 				 شروین حاجی پور  -  حسود			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%a2%d9%87%d9%86%da%af-%d8%b9%d8%b1%d8%a8%db%8c-%d8%b5%d9%88%d8%aa-%d8%b5%d9%81%db%8c%d8%b1-%d8%a7%d9%84%d8%a8%d9%84%d8%a8%d9%84%db%8c/" title="دانلود آهنگ عربی صوت صفیر البلبلی (صفیر بلبلی)">
-				عربی صوت صفیر البلبلی (صفیر بلبلی)			</a></h3>
 				</div></aside>
 				
 			
 					<aside><div class="box" id="newset">
 			<div class="title"><span>جدیدترین ها در نکست وان</span></div>	
-					<h3><a class="item" href="https://next1.ir/%d9%85%d8%ac%db%8c%d8%af-%d8%b1%d8%b6%d9%88%db%8c-%d8%b2%db%8c%d8%a8%d8%a7/" title="دانلود آهنگ مجید رضوی با نام زیبا">
-				مجید رضوی  -  زیبا			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%a7%d8%ad%d9%85%d8%af-%d8%b3%d9%84%d9%88-%d8%b4%d8%a7%d8%b2%d8%af%d9%87-%d8%ae%d8%a7%d9%86%d9%88%d9%85/" title="دانلود آهنگ احمد سلو با نام شازده خانوم">
-				احمد سلو  -  شازده خانوم			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d9%85%d8%ad%d8%b3%d9%86-%d8%a7%d8%b5%d9%84%d8%a7%d9%86%db%8c-%d8%a8%da%af%d9%88-%d8%af%d9%88%d8%b3%d8%aa%d9%85-%d8%af%d8%a7%d8%b1%db%8c/" title="دانلود آهنگ محسن اصلانی با نام بگو دوستم داری">
-				محسن اصلانی  -  بگو دوستم داری			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%b3%db%8c%d8%a7%d9%85%da%a9-%d8%b9%d8%a8%d8%a7%d8%b3%db%8c-%d8%b2%d9%85%d8%a7%d9%86/" title="دانلود آهنگ سیامک عباسی با نام زمان">
-				سیامک عباسی  -  زمان			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%af%d9%82%d9%84%d9%88-%d9%85%d8%b4%d8%aa%db%8c/" title="دانلود آهنگ مسعود صادقلو با نام مشتی">
-				مسعود صادقلو  -  مشتی			</a></h3>
+					<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d9%81%d8%b1%d8%b2%db%8c%d9%86-%d8%aa%d9%85%d9%88%d9%85%d8%b4-%da%a9%d9%86/" title="دانلود آهنگ فرزاد فرزین با نام تمومش کن">
+				فرزاد فرزین  -  تمومش کن			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d8%ae%d8%af%d8%a7%d8%a8%d9%86%d8%af%d9%87-%d8%b9%d8%b4%d9%82/" title="دانلود آهنگ علی خدابنده با نام عشق">
+				علی خدابنده  -  عشق			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b4%d9%87%d8%b1%d8%a7%d9%85-%d8%b4%da%a9%d9%88%d9%87%db%8c-%d8%b9%d8%b5%d8%a8%db%8c-%d9%86%d8%b4%d9%88/" title="دانلود آهنگ شهرام شکوهی با نام عصبی نشو">
+				شهرام شکوهی  -  عصبی نشو			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%db%8c%da%af%d8%a7%d9%86%d9%87-%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d9%87%d8%a7%d8%b1/" title="دانلود آهنگ علی یگانه با نام بهترین بهار">
+				علی یگانه  -  بهترین بهار			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d9%85%d8%ad%d9%85%d9%88%d8%af-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a-%d8%b9%d8%a7%d8%b4%d9%82-%d9%85%d8%ac%d9%86%d9%88%d9%86/" title="دانلود آهنگ محمود التركي با نام عاشق مجنون">
+				محمود التركي  -  عاشق مجنون			</a></h3>
 				</div></aside>
-								<h3><a class="item" href="https://next1.ir/%d9%81%d8%b1%d8%b2%d8%a7%d8%af-%d9%81%d8%b1%d8%ae-%d8%b9%d8%b4%d9%82-%db%8c%d8%b9%d9%86%db%8c/" title="دانلود آهنگ فرزاد فرخ با نام عشق یعنی">
-				فرزاد فرخ  -  عشق یعنی			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%b1%db%8c%d9%85%db%8c%da%a9%d8%b3-%d9%86%d9%88%d8%a7%d9%86-%d8%a8%d8%b1%db%8c%d9%85-%d8%af%d8%b1%db%8c%d8%a7/" title="دانلود ریمیکس نوان با نام بریم دریا">
-				دانلود ریمیکس نوان  -  بریم دریا			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d9%85%d8%ad%d9%85%d8%af-%d9%85%d8%b9%d8%aa%d9%85%d8%af%db%8c-%d8%af%d9%85-%d8%b2%d9%86%d8%af%da%af%db%8c-%da%af%d8%b1%d9%85/" title="دانلود آهنگ محمد معتمدی با نام دم زندگی گرم">
-				محمد معتمدی  -  دم زندگی گرم			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%b1%d8%b6%d8%a7-%db%8c%d8%b2%d8%af%d8%a7%d9%86%db%8c-%d8%af%d8%b1%d8%ae%d8%aa/" title="دانلود آهنگ رضا یزدانی با نام درخت">
-				رضا یزدانی  -  درخت			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c%d8%b1%d8%b6%d8%a7-%da%af%d8%b1%d9%88%d8%b3%db%8c-%d9%85%d9%86-%d8%a7%db%8c%d9%86%d8%ac%d8%a7-%d9%88%d8%b3%d8%b7-%d9%85%d8%b1%d8%af%d8%a7%d8%a8/" title="دانلود آهنگ علیرضا گروسی با نام من اینجا وسط مرداب">
-				علیرضا گروسی  -  من اینجا وسط مرداب			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%a7%d9%84%da%a9%db%8c-%d8%a2%d8%ae%db%8c/" title="دانلود آهنگ علی عبدالمالکی با نام آخی">
+				علی عبدالمالکی  -  آخی			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d8%b3%d8%b1%d9%84%da%a9-%d8%a2%d8%af%d9%85-%d8%a8%d8%b1%d9%81%db%8c/" title="دانلود آهنگ سینا سرلک با نام آدم برفی">
+				سینا سرلک  -  آدم برفی			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d9%85%d8%ad%d9%85%d8%af-%d9%84%d8%b7%d9%81%db%8c-%d8%a7%d8%b3%d9%85/" title="دانلود آهنگ محمد لطفی با نام اسم">
+				محمد لطفی  -  اسم			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%db%8c%d9%88%d8%b3%d9%81%db%8c-%d8%ae%d9%88%d8%af%d9%85/" title="دانلود آهنگ علی یوسفی با نام خودم">
+				علی یوسفی  -  خودم			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%a7%d9%85%db%8c%d8%af-%d8%a2%d9%85%d8%b1%db%8c-%d9%87%d9%88%d8%a7%d8%aa-%d9%87%d9%88%d8%a7%d9%85-%d8%a8%d9%88%d8%af/" title="دانلود آهنگ امید آمری با نام هوات هوام بود">
+				امید آمری  -  هوات هوام بود			</a></h3>
 				
 	
 	
@@ -462,9 +418,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					<a href="/تبلیغات/">تبلیغات</a>
 				</div>
 				<div class="footer-box">
-							<div class="title"><h2>پیشنهاد روز بخش سنتی</h2></div>	
-				<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%B2%D9%86%D8%AF%D9%88%DA%A9%DB%8C%D9%84%DB%8C-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%AD/" title="دانلود آهنگ جدید محمد زندوکیلی با نام حال دل"><div class="item">
-											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2017/12/MohammadZandVakili-ComingSoon-65x65.jpg"  title="MohammadZandVakili-ComingSoon" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="محمد زندوکیلی" loading="lazy" />دانلود آهنگ جدید محمد زندوکیلی با نام حال دل<span class="item-info">3 نظر | 6,199 بازدید</span></div></a>
+							<div class="title"><h2>پیشنهاد روز بخش شاد</h2></div>	
+				<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AD%D8%AC%D8%AA-%D8%A7%D8%B4%D8%B1%D9%81-%D8%B2%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%AC%D8%A7/" title="دانلود آهنگ جدید حجت اشرف زاده با نام جان منی تو"><div class="item">
+											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2018/12/HojatAshrafzadeh-JaneManiTo-65x65.jpg"  title="HojatAshrafzadeh-JaneManiTo" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="حجت اشرف زاده - جان منی تو" loading="lazy" />دانلود آهنگ جدید حجت اشرف زاده با نام جان منی تو<span class="item-info">10 نظر | 87,515 بازدید</span></div></a>
 							</div>
 				<div class="footer-box" id="tags">
 					<div class="title">برترین خواننده ها</div>	
@@ -489,5 +445,5 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</footer>
 	<script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script></body>
 </html>
-<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-13 06:46:08 -->
+<!-- Page generated by LiteSpeed Cache 4.6 on 2023-06-19 09:07:09 -->
 <!-- Guest Mode -->
