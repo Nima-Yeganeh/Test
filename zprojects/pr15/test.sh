@@ -15,6 +15,7 @@ while true; do
       echo "**** Started ****"
       echo "$zline"
       rm -f downloads/*.mp4
+      rm -f downloads/*.jpg
       url=$zline
       number=$(echo "$url" | grep -oE 'video/([0-9]+)' | cut -d '/' -f2)
       zfilename=$number'.mp4'
@@ -36,6 +37,7 @@ while true; do
           echo "File does not exist or is empty >> $file_path"
       fi
       rm -f downloads/*.mp4
+      rm -f downloads/*.jpg
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
