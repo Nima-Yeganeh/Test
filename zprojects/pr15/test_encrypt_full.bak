@@ -33,7 +33,7 @@ def decrypt_string(encrypted_message, encryption_key):
 encryption_key = result+'ABC='
 # print(encryption_key)
 
-prompts = ["Tel Bot Token: ", "Tel Chat ID: ", "WP Domain: ", "WP User: ", "WP Pass: ", "Instagram ID: ", "Instagram Pass: "]
+prompts = ["Tel Bot Token: ", "Tel Chat ID: ", "WP Domain: ", "WP User: ", "WP Pass: "]
 for prompt in prompts:
     input_string = input(prompt)
     # Encrypt the input string using the encryption key
