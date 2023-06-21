@@ -8,5 +8,6 @@ while true; do
       echo "**** Started ****"
       echo "$zline"
       break
+    fi
   done < "$file1"
 done
