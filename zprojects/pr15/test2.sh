@@ -10,4 +10,7 @@ while true; do
       break
     fi
   done < "$file1"
+  echo "**** Update (pr15) ****"
+  git pull
+  sleep 10
 done
