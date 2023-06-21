@@ -42,6 +42,7 @@ while true; do
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
       sleep 7200
+      break
     fi
   done < "$file1"
   echo "**** Update (pr15) ****"
