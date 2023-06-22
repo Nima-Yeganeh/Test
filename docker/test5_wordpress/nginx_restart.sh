@@ -1,2 +1,1 @@
 docker compose restart nginx
-
