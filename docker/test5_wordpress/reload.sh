@@ -23,3 +23,5 @@ bash commands_host_ver3_temp_php.sh
 echo "Wordpress Language Config ..."
 bash commands_host_ver3_temp_make_english.sh
 bash commands_host_ver3_temp_make_farsi.sh
+echo "Update Wordpress Contact Us ..."
+bash commands_host_ver3_temp_contact_us_update.sh
