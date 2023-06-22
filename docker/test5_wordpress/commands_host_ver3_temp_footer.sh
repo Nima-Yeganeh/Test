@@ -4,4 +4,3 @@ echo $path
 # ls -anp $path/wp-content/themes/kadence/
 cp kadence_footer.php $path/wp-content/themes/kadence/footer.php
 cat $path/wp-content/themes/kadence/footer.php
-
