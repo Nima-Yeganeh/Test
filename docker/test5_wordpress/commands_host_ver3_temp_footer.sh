@@ -3,5 +3,5 @@ path=$(docker volume inspect $vol | grep Mountpoint | grep '"Mountpoint": "[^"]*
 echo $path
 # ls -anp $path
 # ls -anp $path/wp-content/themes/kadence/
-# cp kadence_footer.php $path/wp-content/themes/kadence/footer.php
-# cat $path/wp-content/themes/kadence/footer.php
+cp kadence_footer.php $path/wp-content/themes/kadence/footer.php
+cat $path/wp-content/themes/kadence/footer.php

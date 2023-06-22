@@ -16,4 +16,3 @@ do_action( 'kadence_after_content' );
 <?php wp_footer(); ?>
 </body>
 </html>
-
