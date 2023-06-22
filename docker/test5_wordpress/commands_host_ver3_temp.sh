@@ -22,11 +22,11 @@ zurl="https://$WP_Domain"
 title=$WP_Domain
 admin_user=$WP_User
 admin_password=$WP_Pass
-echo $zurl
-echo $title
-echo $admin_user
-echo $admin_password
-sleep 300
+# echo $zurl
+# echo $title
+# echo $admin_user
+# echo $admin_password
+# sleep 300
 
 echo '**** wp info ****'
 docker exec -it $targethost bash -c "wp --info"
