@@ -284,7 +284,9 @@ while true; do
                 if $valid2; then
                   
                   echo "لینک دانلود فایل موزیک/آهنگ با کیفیت 128 یا 320 موجود است. جهت دانلود کلیک نمایید" >> $zcontentfile
-                  echo "همچنین می توانید جهت دریافت اطلاعات بیشتر و دانلود فایل عضو کانال تلگرام ما شوید. آدرس کانال تلگرام سایت: @$Tel_Chat_ID" >> $zcontentfile
+                  # echo "همچنین می توانید جهت دریافت اطلاعات بیشتر و دانلود فایل عضو کانال تلگرام ما شوید. آدرس کانال تلگرام سایت: @$Tel_Chat_ID" >> $zcontentfile
+                  echo 'همچنین می توانید جهت دریافت اطلاعات بیشتر و دانلود فایل عضو کانال تلگرام ما شوید. آدرس کانال تلگرام سایت: <a href="https://t.me/'$Tel_Chat_ID'">@'$Tel_Chat_ID'</a>' >> $zcontentfile
+                  
                   while IFS= read -r ylink; do
                     ynewlink=$(echo "$ylink" | sed 's/mp3-play.php/mp3-download.php/g')
                     ylinkfile=$(basename "$ylink" | sed 's/mp3-play.php?filename=//g')
