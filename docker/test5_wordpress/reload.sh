@@ -10,3 +10,4 @@ bash commands_host_ver3_temp.sh
 bash commands_host_ver3_temp_test5.sh
 # bash do5.sh
 bash commands_host_ver3_temp_footer.sh
+bash commands_host_ver3_temp_php.sh
