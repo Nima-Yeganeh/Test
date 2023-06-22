@@ -341,7 +341,7 @@ while true; do
 
   echo "**** Update (pr13) ****"
   echo "**** XML Update ****"
-  bash test1
+  bash test1.sh
   # sleep 7200
   sleep 2
 
