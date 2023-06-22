@@ -56,7 +56,7 @@ while true; do
       while [ ! -s "$ztestfile" ]; do
         echo "File size is zero, retrying..."
         wget -O $ztestfile "$zline"
-        sleep 1
+        # sleep 1
       done
       echo "File size is greater than zero." 
 
@@ -187,7 +187,7 @@ while true; do
               break
             fi
             echo $validjpg
-            sleep 1
+            # sleep 1
           done
           echo $validjpg
           zimagefile=$filename
@@ -334,7 +334,7 @@ while true; do
       # sleep 50
       echo "$zline" >> $file2
       echo "**** Done! ****"
-      sleep 20
+      sleep 2
 
     fi
   done < "$file1"
