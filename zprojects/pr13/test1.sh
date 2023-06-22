@@ -12,4 +12,3 @@ while IFS= read -r line; do
 done < "$xml_file_path"
 rm -f test1_temp.txt
 cat test1_result.txt > file.txt
-
