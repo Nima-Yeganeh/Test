@@ -13,20 +13,7 @@ max_attempts=99
 current_attempt=1
 connected=false
 
-echo "Enter a 40-character code: "
-read code
-WP_Domain=$(python3 test_decrypt_full_arg.py 3 $code)
-WP_User=$(python3 test_decrypt_full_arg.py 4 $code)
-WP_Pass=$(python3 test_decrypt_full_arg.py 5 $code)
-zurl="https://$WP_Domain"
-title=$WP_Domain
-admin_user=$WP_User
-admin_password=$WP_Pass
-echo $zurl
-echo $title
-echo $admin_user
-echo $admin_password
-sleep 300
+
 
 echo '**** wp info ****'
 docker exec -it $targethost bash -c "wp --info"
