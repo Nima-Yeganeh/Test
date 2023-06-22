@@ -18,7 +18,7 @@ if len(code) == 40:
     result = code
     # print("Result:", result)
 else:
-    print("Invalid code. Please enter a 40-character code.")
+    print("Invalid code. Please enter a 4-character code.")
 
 def encrypt_string(message, encryption_key):
     cipher_suite = Fernet(encryption_key)
@@ -33,7 +33,7 @@ def decrypt_string(encrypted_message, encryption_key):
 encryption_key = result+'ABC='
 # print(encryption_key)
 
-prompts = ["Tel Bot Token: ", "Tel Chat ID: ", "WP Domain: ", "WP User: ", "WP Pass: ", "Instagram ID: ", "Instagram Pass: "]
+prompts = ["Tel Bot Token: ", "Tel Chat ID: ", "WP Domain: ", "WP User: ", "WP Pass: "]
 for prompt in prompts:
     input_string = input(prompt)
     # Encrypt the input string using the encryption key

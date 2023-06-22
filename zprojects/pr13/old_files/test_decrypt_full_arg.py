@@ -24,9 +24,7 @@ if len(sys.argv) == 3:
                 line2 = file.readline().rstrip('\n')
                 line3 = file.readline().rstrip('\n')
                 line4 = file.readline().rstrip('\n')
-                line5 = file.readline().rstrip('\n')
-                line6 = file.readline().rstrip('\n')
-                line7 = file.readline().rstrip('\n')
+                line5 = file.readline().rstrip('\n')           
 
             if arg1 == 1:
                 content = line1
@@ -63,25 +61,11 @@ if len(sys.argv) == 3:
                     print(decrypted_string)
                 except Exception as e:
                     print("Error decrypting:", str(e))
-            elif arg1 == 6:
-                content = line6
-                try:
-                    decrypted_string = decrypt_string(content, encryption_key)
-                    print(decrypted_string)
-                except Exception as e:
-                    print("Error decrypting:", str(e))
-            elif arg1 == 7:
-                content = line7
-                try:
-                    decrypted_string = decrypt_string(content, encryption_key)
-                    print(decrypted_string)
-                except Exception as e:
-                    print("Error decrypting:", str(e))
 
         except FileNotFoundError:
             print("File not found.")
     else:
-        print("Invalid code. Please enter a 40-character code.")
+        print("Invalid code. Please enter a 4-character code.")
 
 else:
     print("Please provide two arguments.")
