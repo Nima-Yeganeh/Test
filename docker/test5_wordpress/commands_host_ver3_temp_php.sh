@@ -1,5 +1,5 @@
-#!/bin/bash
-newpath=$(docker volume inspect test5_wordpress_php1_data | grep Mountpoint | grep '"Mountpoint": "[^"]*"' | awk -F'"' '{print $4}')
+vol="test5_wordpress_php1_data"
+newpath=$(docker volume inspect $vol | grep Mountpoint | grep '"Mountpoint": "[^"]*"' | awk -F'"' '{print $4}')
 echo $newpath
 ls -anp $newpath
 cp src/index.php $newpath
