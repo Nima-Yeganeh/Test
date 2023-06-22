@@ -24,7 +24,7 @@ ztestfile="test8.txt"
 ztesttemp="test8_temp.txt"
 zdlsitefilepath1filename="/var/lib/docker/volumes/test5_wordpress_php1_data/_data/file1.txt"
 zdlsitefilepath2fileurl="/var/lib/docker/volumes/test5_wordpress_php1_data/_data/file2.txt"
-zdlurlpath="https://test2-dl.nimayeganeh.ir/mp3-play.php?filename="
+zdlurlpath="https://dl.nimaxmusic.ir/mp3-play.php?filename="
 zfile4="file4.htm"
 
 # rm -f $file2
@@ -344,6 +344,7 @@ while true; do
   echo "**** Update (pr13) ****"
   echo "**** XML Update ****"
   bash test1.sh
+  sleep 7200
   sleep 7200
   sleep 2
 
