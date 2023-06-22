@@ -9,10 +9,11 @@ dbprefix="wp_"
 admin_user="admin"
 admin_password="P@ssw0rd"
 admin_email="admin@domain.local"
-
 max_attempts=99
 current_attempt=1
 connected=false
+
+
 
 echo '**** wp info ****'
 docker exec -it $targethost bash -c "wp --info"
