@@ -308,11 +308,13 @@ while true; do
               
               else
                 echo "Not valid mp3 urls to check!"
+                rm -- *.mp3
                 rm -f *.mp3
               fi
             
             else
                 echo "No mp3 urls!"
+                rm -- *.mp3
                 rm -f *.mp3
             fi
 
@@ -323,6 +325,7 @@ while true; do
           fi
           
           rm -f $zimagefile
+          rm -- *.mp3
           rm -f *.mp3
 
         else
