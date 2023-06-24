@@ -10,6 +10,7 @@ Insta_ID=$(python3 test_decrypt_full_arg.py 6 $code)
 Insta_Pass=$(python3 test_decrypt_full_arg.py 7 $code)
 
 while true; do
+  rm -f logfile.txt
   url="https://video.varzesh3.com/"
   wget -O test3.txt "$url" > logfile.txt 2>&1
   cat test3.txt | grep 'data-nt-link href' | grep 'title' | grep -oP '(?<=<a class="title" data-nt-link href=")[^"]*' | grep -oP '(?<=/video/)\d+' | uniq | sort -n | uniq | sort -n | sed 's/^/https:\/\/video.varzesh3.com\/video\//' > $file1
@@ -17,6 +18,7 @@ while true; do
   while IFS= read -r zline; do
     if ! grep -qF "$zline" "$file2"; then
       echo "**** Started ****"
+      rm -f logfile.txt
       echo "$zline"
       echo "$zline" >> $file2
       url=$zline
@@ -61,6 +63,7 @@ while true; do
               sleep 2
               rm -f *.mp4
               rm -f *.jpg
+              rm -f logfile.txt
               echo "**** Done! ****"
               echo "**** Waiting for the next one ****"
               sleep 1800
@@ -68,12 +71,15 @@ while true; do
               echo "File size is larger than or equal to 20 megabytes. Not OK"
               rm -f *.mp4
               rm -f *.jpg
+              rm -f logfile.txt
           fi
       else
           echo "File does not exist or is empty >> $file_path"
           rm -f *.mp4
           rm -f *.jpg
+          rm -f logfile.txt
       fi
+      rm -f logfile.txt
       # break
     fi
   done < "$file1"
