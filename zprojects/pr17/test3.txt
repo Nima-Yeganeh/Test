@@ -145,7 +145,7 @@
         <div class="allhead-auth">
             <span class="allhead-date">
                 <img alt="تاریخ" width="18" height="18" src="https://video-static.varzesh3.com/img/icons/icon-general-today.svg?w=18" />
-                <span class='datetime'><span>شنبه 3 تیر</span><span> - </span><span>14:06</span></span>
+                <span class='datetime'><span>شنبه 3 تیر</span><span> - </span><span>17:02</span></span>
             </span>
             <span class="search-btn"><img alt="جستجو" width="18" height="18" src="https://video-static.varzesh3.com/img/icons/search-icon-white.svg?w=18" /><span>جستجو </span></span>
             <div class="allhead-user-auth">
@@ -1320,6 +1320,246 @@
 <div class="video-list ">
     <div class="row">
             <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304126/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-3-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-2">
+        <div class="video-cover-image">
+                    <img alt="خلاصه والیبال ژاپن 3 - آرژانتین 2 " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/yrglgnbc.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">10:19</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
+
+        <span class="date"> - 2 دقیقه پیش - </span>
+        <span class="view">8 بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304126/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-3-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-2">
+        <h4>خلاصه والیبال ژاپن 3 - آرژانتین 2 </h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304125/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-0">
+        <div class="video-cover-image">
+                    <img alt="خلاصه والیبال آمریکا 3 - لهستان 0" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/enocyd4w.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">08:45</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
+
+        <span class="date"> - 31 دقیقه پیش - </span>
+        <span class="view">1.1K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304125/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-0">
+        <h4>خلاصه والیبال آمریکا 3 - لهستان 0</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304124/%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D8%A8%D8%AF%D9%88%D9%86-%DA%AF%D9%81%D8%AA%DA%AF%D9%88-%D8%A8%D8%A7-%D8%AE%D8%A8%D8%B1%D9%86%DA%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%B1%D8%A7-%D8%AA%D8%B1%DA%A9-%DA%A9%D8%B1%D8%AF">
+        <div class="video-cover-image">
+                    <img alt="نکونام بدون گفتگو با خبرنگاران باشگاه استقلال را ترک کرد " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/yrkwtgox.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">00:46</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
+
+        <span class="date"> - 1 ساعت پیش - </span>
+        <span class="view">7.1K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304124/%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D8%A8%D8%AF%D9%88%D9%86-%DA%AF%D9%81%D8%AA%DA%AF%D9%88-%D8%A8%D8%A7-%D8%AE%D8%A8%D8%B1%D9%86%DA%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%B1%D8%A7-%D8%AA%D8%B1%DA%A9-%DA%A9%D8%B1%D8%AF">
+        <h4>نکونام بدون گفتگو با خبرنگاران باشگاه استقلال را ترک کرد </h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304123/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">
+        <div class="video-cover-image">
+                    <img alt="مستند «داستان‌های فوتبال انگلیس»" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/jytj4i2b.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">33:30</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/7232/%D9%85%D8%B3%D8%AA%D9%86%D8%AF">مستند ورزشی</a>
+
+        <span class="date"> - 1 ساعت پیش - </span>
+        <span class="view">795 بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304123/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">
+        <h4>مستند «داستان‌های فوتبال انگلیس»</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304098/%DA%86%D9%87-%DA%A9%D8%B3%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B3%D8%A7%D9%84-%D9%85%DB%8C%D8%B4%D9%88%D8%AF-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D9%86%DB%8C%D9%85%DB%8C%D8%B4%D9%86">
+        <div class="video-cover-image">
+                    <img alt="چه کسی برنده توپ طلا امسال میشود؟" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/B/scqztgtc.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">04:07</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/404/%D8%AD%D9%88%D8%A7%D8%B4%DB%8C">حواشی</a>
+
+        <span class="date"> - 1 ساعت پیش - </span>
+        <span class="view">6.6K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304098/%DA%86%D9%87-%DA%A9%D8%B3%DB%8C-%D8%A8%D8%B1%D9%86%D8%AF%D9%87-%D8%AA%D9%88%D9%BE-%D8%B7%D9%84%D8%A7-%D8%A7%D9%85%D8%B3%D8%A7%D9%84-%D9%85%DB%8C%D8%B4%D9%88%D8%AF-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D9%86%DB%8C%D9%85%DB%8C%D8%B4%D9%86">
+        <h4>چه کسی برنده توپ طلا امسال میشود؟</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304122/%D8%B9%DB%8C%D8%A7%D8%AF%D8%AA-%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D8%B1%D8%AF%D8%A8%DB%8C%D9%86-%D9%88-%D8%B1%D8%B6%D8%A7-%D8%AF%D8%B1%D9%88%DB%8C%D8%B4">
+        <div class="video-cover-image">
+                    <img alt="عیادت محمد خردبین و رضا درویش از علیرضا بیرانوند" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/rtc3dfsk.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">00:08</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/404/%D8%AD%D9%88%D8%A7%D8%B4%DB%8C">حواشی</a>
+
+        <span class="date"> - 2 ساعت پیش - </span>
+        <span class="view">9.7K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304122/%D8%B9%DB%8C%D8%A7%D8%AF%D8%AA-%D9%85%D8%AD%D9%85%D8%AF-%D8%AE%D8%B1%D8%AF%D8%A8%DB%8C%D9%86-%D9%88-%D8%B1%D8%B6%D8%A7-%D8%AF%D8%B1%D9%88%DB%8C%D8%B4">
+        <h4>عیادت محمد خردبین و رضا درویش از علیرضا بیرانوند</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304121/%D8%B9%DB%8C%D8%A7%D8%AF%D8%AA-%D8%A7%D9%85%DB%8C%D8%B1-%D9%82%D9%84%D8%B9%D9%87-%D9%86%D9%88%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%86%D8%AF">
+        <div class="video-cover-image">
+                    <img alt="عیادت امیر قلعه‌نویی از علیرضا بیرانوند" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/254ts2a4.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">00:38</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/404/%D8%AD%D9%88%D8%A7%D8%B4%DB%8C">حواشی</a>
+
+        <span class="date"> - 2 ساعت پیش - </span>
+        <span class="view">24.6K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304121/%D8%B9%DB%8C%D8%A7%D8%AF%D8%AA-%D8%A7%D9%85%DB%8C%D8%B1-%D9%82%D9%84%D8%B9%D9%87-%D9%86%D9%88%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%86%D8%AF">
+        <h4>عیادت امیر قلعه‌نویی از علیرضا بیرانوند</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304120/%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%B4%D8%A7%DA%A9%D9%84%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AA%DB%8C%D9%85-%D8%B1%D8%A7-%D8%AD%D9%81%D8%B8-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85">
+        <div class="video-cover-image">
+                    <img alt="گل‌محمدی: شاکله اصلی تیم را حفظ می‌کنیم" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/jg55csoq.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">01:43</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
+
+        <span class="date"> - 2 ساعت پیش - </span>
+        <span class="view">7.4K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304120/%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%B4%D8%A7%DA%A9%D9%84%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AA%DB%8C%D9%85-%D8%B1%D8%A7-%D8%AD%D9%81%D8%B8-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85">
+        <h4>گل‌محمدی: شاکله اصلی تیم را حفظ می‌کنیم</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
     <a class="video-cover-box" data-nt-link href="/video/304119/%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%85%D9%86-%D8%A7%D8%B2-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AF%D8%B1-%D8%A7%D9%93%D8%BA%D8%A7%D8%B2-%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA">
         <div class="video-cover-image">
                     <img alt="گل‌محمدی: نگرانی من از تاخیر در آغاز تمرینات است" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/2ope52is.jpg?w=300" />
@@ -1336,8 +1576,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 26 دقیقه پیش - </span>
-        <span class="view">2.4K بازدید</span>
+        <span class="date"> - 3 ساعت پیش - </span>
+        <span class="view">8.3K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304119/%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%85%D9%86-%D8%A7%D8%B2-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AF%D8%B1-%D8%A7%D9%93%D8%BA%D8%A7%D8%B2-%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA">
         <h4>گل‌محمدی: نگرانی من از تاخیر در آغاز تمرینات است</h4>
@@ -1366,8 +1606,8 @@
     <div class="video-data">
                 <a class="category" href="/category/261/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">لیگ برتر انگلیس</a>
 
-        <span class="date"> - 36 دقیقه پیش - </span>
-        <span class="view">3.9K بازدید</span>
+        <span class="date"> - 3 ساعت پیش - </span>
+        <span class="view">12.4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304118/%D8%B1%D9%88%D8%A8%D9%86-%D9%86%D9%88%D8%B3-%D8%A8%D8%A7-%DA%86%D8%B4%D9%85%D8%A7%D9%86%DB%8C-%DA%AF%D8%B1%DB%8C%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA">
         <h4>روبن نوس با چشمانی گریان به الهلال پیوست</h4>
@@ -1396,8 +1636,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 1 ساعت پیش - </span>
-        <span class="view">2.6K بازدید</span>
+        <span class="date"> - 4 ساعت پیش - </span>
+        <span class="view">5.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304117/%D9%86%D8%A8%D8%B1%D8%AF-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%B2%D8%A7%D9%88%DB%8C%D9%87-%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA">
         <h4> نبرد والیبال ایران و آمریکا از زاویه‌ای متفاوت</h4>
@@ -1426,8 +1666,8 @@
     <div class="video-data">
                 <a class="category" href="/category/259/%D9%84%D8%A7%D9%84%DB%8C%DA%AF%D8%A7">لالیگا</a>
 
-        <span class="date"> - 1 ساعت پیش - </span>
-        <span class="view">1.2K بازدید</span>
+        <span class="date"> - 4 ساعت پیش - </span>
+        <span class="view">2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304108/%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%DA%98%DB%8C-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%DA%AF%D9%88%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%84%D8%A7%D9%84%DB%8C%DA%AF%D8%A7-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7">
         <h4>نوستالژی، برترین‌های گوتی در لالیگا اسپانیا</h4>
@@ -1456,8 +1696,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7184/%D8%B3%DA%A9%D8%A7%D9%86%D8%B3-%D8%A8%D8%B1%D8%AA%D8%B1">سکانس برتر</a>
 
-        <span class="date"> - 2 ساعت پیش - </span>
-        <span class="view">4.5K بازدید</span>
+        <span class="date"> - 5 ساعت پیش - </span>
+        <span class="view">6.7K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304115/%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C-%D8%A8%D9%87-%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%AA-%D8%AA%D9%88%D9%84%D8%AF-36-%D8%B3%D8%A7%D9%84%DA%AF%DB%8C-%D9%84%DB%8C%D9%88%D9%86%D9%84-%D9%85%D8%B3%DB%8C">
         <h4>ویدیویی به مناسبت تولد 36 سالگی لیونل مسی </h4>
@@ -1486,8 +1726,8 @@
     <div class="video-data">
                 <a class="category" href="/category/404/%D8%AD%D9%88%D8%A7%D8%B4%DB%8C">حواشی</a>
 
-        <span class="date"> - 2 ساعت پیش - </span>
-        <span class="view">18.2K بازدید</span>
+        <span class="date"> - 5 ساعت پیش - </span>
+        <span class="view">27.2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304116/%D8%B5%D8%AD%D8%A8%D8%AA-%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%DB%8C-%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%86%D8%AF-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%A7%D8%AA%D8%A7%D9%82-%D8%B9%D9%85%D9%84">
         <h4>صحبت های علی بیرانوند پیش از ورود به اتاق عمل</h4>
@@ -1516,8 +1756,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 3 ساعت پیش - </span>
-        <span class="view">5.3K بازدید</span>
+        <span class="date"> - 6 ساعت پیش - </span>
+        <span class="view">6.4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304114/%D9%87%D8%AF%D9%81%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D9%84%D9%85-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A7%D9%93%DA%A9%D8%A7%D8%AF%D9%85%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA">
         <h4>هدفمان سالم‌سازی آکادمی استقلال است </h4>
@@ -1546,8 +1786,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 3 ساعت پیش - </span>
-        <span class="view">2.7K بازدید</span>
+        <span class="date"> - 6 ساعت پیش - </span>
+        <span class="view">3.3K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304109/%D9%85%D8%B1%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%B1%D9%88%D8%B2-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D9%84%DB%8C%DA%AF-%D9%85%D9%84%D8%AA-%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">
         <h4>مروری بر نتایج روز گذشته لیگ ملت‌های والیبال</h4>
@@ -1576,8 +1816,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 3 ساعت پیش - </span>
-        <span class="view">2.8K بازدید</span>
+        <span class="date"> - 6 ساعت پیش - </span>
+        <span class="view">3.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304113/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D9%86%D8%AF-%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%B3%D8%B1%D8%AE%D8%A7%D8%A8%DB%8C-%D9%87%D8%A7">
         <h4>انتقاد محمد نوری به روند واگذاری سرخابی ها </h4>
@@ -1606,8 +1846,8 @@
     <div class="video-data">
                 <a class="category" href="/category/404/%D8%AD%D9%88%D8%A7%D8%B4%DB%8C">حواشی</a>
 
-        <span class="date"> - 4 ساعت پیش - </span>
-        <span class="view">6.6K بازدید</span>
+        <span class="date"> - 7 ساعت پیش - </span>
+        <span class="view">8.1K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304110/%D8%AD%D8%A7%D8%B4%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D8%AC%D9%87%D8%A7%D9%86-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%AA%D9%88%D8%B5%DB%8C%D9%87-%D9%85%D8%B3%DB%8C-%D8%A8%D9%87-%D8%A7%D9%85%D8%A8%D8%A7%D9%BE%D9%87">
         <h4>حاشیه‌های جهان فوتبال ، توصیه مسی به امباپه</h4>
@@ -1636,8 +1876,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 4 ساعت پیش - </span>
-        <span class="view">4.1K بازدید</span>
+        <span class="date"> - 7 ساعت پیش - </span>
+        <span class="view">4.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304112/%D9%86%D9%88%D8%B1%DB%8C-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D9%88%D8%B1%D8%B2%D8%B4-%D8%AF%D8%B1-%D8%AD%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%86%D8%A7%D9%85%D9%87%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF">
         <h4>نوری: وزارت ورزش در حق استقلال نامهربانی می‌کند</h4>
@@ -1666,8 +1906,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 4 ساعت پیش - </span>
-        <span class="view">3.9K بازدید</span>
+        <span class="date"> - 7 ساعت پیش - </span>
+        <span class="view">4.8K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304111/%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%85%D9%87%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%AA%DB%8C%D9%85-%D8%AD%D9%81%D8%B8-%DA%A9%D9%86%D8%AF">
         <h4>نکونام باید مهره‌های کلیدی را در تیم حفظ کند</h4>
@@ -1696,8 +1936,8 @@
     <div class="video-data">
                 <a class="category" href="/category/636/%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86">بازیکنان</a>
 
-        <span class="date"> - 4 ساعت پیش - </span>
-        <span class="view">2K بازدید</span>
+        <span class="date"> - 7 ساعت پیش - </span>
+        <span class="view">2.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304016/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%AA%D9%88%D9%86%DB%8C-%DA%A9%D8%B1%D9%88%D8%B3-%D8%AF%D8%B1-%D8%B1%D9%8A%D9%94%D8%A7%D9%84-%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF">
         <h4>برترین گل های تونی کروس در رئال مادرید</h4>
@@ -1726,8 +1966,8 @@
     <div class="video-data">
                 <a class="category" href="/category/237/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1">لیگ برتر ایران</a>
 
-        <span class="date"> - 5 ساعت پیش - </span>
-        <span class="view">3.2K بازدید</span>
+        <span class="date"> - 8 ساعت پیش - </span>
+        <span class="view">3.8K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304102/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AA%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%DB%8C%D8%AA%D9%87%D8%A7-%D9%88-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-3-%D8%AA%DB%8C%D8%B1-1402">
         <h4>بررسی تیتر سایتها و روزنامه های ورزشی 3 تیر 1402</h4>
@@ -1756,8 +1996,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 5 ساعت پیش - </span>
-        <span class="view">3.8K بازدید</span>
+        <span class="date"> - 8 ساعت پیش - </span>
+        <span class="view">4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304103/%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%DB%8C%D9%88%D9%86%D8%A7%D9%86%DB%8C-%DA%AF%D9%84-%DA%AF%D9%87%D8%B1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF">
         <h4>سرمربی یونانی گل‌گهر معرفی شد!</h4>
@@ -1786,8 +2026,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 5 ساعت پیش - </span>
-        <span class="view">21K بازدید</span>
+        <span class="date"> - 8 ساعت پیش - </span>
+        <span class="view">23.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304101/%D8%B9%D8%B0%D8%B1%D8%AE%D9%88%D8%A7%D9%87%DB%8C-%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7">
         <h4>عذرخواهی سرمربی آمریکا از ایرانی‌ها </h4>
@@ -1816,8 +2056,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 5 ساعت پیش - </span>
-        <span class="view">6K بازدید</span>
+        <span class="date"> - 8 ساعت پیش - </span>
+        <span class="view">6.6K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304100/%D8%B9%D8%AF%D9%85-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%AA%D9%88%D9%BE-%D8%AA%D9%86%D9%87%D8%A7%D8%AF%D9%84%DB%8C%D9%84-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%85%D9%84%D8%AA-%D9%87%D8%A7">
         <h4>عدم دریافت‌توپ تنها دلیل شکست ایران در لیگ ملت‌ها</h4>
@@ -1846,8 +2086,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 6 ساعت پیش - </span>
-        <span class="view">2K بازدید</span>
+        <span class="date"> - 9 ساعت پیش - </span>
+        <span class="view">2.2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304099/%D8%A7%D9%93%D8%BA%D8%A7%D8%B2-%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%D9%BE%DB%8C%DA%A9%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C">
         <h4>آغاز تمرینات پیکان بدون سرمربی!</h4>
@@ -1876,8 +2116,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7278/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B5%D8%A8%D8%AD%DA%AF%D8%A7%D9%87%DB%8C">اخبار صبحگاهی</a>
 
-        <span class="date"> - 8 ساعت پیش - </span>
-        <span class="view">57.2K بازدید</span>
+        <span class="date"> - 11 ساعت پیش - </span>
+        <span class="view">60.8K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304097/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B5%D8%A8%D8%AD%DA%AF%D8%A7%D9%87%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87-%D8%B4%D9%86%D8%A8%D9%87-03-%D8%AA%DB%8C%D8%B1-1402">
         <h4>اخبار صبحگاهی ورزش سه؛ شنبه 03 تیر 1402</h4>
@@ -1906,8 +2146,8 @@
     <div class="video-data">
                 <a class="category" href="/category/261/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">لیگ برتر انگلیس</a>
 
-        <span class="date"> - 12 ساعت پیش - </span>
-        <span class="view">1.6K بازدید</span>
+        <span class="date"> - 15 ساعت پیش - </span>
+        <span class="view">1.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304055/%D8%AA%DA%A9%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-2022-23">
         <h4>تکل های فوق العاده بازیکنان منچستریونایتد در فصل 2022/23</h4>
@@ -1936,8 +2176,8 @@
     <div class="video-data">
                 <a class="category" href="/category/636/%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86">بازیکنان</a>
 
-        <span class="date"> - 12 ساعت پیش - </span>
-        <span class="view">7.2K بازدید</span>
+        <span class="date"> - 15 ساعت پیش - </span>
+        <span class="view">7.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304096/%D8%B3%D8%B1%D8%AE%DB%8C%D9%88-%D8%A8%D9%88%D8%B3%DA%A9%D8%AA%D8%B3-%D9%87%D9%85-%D8%A8%D9%87-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1-%D9%85%DB%8C%D8%A7%D9%85%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA">
         <h4>سرخیو بوسکتس هم به اینتر میامی پیوست</h4>
@@ -1966,251 +2206,11 @@
     <div class="video-data">
                 <a class="category" href="/category/636/%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86">بازیکنان</a>
 
-        <span class="date"> - 12 ساعت پیش - </span>
-        <span class="view">1.8K بازدید</span>
+        <span class="date"> - 15 ساعت پیش - </span>
+        <span class="view">1.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304015/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%DA%A9%D8%A7%D9%86%D8%AA%D9%87-%D8%AF%D8%B1-%DA%86%D9%84%D8%B3%DB%8C">
         <h4>برترین لحظات کانته در چلسی</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304095/%D9%85%D8%B1%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1-%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87%D9%87%D8%A7-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84%DB%8C%D8%A7%D9%86-%D8%A7%D8%AE%DB%8C%D8%B1">
-        <div class="video-cover-image">
-                    <img alt="مروری بر نمودار مالی باشگاه‌ها در سالیان اخیر" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/A/0ad4ugka.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">19:56</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
-
-        <span class="date"> - 13 ساعت پیش - </span>
-        <span class="view">8.2K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304095/%D9%85%D8%B1%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1-%D9%86%D9%85%D9%88%D8%AF%D8%A7%D8%B1-%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87%D9%87%D8%A7-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84%DB%8C%D8%A7%D9%86-%D8%A7%D8%AE%DB%8C%D8%B1">
-        <h4>مروری بر نمودار مالی باشگاه‌ها در سالیان اخیر</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304094/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-3-%DA%A9%D9%88%D8%A8%D8%A7-0">
-        <div class="video-cover-image">
-                    <img alt="خلاصه والیبال فرانسه 3 - کوبا 0 " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/A/xuzejnkv.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">04:51</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
-
-        <span class="date"> - 13 ساعت پیش - </span>
-        <span class="view">5K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304094/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-3-%DA%A9%D9%88%D8%A8%D8%A7-0">
-        <h4>خلاصه والیبال فرانسه 3 - کوبا 0 </h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304093/%DA%A9%D8%B1%DB%8C%D9%85%DB%8C-%D9%82%D9%84%D8%B9%D9%87-%D9%86%D9%88%DB%8C%DB%8C-%D8%AF%D8%AE%D8%A7%D9%84%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D9%86%D8%AF%D8%A7%D8%B4%D8%AA">
-        <div class="video-cover-image">
-                    <img alt="کریمی: قلعه نویی دخالتی در انتخاب نکونام نداشت" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/A/zgnomojz.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">00:54</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
-
-        <span class="date"> - 13 ساعت پیش - </span>
-        <span class="view">47.3K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304093/%DA%A9%D8%B1%DB%8C%D9%85%DB%8C-%D9%82%D9%84%D8%B9%D9%87-%D9%86%D9%88%DB%8C%DB%8C-%D8%AF%D8%AE%D8%A7%D9%84%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D9%86%D8%AF%D8%A7%D8%B4%D8%AA">
-        <h4>کریمی: قلعه نویی دخالتی در انتخاب نکونام نداشت</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304092/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%B5%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-0-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-3">
-        <div class="video-cover-image">
-                    <img alt="خلاصه والیبال صربستان 0 - ایتالیا 3" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/23/A/yctlh05b.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">07:17</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
-
-        <span class="date"> - 14 ساعت پیش - </span>
-        <span class="view">4.2K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304092/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%B5%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-0-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-3">
-        <h4>خلاصه والیبال صربستان 0 - ایتالیا 3</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304091/%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%DA%AF%DB%8C-%D8%AD%D8%B6%D9%88%D8%B1-%D9%85%D9%88%D8%B1%D8%A7%DB%8C%D8%B3-%D8%B1%D9%88%DB%8C-%D9%86%DB%8C%D9%85%DA%A9%D8%AA-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86">
-        <div class="video-cover-image">
-                    <img alt="یک سالگی حضور مورایس روی نیمکت سپاهان" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/23/D/5r4kecwr.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">00:41</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
-
-        <span class="date"> - 15 ساعت پیش - </span>
-        <span class="view">6.5K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304091/%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%DA%AF%DB%8C-%D8%AD%D8%B6%D9%88%D8%B1-%D9%85%D9%88%D8%B1%D8%A7%DB%8C%D8%B3-%D8%B1%D9%88%DB%8C-%D9%86%DB%8C%D9%85%DA%A9%D8%AA-%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86">
-        <h4>یک سالگی حضور مورایس روی نیمکت سپاهان</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304090/%D8%B9%D8%B7%D8%A7%DB%8C%DB%8C-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%D9%82%D8%B7-%D8%A8%D8%A7-%D8%AD%D8%B1%DA%A9%D8%A7%D8%AA-%D8%AA%D9%87%D8%A7%D8%AC%D9%85%DB%8C-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2-%D8%B4%D8%AF">
-        <div class="video-cover-image">
-                    <img alt="عطایی : آمریکا فقط با حرکات تهاجمی پیروز شد" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/23/D/dwezcmqt.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">06:27</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
-
-        <span class="date"> - 15 ساعت پیش - </span>
-        <span class="view">85.5K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304090/%D8%B9%D8%B7%D8%A7%DB%8C%DB%8C-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%D9%82%D8%B7-%D8%A8%D8%A7-%D8%AD%D8%B1%DA%A9%D8%A7%D8%AA-%D8%AA%D9%87%D8%A7%D8%AC%D9%85%DB%8C-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2-%D8%B4%D8%AF">
-        <h4>عطایی : آمریکا فقط با حرکات تهاجمی پیروز شد</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304089/%D8%B1%D8%A7%D8%B3%D9%84-%D8%B3%D8%AA-%D8%A7%D9%88%D9%84-%D9%88-%D8%B3%D9%88%D9%85-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%AE%D8%AA-%D8%A8%D9%88%D8%AF">
-        <div class="video-cover-image">
-                    <img alt="راسل : ست اول و سوم خیلی سخت بود " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/23/D/zxedrpmr.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">00:43</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
-
-        <span class="date"> - 15 ساعت پیش - </span>
-        <span class="view">3.3K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304089/%D8%B1%D8%A7%D8%B3%D9%84-%D8%B3%D8%AA-%D8%A7%D9%88%D9%84-%D9%88-%D8%B3%D9%88%D9%85-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%AE%D8%AA-%D8%A8%D9%88%D8%AF">
-        <h4>راسل : ست اول و سوم خیلی سخت بود </h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304088/%D8%B4%D9%88%D8%AC%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%DB%8C%D9%85-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%D9%88%D8%A8%DB%8C-%D8%A7%D8%B3%D8%AA">
-        <div class="video-cover-image">
-                    <img alt="شوجی : ایران تیم خیلی خوبی است " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/23/D/a4tdgxvf.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">00:46</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
-
-        <span class="date"> - 15 ساعت پیش - </span>
-        <span class="view">6.1K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304088/%D8%B4%D9%88%D8%AC%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%DB%8C%D9%85-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%D9%88%D8%A8%DB%8C-%D8%A7%D8%B3%D8%AA">
-        <h4>شوجی : ایران تیم خیلی خوبی است </h4>
     </a>
     
 
@@ -2251,6 +2251,66 @@
 <div class="video-list ">
     <div class="row">
             <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304126/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-3-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-2">
+        <div class="video-cover-image">
+                    <img alt="خلاصه والیبال ژاپن 3 - آرژانتین 2 " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/yrglgnbc.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">10:19</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
+
+        <span class="date"> - 2 دقیقه پیش - </span>
+        <span class="view">8 بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304126/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-3-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-2">
+        <h4>خلاصه والیبال ژاپن 3 - آرژانتین 2 </h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304125/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-0">
+        <div class="video-cover-image">
+                    <img alt="خلاصه والیبال آمریکا 3 - لهستان 0" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/enocyd4w.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">08:45</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
+
+        <span class="date"> - 31 دقیقه پیش - </span>
+        <span class="view">1.1K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304125/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-0">
+        <h4>خلاصه والیبال آمریکا 3 - لهستان 0</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
     <a class="video-cover-box" data-nt-link href="/video/304094/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-3-%DA%A9%D9%88%D8%A8%D8%A7-0">
         <div class="video-cover-image">
                     <img alt="خلاصه والیبال فرانسه 3 - کوبا 0 " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/A/xuzejnkv.jpg?w=300" />
@@ -2267,8 +2327,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 13 ساعت پیش - </span>
-        <span class="view">5K بازدید</span>
+        <span class="date"> - 16 ساعت پیش - </span>
+        <span class="view">5.2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304094/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-3-%DA%A9%D9%88%D8%A8%D8%A7-0">
         <h4>خلاصه والیبال فرانسه 3 - کوبا 0 </h4>
@@ -2297,8 +2357,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 14 ساعت پیش - </span>
-        <span class="view">4.2K بازدید</span>
+        <span class="date"> - 17 ساعت پیش - </span>
+        <span class="view">4.4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304092/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%B5%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-0-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-3">
         <h4>خلاصه والیبال صربستان 0 - ایتالیا 3</h4>
@@ -2327,8 +2387,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 18 ساعت پیش - </span>
-        <span class="view">3.8K بازدید</span>
+        <span class="date"> - 21 ساعت پیش - </span>
+        <span class="view">3.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304071/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-3-%D8%A8%D9%84%D8%BA%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-0">
         <h4>خلاصه والیبال آرژانتین 3 - بلغارستان 0</h4>
@@ -2357,8 +2417,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 18 ساعت پیش - </span>
-        <span class="view">302.9K بازدید</span>
+        <span class="date"> - 21 ساعت پیش - </span>
+        <span class="view">308K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304070/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-0-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3">
         <h4>خلاصه والیبال ایران 0 - آمریکا 3</h4>
@@ -2418,7 +2478,7 @@
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">6.9K بازدید</span>
+        <span class="view">7K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304007/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-3-%D9%87%D9%84%D9%86%D8%AF-2">
         <h4>خلاصه والیبال لهستان 3 - هلند 2 </h4>
@@ -2448,7 +2508,7 @@
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">34.3K بازدید</span>
+        <span class="view">34.7K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303995/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7-3-%D8%A8%D9%84%D8%BA%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-1">
         <h4>خلاصه والیبال کانادا 3 - بلغارستان 1</h4>
@@ -2508,7 +2568,7 @@
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">232.2K بازدید</span>
+        <span class="view">233.2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303988/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-2-%DA%A9%D8%B1%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-0-%D8%B2%DB%8C%D8%B1-17-%D8%B3%D8%A7%D9%84">
         <h4>خلاصه بازی ایران 2 - کره جنوبی 0 (زیر 17 سال)</h4>
@@ -2538,70 +2598,10 @@
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">66.8K بازدید</span>
+        <span class="view">67.6K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303972/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-3-%D8%A8%D8%B1%D8%B2%DB%8C%D9%84-2">
         <h4>خلاصه والیبال ژاپن 3 - برزیل 2</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/303970/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%86%DB%8C%D9%86-0-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-3">
-        <div class="video-cover-image">
-                    <img alt="خلاصه والیبال چین 0 - ایتالیا 3" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/22/C/csg2v0lg.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">06:57</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
-
-        <span class="date"> - 1 روز پیش - </span>
-        <span class="view">5.9K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/303970/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%86%DB%8C%D9%86-0-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-3">
-        <h4>خلاصه والیبال چین 0 - ایتالیا 3</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/303937/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-3-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-1">
-        <div class="video-cover-image">
-                    <img alt="خلاصه والیبال آرژانتین 3 - فرانسه 1" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/22/A/nkgwq0ml.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">08:40</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
-
-        <span class="date"> -  1 تیر - </span>
-        <span class="view">36.3K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/303937/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-3-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-1">
-        <h4>خلاصه والیبال آرژانتین 3 - فرانسه 1</h4>
     </a>
     
 
@@ -2642,6 +2642,66 @@
 <div class="video-list ">
     <div class="row">
             <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304124/%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D8%A8%D8%AF%D9%88%D9%86-%DA%AF%D9%81%D8%AA%DA%AF%D9%88-%D8%A8%D8%A7-%D8%AE%D8%A8%D8%B1%D9%86%DA%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%B1%D8%A7-%D8%AA%D8%B1%DA%A9-%DA%A9%D8%B1%D8%AF">
+        <div class="video-cover-image">
+                    <img alt="نکونام بدون گفتگو با خبرنگاران باشگاه استقلال را ترک کرد " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/yrkwtgox.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">00:46</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
+
+        <span class="date"> - 1 ساعت پیش - </span>
+        <span class="view">7.2K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304124/%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D8%A8%D8%AF%D9%88%D9%86-%DA%AF%D9%81%D8%AA%DA%AF%D9%88-%D8%A8%D8%A7-%D8%AE%D8%A8%D8%B1%D9%86%DA%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%B1%D8%A7-%D8%AA%D8%B1%DA%A9-%DA%A9%D8%B1%D8%AF">
+        <h4>نکونام بدون گفتگو با خبرنگاران باشگاه استقلال را ترک کرد </h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304120/%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%B4%D8%A7%DA%A9%D9%84%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AA%DB%8C%D9%85-%D8%B1%D8%A7-%D8%AD%D9%81%D8%B8-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85">
+        <div class="video-cover-image">
+                    <img alt="گل‌محمدی: شاکله اصلی تیم را حفظ می‌کنیم" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/jg55csoq.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">01:43</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
+
+        <span class="date"> - 2 ساعت پیش - </span>
+        <span class="view">7.5K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304120/%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%B4%D8%A7%DA%A9%D9%84%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D8%AA%DB%8C%D9%85-%D8%B1%D8%A7-%D8%AD%D9%81%D8%B8-%D9%85%DB%8C-%DA%A9%D9%86%DB%8C%D9%85">
+        <h4>گل‌محمدی: شاکله اصلی تیم را حفظ می‌کنیم</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
     <a class="video-cover-box" data-nt-link href="/video/304119/%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%85%D9%86-%D8%A7%D8%B2-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AF%D8%B1-%D8%A7%D9%93%D8%BA%D8%A7%D8%B2-%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA">
         <div class="video-cover-image">
                     <img alt="گل‌محمدی: نگرانی من از تاخیر در آغاز تمرینات است" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/2ope52is.jpg?w=300" />
@@ -2658,8 +2718,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 26 دقیقه پیش - </span>
-        <span class="view">2.4K بازدید</span>
+        <span class="date"> - 3 ساعت پیش - </span>
+        <span class="view">8.3K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304119/%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D9%85%D9%86-%D8%A7%D8%B2-%D8%AA%D8%A7%D8%AE%DB%8C%D8%B1-%D8%AF%D8%B1-%D8%A7%D9%93%D8%BA%D8%A7%D8%B2-%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA">
         <h4>گل‌محمدی: نگرانی من از تاخیر در آغاز تمرینات است</h4>
@@ -2688,8 +2748,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 3 ساعت پیش - </span>
-        <span class="view">5.3K بازدید</span>
+        <span class="date"> - 6 ساعت پیش - </span>
+        <span class="view">6.4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304114/%D9%87%D8%AF%D9%81%D9%85%D8%A7%D9%86-%D8%B3%D8%A7%D9%84%D9%85-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A7%D9%93%DA%A9%D8%A7%D8%AF%D9%85%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA">
         <h4>هدفمان سالم‌سازی آکادمی استقلال است </h4>
@@ -2718,8 +2778,8 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 3 ساعت پیش - </span>
-        <span class="view">2.8K بازدید</span>
+        <span class="date"> - 6 ساعت پیش - </span>
+        <span class="view">3.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304113/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D9%88%D8%B1%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D9%86%D8%AF-%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%B3%D8%B1%D8%AE%D8%A7%D8%A8%DB%8C-%D9%87%D8%A7">
         <h4>انتقاد محمد نوری به روند واگذاری سرخابی ها </h4>
@@ -2748,71 +2808,11 @@
     <div class="video-data">
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
-        <span class="date"> - 4 ساعت پیش - </span>
-        <span class="view">4.1K بازدید</span>
+        <span class="date"> - 7 ساعت پیش - </span>
+        <span class="view">4.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304112/%D9%86%D9%88%D8%B1%DB%8C-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D9%88%D8%B1%D8%B2%D8%B4-%D8%AF%D8%B1-%D8%AD%D9%82-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D9%86%D8%A7%D9%85%D9%87%D8%B1%D8%A8%D8%A7%D9%86%DB%8C-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF">
         <h4>نوری: وزارت ورزش در حق استقلال نامهربانی می‌کند</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304111/%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%85%D9%87%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%AA%DB%8C%D9%85-%D8%AD%D9%81%D8%B8-%DA%A9%D9%86%D8%AF">
-        <div class="video-cover-image">
-                    <img alt="نکونام باید مهره‌های کلیدی را در تیم حفظ کند" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/B/02z4mb1z.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">01:49</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
-
-        <span class="date"> - 4 ساعت پیش - </span>
-        <span class="view">3.9K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304111/%D9%86%DA%A9%D9%88%D9%86%D8%A7%D9%85-%D8%A8%D8%A7%DB%8C%D8%AF-%D9%85%D9%87%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF%DB%8C-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%AA%DB%8C%D9%85-%D8%AD%D9%81%D8%B8-%DA%A9%D9%86%D8%AF">
-        <h4>نکونام باید مهره‌های کلیدی را در تیم حفظ کند</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304102/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AA%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%DB%8C%D8%AA%D9%87%D8%A7-%D9%88-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-3-%D8%AA%DB%8C%D8%B1-1402">
-        <div class="video-cover-image">
-                    <img alt="بررسی تیتر سایتها و روزنامه های ورزشی 3 تیر 1402" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/B/3myd4kg0.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">05:07</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/237/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1">لیگ برتر ایران</a>
-
-        <span class="date"> - 5 ساعت پیش - </span>
-        <span class="view">3.2K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304102/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AA%DB%8C%D8%AA%D8%B1-%D8%B3%D8%A7%DB%8C%D8%AA%D9%87%D8%A7-%D9%88-%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D9%87%D8%A7%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-3-%D8%AA%DB%8C%D8%B1-1402">
-        <h4>بررسی تیتر سایتها و روزنامه های ورزشی 3 تیر 1402</h4>
     </a>
     
 
@@ -2870,7 +2870,7 @@
                 <a class="category" href="/category/7279/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%D9%93%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D9%81%D8%A7">بازی‌های آسیایی کافا</a>
 
         <span class="date"> -  30 خرداد - </span>
-        <span class="view">510.2K بازدید</span>
+        <span class="view">510.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303845/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D8%B3%D9%86%DA%AF%DB%8C%D9%86-%D8%A8%DB%8C%D8%B1%D8%A7%D9%86%D9%88%D9%86%D8%AF-%D9%88-%D8%B9%D8%B2%D8%AA-%D8%A7%D9%84%D9%84%D9%87%DB%8C-%D8%AF%D8%B1-%D8%AF%DB%8C%D8%AF%D8%A7%D8%B1-%D8%A8%D8%A7-%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86">
         <h4>برخورد سنگین بیرانوند و عزت‌اللهی در دیدار با ازبکستان</h4>
@@ -2900,7 +2900,7 @@
                 <a class="category" href="/category/7279/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%D9%93%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D9%81%D8%A7">بازی‌های آسیایی کافا</a>
 
         <span class="date"> -  30 خرداد - </span>
-        <span class="view">444.2K بازدید</span>
+        <span class="view">444.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303854/%DA%AF%D9%84-%D8%A7%D9%88%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B7-%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D8%A7%D9%93%D8%B2%D9%85%D9%88%D9%86">
         <h4>گل اول ایران به ازبکستان توسط سردار آزمون</h4>
@@ -2930,7 +2930,7 @@
                 <a class="category" href="/category/7279/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%D9%93%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D9%81%D8%A7">بازی‌های آسیایی کافا</a>
 
         <span class="date"> -  30 خرداد - </span>
-        <span class="view">318.2K بازدید</span>
+        <span class="view">318.3K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303857/%D8%A7%D8%AE%D8%B1%D8%A7%D8%AC-%DA%A9%D9%86%D8%B9%D8%A7%D9%86%DB%8C-%D8%B2%D8%A7%D8%AF%DA%AF%D8%A7%D9%86-%D9%88-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%DA%A9%D8%A7%D8%B1%D8%AA-%D9%82%D8%B1%D9%85%D8%B2">
         <h4>اخراج کنعانی‌زادگان و حاشیه‌ پس از دریافت کارت قرمز</h4>
@@ -2959,8 +2959,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 18 ساعت پیش - </span>
-        <span class="view">302.9K بازدید</span>
+        <span class="date"> - 21 ساعت پیش - </span>
+        <span class="view">308K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304070/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-0-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3">
         <h4>خلاصه والیبال ایران 0 - آمریکا 3</h4>
@@ -2990,7 +2990,7 @@
                 <a class="category" href="/category/7279/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%D9%93%D8%B3%DB%8C%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D9%81%D8%A7">بازی‌های آسیایی کافا</a>
 
         <span class="date"> -  30 خرداد - </span>
-        <span class="view">279.4K بازدید</span>
+        <span class="view">279.7K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303858/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%D8%B2%D8%A8%DA%A9%D8%B3%D8%AA%D8%A7%D9%86-0-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-1">
         <h4>خلاصه بازی ازبکستان 0 - ایران 1</h4>
@@ -3078,7 +3078,7 @@
                 <a class="category" href="/category/404/%D8%AD%D9%88%D8%A7%D8%B4%DB%8C">حواشی</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">16.6K بازدید</span>
+        <span class="view">16.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304049/%D9%85%D9%87%D8%AF%DB%8C-%D8%B7%D8%A7%D8%B1%D9%85%DB%8C-%D8%AC%D8%B2%D9%88-6-%D9%85%D9%87%D8%A7%D8%AC%D9%85-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
         <h4>مهدی طارمی جزو 6 مهاجم برتر اروپا</h4>
@@ -3138,7 +3138,7 @@
                 <a class="category" href="/category/236/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86">ایران</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">11.4K بازدید</span>
+        <span class="view">11.6K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303980/%D8%B5%D8%AD%D8%A8%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%D9%87%D8%AF%DB%8C-%D8%B7%D8%A7%D8%B1%D9%85%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA-%DA%A9%D8%A7%D9%81%D8%A7">
         <h4>صحبت‌های مهدی طارمی پس از قهرمانی در مسابقات کافا</h4>
@@ -3168,7 +3168,7 @@
                 <a class="category" href="/category/636/%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86">بازیکنان</a>
 
         <span class="date"> -  28 خرداد - </span>
-        <span class="view">24.4K بازدید</span>
+        <span class="view">24.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303682/%D9%85%D9%82%D8%B5%D8%AF-%D8%A8%D8%B9%D8%AF%DB%8C-%D8%B7%D8%A7%D8%B1%D9%85%DB%8C-%DA%A9%D8%AC%D8%A7%D8%B3%D8%AA">
         <h4>مقصد بعدی طارمی کجاست؟</h4>
@@ -3387,8 +3387,8 @@
     <div class="video-data">
                 <a class="category" href="/category/261/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">لیگ برتر انگلیس</a>
 
-        <span class="date"> - 36 دقیقه پیش - </span>
-        <span class="view">4K بازدید</span>
+        <span class="date"> - 3 ساعت پیش - </span>
+        <span class="view">12.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304118/%D8%B1%D9%88%D8%A8%D9%86-%D9%86%D9%88%D8%B3-%D8%A8%D8%A7-%DA%86%D8%B4%D9%85%D8%A7%D9%86%DB%8C-%DA%AF%D8%B1%DB%8C%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA">
         <h4>روبن نوس با چشمانی گریان به الهلال پیوست</h4>
@@ -3417,8 +3417,8 @@
     <div class="video-data">
                 <a class="category" href="/category/261/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">لیگ برتر انگلیس</a>
 
-        <span class="date"> - 12 ساعت پیش - </span>
-        <span class="view">1.6K بازدید</span>
+        <span class="date"> - 15 ساعت پیش - </span>
+        <span class="view">1.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304055/%D8%AA%DA%A9%D9%84-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-2022-23">
         <h4>تکل های فوق العاده بازیکنان منچستریونایتد در فصل 2022/23</h4>
@@ -3447,8 +3447,8 @@
     <div class="video-data">
                 <a class="category" href="/category/261/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">لیگ برتر انگلیس</a>
 
-        <span class="date"> - 21 ساعت پیش - </span>
-        <span class="view">2.8K بازدید</span>
+        <span class="date"> - 1 روز پیش - </span>
+        <span class="view">3K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304054/10-%D9%BE%D8%A7%D8%B3-%DA%AF%D9%84-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-2022-23">
         <h4>10 پاس گل برتر منچسترسیتی در فصل 2022/23</h4>
@@ -3478,7 +3478,7 @@
                 <a class="category" href="/category/261/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">لیگ برتر انگلیس</a>
 
         <span class="date"> -  31 خرداد - </span>
-        <span class="view">3.3K بازدید</span>
+        <span class="view">3.4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303894/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84-%D9%87%D8%A7-%D9%88-%D9%BE%D8%A7%D8%B3-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D9%86%D8%AA%D9%87-%D8%AF%D8%B1-%DA%86%D9%84%D8%B3%DB%8C">
         <h4>برترین گل‌ها و پاس گل‌های کانته در چلسی</h4>
@@ -3508,7 +3508,7 @@
                 <a class="category" href="/category/261/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">لیگ برتر انگلیس</a>
 
         <span class="date"> -  31 خرداد - </span>
-        <span class="view">5.4K بازدید</span>
+        <span class="view">5.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303896/%D8%A8%D8%A7%D9%87%D9%88%D8%B4-%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-2022-23">
         <h4>باهوش ترین بازیکنان در لیگ برتر انگلیس 2022/23</h4>
@@ -3538,7 +3538,7 @@
                 <a class="category" href="/category/261/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">لیگ برتر انگلیس</a>
 
         <span class="date"> -  29 خرداد - </span>
-        <span class="view">1.9K بازدید</span>
+        <span class="view">2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303701/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%DA%86%D9%84%D8%B3%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-2022-23">
         <h4>برترین گل های چلسی در فصل 2022/23</h4>
@@ -3595,8 +3595,8 @@
     <div class="video-data">
                 <a class="category" href="/category/259/%D9%84%D8%A7%D9%84%DB%8C%DA%AF%D8%A7">لالیگا</a>
 
-        <span class="date"> - 1 ساعت پیش - </span>
-        <span class="view">1.2K بازدید</span>
+        <span class="date"> - 4 ساعت پیش - </span>
+        <span class="view">2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304108/%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%DA%98%DB%8C-%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%DA%AF%D9%88%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%84%D8%A7%D9%84%DB%8C%DA%AF%D8%A7-%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7">
         <h4>نوستالژی، برترین‌های گوتی در لالیگا اسپانیا</h4>
@@ -3626,7 +3626,7 @@
                 <a class="category" href="/category/259/%D9%84%D8%A7%D9%84%DB%8C%DA%AF%D8%A7">لالیگا</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">2.1K بازدید</span>
+        <span class="view">2.2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303999/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84%D9%87%D8%A7%DB%8C-%D9%86%D8%A7%DA%86%D9%88-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%8A%D9%94%D8%A7%D9%84-%D9%85%D8%A7%D8%AF%D8%B1%DB%8C%D8%AF">
         <h4>بهترین گل‌های ناچو برای رئال مادرید</h4>
@@ -3656,7 +3656,7 @@
                 <a class="category" href="/category/259/%D9%84%D8%A7%D9%84%DB%8C%DA%AF%D8%A7">لالیگا</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">5.6K بازدید</span>
+        <span class="view">5.8K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303997/%D8%AF%D9%84%D8%A7%DB%8C%D9%84%DB%8C-%DA%A9%D9%87-%DA%98%D8%A7%D9%88%DB%8C-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%AC%D8%B0%D8%A8-%DA%AF%D9%88%D9%86%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA">
         <h4>دلایلی که ژاوی به دنبال جذب گوندوغان است </h4>
@@ -3803,7 +3803,7 @@
     <div class="video-data">
                 <a class="category" href="/category/260/%D8%A8%D9%88%D9%86%D8%AF%D8%B3%D9%84%DB%8C%DA%AF%D8%A7">بوندسلیگا</a>
 
-        <span class="date"> - 1 روز پیش - </span>
+        <span class="date"> -  1 تیر - </span>
         <span class="view">2.1K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303967/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D8%A8%D9%86-%D8%B3%D8%A8%D8%B9%DB%8C%D9%86%DB%8C-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF">
@@ -3833,7 +3833,7 @@
     <div class="video-data">
                 <a class="category" href="/category/260/%D8%A8%D9%88%D9%86%D8%AF%D8%B3%D9%84%DB%8C%DA%AF%D8%A7">بوندسلیگا</a>
 
-        <span class="date"> - 1 روز پیش - </span>
+        <span class="date"> -  1 تیر - </span>
         <span class="view">1.4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303956/%DA%AF%D9%84-%D9%87%D8%A7-%D9%88-%D9%85%D9%87%D8%A7%D8%B1%D8%AA%D9%87%D8%A7%DB%8C-%DA%A9%D9%86%D8%B1%D8%A7%D8%AF-%D9%84%D8%A7%DB%8C%D9%85%D8%B1-%D8%AF%D8%B1-%D8%A8%D9%88%D9%86%D8%AF%D8%B3%D9%84%DB%8C%DA%AF%D8%A7">
@@ -4041,7 +4041,7 @@
     <div class="video-data">
                 <a class="category" href="/category/257/%D8%B3%D8%B1%DB%8C-%D8%A7%D9%93">سری آ</a>
 
-        <span class="date"> - 1 روز پیش - </span>
+        <span class="date"> -  1 تیر - </span>
         <span class="view">1.4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303968/10-%DA%AF%D9%84-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%86%D8%A7%D9%BE%D9%88%D9%84%DB%8C-%D8%AF%D8%B1-%D8%B3%D8%B1%DB%8C-%D8%A7%D9%93-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7">
@@ -4219,7 +4219,7 @@
     <div class="video-data">
                 <a class="category" href="/category/7151/%D9%84%DB%8C%DA%AF-%D8%A7%D9%93%D8%B2%D8%A7%D8%AF%DA%AF%D8%A7%D9%86">لیگ آزادگان</a>
 
-        <span class="date"> - 22 ساعت پیش - </span>
+        <span class="date"> - 1 روز پیش - </span>
         <span class="view">1.7K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304057/%D9%85%D9%87%D8%A7%D8%AC%D8%B1%DB%8C-%D8%B4%D8%A7%DA%A9%D9%84%D9%87-%D8%AE%DB%8C%D8%A8%D8%B1-%D8%B1%D8%A7-%D8%AD%D9%81%D8%B8-%DA%A9%D8%B1%D8%AF%DB%8C%D9%85-%D9%88-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%B5%D8%B9%D9%88%D8%AF%DB%8C%D9%85">
@@ -4426,7 +4426,7 @@
                 <a class="category" href="/category/7160/%D8%B2%DB%8C%D8%B1%D9%86%D9%88%DB%8C%D8%B3-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C">زیرنویس فارسی</a>
 
         <span class="date"> - 1 روز پیش - </span>
-        <span class="view">16.6K بازدید</span>
+        <span class="view">17.3K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304012/%D9%87%D8%A7%D9%84%D9%86%D8%AF-%D9%86%D8%A7%DA%A9%D8%A7%D9%85-%D8%AF%D8%B1-%DA%A9%D8%B3%D8%A8-%D9%85%D8%B9%D8%AA%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%AC%D8%A7%DB%8C%D8%B2%D9%87-%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D8%AF%DB%8C">
         <h4>هالند، ناکام در کسب معتبرترین جایزه انفرادی </h4>
@@ -4844,7 +4844,7 @@
                 <a class="category" href="/category/267/%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">لیگ قهرمانان اروپا</a>
 
         <span class="date"> -  26 خرداد - </span>
-        <span class="view">7.8K بازدید</span>
+        <span class="view">7.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303611/%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%DA%98%DB%8C-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%DB%8C%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
         <h4>نوستالژی، گل‌های اینیستا در لیگ قهرمانان اروپا</h4>
@@ -5421,6 +5421,66 @@
 <div class="video-list ">
     <div class="row">
             <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304126/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-3-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-2">
+        <div class="video-cover-image">
+                    <img alt="خلاصه والیبال ژاپن 3 - آرژانتین 2 " width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/yrglgnbc.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">10:19</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
+
+        <span class="date"> - 2 دقیقه پیش - </span>
+        <span class="view">127 بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304126/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-3-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-2">
+        <h4>خلاصه والیبال ژاپن 3 - آرژانتین 2 </h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304125/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-0">
+        <div class="video-cover-image">
+                    <img alt="خلاصه والیبال آمریکا 3 - لهستان 0" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/enocyd4w.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">08:45</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
+
+        <span class="date"> - 31 دقیقه پیش - </span>
+        <span class="view">1.1K بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304125/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3-%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86-0">
+        <h4>خلاصه والیبال آمریکا 3 - لهستان 0</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
     <a class="video-cover-box" data-nt-link href="/video/304117/%D9%86%D8%A8%D8%B1%D8%AF-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%B2%D8%A7%D9%88%DB%8C%D9%87-%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA">
         <div class="video-cover-image">
                     <img alt=" نبرد والیبال ایران و آمریکا از زاویه‌ای متفاوت" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/B/owhjc0yo.jpg?w=300" />
@@ -5437,8 +5497,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 1 ساعت پیش - </span>
-        <span class="view">2.6K بازدید</span>
+        <span class="date"> - 4 ساعت پیش - </span>
+        <span class="view">5.6K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304117/%D9%86%D8%A8%D8%B1%D8%AF-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%B2%D8%A7%D9%88%DB%8C%D9%87-%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA">
         <h4> نبرد والیبال ایران و آمریکا از زاویه‌ای متفاوت</h4>
@@ -5467,8 +5527,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 3 ساعت پیش - </span>
-        <span class="view">2.7K بازدید</span>
+        <span class="date"> - 6 ساعت پیش - </span>
+        <span class="view">3.3K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304109/%D9%85%D8%B1%D9%88%D8%B1%DB%8C-%D8%A8%D8%B1-%D9%86%D8%AA%D8%A7%DB%8C%D8%AC-%D8%B1%D9%88%D8%B2-%DA%AF%D8%B0%D8%B4%D8%AA%D9%87-%D9%84%DB%8C%DA%AF-%D9%85%D9%84%D8%AA-%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">
         <h4>مروری بر نتایج روز گذشته لیگ ملت‌های والیبال</h4>
@@ -5497,8 +5557,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 5 ساعت پیش - </span>
-        <span class="view">21.1K بازدید</span>
+        <span class="date"> - 8 ساعت پیش - </span>
+        <span class="view">23.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304101/%D8%B9%D8%B0%D8%B1%D8%AE%D9%88%D8%A7%D9%87%DB%8C-%D8%B3%D8%B1%D9%85%D8%B1%D8%A8%DB%8C-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D8%A7">
         <h4>عذرخواهی سرمربی آمریکا از ایرانی‌ها </h4>
@@ -5527,8 +5587,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 5 ساعت پیش - </span>
-        <span class="view">6K بازدید</span>
+        <span class="date"> - 8 ساعت پیش - </span>
+        <span class="view">6.6K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304100/%D8%B9%D8%AF%D9%85-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%AA%D9%88%D9%BE-%D8%AA%D9%86%D9%87%D8%A7%D8%AF%D9%84%DB%8C%D9%84-%D8%B4%DA%A9%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%85%D9%84%D8%AA-%D9%87%D8%A7">
         <h4>عدم دریافت‌توپ تنها دلیل شکست ایران در لیگ ملت‌ها</h4>
@@ -5557,8 +5617,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 13 ساعت پیش - </span>
-        <span class="view">5K بازدید</span>
+        <span class="date"> - 16 ساعت پیش - </span>
+        <span class="view">5.2K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304094/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87-3-%DA%A9%D9%88%D8%A8%D8%A7-0">
         <h4>خلاصه والیبال فرانسه 3 - کوبا 0 </h4>
@@ -5587,8 +5647,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 14 ساعت پیش - </span>
-        <span class="view">4.2K بازدید</span>
+        <span class="date"> - 17 ساعت پیش - </span>
+        <span class="view">4.4K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304092/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%B5%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-0-%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7-3">
         <h4>خلاصه والیبال صربستان 0 - ایتالیا 3</h4>
@@ -5617,8 +5677,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 15 ساعت پیش - </span>
-        <span class="view">85.6K بازدید</span>
+        <span class="date"> - 18 ساعت پیش - </span>
+        <span class="view">93.7K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304090/%D8%B9%D8%B7%D8%A7%DB%8C%DB%8C-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%81%D9%82%D8%B7-%D8%A8%D8%A7-%D8%AD%D8%B1%DA%A9%D8%A7%D8%AA-%D8%AA%D9%87%D8%A7%D8%AC%D9%85%DB%8C-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2-%D8%B4%D8%AF">
         <h4>عطایی : آمریکا فقط با حرکات تهاجمی پیروز شد</h4>
@@ -5647,8 +5707,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 15 ساعت پیش - </span>
-        <span class="view">3.3K بازدید</span>
+        <span class="date"> - 18 ساعت پیش - </span>
+        <span class="view">3.6K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304089/%D8%B1%D8%A7%D8%B3%D9%84-%D8%B3%D8%AA-%D8%A7%D9%88%D9%84-%D9%88-%D8%B3%D9%88%D9%85-%D8%AE%DB%8C%D9%84%DB%8C-%D8%B3%D8%AE%D8%AA-%D8%A8%D9%88%D8%AF">
         <h4>راسل : ست اول و سوم خیلی سخت بود </h4>
@@ -5677,8 +5737,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 15 ساعت پیش - </span>
-        <span class="view">6.1K بازدید</span>
+        <span class="date"> - 18 ساعت پیش - </span>
+        <span class="view">6.6K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304088/%D8%B4%D9%88%D8%AC%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%DB%8C%D9%85-%D8%AE%DB%8C%D9%84%DB%8C-%D8%AE%D9%88%D8%A8%DB%8C-%D8%A7%D8%B3%D8%AA">
         <h4>شوجی : ایران تیم خیلی خوبی است </h4>
@@ -5707,71 +5767,11 @@
     <div class="video-data">
                 <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
 
-        <span class="date"> - 18 ساعت پیش - </span>
-        <span class="view">3.8K بازدید</span>
+        <span class="date"> - 21 ساعت پیش - </span>
+        <span class="view">3.9K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304071/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%D9%93%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86-3-%D8%A8%D9%84%D8%BA%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-0">
         <h4>خلاصه والیبال آرژانتین 3 - بلغارستان 0</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304070/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-0-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3">
-        <div class="video-cover-image">
-                    <img alt="خلاصه والیبال ایران 0 - آمریکا 3" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/23/D/nzdlkfmi.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">06:35</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7205/%D9%84%DB%8C%DA%AF%20%D9%85%D9%84%D8%AA%E2%80%8C%20%D9%87%D8%A7%DB%8C%20%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">لیگ ملت‌ های والیبال</a>
-
-        <span class="date"> - 18 ساعت پیش - </span>
-        <span class="view">302.9K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304070/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-0-%D8%A7%D9%93%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-3">
-        <h4>خلاصه والیبال ایران 0 - آمریکا 3</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/304056/%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D8%A8%D8%A7%D9%88%D8%B1%D9%86%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-%D8%AF%D8%B1-%D8%A7%D8%AF%D9%88%D8%A7%D8%B1-%D9%85%D8%AE%D8%AA%D9%84%D9%81">
-        <div class="video-cover-image">
-                    <img alt="لحظات باورنکردنی تیم ملی والیبال ژاپن در ادوار مختلف" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/23/C/ylt0wy02.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">08:06</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/3528/%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84">والیبال</a>
-
-        <span class="date"> - 19 ساعت پیش - </span>
-        <span class="view">8.1K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/304056/%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D8%A8%D8%A7%D9%88%D8%B1%D9%86%DA%A9%D8%B1%D8%AF%D9%86%DB%8C-%D8%AA%DB%8C%D9%85-%D9%85%D9%84%DB%8C-%D9%88%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%84-%DA%98%D8%A7%D9%BE%D9%86-%D8%AF%D8%B1-%D8%A7%D8%AF%D9%88%D8%A7%D8%B1-%D9%85%D8%AE%D8%AA%D9%84%D9%81">
-        <h4>لحظات باورنکردنی تیم ملی والیبال ژاپن در ادوار مختلف</h4>
     </a>
     
 
@@ -5809,6 +5809,36 @@
 <div class="video-list ">
     <div class="row">
             <div class="videobox col-12 col-sm-4 col-lg-2">
+    <a class="video-cover-box" data-nt-link href="/video/304123/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">
+        <div class="video-cover-image">
+                    <img alt="مستند «داستان‌های فوتبال انگلیس»" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/24/C/jytj4i2b.jpg?w=300" />
+        </div>
+        <div class="timebox">
+            <span class="playicon">
+                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
+            </span>
+
+            <span class="duration">33:30</span>
+        </div>
+
+    </a>
+    <div class="video-data">
+                <a class="category" href="/category/7232/%D9%85%D8%B3%D8%AA%D9%86%D8%AF">مستند ورزشی</a>
+
+        <span class="date"> - 1 ساعت پیش - </span>
+        <span class="view">799 بازدید</span>
+    </div>
+    <a class="title" data-nt-link href="/video/304123/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3">
+        <h4>مستند «داستان‌های فوتبال انگلیس»</h4>
+    </a>
+    
+
+</div>
+
+
+
+
+            <div class="videobox col-12 col-sm-4 col-lg-2">
     <a class="video-cover-box" data-nt-link href="/video/304053/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A7%DB%8C%D9%86%DB%8C%D8%B3%D8%AA%D8%A7-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B1%D8%B3%D9%84%D9%88%D9%86%D8%A7-%D8%AA%D8%A7-%D9%88%DB%8C%D8%B3%D9%84-%DA%A9%D9%88%D8%A8%D9%87">
         <div class="video-cover-image">
                     <img alt="مستند ورزشی - اینیستا از بارسلونا تا ویسل کوبه" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/23/C/1kxbc13q.jpg?w=300" />
@@ -5825,8 +5855,8 @@
     <div class="video-data">
                 <a class="category" href="/category/7232/%D9%85%D8%B3%D8%AA%D9%86%D8%AF">مستند ورزشی</a>
 
-        <span class="date"> - 23 ساعت پیش - </span>
-        <span class="view">2.4K بازدید</span>
+        <span class="date"> - 1 روز پیش - </span>
+        <span class="view">2.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/304053/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D9%88%D8%B1%D8%B2%D8%B4%DB%8C-%D8%A7%DB%8C%D9%86%DB%8C%D8%B3%D8%AA%D8%A7-%D8%A7%D8%B2-%D8%A8%D8%A7%D8%B1%D8%B3%D9%84%D9%88%D9%86%D8%A7-%D8%AA%D8%A7-%D9%88%DB%8C%D8%B3%D9%84-%DA%A9%D9%88%D8%A8%D9%87">
         <h4>مستند ورزشی - اینیستا از بارسلونا تا ویسل کوبه</h4>
@@ -5855,7 +5885,7 @@
     <div class="video-data">
                 <a class="category" href="/category/7232/%D9%85%D8%B3%D8%AA%D9%86%D8%AF">مستند ورزشی</a>
 
-        <span class="date"> - 1 روز پیش - </span>
+        <span class="date"> -  1 تیر - </span>
         <span class="view">1.5K بازدید</span>
     </div>
     <a class="title" data-nt-link href="/video/303969/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D9%84%DA%98%DB%8C%DA%A9">
@@ -5950,36 +5980,6 @@
     </div>
     <a class="title" data-nt-link href="/video/303698/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%BE%D8%B1%D8%AA%D8%BA%D8%A7%D9%84">
         <h4>مستند «داستان‌های فوتبال» پرتغال</h4>
-    </a>
-    
-
-</div>
-
-
-
-
-            <div class="videobox col-12 col-sm-4 col-lg-2">
-    <a class="video-cover-box" data-nt-link href="/video/303640/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87">
-        <div class="video-cover-image">
-                    <img alt="مستند &quot;داستان‌های فوتبال&quot; فرانسه" width="300" height="155" src="https://video-icdn.varzesh3.com/covers/2023/06/17/C/22zsacqb.jpg?w=300" />
-        </div>
-        <div class="timebox">
-            <span class="playicon">
-                <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
-            </span>
-
-            <span class="duration">32:15</span>
-        </div>
-
-    </a>
-    <div class="video-data">
-                <a class="category" href="/category/7232/%D9%85%D8%B3%D8%AA%D9%86%D8%AF">مستند ورزشی</a>
-
-        <span class="date"> -  27 خرداد - </span>
-        <span class="view">2.8K بازدید</span>
-    </div>
-    <a class="title" data-nt-link href="/video/303640/%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D8%AF%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87">
-        <h4>مستند &quot;داستان‌های فوتبال&quot; فرانسه</h4>
     </a>
     
 

@@ -2,13 +2,13 @@
 <!Doctype html>
 <html lang="fa" prefix="og: http://ogp.me/ns#">
 <head>
-    <title>اهدای جام قهرمانی لیگ اروپا به سویا- ویدیو ورزش سه </title>
+    <title>فلسفه پیشرفت گواردیولا پس از کسب سه گانه- ویدیو ورزش سه </title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
         <link rel="shortcut icon" href="https://video-static.varzesh3.com/img/favicon.ico" type="image/x-icon" />
-            <meta name="description" content="مراسم اهدای جام قهرمانی لیگ اروپا 2022/23 به سویاسویا با برتری مقابل آاس رم در ضربات پنالتی به عنوان قهرمانی لیگ اروپا رسید." />
+            <meta name="description" content="صحبت‌های پپ گواردیولا پس از قهرمانی در لیگ قهرمانان اروپا و کسب سه گانه" />
             
-            <link href="https://video.varzesh3.com/video/302436/%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%B3%D9%88%DB%8C%D8%A7" rel="canonical" />
+            <link href="https://video.varzesh3.com/video/256351/%D9%81%D9%84%D8%B3%D9%81%D9%87-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DA%AF%D9%88%D8%A7%D8%B1%D8%AF%DB%8C%D9%88%D9%84%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D8%B3%D9%87-%DA%AF%D8%A7%D9%86%D9%87" rel="canonical" />
             
 
     <link href="https://video.varzesh3.com/fonts/iransans/woff2/IRANSansXFaNum-Regular.woff2?v=2" rel="preload" as="font" type="font/woff2" crossorigin />
@@ -30,7 +30,7 @@
     <link rel="preload" as="style" href="https://video-static.varzesh3.com/css/global.vendor.css?v=1.25.13" />
     <link rel="preload" as="style" href="https://video-static.varzesh3.com/css/sharedLayout.css?v=1.25.13" />
     
-    <link rel="preload" as="image" href="https://video-icdn.varzesh3.com/covers/2023/06/01/A/1hju52lc.jpg?w=930">
+    <link rel="preload" as="image" href="https://video-icdn.varzesh3.com/covers/2023/06/15/B/hmn4c21w.jpg?w=930">
     <link rel="preload" as="style" href="https://video-static.varzesh3.com/css/varzesh3comment.min.css?v=1.25.13" />
     <link rel="preload" as="style" href="https://video-static.varzesh3.com/css/videoIndex.css?v=1.25.13" />
 
@@ -38,46 +38,47 @@
     <link rel="stylesheet" href="https://video-static.varzesh3.com/css/sharedLayout.css?v=1.25.13" />
 
     <meta property="og:site_name" content="ویدیو ورزش سه">
-<meta property="og:title" content="اهدای جام قهرمانی لیگ اروپا به سویا- ویدیو ورزش سه " />
-<meta property="og:url" content="https://video.varzesh3.com/video/302436/%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%B3%D9%88%DB%8C%D8%A7" />
-<meta property="og:description" content="مراسم اهدای جام قهرمانی لیگ اروپا 2022/23 به سویاسویا با برتری مقابل آاس رم در ضربات پنالتی به عنوان قهرمانی لیگ اروپا رسید." />
+<meta property="og:title" content="فلسفه پیشرفت گواردیولا پس از کسب سه گانه- ویدیو ورزش سه " />
+<meta property="og:url" content="https://video.varzesh3.com/video/256351/%D9%81%D9%84%D8%B3%D9%81%D9%87-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DA%AF%D9%88%D8%A7%D8%B1%D8%AF%DB%8C%D9%88%D9%84%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D8%B3%D9%87-%DA%AF%D8%A7%D9%86%D9%87" />
+<meta property="og:description" content="صحبت‌های پپ گواردیولا پس از قهرمانی در لیگ قهرمانان اروپا و کسب سه گانه" />
 <meta property="og:type" content="video.other" />
 <meta property="og:locale" content="fa_IR" />
 <meta property="og:image:type" content="image/jpg" />
-<meta property="og:image" content="https://video-icdn.varzesh3.com/covers/2023/06/01/A/1hju52lc.jpg" />
-<meta property="og:image:secure_url" content="https://video-icdn.varzesh3.com/covers/2023/06/01/A/1hju52lc.jpg" />
+<meta property="og:image" content="https://video-icdn.varzesh3.com/covers/2023/06/15/B/hmn4c21w.jpg" />
+<meta property="og:image:secure_url" content="https://video-icdn.varzesh3.com/covers/2023/06/15/B/hmn4c21w.jpg" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 
 
-    <meta name="DC.Identifier" content="https://video.varzesh3.com/video/302436/%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%B3%D9%88%DB%8C%D8%A7">
-    <meta name="DC.Date.Created" content="2023-05-31T22:40:00Z" />
+    <meta name="DC.Identifier" content="https://video.varzesh3.com/video/256351/%D9%81%D9%84%D8%B3%D9%81%D9%87-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DA%AF%D9%88%D8%A7%D8%B1%D8%AF%DB%8C%D9%88%D9%84%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D8%B3%D9%87-%DA%AF%D8%A7%D9%86%D9%87">
+    <meta name="DC.Date.Created" content="2023-06-15T05:35:00Z" />
     <meta name="DC.Type" content="video" />
-    <meta name="DC.Title" content="اهدای جام قهرمانی لیگ اروپا به سویا- ویدیو ورزش سه " />
-    <meta name="DC.Description" content="مراسم اهدای جام قهرمانی لیگ اروپا 2022/23 به سویاسویا با برتری مقابل آاس رم در ضربات پنالتی به عنوان قهرمانی لیگ اروپا رسید." />
+    <meta name="DC.Title" content="فلسفه پیشرفت گواردیولا پس از کسب سه گانه- ویدیو ورزش سه " />
+    <meta name="DC.Description" content="صحبت‌های پپ گواردیولا پس از قهرمانی در لیگ قهرمانان اروپا و کسب سه گانه" />
     <meta name="DC.Language" content="fa" />
     <meta name="DC.Publisher" content=" ویدیو ورزش سه" />
     <meta property="og:video:type" content="video/mp4">
-    <meta property="og:video:url" content="https://video.varzesh3.com/embed/302436" />
-    <meta property="og:video:secure_url" content="https://video.varzesh3.com/embed/302436" />
+    <meta property="og:video:url" content="https://video.varzesh3.com/embed/256351" />
+    <meta property="og:video:secure_url" content="https://video.varzesh3.com/embed/256351" />
     <meta property="og:video:width" content="1280" />
     <meta property="og:video:height" content="720" />
-    <meta property="og:video:release_date" content="2023-05-31T22:40:00Z">
-    <meta itemprop="datePublished" content="2023-05-31T22:40:00Z">
-    <meta itemprop="uploadDate" content="2023-05-31T22:40:00Z">
+    <meta property="og:video:release_date" content="2023-06-15T05:35:00Z">
+    <meta itemprop="datePublished" content="2023-06-15T05:35:00Z">
+    <meta itemprop="uploadDate" content="2023-06-15T05:35:00Z">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-        <meta property="og:video:tag" content="آاس رم">
-        <meta property="og:video:tag" content=" سویا">
-        <meta property="og:video:tag" content=" لیگ اروپا">
+        <meta property="og:video:tag" content="منچسترسیتی">
+        <meta property="og:video:tag" content=" زیرنویس اختصاصی ورزش سه">
+        <meta property="og:video:tag" content=" پپ گواردیولا">
+        <meta property="og:video:tag" content=" لیگ قهرمانان اروپا">
 <meta name="twitter:site" content="ویدیو ورزش سه">
 <meta name="twitter:card" content="player" />
-<meta name="twitter:title" content="اهدای جام قهرمانی لیگ اروپا به سویا- ویدیو ورزش سه ">
-<meta name="twitter:description" content="مراسم اهدای جام قهرمانی لیگ اروپا 2022/23 به سویاسویا با برتری مقابل آاس رم در ضربات پنالتی به عنوان قهرمانی لیگ اروپا رسید.">
-<meta name="twitter:url" content="https://video.varzesh3.com/video/302436/%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%B3%D9%88%DB%8C%D8%A7">
-<meta name="twitter:image" content="https://video-icdn.varzesh3.com/covers/2023/06/01/A/1hju52lc.jpg" />
+<meta name="twitter:title" content="فلسفه پیشرفت گواردیولا پس از کسب سه گانه- ویدیو ورزش سه ">
+<meta name="twitter:description" content="صحبت‌های پپ گواردیولا پس از قهرمانی در لیگ قهرمانان اروپا و کسب سه گانه">
+<meta name="twitter:url" content="https://video.varzesh3.com/video/256351/%D9%81%D9%84%D8%B3%D9%81%D9%87-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DA%AF%D9%88%D8%A7%D8%B1%D8%AF%DB%8C%D9%88%D9%84%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D8%B3%D9%87-%DA%AF%D8%A7%D9%86%D9%87">
+<meta name="twitter:image" content="https://video-icdn.varzesh3.com/covers/2023/06/15/B/hmn4c21w.jpg" />
 <meta name="twitter:image:width" content="1280" />
 <meta name="twitter:image:height" content="720" />
-<meta name="twitter:player" content="https://video.varzesh3.com/embed/302436" />
+<meta name="twitter:player" content="https://video.varzesh3.com/embed/256351" />
 <meta name="twitter:player:width" content="1280" />
 <meta name="twitter:player:height" content="720" />
 
@@ -98,14 +99,14 @@
         {
             "@context": "http://schema.org",
             "@type": "VideoObject",
-            "mainEntityOfPage": "https://video.varzesh3.com/video/302436/%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%B3%D9%88%DB%8C%D8%A7",
-            "uploadDate": "2023-05-31T22:40:00Z",
-            "duration": "PT3M48S",
-            "name": "اهدای جام قهرمانی لیگ اروپا به سویا",
-            "description": "مراسم اهدای جام قهرمانی لیگ اروپا 2022/23 به سویاسویا با برتری مقابل آاس رم در ضربات پنالتی به عنوان قهرمانی لیگ اروپا رسید.",
-            "thumbnailUrl": "https://video-icdn.varzesh3.com/covers/2023/06/01/A/1hju52lc.jpg",
-            "contentUrl": "https://video-vcdn.varzesh3.com/videos/2023/06/01/A/2bje3j2o.mp4",
-            "embedUrl": "https://video.varzesh3.com/embed/302436",
+            "mainEntityOfPage": "https://video.varzesh3.com/video/256351/%D9%81%D9%84%D8%B3%D9%81%D9%87-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DA%AF%D9%88%D8%A7%D8%B1%D8%AF%DB%8C%D9%88%D9%84%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D8%B3%D9%87-%DA%AF%D8%A7%D9%86%D9%87",
+            "uploadDate": "2023-06-15T05:35:00Z",
+            "duration": "PT4M10S",
+            "name": "فلسفه پیشرفت گواردیولا پس از کسب سه گانه",
+            "description": "صحبت‌های پپ گواردیولا پس از قهرمانی در لیگ قهرمانان اروپا و کسب سه گانه",
+            "thumbnailUrl": "https://video-icdn.varzesh3.com/covers/2023/06/15/B/hmn4c21w.jpg",
+            "contentUrl": "https://video-vcdn.varzesh3.com/videos/2023/06/15/B/k5pekpds.mp4",
+            "embedUrl": "https://video.varzesh3.com/embed/256351",
             "publisher": {
                 "@type": "Organization",
                 "name": "ویدیوی ورزش سه",
@@ -183,7 +184,7 @@
         <div class="allhead-auth">
             <span class="allhead-date">
                 <img alt="تاریخ" width="18" height="18" src="https://video-static.varzesh3.com/img/icons/icon-general-today.svg?w=18" />
-                <span class='datetime'><span>شنبه 3 تیر</span><span> - </span><span>16:04</span></span>
+                <span class='datetime'><span>شنبه 3 تیر</span><span> - </span><span>17:02</span></span>
             </span>
             <span class="search-btn"><img alt="جستجو" width="18" height="18" src="https://video-static.varzesh3.com/img/icons/search-icon-white.svg?w=18" /><span>جستجو </span></span>
             <div class="allhead-user-auth">
@@ -1334,13 +1335,13 @@
 
 
 <div id="page" class="inner-video"
-     data-page-url="https://video.varzesh3.com/video/302436/%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%B3%D9%88%DB%8C%D8%A7"
-     data-short-url="https://video.varzesh3.com/video/302436"
-     data-video-id="302436"
-     data-view-url="https://web-api.varzesh3.com/v1.0/videos/302436/view"
-     data-play-url="https://web-api.varzesh3.com/v1.0/videos/302436/play"
+     data-page-url="https://video.varzesh3.com/video/256351/%D9%81%D9%84%D8%B3%D9%81%D9%87-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA-%DA%AF%D9%88%D8%A7%D8%B1%D8%AF%DB%8C%D9%88%D9%84%D8%A7-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8-%D8%B3%D9%87-%DA%AF%D8%A7%D9%86%D9%87"
+     data-short-url="https://video.varzesh3.com/video/256351"
+     data-video-id="256351"
+     data-view-url="https://web-api.varzesh3.com/v1.0/videos/256351/view"
+     data-play-url="https://web-api.varzesh3.com/v1.0/videos/256351/play"
      data-feedback-captcha="True"
-     data-automatic-feedback-url="https://web-api.varzesh3.com/v1.0/feedbacks/302436">
+     data-automatic-feedback-url="https://web-api.varzesh3.com/v1.0/feedbacks/256351">
 
     <div class="container">
         <div class="row row-banner-zone header-banner-zone tb-holder">
@@ -1369,8 +1370,8 @@
                         <video-js id="vid3"
                                   width="100%"
                                   class="fkplayer"
-                                  data-m3u8="https://v.r1-edge-v2.s3mer.net/vod/302436/5/master.m3u8"
-                                  data-poster="https://video-icdn.varzesh3.com/covers/2023/06/01/A/1hju52lc.jpg?w=930"
+                                  data-m3u8="https://v.r1-edge-v2.s3mer.net/vod/256351/5/master.m3u8"
+                                  data-poster="https://video-icdn.varzesh3.com/covers/2023/06/15/B/hmn4c21w.jpg?w=930"
                                   data-vast="https://biz.varzesh3.com/vast">
                         </video-js>
                     </div>
@@ -1387,11 +1388,11 @@
 
                     <div class="video-info">
                         <div class="video-data">
-                            <a class="category" href="/category/269/%DB%8C%D9%88%D8%B1%D9%88-%D9%84%DB%8C%DA%AF">لیگ اروپا</a>
-                            <span class="date"> -  11 خرداد 1402 ساعت 02:10 - </span>
-                            <span class="view">20.5K بازدید</span>
+                            <a class="category" href="/category/267/%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">لیگ قهرمانان اروپا</a>
+                            <span class="date"> -  25 خرداد 1402 ساعت 09:05 - </span>
+                            <span class="view">26.9K بازدید</span>
                         </div>
-                        <div class="video-actions" data-vote-url="https://web-api.varzesh3.com/v1.0/videos/302436/vote">
+                        <div class="video-actions" data-vote-url="https://web-api.varzesh3.com/v1.0/videos/256351/vote">
                             <div class="action-vr video-report">
                                 <div class="report-button" >
                                     <img alt="گزارش خطا" width="18" height="18" src="https://video-static.varzesh3.com/img/icons/icon-action-report.svg?w=18" />
@@ -1403,8 +1404,8 @@
                                     <path fill="#BDBDBD" fill-rule="evenodd" d="M21 8h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2c0-1.1-.9-2-2-2zm0 4l-3 7H9V9l4.34-4.34L12.23 10H21v2zM1 9h4v12H1V9z" />
                                 </svg>
 
-                                <span id="video-like" data-url="https://web-api.varzesh3.com/v1.0/videos/302436/like">
-                                    20
+                                <span id="video-like" data-url="https://web-api.varzesh3.com/v1.0/videos/256351/like">
+                                    24
                                 </span>
                             </div>
                             <div class="action-vr dislike-item disabled">
@@ -1412,8 +1413,8 @@
                                     <path fill="#BDBDBD" fill-rule="evenodd" d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.58-6.59c.37-.36.59-.86.59-1.41V5c0-1.1-.9-2-2-2zm0 12l-4.34 4.34L11.77 14H3v-2l3-7h9v10zm4-12h4v12h-4V3z" />
                                 </svg>
 
-                                <span id="video-dislike" data-url="https://web-api.varzesh3.com/v1.0/videos/302436/dislike">
-                                    8
+                                <span id="video-dislike" data-url="https://web-api.varzesh3.com/v1.0/videos/256351/dislike">
+                                    2
                                 </span>
                             </div>
 
@@ -1430,18 +1431,7 @@
                                     <span>دانلود</span>
                                 </div>
                                 <div class="dropdown-menu" aria-labelledby="downloadMenuButton">
-                                        <a class="dropdown-item" href="https://video-vcdn.varzesh3.com/videos-quality/2023/06/01/A/lskl5udy.mp4">
-                                            <span>با کیفیت 360 </span>
-                                        </a>
-                                        <a class="dropdown-item" href="https://video-vcdn.varzesh3.com/videos-quality/2023/06/01/A/aujx31vc.mp4">
-                                            <span>با کیفیت 480 </span>
-                                        </a>
-                                        <a class="dropdown-item" href="https://video-vcdn.varzesh3.com/videos-quality/2023/06/01/A/ej24wzhe.mp4">
-                                            <span>با کیفیت 720 </span>
-                                        </a>
-                                        <a class="dropdown-item" href="https://video-vcdn.varzesh3.com/videos-quality/2023/06/01/A/43kapggs.mp4">
-                                            <span>با کیفیت 1080 </span>
-                                        </a>
+                                        <a class="dropdown-item" href="https://video-vcdn.varzesh3.com/videos/2023/06/15/B/k5pekpds.mp4?name=فلسفه-پیشرفت-گواردیولا-پس-از-کسب-سه-گانه_auto.mp4"> دانلود ویدیو </a>
                                 </div>
                             </div>
 
@@ -1459,50 +1449,19 @@
 
                     <div class="video-title">
                         
-                        <h1>اهدای جام قهرمانی لیگ اروپا به سویا</h1>
+                        <h1>فلسفه پیشرفت گواردیولا پس از کسب سه گانه</h1>
                         
                     </div>
 
-                    <div class="video-description"> <p> <p>مراسم اهدای جام قهرمانی لیگ اروپا 2022/23 به سویا</p><p>سویا با برتری مقابل آاس رم در ضربات پنالتی به عنوان قهرمانی لیگ اروپا رسید.</p> </p> </div>
+                    <div class="video-description"> <p> <p>صحبت‌های پپ گواردیولا پس از قهرمانی در لیگ قهرمانان اروپا و کسب سه گانه</p> </p> </div>
 
-                    <div class="related-match-page">
-                        <div class="news-to-match">
-                            <a href="https://www.varzesh3.com/football/match/355954">
-                                <div class="date">
-                                    10 خرداد 1402 ساعت 22:30
-                                </div>
-
-                                <div class="match-teams-box">
-                                    <div class="teambox">
-                                        <span class="host-team">سویا</span>
-                                        <span class="host-logo">
-                                            <img alt="سویا" width="30" src="https://match-cdn.varzesh3.com/football-team/2022/07/13/B/ndlaeicb.png?w=30" />
-                                        </span>
-                                        <span class="team-score host-goal">1 (4)</span>
-                                    </div>
-                                    <span class="dash-divider"> - </span>
-                                    <div class="teambox">
-                                        <span class="team-score guest-goal">1 (1)</span>
-                                        <span class="guest-logo">
-                                            <img alt="آاس رم" width="30" src="https://static.farakav.com/files/pictures/01150101.png?w=30" />
-                                        </span>
-                                        <span class="guest-team">آاس رم</span>
-
-                                    </div>
-                                </div>
-
-                                <div class="morelink">
-                                    <img alt="جزئیات بازی" width="24" height="24" src="https://video-static.varzesh3.com/img/icons/arrow-left-cyan.svg?w=24" />
-                                </div>
-
-                            </a>
-                        </div>
-                    </div>
+                    
                     
                     <div class="video-tags">
-                            <a class="tag" href="/tag/425/%D8%A7%D9%93%D8%A7%D8%B3-%D8%B1%D9%85">آاس رم</a>
-                            <a class="tag" href="/tag/435/%D8%B3%D9%88%DB%8C%D8%A7">سویا</a>
-                            <a class="tag" href="/tag/942320/%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">لیگ اروپا</a>
+                            <a class="tag" href="/tag/444/%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C">منچسترسیتی</a>
+                            <a class="tag" href="/tag/934637/%D8%B2%DB%8C%D8%B1%D9%86%D9%88%DB%8C%D8%B3-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%88%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87">زیرنویس اختصاصی ورزش سه</a>
+                            <a class="tag" href="/tag/941673/%D9%BE%D9%BE-%DA%AF%D9%88%D8%A7%D8%B1%D8%AF%DB%8C%D9%88%D9%84%D8%A7">پپ گواردیولا</a>
+                            <a class="tag" href="/tag/942318/%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">لیگ قهرمانان اروپا</a>
                     </div>
                     
 
@@ -1540,97 +1499,97 @@
     <div class="side-body">
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302779/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%DB%8C%D9%88-%D9%87%D8%A7%DB%8C-%D9%81%D8%B5%D9%84-2022-23-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                    <a class="video-cover-box" href="/video/303611/%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%DA%98%DB%8C-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%DB%8C%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
                         
-                        <img alt="برترین سیوهای فصل 2022/23 لیگ اروپا " width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/05/C/23izgpck.jpg?w=110" />
+                        <img alt="نوستالژی، گل‌های اینیستا در لیگ قهرمانان اروپا" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/16/D/pxl3crh2.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   15 خرداد  </span>
+                        <span class="date">   26 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302779/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%DB%8C%D9%88-%D9%87%D8%A7%DB%8C-%D9%81%D8%B5%D9%84-2022-23-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
-                        <h4>برترین سیوهای فصل 2022/23 لیگ اروپا </h4>
+                    <a class="title" href="/video/303611/%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%DA%98%DB%8C-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%DB%8C%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                        <h4>نوستالژی، گل‌های اینیستا در لیگ قهرمانان اروپا</h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302445/%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D9%88-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                    <a class="video-cover-box" href="/video/303450/%D9%85%D8%B3%DB%8C%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D9%86%DB%8C%D9%85%DB%8C%D8%B4%D9%86">
                         
-                        <img alt="مراسم اهدای مدال و قهرمانی سویا در لیگ اروپا" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/fixpxeky.jpg?w=110" />
+                        <img alt="مسیر قهرمانی منچسترسیتی به روایت انیمیشن" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/14/B/1xxvusmq.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   24 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302445/%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D9%88-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
-                        <h4>مراسم اهدای مدال و قهرمانی سویا در لیگ اروپا</h4>
+                    <a class="title" href="/video/303450/%D9%85%D8%B3%DB%8C%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D9%86%DB%8C%D9%85%DB%8C%D8%B4%D9%86">
+                        <h4>مسیر قهرمانی منچسترسیتی به روایت انیمیشن</h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302444/%D8%AA%D8%B4%DA%A9%D8%B1-%D8%B4%D8%A7%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D8%B1%DB%8C%D9%86%DB%8C%D9%88-%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B1%D9%85-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
+                    <a class="video-cover-box" href="/video/303449/%D8%AA%D9%85%D8%A7%D9%85-%DA%AF%D9%84%D9%87%D8%A7%DB%8C-%D9%86%DB%8C%D9%85%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
                         
-                        <img alt="تشکر شاگردان مورینیو از هواداران رم (اختصاصی)" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/qbjyh2st.jpg?w=110" />
+                        <img alt="تمام گل‌های نیمار در لیگ قهرمانان اروپا " width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/14/B/tv0p0jnf.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   24 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302444/%D8%AA%D8%B4%DA%A9%D8%B1-%D8%B4%D8%A7%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D8%B1%DB%8C%D9%86%DB%8C%D9%88-%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B1%D9%85-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
-                        <h4>تشکر شاگردان مورینیو از هواداران رم (اختصاصی)</h4>
+                    <a class="title" href="/video/303449/%D8%AA%D9%85%D8%A7%D9%85-%DA%AF%D9%84%D9%87%D8%A7%DB%8C-%D9%86%DB%8C%D9%85%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                        <h4>تمام گل‌های نیمار در لیگ قهرمانان اروپا </h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302443/%D8%B4%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
+                    <a class="video-cover-box" href="/video/303441/%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B4%D9%88%D8%AA-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%88%D8%AF%D8%B1%DB%8C-%D9%88-%D9%88%DB%8C%D9%86%DB%8C%D8%B3%DB%8C%D9%88%D8%B3">
                         
-                        <img alt="شادی بازیکنان سویا در جشن قهرمانی (اختصاصی)" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/trvap2cl.jpg?w=110" />
+                        <img alt="مقایسه شوت دیدنی رودری و وینیسیوس" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/13/D/aoxvx21q.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   24 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302443/%D8%B4%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
-                        <h4>شادی بازیکنان سویا در جشن قهرمانی (اختصاصی)</h4>
+                    <a class="title" href="/video/303441/%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B4%D9%88%D8%AA-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%88%D8%AF%D8%B1%DB%8C-%D9%88-%D9%88%DB%8C%D9%86%DB%8C%D8%B3%DB%8C%D9%88%D8%B3">
+                        <h4>مقایسه شوت دیدنی رودری و وینیسیوس</h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302434/%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AC%D8%B0%D8%A7%D8%A8-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%88%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87">
+                    <a class="video-cover-box" href="/video/303354/%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-2022-23">
                         
-                        <img alt="پنالتی‌های جذاب فینال لیگ اروپا از دوربین &quot;ورزش سه&quot;" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/A/b0mpfcff.jpg?w=110" />
+                        <img alt="گل‌های منچسترسیتی در لیگ قهرمانان اروپا 2022/23" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/12/D/xlvw0po0.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   23 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302434/%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AC%D8%B0%D8%A7%D8%A8-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%88%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87">
-                        <h4>پنالتی‌های جذاب فینال لیگ اروپا از دوربین &quot;ورزش سه&quot;</h4>
+                    <a class="title" href="/video/303354/%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-2022-23">
+                        <h4>گل‌های منچسترسیتی در لیگ قهرمانان اروپا 2022/23</h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302432/%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%A7%D9%93%D8%A7%D8%B3-%D8%B1%D9%85">
+                    <a class="video-cover-box" href="/video/303353/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA%D9%87%D8%A7%DB%8C-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-2022-23">
                         
-                        <img alt="ضربات پنالتی سویا - آاس رم" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/A/exwa0mfq.jpg?w=110" />
+                        <img alt="برترین گل‌های رقابت‌های لیگ قهرمانان اروپا 2022/23" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/12/D/djxtateu.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   23 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302432/%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%A7%D9%93%D8%A7%D8%B3-%D8%B1%D9%85">
-                        <h4>ضربات پنالتی سویا - آاس رم</h4>
+                    <a class="title" href="/video/303353/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA%D9%87%D8%A7%DB%8C-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-2022-23">
+                        <h4>برترین گل‌های رقابت‌های لیگ قهرمانان اروپا 2022/23</h4>
                     </a>
                 </div>
             </div>
@@ -1653,7 +1612,7 @@
                                 دیدگاه ها
                             </h2>
                         </div>
-                        <div id="vrz-comment" class="vrz-comment" data-allow-comment="True" data-comment-url="https://web-api.varzesh3.com/v1.0/videos/302436/comments" data-permission-url="https://web-api.varzesh3.com/v1.0/permission/check" data-content-type="ویدیو"></div>
+                        <div id="vrz-comment" class="vrz-comment" data-allow-comment="True" data-comment-url="https://web-api.varzesh3.com/v1.0/videos/256351/comments" data-permission-url="https://web-api.varzesh3.com/v1.0/permission/check" data-content-type="ویدیو"></div>
 
                     </div>
 
@@ -1674,87 +1633,87 @@
     <div class="video-list">
         <div class="row">
                 <div class="videobox col-12 col-sm-6 col-lg-3">
-                    <a class="video-cover-box" data-nt-link href="/video/302751/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%D9%93%D8%A7%D8%B3-%D8%B1%D9%85-2-%D8%A7%D8%B3%D9%BE%D8%AA%D8%B2%DB%8C%D8%A7-1">
+                    <a class="video-cover-box" data-nt-link href="/video/304054/10-%D9%BE%D8%A7%D8%B3-%DA%AF%D9%84-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-2022-23">
                         <div class="video-cover-image">
-                            <img alt="خلاصه بازی آاس رم 2 - اسپتزیا 1 " data-src="https://video-icdn.varzesh3.com/covers/2023/06/05/A/i53h4ze4.jpg" width="300" height="155" src="https://video-static.varzesh3.com/img/lazy-blank.png?w=300" class="lazyload" />
+                            <img alt="10 پاس گل برتر منچسترسیتی در فصل 2022/23" data-src="https://video-icdn.varzesh3.com/covers/2023/06/23/C/v0dvu1ex.jpg" width="300" height="155" src="https://video-static.varzesh3.com/img/lazy-blank.png?w=300" class="lazyload" />
                         </div>
                         <div class="timebox">
                             <span class="playicon">
                                 <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
                             </span>
-                            <span class="duration">04:35</span>
+                            <span class="duration">08:12</span>
                         </div>
                     </a>
                     <div class="video-data">
                         <a class="category" href="/category/1/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87%DB%8C">فوتبال باشگاهی</a>
-                        <span class="date"> -  15 خرداد - </span>
-                        <span class="view">8.8K بازدید</span>
+                        <span class="date"> - 1 روز پیش - </span>
+                        <span class="view">3K بازدید</span>
                     </div>
-                    <a class="title" data-nt-link href="/video/302751/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%D9%93%D8%A7%D8%B3-%D8%B1%D9%85-2-%D8%A7%D8%B3%D9%BE%D8%AA%D8%B2%DB%8C%D8%A7-1">
-                        <h3>خلاصه بازی آاس رم 2 - اسپتزیا 1 </h3>
+                    <a class="title" data-nt-link href="/video/304054/10-%D9%BE%D8%A7%D8%B3-%DA%AF%D9%84-%D8%A8%D8%B1%D8%AA%D8%B1-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%81%D8%B5%D9%84-2022-23">
+                        <h3>10 پاس گل برتر منچسترسیتی در فصل 2022/23</h3>
                     </a>
                 </div>
                 <div class="videobox col-12 col-sm-6 col-lg-3">
-                    <a class="video-cover-box" data-nt-link href="/video/302445/%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D9%88-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                    <a class="video-cover-box" data-nt-link href="/video/304013/5-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%A8%D8%A7-%D9%85%D9%87%D8%A7%D8%B1%D8%AA-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D9%86%DA%A9-%D9%84%D9%85%D9%BE%D8%A7%D8%B1%D8%AF">
                         <div class="video-cover-image">
-                            <img alt="مراسم اهدای مدال و قهرمانی سویا در لیگ اروپا" data-src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/fixpxeky.jpg" width="300" height="155" src="https://video-static.varzesh3.com/img/lazy-blank.png?w=300" class="lazyload" />
+                            <img alt="5 دقیقه با مهارت‌های فرانک لمپارد" data-src="https://video-icdn.varzesh3.com/covers/2023/06/23/B/jdw421uj.jpg" width="300" height="155" src="https://video-static.varzesh3.com/img/lazy-blank.png?w=300" class="lazyload" />
                         </div>
                         <div class="timebox">
                             <span class="playicon">
                                 <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
                             </span>
-                            <span class="duration">02:47</span>
+                            <span class="duration">04:52</span>
                         </div>
                     </a>
                     <div class="video-data">
-                        <a class="category" href="/category/1/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87%DB%8C">فوتبال باشگاهی</a>
-                        <span class="date"> -  11 خرداد - </span>
-                        <span class="view">21.5K بازدید</span>
+                        <a class="category" href="/category/244/%D9%88%DB%8C%D8%AF%D9%8A%D9%94%D9%88-%DA%A9%D9%84%DB%8C%D9%BE">ویدئو کلیپ</a>
+                        <span class="date"> - 1 روز پیش - </span>
+                        <span class="view">2.9K بازدید</span>
                     </div>
-                    <a class="title" data-nt-link href="/video/302445/%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D9%88-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
-                        <h3>مراسم اهدای مدال و قهرمانی سویا در لیگ اروپا</h3>
+                    <a class="title" data-nt-link href="/video/304013/5-%D8%AF%D9%82%DB%8C%D9%82%D9%87-%D8%A8%D8%A7-%D9%85%D9%87%D8%A7%D8%B1%D8%AA-%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D9%86%DA%A9-%D9%84%D9%85%D9%BE%D8%A7%D8%B1%D8%AF">
+                        <h3>5 دقیقه با مهارت‌های فرانک لمپارد</h3>
                     </a>
                 </div>
                 <div class="videobox col-12 col-sm-6 col-lg-3">
-                    <a class="video-cover-box" data-nt-link href="/video/302444/%D8%AA%D8%B4%DA%A9%D8%B1-%D8%B4%D8%A7%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D8%B1%DB%8C%D9%86%DB%8C%D9%88-%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B1%D9%85-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
+                    <a class="video-cover-box" data-nt-link href="/video/303940/%D8%AF%D8%B4%D9%85%D9%86%DB%8C-%D8%A8%DA%86%D9%87-%D8%BA%D9%88%D9%84-%D8%A8%D8%A7-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF">
                         <div class="video-cover-image">
-                            <img alt="تشکر شاگردان مورینیو از هواداران رم (اختصاصی)" data-src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/qbjyh2st.jpg" width="300" height="155" src="https://video-static.varzesh3.com/img/lazy-blank.png?w=300" class="lazyload" />
+                            <img alt="دشمنی بچه غول با منچستریونایتد!" data-src="https://video-icdn.varzesh3.com/covers/2023/06/22/A/exh2sw3d.jpg" width="300" height="155" src="https://video-static.varzesh3.com/img/lazy-blank.png?w=300" class="lazyload" />
                         </div>
                         <div class="timebox">
                             <span class="playicon">
                                 <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
                             </span>
-                            <span class="duration">00:54</span>
+                            <span class="duration">00:12</span>
                         </div>
                     </a>
                     <div class="video-data">
-                        <a class="category" href="/category/1/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87%DB%8C">فوتبال باشگاهی</a>
-                        <span class="date"> -  11 خرداد - </span>
-                        <span class="view">5.7K بازدید</span>
+                        <a class="category" href="/category/244/%D9%88%DB%8C%D8%AF%D9%8A%D9%94%D9%88-%DA%A9%D9%84%DB%8C%D9%BE">ویدئو کلیپ</a>
+                        <span class="date"> -  1 تیر - </span>
+                        <span class="view">11.8K بازدید</span>
                     </div>
-                    <a class="title" data-nt-link href="/video/302444/%D8%AA%D8%B4%DA%A9%D8%B1-%D8%B4%D8%A7%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D8%B1%DB%8C%D9%86%DB%8C%D9%88-%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B1%D9%85-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
-                        <h3>تشکر شاگردان مورینیو از هواداران رم (اختصاصی)</h3>
+                    <a class="title" data-nt-link href="/video/303940/%D8%AF%D8%B4%D9%85%D9%86%DB%8C-%D8%A8%DA%86%D9%87-%D8%BA%D9%88%D9%84-%D8%A8%D8%A7-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%DB%8C%D9%88%D9%86%D8%A7%DB%8C%D8%AA%D8%AF">
+                        <h3>دشمنی بچه غول با منچستریونایتد!</h3>
                     </a>
                 </div>
                 <div class="videobox col-12 col-sm-6 col-lg-3">
-                    <a class="video-cover-box" data-nt-link href="/video/302443/%D8%B4%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
+                    <a class="video-cover-box" data-nt-link href="/video/303631/%D8%AA%D9%85%D8%A7%D9%85-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D9%84%DB%8C%D9%86%DA%AF-%D9%87%D8%A7%D9%84%D9%86%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-2022-23">
                         <div class="video-cover-image">
-                            <img alt="شادی بازیکنان سویا در جشن قهرمانی (اختصاصی)" data-src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/trvap2cl.jpg" width="300" height="155" src="https://video-static.varzesh3.com/img/lazy-blank.png?w=300" class="lazyload" />
+                            <img alt="تمام گل‌های ارلینگ هالند در منچسترسیتی 2022/23" data-src="https://video-icdn.varzesh3.com/covers/2023/06/17/A/m1e1wepz.jpg" width="300" height="155" src="https://video-static.varzesh3.com/img/lazy-blank.png?w=300" class="lazyload" />
                         </div>
                         <div class="timebox">
                             <span class="playicon">
                                 <img alt="پخش ویدیو" width="10" height="10" src="https://video-static.varzesh3.com/img/icons/smallplay-icon.svg?w=10" />
                             </span>
-                            <span class="duration">00:34</span>
+                            <span class="duration">26:19</span>
                         </div>
                     </a>
                     <div class="video-data">
                         <a class="category" href="/category/1/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%A8%D8%A7%D8%B4%DA%AF%D8%A7%D9%87%DB%8C">فوتبال باشگاهی</a>
-                        <span class="date"> -  11 خرداد - </span>
-                        <span class="view">7.5K بازدید</span>
+                        <span class="date"> -  27 خرداد - </span>
+                        <span class="view">3.7K بازدید</span>
                     </div>
-                    <a class="title" data-nt-link href="/video/302443/%D8%B4%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
-                        <h3>شادی بازیکنان سویا در جشن قهرمانی (اختصاصی)</h3>
+                    <a class="title" data-nt-link href="/video/303631/%D8%AA%D9%85%D8%A7%D9%85-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B1%D9%84%DB%8C%D9%86%DA%AF-%D9%87%D8%A7%D9%84%D9%86%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-2022-23">
+                        <h3>تمام گل‌های ارلینگ هالند در منچسترسیتی 2022/23</h3>
                     </a>
                 </div>
 
@@ -1813,97 +1772,97 @@
     <div class="side-body">
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302779/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%DB%8C%D9%88-%D9%87%D8%A7%DB%8C-%D9%81%D8%B5%D9%84-2022-23-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                    <a class="video-cover-box" href="/video/303611/%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%DA%98%DB%8C-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%DB%8C%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
                         
-                        <img alt="برترین سیوهای فصل 2022/23 لیگ اروپا " width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/05/C/23izgpck.jpg?w=110" />
+                        <img alt="نوستالژی، گل‌های اینیستا در لیگ قهرمانان اروپا" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/16/D/pxl3crh2.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   15 خرداد  </span>
+                        <span class="date">   26 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302779/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%DB%8C%D9%88-%D9%87%D8%A7%DB%8C-%D9%81%D8%B5%D9%84-2022-23-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
-                        <h4>برترین سیوهای فصل 2022/23 لیگ اروپا </h4>
+                    <a class="title" href="/video/303611/%D9%86%D9%88%D8%B3%D8%AA%D8%A7%D9%84%DA%98%DB%8C-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%86%DB%8C%D8%B3%D8%AA%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                        <h4>نوستالژی، گل‌های اینیستا در لیگ قهرمانان اروپا</h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302445/%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D9%88-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                    <a class="video-cover-box" href="/video/303450/%D9%85%D8%B3%DB%8C%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D9%86%DB%8C%D9%85%DB%8C%D8%B4%D9%86">
                         
-                        <img alt="مراسم اهدای مدال و قهرمانی سویا در لیگ اروپا" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/fixpxeky.jpg?w=110" />
+                        <img alt="مسیر قهرمانی منچسترسیتی به روایت انیمیشن" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/14/B/1xxvusmq.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   24 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302445/%D9%85%D8%B1%D8%A7%D8%B3%D9%85-%D8%A7%D9%87%D8%AF%D8%A7%DB%8C-%D9%85%D8%AF%D8%A7%D9%84-%D9%88-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
-                        <h4>مراسم اهدای مدال و قهرمانی سویا در لیگ اروپا</h4>
+                    <a class="title" href="/video/303450/%D9%85%D8%B3%DB%8C%D8%B1-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%A8%D9%87-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%A7%D9%86%DB%8C%D9%85%DB%8C%D8%B4%D9%86">
+                        <h4>مسیر قهرمانی منچسترسیتی به روایت انیمیشن</h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302444/%D8%AA%D8%B4%DA%A9%D8%B1-%D8%B4%D8%A7%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D8%B1%DB%8C%D9%86%DB%8C%D9%88-%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B1%D9%85-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
+                    <a class="video-cover-box" href="/video/303449/%D8%AA%D9%85%D8%A7%D9%85-%DA%AF%D9%84%D9%87%D8%A7%DB%8C-%D9%86%DB%8C%D9%85%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
                         
-                        <img alt="تشکر شاگردان مورینیو از هواداران رم (اختصاصی)" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/qbjyh2st.jpg?w=110" />
+                        <img alt="تمام گل‌های نیمار در لیگ قهرمانان اروپا " width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/14/B/tv0p0jnf.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   24 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302444/%D8%AA%D8%B4%DA%A9%D8%B1-%D8%B4%D8%A7%DA%AF%D8%B1%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D8%B1%DB%8C%D9%86%DB%8C%D9%88-%D8%A7%D8%B2-%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%B1%D9%85-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
-                        <h4>تشکر شاگردان مورینیو از هواداران رم (اختصاصی)</h4>
+                    <a class="title" href="/video/303449/%D8%AA%D9%85%D8%A7%D9%85-%DA%AF%D9%84%D9%87%D8%A7%DB%8C-%D9%86%DB%8C%D9%85%D8%A7%D8%B1-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7">
+                        <h4>تمام گل‌های نیمار در لیگ قهرمانان اروپا </h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302443/%D8%B4%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
+                    <a class="video-cover-box" href="/video/303441/%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B4%D9%88%D8%AA-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%88%D8%AF%D8%B1%DB%8C-%D9%88-%D9%88%DB%8C%D9%86%DB%8C%D8%B3%DB%8C%D9%88%D8%B3">
                         
-                        <img alt="شادی بازیکنان سویا در جشن قهرمانی (اختصاصی)" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/B/trvap2cl.jpg?w=110" />
+                        <img alt="مقایسه شوت دیدنی رودری و وینیسیوس" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/13/D/aoxvx21q.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   24 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302443/%D8%B4%D8%A7%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%B3%D9%88%DB%8C%D8%A7-%D8%AF%D8%B1-%D8%AC%D8%B4%D9%86-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C">
-                        <h4>شادی بازیکنان سویا در جشن قهرمانی (اختصاصی)</h4>
+                    <a class="title" href="/video/303441/%D9%85%D9%82%D8%A7%DB%8C%D8%B3%D9%87-%D8%B4%D9%88%D8%AA-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B1%D9%88%D8%AF%D8%B1%DB%8C-%D9%88-%D9%88%DB%8C%D9%86%DB%8C%D8%B3%DB%8C%D9%88%D8%B3">
+                        <h4>مقایسه شوت دیدنی رودری و وینیسیوس</h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302434/%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AC%D8%B0%D8%A7%D8%A8-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%88%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87">
+                    <a class="video-cover-box" href="/video/303354/%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-2022-23">
                         
-                        <img alt="پنالتی‌های جذاب فینال لیگ اروپا از دوربین &quot;ورزش سه&quot;" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/A/b0mpfcff.jpg?w=110" />
+                        <img alt="گل‌های منچسترسیتی در لیگ قهرمانان اروپا 2022/23" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/12/D/xlvw0po0.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   23 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302434/%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D9%87%D8%A7%DB%8C-%D8%AC%D8%B0%D8%A7%D8%A8-%D9%81%DB%8C%D9%86%D8%A7%D9%84-%D9%84%DB%8C%DA%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A7%D8%B2-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86-%D9%88%D8%B1%D8%B2%D8%B4-%D8%B3%D9%87">
-                        <h4>پنالتی‌های جذاب فینال لیگ اروپا از دوربین &quot;ورزش سه&quot;</h4>
+                    <a class="title" href="/video/303354/%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D9%86%DA%86%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-2022-23">
+                        <h4>گل‌های منچسترسیتی در لیگ قهرمانان اروپا 2022/23</h4>
                     </a>
                 </div>
             </div>
             <div class="vd-item row">
                 <div class="col-5 pl-1">
-                    <a class="video-cover-box" href="/video/302432/%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%A7%D9%93%D8%A7%D8%B3-%D8%B1%D9%85">
+                    <a class="video-cover-box" href="/video/303353/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA%D9%87%D8%A7%DB%8C-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-2022-23">
                         
-                        <img alt="ضربات پنالتی سویا - آاس رم" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/01/A/exwa0mfq.jpg?w=110" />
+                        <img alt="برترین گل‌های رقابت‌های لیگ قهرمانان اروپا 2022/23" width="110" height="60" src="https://video-icdn.varzesh3.com/covers/2023/06/12/D/djxtateu.jpg?w=110" />
                     </a>
                 </div>
                 <div class="col-7 pr-1">
                     <div class="video-data">
-                        <span class="date">   11 خرداد  </span>
+                        <span class="date">   23 خرداد  </span>
                     </div>
-                    <a class="title" href="/video/302432/%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%BE%D9%86%D8%A7%D9%84%D8%AA%DB%8C-%D8%B3%D9%88%DB%8C%D8%A7-%D8%A7%D9%93%D8%A7%D8%B3-%D8%B1%D9%85">
-                        <h4>ضربات پنالتی سویا - آاس رم</h4>
+                    <a class="title" href="/video/303353/%D8%A8%D8%B1%D8%AA%D8%B1%DB%8C%D9%86-%DA%AF%D9%84-%D9%87%D8%A7%DB%8C-%D8%B1%D9%82%D8%A7%D8%A8%D8%AA%D9%87%D8%A7%DB%8C-%D9%84%DB%8C%DA%AF-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-2022-23">
+                        <h4>برترین گل‌های رقابت‌های لیگ قهرمانان اروپا 2022/23</h4>
                     </a>
                 </div>
             </div>
@@ -1935,7 +1894,7 @@
     </div>
     <div class="report-srction">
         <div class="form-box">
-            <form role="form" id="feedback-form" action="https://web-api.varzesh3.com/v1.0/feedbacks/video/302436" data-ajax="true" data-ajax-method="POST" data-ajax-success="ajaxForm.onFeedbackSuccess">
+            <form role="form" id="feedback-form" action="https://web-api.varzesh3.com/v1.0/feedbacks/video/256351" data-ajax="true" data-ajax-method="POST" data-ajax-success="ajaxForm.onFeedbackSuccess">
                 <div>
                     <span class="field-validation-valid" data-valmsg-for="FeedbackType" data-valmsg-replace="true"></span>
                     <select data-val="true" data-val-required="نوع مشکل الزامی است" id="FeedbackType" name="FeedbackType">
@@ -2152,11 +2111,11 @@
     
     <script>
         window.autoPlay = {
-            title: `برترین سیوهای فصل 2022/23 لیگ اروپا `,
-            poster: "https://video-icdn.varzesh3.com/covers/2023/06/05/C/23izgpck.jpg",
-            api: "https://video.varzesh3.com/getvideo/302779",
-            publishedOn: " 15 خرداد",
-            duration: "05:15"
+            title: `نوستالژی، گل‌های اینیستا در لیگ قهرمانان اروپا`,
+            poster: "https://video-icdn.varzesh3.com/covers/2023/06/16/D/pxl3crh2.jpg",
+            api: "https://video.varzesh3.com/getvideo/303611",
+            publishedOn: " 26 خرداد",
+            duration: "03:50"
         };
     </script>
         <script src="https://www.google.com/recaptcha/api.js?hl=fa" async defer></script>
