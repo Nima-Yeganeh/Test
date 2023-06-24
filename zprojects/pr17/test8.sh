@@ -48,7 +48,7 @@ while true; do
           echo "OK >> $file_path"
           echo $file_path > zmp4file.txt
           echo "Telegram Post ..."
-          python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
+          # python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
           sleep 2
           echo "Instagram Post ..."
           # python3 post_igtv.py $Insta_ID $Insta_Pass
