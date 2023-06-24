@@ -43,7 +43,7 @@ while true; do
       echo $zfilename
       wget -O $zfilename $vidurl
       file_path="output.mp4"
-      ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path
+      ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > logfile.txt 2>&1
       echo $file_path
       if [ -s "$file_path" ]; then
           echo "OK >> $file_path"
