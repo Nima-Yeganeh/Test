@@ -31,7 +31,10 @@ while true; do
       info=$(cat $infofile | head -n1)
       echo $info
       # sleep 10
-
+      content="$title $desc $tags $info"
+      echo "****"
+      echo $content
+      
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
