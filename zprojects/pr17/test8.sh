@@ -1,5 +1,6 @@
 file1="file.txt"
 file2="filedone.txt"
+infofile="info.txt"
 
 # echo "Enter a 40-character code: "
 # read code
@@ -27,6 +28,8 @@ while true; do
       echo $tags
       vidurl=$(cat test1.txt | grep 'contentUrl' | grep -oP '(?<=contentUrl": ")[^"]*' | head -n1)
       echo $vidurl
+      info=$(cat $infofile | head -n1)
+      echo $info
       sleep 500
 
       echo "$zline" >> $file2
