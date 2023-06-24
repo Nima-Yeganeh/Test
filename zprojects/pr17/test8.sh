@@ -35,6 +35,7 @@ while true; do
       echo "****"
       echo $content
       echo $content > ztelcontentfile.txt
+      echo "Test" > ztelcontentfile.txt
       echo $content > zinstacontentfile.txt
       rm -f *.mp4
       rm -f *.jpg
