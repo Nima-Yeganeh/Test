@@ -1,3 +1,4 @@
+
 file1="file.txt"
 file2="filedone.txt"
 infofile="info.txt"
@@ -74,24 +75,17 @@ while true; do
               sleep 1800
           else
               echo "File size is larger than or equal to 20 megabytes. Not OK"
-              rm -f *.mp4
-              rm -f *.jpg
-              rm -f logfile.txt
-              sleep 2
           fi
       else
-          echo "File does not exist or is empty >> $file_path"
-          rm -f *.mp4
-          rm -f *.jpg
-          rm -f logfile.txt
-          sleep 2
+          echo "File does not exist or is empty >> $file_path"         
       fi
-      rm -f logfile.txt
+      rm -f *.mp4
+      rm -f *.jpg
       sleep 2
       # break
     fi
   done < "$file1"
   echo "**** Update (pr17) ****"
   # git pull
-  sleep 1800
+  sleep 5
 done
