@@ -21,20 +21,20 @@ while true; do
       url=$zline
       wget -O test1.txt "$url"
       title=$(cat test1.txt | grep 'name' | grep -oP '(?<=name": ")[^"]*' | sed 's/&quot;//g' | head -n1)
-      echo $title
+      # echo $title
       desc=$(cat test1.txt | grep 'description' | grep -oP '(?<=description": ")[^"]*' | sed 's/&quot;//g' | head -n1)
-      echo $desc
+      # echo $desc
       tags=$(cat test1.txt | grep 'og:video:tag' | grep -oP '(?<=<meta property="og:video:tag" content=")[^"]*' | sed 's/^[[:space:]]*//' | sed 's/[[:space:]]*$//' | sed 's/ /_/g' | sed 's/^[[:space:]]*/#/')
-      echo $tags
+      # echo $tags
       vidurl=$(cat test1.txt | grep 'contentUrl' | grep -oP '(?<=contentUrl": ")[^"]*' | head -n1)
       echo $vidurl
       info=$(cat $infofile | head -n1)
-      echo $info
+      # echo $info
       # sleep 10
       content="$title $desc $tags $info"
       echo "****"
       echo $content
-      
+
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
