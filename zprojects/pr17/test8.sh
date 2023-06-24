@@ -10,14 +10,23 @@ file2="filedone.txt"
 
 while true; do
   url="https://video.varzesh3.com/"
-  wget -O test3.txt "$url"
+  # wget -O test3.txt "$url"
   cat test3.txt | grep 'data-nt-link href' | grep 'title' | grep -oP '(?<=<a class="title" data-nt-link href=")[^"]*' | grep -oP '(?<=/video/)\d+' | sort -n | sed 's/^/https:\/\/video.varzesh3.com\/video\//' > $file1
   cat $file1 | wc -l
-  sleep 5
   while IFS= read -r zline; do
     if ! grep -qF "$zline" "$file2"; then
       echo "**** Started ****"
       echo "$zline"
+      url=$zline
+      wget -O test1.txt "$url"
+      title=$(cat test1.txt | grep 'name' | grep -oP '(?<=name": ")[^"]*' | head -n1)
+      echo $title
+      desc=$(cat test1.txt | grep 'description' | grep -oP '(?<=description": ")[^"]*' | head -n1)
+      echo $desc
+      tags=$(cat test1.txt | grep 'og:video:tag' | grep -oP '(?<=<meta property="og:video:tag" content=")[^"]*' | sed 's/^[[:space:]]*//' | sed 's/^[[:space:]]*/#/')
+      echo $tags
+      vidurl=$(cat test1.txt | grep 'contentUrl' | grep -oP '(?<=contentUrl": ")[^"]*' | head -n1)
+      echo $vidurl
       sleep 500
 
       echo "$zline" >> $file2
