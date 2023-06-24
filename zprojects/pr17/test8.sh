@@ -21,6 +21,7 @@ while true; do
       rm -f logfile.txt
       echo "$zline"
       echo "$zline" >> $file2
+      sleep 2
       url=$zline
       wget -O test1.txt "$url" > logfile.txt 2>&1
       title=$(cat test1.txt | grep 'name' | grep -oP '(?<=name": ")[^"]*' | sed 's/&quot;//g' | head -n1)
@@ -73,14 +74,17 @@ while true; do
               rm -f *.mp4
               rm -f *.jpg
               rm -f logfile.txt
+              sleep 2
           fi
       else
           echo "File does not exist or is empty >> $file_path"
           rm -f *.mp4
           rm -f *.jpg
           rm -f logfile.txt
+          sleep 2
       fi
       rm -f logfile.txt
+      sleep 2
       # break
     fi
   done < "$file1"
