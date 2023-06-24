@@ -2,12 +2,12 @@ file1="file.txt"
 file2="filedone.txt"
 infofile="info.txt"
 
-# echo "Enter a 40-character code: "
-# read code
-# Tel_Bot_Token=$(python3 test_decrypt_full_arg.py 1 $code)
-# Tel_Chat_ID=$(python3 test_decrypt_full_arg.py 2 $code)
-# Insta_ID=$(python3 test_decrypt_full_arg.py 6 $code)
-# Insta_Pass=$(python3 test_decrypt_full_arg.py 7 $code)
+echo "Enter a 40-character code: "
+read code
+Tel_Bot_Token=$(python3 test_decrypt_full_arg.py 1 $code)
+Tel_Chat_ID=$(python3 test_decrypt_full_arg.py 2 $code)
+Insta_ID=$(python3 test_decrypt_full_arg.py 6 $code)
+Insta_Pass=$(python3 test_decrypt_full_arg.py 7 $code)
 
 while true; do
   url="https://video.varzesh3.com/"
@@ -31,10 +31,32 @@ while true; do
       info=$(cat $infofile | head -n1)
       # echo $info
       # sleep 10
-      content="$title $desc $tags $info"
+      content="$title $desc $tags $info @$Tel_Chat_ID"
       echo "****"
       echo $content
-
+      echo $content > ztelcontentfile.txt
+      echo $content > zinstacontentfile.txt
+      rm -f *.mp4
+      rm -f *.jpg
+      zfilename='file.mp4'
+      echo $zfilename
+      wget -O $zfilename $vidurl
+      file_path="$zfilename"
+      echo $file_path
+      if [ -s "$file_path" ]; then
+          echo "OK >> $file_path"
+          echo $file_path > zmp4file.txt
+          echo "Telegram Post ..."
+          # python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
+          sleep 2
+          echo "Instagram Post ..."
+          # python3 post_igtv.py $Insta_ID $Insta_Pass
+          sleep 2
+      else
+          echo "File does not exist or is empty >> $file_path"
+      fi
+      rm -f *.mp4
+      rm -f *.jpg
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
@@ -45,5 +67,5 @@ while true; do
   done < "$file1"
   echo "**** Update (pr15) ****"
   # git pull
-  sleep 120
+  sleep 3600
 done
