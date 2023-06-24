@@ -11,7 +11,7 @@ Insta_Pass=$(python3 test_decrypt_full_arg.py 7 $code)
 
 while true; do
   url="https://video.varzesh3.com/"
-  # wget -O test3.txt "$url" > logfile.txt 2>&1
+  wget -O test3.txt "$url" > logfile.txt 2>&1
   cat test3.txt | grep 'data-nt-link href' | grep 'title' | grep -oP '(?<=<a class="title" data-nt-link href=")[^"]*' | grep -oP '(?<=/video/)\d+' | sort -n | sed 's/^/https:\/\/video.varzesh3.com\/video\//' > $file1
   cat $file1 | wc -l
   while IFS= read -r zline; do
@@ -33,14 +33,14 @@ while true; do
       # sleep 10
       content="$title $desc $tags $info @$Tel_Chat_ID"
       echo "****"
-      echo $content
+      # echo $content
       echo $content > ztelcontentfile.txt
       # echo "Test" > ztelcontentfile.txt
       echo $content > zinstacontentfile.txt
       rm -f *.mp4
       rm -f *.jpg
       zfilename='file.mp4'
-      echo $zfilename
+      # echo $zfilename
       wget -O $zfilename $vidurl > logfile.txt 2>&1
       file_path="output.mp4"
       ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > logfile.txt 2>&1
@@ -54,7 +54,7 @@ while true; do
               python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
               sleep 2
               echo "Instagram Post ..."
-              # python3 post_igtv.py $Insta_ID $Insta_Pass
+              python3 post_igtv.py $Insta_ID $Insta_Pass
               sleep 2
           else
               echo "File size is larger than or equal to 20 megabytes. Not OK"
@@ -62,17 +62,16 @@ while true; do
       else
           echo "File does not exist or is empty >> $file_path"
       fi
-      # rm -f *.mp4
-      # rm -f *.jpg
+      rm -f *.mp4
+      rm -f *.jpg
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
-      sleep 3600
-
+      sleep 1800
       # break
     fi
   done < "$file1"
   echo "**** Update (pr15) ****"
   # git pull
-  sleep 3600
+  sleep 1800
 done
