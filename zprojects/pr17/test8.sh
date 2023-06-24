@@ -12,6 +12,8 @@ while true; do
   url="https://video.varzesh3.com/"
   wget -O test3.txt "$url"
   cat test3.txt | grep 'data-nt-link href' | grep 'title' | grep -oP '(?<=<a class="title" data-nt-link href=")[^"]*' | grep -oP '(?<=/video/)\d+' | sort -n | sed 's/^/https:\/\/video.varzesh3.com\/video\//' > $file1
+  cat $file1 | wc -l
+  sleep 5
   while IFS= read -r zline; do
     if ! grep -qF "$zline" "$file2"; then
       echo "**** Started ****"
