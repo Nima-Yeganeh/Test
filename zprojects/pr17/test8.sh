@@ -56,18 +56,24 @@ while true; do
               echo "**** Update (pr17) **** Instagram Post ..."
               python3 post_igtv.py $Insta_ID $Insta_Pass
               sleep 2
+              rm -f *.mp4
+              rm -f *.jpg
+              echo "$zline" >> $file2
+              echo "**** Done! ****"
+              echo "**** Waiting for the next one ****"
+              sleep 1800
           else
               echo "File size is larger than or equal to 20 megabytes. Not OK"
+              rm -f *.mp4
+              rm -f *.jpg
+              echo "$zline" >> $file2
           fi
       else
           echo "File does not exist or is empty >> $file_path"
+          rm -f *.mp4
+          rm -f *.jpg
+          echo "$zline" >> $file2
       fi
-      rm -f *.mp4
-      rm -f *.jpg
-      echo "$zline" >> $file2
-      echo "**** Done! ****"
-      echo "**** Waiting for the next one ****"
-      sleep 1800
       # break
     fi
   done < "$file1"
