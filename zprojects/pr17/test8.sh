@@ -32,7 +32,7 @@ while true; do
       echo $info
       sleep 10
 
-      # echo "$zline" >> $file2
+      echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
       # sleep 7200
