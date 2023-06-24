@@ -19,12 +19,13 @@ while true; do
   while IFS= read -r zline; do
     if ! grep -qF "$zline" "$file2"; then
       echo "**** Started ****"
-      rm -f logfile.txt
+      # rm -f logfile.txt
       echo "$zline"
       echo "$zline" >> $file2
       sleep 2
       url=$zline
       wget -O test1.txt "$url" > logfile.txt 2>&1
+      rm -f logfile.txt
       title=$(cat test1.txt | grep 'name' | grep -oP '(?<=name": ")[^"]*' | sed 's/&quot;//g' | head -n1)
       # echo $title
       desc=$(cat test1.txt | grep 'description' | grep -oP '(?<=description": ")[^"]*' | sed 's/&quot;//g' | head -n1)
@@ -49,6 +50,7 @@ while true; do
       # echo $zfilename
       echo "MP4 Download ..."
       wget -O $zfilename $vidurl > logfile.txt 2>&1
+      rm -f logfile.txt
       file_path="output.mp4"
       echo "Convert ..."
       ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > logfile.txt 2>&1
