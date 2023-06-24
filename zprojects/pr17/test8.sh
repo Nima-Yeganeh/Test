@@ -19,8 +19,7 @@ while true; do
   cat $file1 | wc -l
   while IFS= read -r zline; do
     if ! grep -qF "$zline" "$file2"; then
-      break
-      
+      # break
       echo "**** Started ****"
       # rm -f logfile.txt
       echo "$zline"
@@ -84,7 +83,7 @@ while true; do
       rm -f *.mp4
       rm -f *.jpg
       sleep 2
-      # break
+      break
     fi
   done < "$file1"
   echo "**** Update (pr17) ****"
