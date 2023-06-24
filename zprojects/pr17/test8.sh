@@ -56,8 +56,8 @@ while true; do
       else
           echo "File does not exist or is empty >> $file_path"
       fi
-      rm -f *.mp4
-      rm -f *.jpg
+      # rm -f *.mp4
+      # rm -f *.jpg
       echo "$zline" >> $file2
       echo "**** Done! ****"
       echo "**** Waiting for the next one ****"
