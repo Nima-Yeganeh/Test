@@ -11,7 +11,7 @@ Insta_Pass=$(python3 test_decrypt_full_arg.py 7 $code)
 
 while true; do
   url="https://video.varzesh3.com/"
-  # wget -O test3.txt "$url"
+  # wget -O test3.txt "$url" > logfile.txt 2>&1
   cat test3.txt | grep 'data-nt-link href' | grep 'title' | grep -oP '(?<=<a class="title" data-nt-link href=")[^"]*' | grep -oP '(?<=/video/)\d+' | sort -n | sed 's/^/https:\/\/video.varzesh3.com\/video\//' > $file1
   cat $file1 | wc -l
   while IFS= read -r zline; do
@@ -19,7 +19,7 @@ while true; do
       echo "**** Started ****"
       echo "$zline"
       url=$zline
-      wget -O test1.txt "$url"
+      wget -O test1.txt "$url" > logfile.txt 2>&1
       title=$(cat test1.txt | grep 'name' | grep -oP '(?<=name": ")[^"]*' | sed 's/&quot;//g' | head -n1)
       # echo $title
       desc=$(cat test1.txt | grep 'description' | grep -oP '(?<=description": ")[^"]*' | sed 's/&quot;//g' | head -n1)
@@ -35,13 +35,13 @@ while true; do
       echo "****"
       echo $content
       echo $content > ztelcontentfile.txt
-      echo "Test" > ztelcontentfile.txt
+      # echo "Test" > ztelcontentfile.txt
       echo $content > zinstacontentfile.txt
       rm -f *.mp4
       rm -f *.jpg
       zfilename='file.mp4'
       echo $zfilename
-      wget -O $zfilename $vidurl
+      wget -O $zfilename $vidurl > logfile.txt 2>&1
       file_path="output.mp4"
       ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > logfile.txt 2>&1
       echo $file_path
