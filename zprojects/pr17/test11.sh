@@ -14,5 +14,6 @@ while true; do
       echo "$zline"
       echo "$zline" >> $file2
       sleep 2
+    fi  
   done < "$file1"
 done
