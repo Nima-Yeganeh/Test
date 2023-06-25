@@ -56,8 +56,7 @@ while true; do
       file_path="output.mp4"
       echo "Convert ..."
       ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > logfile.txt 2>&1
-      rm -f logfile.txt
-      # echo $file_path
+      echo $file_path
       if [ -s "$file_path" ]; then
           echo "OK >> $file_path"
           if [ $(stat -c%s "$file_path") -lt 20000000 ]; then
@@ -66,8 +65,6 @@ while true; do
               echo "**** Update (pr17) **** Telegram Post ..."
               python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
               sleep 2
-              # echo $file_path > zmp4file.txt
-              echo $zfilename > zmp4file.txt
               echo "**** Update (pr17) **** Instagram Post ..."
               python3 post_igtv.py $Insta_ID $Insta_Pass
               sleep 2
@@ -91,5 +88,5 @@ while true; do
   done < "$file1"
   echo "**** Update (pr17) ****"
   # git pull
-  sleep 30
+  sleep 5
 done
