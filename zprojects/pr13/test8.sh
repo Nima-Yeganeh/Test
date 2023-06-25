@@ -60,7 +60,9 @@ while true; do
       done
       echo "File size is greater than zero." 
 
-      cat $ztestfile | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 > $ztesttemp
+      # cat $ztestfile | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 > $ztesttemp
+      cat $ztestfile | grep -o '.*\.mp3' | grep -oP 'href="\K[^"]+' | grep mp3 | grep 320 > $ztesttemp
+
       if [ -s "$ztesttemp" ]; then
 
         echo "File is not empty."
