@@ -340,6 +340,7 @@ while true; do
       echo "$zline" >> $file2
       echo "**** Done! ****"
       sleep 30
+      
 
     fi
   done < "$file1"
