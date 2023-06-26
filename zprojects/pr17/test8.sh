@@ -55,7 +55,7 @@ while true; do
       while [ -z "$content_length" ]; do
         echo "Get header and content_length..."
         headers=$(timeout 10 curl -sI "$vidurl")
-        content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
+        content_length=$(echo "$headers" | grep -i Content-Length | head -n1 | awk '{print $2}' | tr -d '\r')
         sleep 10
       done
       echo $content_length
