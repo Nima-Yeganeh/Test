@@ -305,7 +305,11 @@ while true; do
                   # sleep 50
                   echo "**** Update (pr13) Wordpress Process ****"
                   python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
-
+                  rm -f $zimagefile
+                  rm -- *.mp3
+                  rm -f *.mp3
+                  sleep 60
+                  
                 fi
               
               else
@@ -341,7 +345,7 @@ while true; do
       # sleep 50
       echo "$zline" >> $file2
       echo "**** Done! ****"
-      sleep 60
+      sleep 2
 
     fi
   done < "$file1"
