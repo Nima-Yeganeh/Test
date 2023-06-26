@@ -208,8 +208,13 @@ while true; do
 
               while IFS= read -r url; do         
                 echo $url
-                headers=$(curl -sI "$url")
-                content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
+                content_length=""
+                while [ -z "$content_length" ]; do
+                  headers=$(timeout 10 curl -sI "$url")
+                  content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
+                done
+                echo $content_length
+                sleep 1000
                 if [[ -n "$content_length" ]]; then
                   if (( content_length <= 1024 )); then
                     valid=false
