@@ -243,10 +243,9 @@ while true; do
                       valid3=true
                     fi
                   done
-                  echo "valid3"
-                  echo $valid3
-                  sleep 6000
-                  
+                  # echo "valid3"
+                  # echo $valid3
+                  # sleep 6000
                   chmod 777 $filename
                   id3v2 -D $filename
                   id3v2 -d $filename
@@ -310,14 +309,19 @@ while true; do
                   echo "**** Update (pr13) Telegram Process ****"
                   rm -f $zfile4
                   touch $zfile4
-                  python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
+                  if [ "$valid3" = true ]; then
+                    python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
+                  fi
                   # echo 'tel...'
                   # sleep 50
                   echo "**** Update (pr13) Wordpress Process ****"
-                  python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
+                  if [ "$valid3" = true ]; then
+                    python3 test21_post_cat_tag_image_upload_fa.py $WP_Domain $WP_User $WP_Pass
+                  fi
                   rm -f $zimagefile
                   rm -- *.mp3
                   rm -f *.mp3
+                  echo "done! sleep!"
                   sleep 60
                   
                 fi
