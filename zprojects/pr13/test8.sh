@@ -210,11 +210,13 @@ while true; do
                 echo $url
                 content_length=""
                 while [ -z "$content_length" ]; do
+                  echo "Get header and content_length..."
                   headers=$(timeout 10 curl -sI "$url")
                   content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
+                  sleep 10
                 done
                 echo $content_length
-                sleep 1000
+                # sleep 1000
                 if [[ -n "$content_length" ]]; then
                   if (( content_length <= 1024 )); then
                     valid=false
