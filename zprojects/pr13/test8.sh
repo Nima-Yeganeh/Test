@@ -249,6 +249,7 @@ while true; do
                     if [ $(stat -c%s "$filename") -gt 1000000 ]; then
                       valid3=true
                     fi
+                    sleep 10
                   done
                   # echo "valid3"
                   # echo $valid3
@@ -329,7 +330,7 @@ while true; do
                   rm -- *.mp3
                   rm -f *.mp3
                   echo "done! sleep!"
-                  sleep 60
+                  sleep 120
                   
                 fi
               
@@ -366,7 +367,7 @@ while true; do
       # sleep 50
       echo "$zline" >> $file2
       echo "**** Done! ****"
-      sleep 2
+      sleep 10
 
     fi
   done < "$file1"
