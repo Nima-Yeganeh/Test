@@ -59,13 +59,14 @@ while true; do
         sleep 10
       done
       echo $content_length
-      # sleep 1000
+      sleep 5
       if [[ -n "$content_length" ]]; then
         if (( content_length <= 250000000 )); then
           valid=true
           break
         fi
       fi
+      echo $valid
       if [ "$valid" = true ]; then
         echo "MP4 Download ..."
         wget -O $zfilename $vidurl > logfile.txt 2>&1
