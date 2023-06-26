@@ -236,17 +236,7 @@ while true; do
                   echo $filename
                   echo $filename >> $zdlsitefilepath1filename
                   echo "$zdlurlpath$filename" >> $zmp3newfileurl
-                  valid3=false
-                  while [ "$valid3" = false ]; do
-                    timeout 20 wget -O $filename $url
-                    if [ $(stat -c%s "$filename") -gt 1000000 ]; then
-                      valid3=true
-                    fi
-                  done
-                  echo "valid3"
-                  echo $valid3
-                  sleep 6000
-                  
+                  wget -O $filename $url
                   chmod 777 $filename
                   id3v2 -D $filename
                   id3v2 -d $filename
