@@ -73,7 +73,7 @@ while true; do
         rm -f logfile.txt
         file_path="output.mp4"
         echo "Convert ..."
-        ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > /dev/null 2>&1
+        ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > logfile.txt 2>&1
         rm -f logfile.txt
         # echo $file_path
         if [ -s "$file_path" ]; then
