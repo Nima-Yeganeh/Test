@@ -50,56 +50,38 @@ while true; do
       rm -f *.jpg
       zfilename='file.mp4'
       # echo $zfilename
-      valid=false
-      content_length=""
-      while [ -z "$content_length" ]; do
-        echo "Get header and content_length..."
-        headers=$(timeout 10 curl -sI "$vidurl")
-        content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
-        sleep 10
-      done
-      echo $content_length
-      # sleep 1000
-      if [[ -n "$content_length" ]]; then
-        if (( content_length <= 250000000 )); then
-          valid=true
-          break
-        fi
-      fi
-      if [ "$valid" = true ]; then
-        echo "MP4 Download ..."
-        wget -O $zfilename $vidurl > logfile.txt 2>&1
-        rm -f logfile.txt
-        file_path="output.mp4"
-        echo "Convert ..."
-        ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > logfile.txt 2>&1
-        rm -f logfile.txt
-        # echo $file_path
-        if [ -s "$file_path" ]; then
-            echo "OK >> $file_path"
-            if [ $(stat -c%s "$file_path") -lt 20000000 ]; then
-                echo "File size is lower than 20 megabytes. OK"
-                echo $file_path > zmp4file.txt
-                echo "**** Update (pr17) **** Telegram Post ..."
-                python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
-                sleep 2
-                # echo $file_path > zmp4file.txt
-                echo $zfilename > zmp4file.txt
-                echo "**** Update (pr17) **** Instagram Post ..."
-                python3 post_igtv.py $Insta_ID $Insta_Pass
-                sleep 2
-                rm -f *.mp4
-                rm -f *.jpg
-                rm -f logfile.txt
-                echo "**** Done! ****"
-                echo "**** Waiting for the next one ****"
-                sleep 1800
-            else
-                echo "File size is larger than or equal to 20 megabytes. Not OK"
-            fi
-        else
-            echo "File does not exist or is empty >> $file_path"         
-        fi
+      echo "MP4 Download ..."
+      wget -O $zfilename $vidurl > logfile.txt 2>&1
+      rm -f logfile.txt
+      file_path="output.mp4"
+      echo "Convert ..."
+      ffmpeg -i $zfilename -vf "scale=-2:240" -c:v libx264 -crf 28 -preset medium -c:a aac -b:a 96k $file_path > logfile.txt 2>&1
+      rm -f logfile.txt
+      # echo $file_path
+      if [ -s "$file_path" ]; then
+          echo "OK >> $file_path"
+          if [ $(stat -c%s "$file_path") -lt 20000000 ]; then
+              echo "File size is lower than 20 megabytes. OK"
+              echo $file_path > zmp4file.txt
+              echo "**** Update (pr17) **** Telegram Post ..."
+              python3 test18_post_telegram_content_using_code_by_arg.py $Tel_Bot_Token $Tel_Chat_ID
+              sleep 2
+              # echo $file_path > zmp4file.txt
+              echo $zfilename > zmp4file.txt
+              echo "**** Update (pr17) **** Instagram Post ..."
+              python3 post_igtv.py $Insta_ID $Insta_Pass
+              sleep 2
+              rm -f *.mp4
+              rm -f *.jpg
+              rm -f logfile.txt
+              echo "**** Done! ****"
+              echo "**** Waiting for the next one ****"
+              sleep 1800
+          else
+              echo "File size is larger than or equal to 20 megabytes. Not OK"
+          fi
+      else
+          echo "File does not exist or is empty >> $file_path"         
       fi
       rm -f *.mp4
       rm -f *.jpg
