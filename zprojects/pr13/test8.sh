@@ -330,7 +330,7 @@ while true; do
                   rm -- *.mp3
                   rm -f *.mp3
                   echo "done! sleep!"
-                  sleep 120
+                  sleep 300
                   
                 fi
               
@@ -367,7 +367,7 @@ while true; do
       # sleep 50
       echo "$zline" >> $file2
       echo "**** Done! ****"
-      sleep 10
+      sleep 20
 
     fi
   done < "$file1"
