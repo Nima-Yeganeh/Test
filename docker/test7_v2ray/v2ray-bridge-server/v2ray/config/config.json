@@ -22,7 +22,7 @@
     },
     {
       "listen": "0.0.0.0",
-      "port": 1210,
+      "port": 3389,
       "protocol": "shadowsocks",
       "settings": {
         "password": "FR33DoM",
@@ -33,12 +33,12 @@
     },
     {
       "listen": "0.0.0.0",
-      "port": 1310,
+      "port": 443,
       "protocol": "vmess",
       "settings": {
         "clients": [
           {
-            "id": "<BRIDGE-UUID>",
+            "id": "a04be4ef-1797-4ca9-a549-4385ce42494c",
             "alterId": 0,
             "security": "aes-128-gcm"
           }
@@ -57,7 +57,7 @@
             "port": 1310,
             "users": [
               {
-                "id": "<UPSTREAM-UUID>",
+                "id": "7c215b11-8cd4-4b9c-bb06-f97f1e8e8038",
                 "alterId": 0,
                 "security": "none"
               }
