@@ -2,3 +2,12 @@ echo "Started!"
 cd utils
 bash bbr.sh
 cd ..
+cd v2ray-upstream-server
+bash start.sh
+cd ..
+cd v2ray-bridge-server
+bash ipconfig.sh
+bash start.sh
+bash info.sh
+cd ..
+echo "Done!"
