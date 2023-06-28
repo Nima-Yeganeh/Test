@@ -25,7 +25,7 @@
       "port": 1210,
       "protocol": "shadowsocks",
       "settings": {
-        "password": "<SHADOWSOCKS-PASSWORD>",
+        "password": "FR33DoM",
         "method": "aes-128-gcm",
         "level": 0,
         "network": "tcp,udp"
