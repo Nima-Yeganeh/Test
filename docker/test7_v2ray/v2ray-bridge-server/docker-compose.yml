@@ -15,4 +15,3 @@ services:
       - "443:443"
     volumes:
       - ./v2ray/config/:/etc/v2ray/
-      - ./logs:/var/log/v2ray/
