@@ -54,7 +54,7 @@
         "vnext": [
           {
             "address": "<UPSTREAM-IP>",
-            "port": 1310,
+            "port": 1320,
             "users": [
               {
                 "id": "7c215b11-8cd4-4b9c-bb06-f97f1e8e8038",
