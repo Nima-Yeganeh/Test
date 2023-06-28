@@ -10,4 +10,3 @@ services:
       - "1320:1310"
     volumes:
       - ./v2ray/config/:/etc/v2ray/
-      - ./logs:/var/log/v2ray/
