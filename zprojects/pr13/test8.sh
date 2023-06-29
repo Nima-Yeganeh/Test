@@ -218,7 +218,7 @@ while true; do
                     content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
                     sleep 10
                   else:
-                    break
+                    content_length="0"
                 done
                 echo $content_length
                 # sleep 1000
