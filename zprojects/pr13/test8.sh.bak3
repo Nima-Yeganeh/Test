@@ -209,16 +209,11 @@ while true; do
               while IFS= read -r url; do         
                 echo $url
                 content_length=""
-                content_try = 0
                 while [ -z "$content_length" ]; do
-                  content_try += 1
-                  if content_try < 3:
-                    echo "Get header and content_length..."
-                    headers=$(timeout 10 curl -sI "$url")
-                    content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
-                    sleep 10
-                  else:
-                    break
+                  echo "Get header and content_length..."
+                  headers=$(timeout 10 curl -sI "$url")
+                  content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
+                  sleep 10
                 done
                 echo $content_length
                 # sleep 1000
