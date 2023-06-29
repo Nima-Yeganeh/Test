@@ -209,7 +209,7 @@ while true; do
               while IFS= read -r url; do         
                 echo $url
                 content_length=""
-                content_try = 0
+                content_try=0
                 while [ -z "$content_length" ]; do
                   content_try += 1
                   if (( content_try < 3 )); then
