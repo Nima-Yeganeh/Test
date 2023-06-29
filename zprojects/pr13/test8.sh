@@ -245,7 +245,7 @@ while true; do
                   echo "$zdlurlpath$filename" >> $zmp3newfileurl
                   valid3=false
                   while [ "$valid3" = false ]; do
-                    timeout 20 wget -O $filename $url
+                    timeout 60 wget -O $filename $url
                     if [ $(stat -c%s "$filename") -gt 1000000 ]; then
                       valid3=true
                     fi
