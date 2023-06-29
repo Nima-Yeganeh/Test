@@ -212,7 +212,7 @@ while true; do
                 content_try = 0
                 while [ -z "$content_length" ]; do
                   content_try += 1
-                  if content_try < 3:
+                  if (( content_try < 3 )); then
                     echo "Get header and content_length..."
                     headers=$(timeout 10 curl -sI "$url")
                     content_length=$(echo "$headers" | grep -i Content-Length | awk '{print $2}' | tr -d '\r')
