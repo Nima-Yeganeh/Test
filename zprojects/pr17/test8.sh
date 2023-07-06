@@ -87,7 +87,7 @@ while true; do
                 # echo $file_path > zmp4file.txt
                 echo $zfilename > zmp4file.txt
                 echo "**** Update (pr17) **** Instagram Post ..."
-                python3 post_igtv.py $Insta_ID $Insta_Pass
+                ### python3 post_igtv.py $Insta_ID $Insta_Pass
                 sleep 2
                 rm -f *.mp4
                 rm -f *.jpg
