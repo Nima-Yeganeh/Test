@@ -8,19 +8,19 @@
 		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v18.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>دانلود آهنگ علی منتظری با نام چرا من - نکست وان</title>
-	<meta name="description" content="دانلود آهنگ علی منتظری با نام چرا من با کیفیت های مختلف به صورت رایگان" />
-	<link rel="canonical" href="https://next1.ir/علی-منتظری-چرا-من/" />
+	<title>دانلود آهنگ سینا پارسیان با نام قطار 2 - نکست وان</title>
+	<meta name="description" content="دانلود آهنگ سینا پارسیان با نام قطار 2 با کیفیت های مختلف به صورت رایگان" />
+	<link rel="canonical" href="https://next1.ir/سینا-پارسیان-قطار-2/" />
 	<meta property="og:locale" content="fa_IR" />
 	<meta property="og:type" content="article" />
-	<meta property="og:title" content="دانلود آهنگ علی منتظری با نام چرا من - نکست وان" />
-	<meta property="og:description" content="دانلود آهنگ علی منتظری با نام چرا من با کیفیت های مختلف به صورت رایگان" />
-	<meta property="og:url" content="https://next1.ir/علی-منتظری-چرا-من/" />
+	<meta property="og:title" content="دانلود آهنگ سینا پارسیان با نام قطار 2 - نکست وان" />
+	<meta property="og:description" content="دانلود آهنگ سینا پارسیان با نام قطار 2 با کیفیت های مختلف به صورت رایگان" />
+	<meta property="og:url" content="https://next1.ir/سینا-پارسیان-قطار-2/" />
 	<meta property="og:site_name" content="بزرگترین سایت دانلود آهنگ جدید - نکست وان" />
 	<meta property="article:publisher" content="https://www.facebook.com/Next1Song" />
-	<meta property="article:published_time" content="2023-07-03T19:40:37+00:00" />
-	<meta property="article:modified_time" content="2023-07-03T19:41:55+00:00" />
-	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2023/07/AliMontazeri-CheraMan.jpg" />
+	<meta property="article:published_time" content="2023-07-06T09:33:19+00:00" />
+	<meta property="article:modified_time" content="2023-07-06T09:34:01+00:00" />
+	<meta property="og:image" content="https://next1.ir/wp-content/uploads/2023/07/SinaParsian-Ghatar2.jpg" />
 	<meta property="og:image:width" content="500" />
 	<meta property="og:image:height" content="500" />
 	<meta property="og:image:type" content="image/jpeg" />
@@ -28,7 +28,7 @@
 	<meta name="twitter:data1" content="next11admin" />
 	<meta name="twitter:label2" content="زمان تقریبی برای خواندن" />
 	<meta name="twitter:data2" content="2 دقیقه" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2023/07/AliMontazeri-CheraMan.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2023/07/AliMontazeri-CheraMan.jpg","width":500,"height":500,"caption":"علی منتظری - چرا من"},{"@type":"WebPage","@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#webpage","url":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/","name":"دانلود آهنگ علی منتظری با نام چرا من - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#primaryimage"},"datePublished":"2023-07-03T19:40:37+00:00","dateModified":"2023-07-03T19:41:55+00:00","description":"دانلود آهنگ علی منتظری با نام چرا من با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ علی منتظری با نام چرا من"}]},{"@type":"Article","@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#article","isPartOf":{"@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ علی منتظری با نام چرا من","datePublished":"2023-07-03T19:40:37+00:00","dateModified":"2023-07-03T19:41:55+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#webpage"},"wordCount":7,"commentCount":0,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2023/07/AliMontazeri-CheraMan.jpg","keywords":["Ali Montazeri","Chera Man","آهنگ چرا من از علی منتظری","دانلود آهنگ چرا من از علی منتظری","علی منتظری","چرا من از علی منتظری","چرا من علی منتظری"],"articleSection":["تک آهنگ ها","علی منتظری","غمگین"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://next1.ir/#organization","name":"next1","url":"https://next1.ir/","sameAs":["https://www.facebook.com/Next1Song","https://www.instagram.com/next1_ir/","https://twitter.com/next1"],"logo":{"@type":"ImageObject","@id":"https://next1.ir/#logo","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","contentUrl":"https://next1.ir/wp-content/uploads/2015/05/clogo.png","width":160,"height":41,"caption":"next1"},"image":{"@id":"https://next1.ir/#logo"}},{"@type":"WebSite","@id":"https://next1.ir/#website","url":"https://next1.ir/","name":"بزرگترین سایت دانلود آهنگ جدید - نکست وان","description":"","publisher":{"@id":"https://next1.ir/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://next1.ir/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"ImageObject","@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#primaryimage","inLanguage":"fa-IR","url":"https://next1.ir/wp-content/uploads/2023/07/SinaParsian-Ghatar2.jpg","contentUrl":"https://next1.ir/wp-content/uploads/2023/07/SinaParsian-Ghatar2.jpg","width":500,"height":500,"caption":"سینا پارسیان - قطار 2"},{"@type":"WebPage","@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#webpage","url":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/","name":"دانلود آهنگ سینا پارسیان با نام قطار 2 - نکست وان","isPartOf":{"@id":"https://next1.ir/#website"},"primaryImageOfPage":{"@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#primaryimage"},"datePublished":"2023-07-06T09:33:19+00:00","dateModified":"2023-07-06T09:34:01+00:00","description":"دانلود آهنگ سینا پارسیان با نام قطار 2 با کیفیت های مختلف به صورت رایگان","breadcrumb":{"@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/"]}]},{"@type":"BreadcrumbList","@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://next1.ir/"},{"@type":"ListItem","position":2,"name":"دانلود آهنگ سینا پارسیان با نام قطار 2"}]},{"@type":"Article","@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#article","isPartOf":{"@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#webpage"},"author":{"@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807"},"headline":"دانلود آهنگ سینا پارسیان با نام قطار 2","datePublished":"2023-07-06T09:33:19+00:00","dateModified":"2023-07-06T09:34:01+00:00","mainEntityOfPage":{"@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#webpage"},"wordCount":6,"commentCount":0,"publisher":{"@id":"https://next1.ir/#organization"},"image":{"@id":"https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#primaryimage"},"thumbnailUrl":"https://next1.ir/wp-content/uploads/2023/07/SinaParsian-Ghatar2.jpg","keywords":["Ghatar 2","Sina Parsian","آهنگ قطار 2 از سینا پارسیان","دانلود آهنگ قطار 2 از سینا پارسیان","سینا پارسیان","قطار 2 از سینا پارسیان","قطار 2 سینا پارسیان"],"articleSection":["تک آهنگ ها","سینا پارسیان","غمگین"],"inLanguage":"fa-IR","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#respond"]}]},{"@type":"Person","@id":"https://next1.ir/#/schema/person/e6363ca747a944bbf92b7490d3e16807","name":"next11admin"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -56,9 +56,9 @@ img.emoji {
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 </style>
 <link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='https://next1.ir/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6' type='text/css' media='screen' />
-<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/45018" /><link rel='shortlink' href='https://next1.ir/?p=45018' />
-<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25d8%25b9%25d9%2584%25db%258c-%25d9%2585%25d9%2586%25d8%25aa%25d8%25b8%25d8%25b1%25db%258c-%25da%2586%25d8%25b1%25d8%25a7-%25d9%2585%25d9%2586%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25d8%25b9%25d9%2584%25db%258c-%25d9%2585%25d9%2586%25d8%25aa%25d8%25b8%25d8%25b1%25db%258c-%25da%2586%25d8%25b1%25d8%25a7-%25d9%2585%25d9%2586%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://next1.ir/wp-json/" /><link rel="alternate" type="application/json" href="https://next1.ir/wp-json/wp/v2/posts/45042" /><link rel='shortlink' href='https://next1.ir/?p=45042' />
+<link rel="alternate" type="application/json+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25d8%25b3%25db%258c%25d9%2586%25d8%25a7-%25d9%25be%25d8%25a7%25d8%25b1%25d8%25b3%25db%258c%25d8%25a7%25d9%2586-%25d9%2582%25d8%25b7%25d8%25a7%25d8%25b1-2%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://next1.ir/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnext1.ir%2F%25d8%25b3%25db%258c%25d9%2586%25d8%25a7-%25d9%25be%25d8%25a7%25d8%25b1%25d8%25b3%25db%258c%25d8%25a7%25d9%2586-%25d9%2582%25d8%25b7%25d8%25a7%25d8%25b1-2%2F&#038;format=xml" />
 <script>
 	var blogUrl = 'https://next1.ir';
 	function likeThis(a){
@@ -76,7 +76,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</script><script>
 					(document.onload = function(){
 						var xhttp = new XMLHttpRequest();
-						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=45018&_="+(Math.floor(Math.random() * 99999) + 10000), true);
+						xhttp.open("GET", "https://next1.ir/ajax.php?action=postviews&postviews_id=45042&_="+(Math.floor(Math.random() * 99999) + 10000), true);
 						xhttp.send();
 					})();
 				</script>				<script>(function () {var INSTALL_OPTIONS = {"token":"UA-113624283-1"}; (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", INSTALL_OPTIONS.token, "auto");ga("send", "pageview");})()</script>
@@ -127,13 +127,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 									<div class="box" id="specials">
 				<div class="title"><a href="https://next1.ir/category/special/"><h2>ویژه ها</h2></a></div>
 				<ul>
+								<li><a href="https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d8%ac%d9%87%d8%a7%d9%86%d8%a8%d8%ae%d8%b4-%d8%ad%d8%a7%d9%84-%d9%85%d9%86%d9%88-%d8%ae%d9%88%d8%a8-%da%a9%d9%86/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/07/BabakJahanbakhsh-HaleManoKhoobKon-150x150.jpg"  title="BabakJahanbakhsh-HaleManoKhoobKon" class="attachment-thumbnail size-thumbnail wp-post-image" alt="بابک جهانبخش - حال منو خوب کن" loading="lazy" /><p class="special-info"><span> بابک جهانبخش  -  حال منو خوب کن</span></p></a></li>		
 								<li><a href="https://next1.ir/%d8%a7%db%8c%d9%88%d8%a7%d9%86-%d8%a8%d8%a7%d9%86%d8%af-%db%8c%d8%a7%d8%b1-%d9%81%d8%b1%d8%a7%d9%85%d9%88%d8%b4-%da%a9%d8%a7%d8%b1/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/Evan-Faramooshkar-150x150.jpg"  title="Evan-Faramooshkar" class="attachment-thumbnail size-thumbnail wp-post-image" alt="ایوان باند - فراموش کار" loading="lazy" /><p class="special-info"><span> ایوان باند  -  یار فراموش کار</span></p></a></li>		
 								<li><a href="https://next1.ir/oneco-%d9%88-hn-%d8%ae%d8%b3%d8%aa%da%af%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/07/OnecoAndHN-Khastegi-150x150.jpg"  title="OnecoAndHN-Khastegi" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Oneco و HN - خستگی" loading="lazy" /><p class="special-info"><span> Oneco و HN  -  خستگی</span></p></a></li>		
 								<li><a href="https://next1.ir/%d8%ad%d9%85%db%8c%d8%af%d8%b1%d8%b6%d8%a7-%d9%85%d8%ac%d8%af%d9%81%d9%82%db%8c%d9%87%db%8c-%d8%b1%d8%a7%d8%b2-%d8%aa%d9%88/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/07/HamidrezaMajdFaghihi-RaazeTo-150x150.jpg"  title="HamidrezaMajdFaghihi-RaazeTo" class="attachment-thumbnail size-thumbnail wp-post-image" alt="حمیدرضا مجدفقیهی - راز تو" loading="lazy" /><p class="special-info"><span> حمیدرضا مجدفقیهی  -  راز تو</span></p></a></li>		
 								<li><a href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%ac%d8%af%db%8c%d8%af-%d9%85%d8%ad%d9%85%d8%af-%d8%b9%d9%84%db%8c%d8%b2%d8%a7%d8%af%d9%87-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%aa%d8%a7/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2021/01/MohammadAlizadeh-TajeSar-150x150.jpg"  title="MohammadAlizadeh-TajeSar" class="attachment-thumbnail size-thumbnail wp-post-image" alt="محمد علیزاده - تاج سر" loading="lazy" /><p class="special-info"><span> محمد علیزاده  -  تاج سر</span></p></a></li>		
 								<li><a href="https://next1.ir/%d9%85%db%8c%d8%b9%d8%a7%d8%af-%d8%b9%d8%b8%db%8c%d9%85-%d9%be%d9%88%d8%b1-%d8%ac%d8%a7%d9%85%d9%88%d9%86-%d8%b9%d9%88%d8%b6/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/MiaadAzimpour-JamoonAvaz-150x150.jpg"  title="MiaadAzimpour-JamoonAvaz" class="attachment-thumbnail size-thumbnail wp-post-image" alt="میعاد عظیم پور - جامون عوض" loading="lazy" /><p class="special-info"><span> میعاد عظیم پور  -  جامون عوض</span></p></a></li>		
 								<li><a href="https://next1.ir/%d8%a8%d9%87%d8%b1%d8%a7%d9%85-%d8%b9%da%a9%d8%a7%d8%b4%d9%87-%d9%86%d9%85%da%a9/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/BahramAkashe-Namak-150x150.jpg"  title="BahramAkashe-Namak" class="attachment-thumbnail size-thumbnail wp-post-image" alt="بهرام عکاشه - نمک" loading="lazy" /><p class="special-info"><span> بهرام عکاشه  -  نمک</span></p></a></li>		
-								<li><a href="https://next1.ir/%db%8c%d9%88%d8%b3%d9%81-%d8%b2%d9%85%d8%a7%d9%86%db%8c-%d8%b3%d9%84%d9%81%db%8c/"><img width="150" height="150" src="https://next1.ir/wp-content/uploads/2023/06/YousefZamani-Selfi-150x150.jpg"  title="YousefZamani-Selfi" class="attachment-thumbnail size-thumbnail wp-post-image" alt="یوسف زمانی - سلفی" loading="lazy" /><p class="special-info"><span> یوسف زمانی  -  سلفی</span></p></a></li>		
 							</ul>
 			</div>
 			<div class="box">
@@ -175,7 +175,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 											
 																	<aside><div class="box" id="coming-soon">
 							<div class="title"><a title="بزودی" href="/category/coming-soon/"><span>بزودی در نکست وان</span></a></div>	
-													<h3><a class="item" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d8%b3%d8%b1%d9%84%da%a9-%d9%be%d8%b1%d9%88%d8%a7%d8%b2/" title="دانلود آهنگ سینا سرلک با نام پرواز">
+													<h3><a class="item" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%b2%d9%86%da%af-%d8%a8%d8%b2%d9%86%db%8c/" title="دانلود آهنگ مهدی احمدوند با نام زنگ بزنی">
+								مهدی احمدوند  -  زنگ بزنی							</a></h3>
+																								<h3><a class="item" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d8%b3%d8%b1%d9%84%da%a9-%d9%be%d8%b1%d9%88%d8%a7%d8%b2/" title="دانلود آهنگ سینا سرلک با نام پرواز">
 								سینا سرلک  -  پرواز							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d9%87%d9%88%d8%b1%d9%88%d8%b4-%d8%a8%d8%a7%d9%86%d8%af-%d8%a8%d8%a7%d8%aa%d9%88/" title="دانلود آهنگ هوروش باند با نام باتو">
 								هوروش باند  -  باتو							</a></h3>
@@ -183,9 +185,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								حامد همایون  -  این روزا							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%84%d9%87%d8%b1%d8%a7%d8%b3%d8%a8%db%8c-%d8%ae%db%8c%d8%a7%d8%a8%d9%88%d9%86%d8%a7/" title="دانلود آهنگ علی لهراسبی با نام خیابونا">
 								علی لهراسبی  -  خیابونا							</a></h3>
+												</div></aside>
 																								<h3><a class="item" href="https://next1.ir/%d9%85%d8%b3%d8%b9%d9%88%d8%af-%d8%b5%d8%a7%d8%af%d9%82%d9%84%d9%88-%d9%85%d8%ab%d9%84-%da%af%d9%84/" title="دانلود آهنگ مسعود صادقلو با نام مثل گل">
 								مسعود صادقلو  -  مثل گل							</a></h3>
-												</div></aside>
 																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%b3%db%8c%d9%86-%d8%aa%d9%88%da%a9%d9%84%db%8c-%d8%a7%d8%b2-%d8%a7%d9%88%d9%86-%d8%b4%d8%a8/" title="دانلود آهنگ حسین توکلی با نام از اون شب">
 								حسین توکلی  -  از اون شب							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d9%be%d8%a7%d8%b1%d8%b3%d8%a7-%d8%ac%d8%b2%db%8c%d8%b1%d9%87/" title="دانلود آهنگ حامد پارسا با نام جزیره">
@@ -194,8 +196,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								مسعود صابری  -  آسوده میخوابی							</a></h3>
 																								<h3><a class="item" href="https://next1.ir/%d8%b1%db%8c%d9%88%d8%a7%d9%86-%db%8c%d9%87-%d8%b4%d8%a8-%d9%82%d8%b4%d9%86%da%af/" title="دانلود آهنگ ریوان با نام یه شب قشنگ">
 								ریوان  -  یه شب قشنگ							</a></h3>
-																								<h3><a class="item" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d9%85%d9%82%d8%af%d9%85-%d9%86%d9%88%d8%a7%d8%b1-%d9%82%d9%84%d8%a8/" title="دانلود آهنگ مهدی مقدم با نام نوار قلب">
-								مهدی مقدم  -  نوار قلب							</a></h3>
 																
 																	<aside><div class="box" id="archive-list">
 							<div class="title"><a href="/category/آرشیو/" title="آرشیو موسیقی"><span>آخرین های آرشیو</span></a></div>	
@@ -216,115 +216,113 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<article>
 	<div class="box post">
 											<header>
-				<div class="title"><a href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/" title="دانلود آهنگ علی منتظری با نام چرا من"><h1>دانلود آهنگ علی منتظری با نام چرا من</h1></a></div>	
+				<div class="title"><a href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/" title="دانلود آهنگ سینا پارسیان با نام قطار 2"><h1>دانلود آهنگ سینا پارسیان با نام قطار 2</h1></a></div>	
 				<div class="under-title"><span class="right">
 								<a href="/category/tak/" title="تک آهنگ" class="post-type">تک آهنگ</a>
 				 , 
-				5 بازدید</span><span class="left">۱۳ام تیر ۱۴۰۲</span></div>
+				0 بازدید</span><span class="left">۱۵ام تیر ۱۴۰۲</span></div>
 				</header>
 				<div class="content e-content">
-					<p style="text-align: center;"><span style="color: #800000;">Song Of <strong>Chera Man </strong>From <a style="color: #800000;" href="https://next1.ir/tag/ali-montazeri"><strong>Ali Montazeri</strong></a></span></p>
-<p style="text-align: center;"><img loading="lazy"class="alignnone size-medium wp-image-45019" src="https://next1.ir/wp-content/uploads/2023/07/AliMontazeri-CheraMan-480x480.jpg" alt="علی منتظری - چرا من" width="480" height="480" /></p>
-<p style="text-align: center;"><strong><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ جدید</a> <a href="https://next1.ir/category/artists/%D8%B9%D9%84%DB%8C-%D9%85%D9%86%D8%AA%D8%B8%D8%B1%DB%8C/">علی منتظری</a> با نام چرا من</strong></p>
-<p style="text-align: center;"><span style="color: #800000;">ترانه سرا : محمد مبارکی      آهنگساز : علی منتظری      تنظیم : فتاح فتحی</span></p>
+					<p style="text-align: center;"><span style="color: #800000;">Song Of <strong>Ghatar 2 </strong>From <a style="color: #800000;" href="https://next1.ir/tag/sina-parsian"><strong>Sina Parsian</strong></a></span></p>
+<p style="text-align: center;"><img loading="lazy"class="alignnone size-medium wp-image-45043" src="https://next1.ir/wp-content/uploads/2023/07/SinaParsian-Ghatar2-480x480.jpg" alt="سینا پارسیان - قطار 2" width="480" height="480" /></p>
+<p style="text-align: center;"><strong><a title="نکست وان موزیک" href="https://next1.ir">دانلود آهنگ جدید</a> <a href="https://next1.ir/category/artists/%D8%B3%DB%8C%D9%86%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86/">سینا پارسیان</a> با نام قطار 2</strong></p>
+<p style="text-align: center;"><span style="color: #800000;">ترانه سرا، آهنگسازی </span><span style="color: #800000;">و تنظیم </span><span style="color: #800000;">: سینا پارسیان</span></p>
 <div style="text-align: center;">
 <div class="single_content_r">
-<p>جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> چرا من از <a href="https://next1.ir/category/artists/%D8%B9%D9%84%DB%8C-%D9%85%D9%86%D8%AA%D8%B8%D8%B1%DB%8C/">علی منتظری</a> با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن این آهنگ از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید …</p>
+<p>جهت <a href="https://next1.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af/">دانلود آهنگ</a> قطار 2 از <a href="https://next1.ir/category/artists/%D8%B3%DB%8C%D9%86%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86/">سینا پارسیان</a> با کیفیت ۱۲۸ و ۳۲۰ و مشاهده متن این آهنگ از <a href="https://next1.ir/tag/%d8%b1%d8%b3%d8%a7%d9%86%d9%87-%d9%85%d9%88%d8%b3%db%8c%d9%82%db%8c-%d9%86%da%a9%d8%b3%d8%aa-%d9%88%d8%a7%d9%86/">رسانه موسیقی نکست وان</a> به ادامه مطلب مراجعه نمائید …</p>
 </div>
 </div>
-<p style="text-align: center;"><span id="more-45018"></span></p>
-<p style="text-align: center;"><span style="color: #000000;"><strong>متن آهنگ چرا من از <a style="color: #000000;" href="https://next1.ir/category/artists/%D8%B9%D9%84%DB%8C-%D9%85%D9%86%D8%AA%D8%B8%D8%B1%DB%8C/">علی منتظری</a> :</strong></span></p>
+<p style="text-align: center;"><span id="more-45042"></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong>متن آهنگ قطار 2 از <a style="color: #000000;" href="https://next1.ir/category/artists/%D8%B3%DB%8C%D9%86%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86/">سینا پارسیان</a> :</strong></span></p>
 <p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
-<p style="text-align: center;">دیروز یکیو دیدم چقدر شبیه تو بود<br />
-حتی خندیدنش شبیه خندیدن تو بود<br />
-منم طبیعتا خب دلم لرزید اصلا شد<br />
-یه جوری حال من داغون و عصبیم از تو<br />
-چرا من چرا من بین این همه آدم<br />
-دلم گیر یکی میشه که نباید شه واقعا<br />
-چرا من چرا من شده قرعه به نامم<br />
-که با دست خودم سر دلم بلا بیارم<br />
-یه روزی میگذره آب از سرو این دندون لق لامصبو<br />
-یه روزی میکشم من از سرم میپره عشقت<br />
-دلت با من نیست چی کنم چقدر چشامو من ابری کنم<br />
-داره خودمو حتی از خودم میگیره عشقت<br />
-من دیوونه ی مغرورو چطور کردی از خودت دورو<br />
-بس که انداختی زمین رومو شدی از تموم باورای من دورو<br />
-چرا من چرا من بین این همه آدم<br />
-دلم گیر یکی میشه که نباید شه واقعا<br />
-چرا من چرا من شده قرعه به نامم<br />
-که با دست خودم سر دلم بلا بیارم<br />
-یه روزی میگذره آب از سرو این دندون لق لامصبو<br />
-یه روزی میکشم من از سرم میپره عشقت<br />
-دلت با من نیست چی کنم چقدر چشامو من ابری کنم<br />
-داره خودمو حتی از خودم میگیره عشقت</p>
+<p style="text-align: center;">داری در میری از چی مگه دنیا قفس نیست<br />
+قفس معلومه از اسمش دیگه فرار نداره<br />
+چقدر میجنگی بس نیست مگه دنیا قفس نیست<br />
+اسیر خام زندون بودن افتخار نداره<br />
+قراره چی بمونه از این شاعر تو یادت<br />
+از این شاعر که تو خاک دلت مزار نداره<br />
+من از چشم خودم تا نگاهت ریل چیدم<br />
+که برگردی ولی دیدم چشات قطار نداره<br />
+برگرد به دلی که خونته به کسی که هنوز مثل قبل دیوونته<br />
+چمدونتو پر کن از روزای خوبمون بیا تا هنوز قطار اشک رو گونته<br />
+صد تا پاییز اومده صد تا زمستون رفته<br />
+از تو آغوش رگام یه عالمه خون رفته<br />
+کلی بارون زده که سر زده خیسم کرده<br />
+از این خونه ساکت کلی مهمون رفته<br />
+زندگی رو ریل تکرار این دفعه ام شبیه هر بار<br />
+هر چیزی که سخت به دست آوردم آسون رفته<br />
+نفسم بودی و رفتی نفست مگه نبودم<br />
+خیلی وقته که هوا از ریه هامون رفته<br />
+برگرد به دلی که خونته به کسی که هنوز مثل قبل دیوونته<br />
+چمدونتو پر کن از روزای خوبمون بیا تا هنوز قطار اشک رو گونته</p>
 <p style="text-align: center;"><span style="color: #800000;"><strong>♫   ♫  <a style="color: #800000;" href="https://next1.ir">نکست وان</a>  ♫   ♫</strong></span></p>
 	
 				</div>
 							<div class="post-footer">
-					<div class="ft-like" style="width:50%;"><div id="iLikeThis-45018" class="iLikeThis"><div class="counter"><a onclick="likeThis(45018);" class="image">0 لایک</a></div></div></div>
-					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#respond">بدون نظر</a></div>
+					<div class="ft-like" style="width:50%;"><div id="iLikeThis-45042" class="iLikeThis"><div class="counter"><a onclick="likeThis(45042);" class="image">0 لایک</a></div></div></div>
+					<div class="ft-comment" style="width:50%;"><a href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#respond">بدون نظر</a></div>
 				</div>
 												<div class="box" id="downloads">
 						<div class="title"><h2>دانلود</h2></div>
-						<a rel="nofollow" href="https://dl.next1.ir/files/2023/06/tak/AliMontazeri-CheraMan-320%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2023/06/tak/AliMontazeri-CheraMan-128%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> <a rel="nofollow" href="https://dl.next1.ir/files/2023/06/video/AliMontazeri-CheraMan%28www.Next1.ir%29.mp4"><span class="button">mp4</span>دانلود موزیک ویدئو با کیفیت 720</a> 											</div>
+						<a rel="nofollow" href="https://dl.next1.ir/files/2023/07/tak/SinaParsian-Ghatar2-320%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 320</a> <a rel="nofollow" href="https://dl.next1.ir/files/2023/07/tak/SinaParsian-Ghatar2-128%28www.Next1.ir%29.mp3"><span class="button">mp3</span>دانلود آهنگ با کیفیت 128</a> <a rel="nofollow" href="https://dl.next1.ir/files/2023/07/video/SinaParsian-Ghatar2%28www.Next1.ir%29.mp4"><span class="button">mp4</span>دانلود موزیک ویدئو با کیفیت 720</a> 											</div>
 								<div class="box" id="playbox">
 					<div class="title">بفرستید برای دوستانتان</div>
 					<ul class="share_with">
-												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25d8%25b9%25d9%2584%25db%258c-%25d9%2585%25d9%2586%25d8%25aa%25d8%25b8%25d8%25b1%25db%258c-%25da%2586%25d8%25b1%25d8%25a7-%25d9%2585%25d9%2586%2F">تلگرام</a></li>
-						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25d8%25b9%25d9%2584%25db%258c-%25d9%2585%25d9%2586%25d8%25aa%25d8%25b8%25d8%25b1%25db%258c-%25da%2586%25d8%25b1%25d8%25a7-%25d9%2585%25d9%2586%2F">توییتر</a></li>
-						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25d8%25b9%25d9%2584%25db%258c-%25d9%2585%25d9%2586%25d8%25aa%25d8%25b8%25d8%25b1%25db%258c-%25da%2586%25d8%25b1%25d8%25a7-%25d9%2585%25d9%2586%2F">فیسبوک</a></li>
-						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25d8%25b9%25d9%2584%25db%258c-%25d9%2585%25d9%2586%25d8%25aa%25d8%25b8%25d8%25b1%25db%258c-%25da%2586%25d8%25b1%25d8%25a7-%25d9%2585%25d9%2586%2F">واتس آپ</a></li>
-						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25d8%25b9%25d9%2584%25db%258c-%25d9%2585%25d9%2586%25d8%25aa%25d8%25b8%25d8%25b1%25db%258c-%25da%2586%25d8%25b1%25d8%25a7-%25d9%2585%25d9%2586%2F">پینترست</a></li>
-						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25d8%25b9%25d9%2584%25db%258c-%25d9%2585%25d9%2586%25d8%25aa%25d8%25b8%25d8%25b1%25db%258c-%25da%2586%25d8%25b1%25d8%25a7-%25d9%2585%25d9%2586%2F">ایمیل</a></li>
+												<li class="telegram"><a target="_blank" rel="nofollow" href="https://telegram.me/share/url?url=https%3A%2F%2Fnext1.ir%2F%25d8%25b3%25db%258c%25d9%2586%25d8%25a7-%25d9%25be%25d8%25a7%25d8%25b1%25d8%25b3%25db%258c%25d8%25a7%25d9%2586-%25d9%2582%25d8%25b7%25d8%25a7%25d8%25b1-2%2F">تلگرام</a></li>
+						<li class="twitter"><a target="_blank" rel="nofollow" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fnext1.ir%2F%25d8%25b3%25db%258c%25d9%2586%25d8%25a7-%25d9%25be%25d8%25a7%25d8%25b1%25d8%25b3%25db%258c%25d8%25a7%25d9%2586-%25d9%2582%25d8%25b7%25d8%25a7%25d8%25b1-2%2F">توییتر</a></li>
+						<li class="facebook"><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnext1.ir%2F%25d8%25b3%25db%258c%25d9%2586%25d8%25a7-%25d9%25be%25d8%25a7%25d8%25b1%25d8%25b3%25db%258c%25d8%25a7%25d9%2586-%25d9%2582%25d8%25b7%25d8%25a7%25d8%25b1-2%2F">فیسبوک</a></li>
+						<li class="whatsapp"><a target="_blank" rel="nofollow" href="whatsapp://send?text=https%3A%2F%2Fnext1.ir%2F%25d8%25b3%25db%258c%25d9%2586%25d8%25a7-%25d9%25be%25d8%25a7%25d8%25b1%25d8%25b3%25db%258c%25d8%25a7%25d9%2586-%25d9%2582%25d8%25b7%25d8%25a7%25d8%25b1-2%2F">واتس آپ</a></li>
+						<li class="pinterest"><a target="_blank" rel="nofollow" href="https://pinterest.com/pin/create/button/?media=&description=&url=https%3A%2F%2Fnext1.ir%2F%25d8%25b3%25db%258c%25d9%2586%25d8%25a7-%25d9%25be%25d8%25a7%25d8%25b1%25d8%25b3%25db%258c%25d8%25a7%25d9%2586-%25d9%2582%25d8%25b7%25d8%25a7%25d8%25b1-2%2F">پینترست</a></li>
+						<li class="email"><a target="_blank" rel="nofollow" href="mailto:?body=https%3A%2F%2Fnext1.ir%2F%25d8%25b3%25db%258c%25d9%2586%25d8%25a7-%25d9%25be%25d8%25a7%25d8%25b1%25d8%25b3%25db%258c%25d8%25a7%25d9%2586-%25d9%2582%25d8%25b7%25d8%25a7%25d8%25b1-2%2F">ایمیل</a></li>
 					</ul>
 				</div>
 									<div class="box" id="playbox">
 						<div class="title">هم اکنون ببینید</div>
 						<video style="width: 100%;" controls="">
-						<source type="video/mp4" src="https://dl.next1.ir/files/2023/06/video/AliMontazeri-CheraMan%28www.Next1.ir%29.mp4"></source>
+						<source type="video/mp4" src="https://dl.next1.ir/files/2023/07/video/SinaParsian-Ghatar2%28www.Next1.ir%29.mp4"></source>
 						</video>
 					</div>
 													<div class="box" id="playbox">
 						<div class="title">هم اکنون گوش کنید</div>
-						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2023/06/tak/AliMontazeri-CheraMan-128%28www.Next1.ir%29.mp3" controls="controls" style="width: 100%;"></audio>
+						<audio class="powerpress-mejs-audio" preload="none" src="https://dl.next1.ir/files/2023/07/tak/SinaParsian-Ghatar2-128%28www.Next1.ir%29.mp3" controls="controls" style="width: 100%;"></audio>
 					</div>
 					<div class="box" id="code">
 						<div class="title">کد پخش این آهنگ در سایت و وبلاگ شما</div>
 						<textarea readonly="readonly" onclick="javascript:this.select();" tabindex="4">
 				<!-- Begin https://next1.ir -->
 				<script type="text/javascript">
-				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2023/06/tak/AliMontazeri-CheraMan-128%28www.Next1.ir%29.mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
+				AudioPlayer.embed("player", {soundFile: "https://dl.next1.ir/files/2023/07/tak/SinaParsian-Ghatar2-128%28www.Next1.ir%29.mp3", transparentpagebg: "yes", autostart: "yes", loop: "no"});
 				</script>
 				<object id="player" height="24" width="190" type="application/x-shockwave-flash" name="player" style="outline: none" data="https://next1.ir/wp-content/themes/next1/audioplayer.swf">
 				<param name="bgcolor" value="#FFFFFF">
 				<param name="wmode" value="transparent">
 				<param name="menu" value="false">
-				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2023/06/tak/AliMontazeri-CheraMan-128%28www.Next1.ir%29.mp3&autostart=yes&titles=دانلود آهنگ علی منتظری با نام چرا من&loop=no&playerID=player">
+				<param name="flashvars" value="soundFile=https://dl.next1.ir/files/2023/07/tak/SinaParsian-Ghatar2-128%28www.Next1.ir%29.mp3&autostart=yes&titles=دانلود آهنگ سینا پارسیان با نام قطار 2&loop=no&playerID=player">
 				<h2><a title="دانلود آهنگ جدید" href="https://next1.ir" target="_blank">دانلود آهنگ جدید</a></h2>
 				</object>
 				<!-- End https://next1.ir -->
 						</textarea>
 					</div>
-								<div class="alert"><a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a> ، <a href="https://next1.ir/category/artists/%D8%B9%D9%84%DB%8C-%D9%85%D9%86%D8%AA%D8%B8%D8%B1%DB%8C/" rel="category tag">علی منتظری</a> ، <a href="https://next1.ir/category/style/%D8%BA%D9%85%DA%AF%DB%8C%D9%86/" rel="category tag">غمگین</a></div>
+								<div class="alert"><a href="https://next1.ir/category/tak/" rel="category tag">تک آهنگ ها</a> ، <a href="https://next1.ir/category/artists/%D8%B3%DB%8C%D9%86%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86/" rel="category tag">سینا پارسیان</a> ، <a href="https://next1.ir/category/style/%D8%BA%D9%85%DA%AF%DB%8C%D9%86/" rel="category tag">غمگین</a></div>
 						 
 	</div>
 	</article>
 																				<div class="box" id="latest">
-								<div class="title"><a rel="category tag" href="/category/artists/%D8%B9%D9%84%DB%8C-%D9%85%D9%86%D8%AA%D8%B8%D8%B1%DB%8C"><h3>دانلود آهنگ های علی منتظری</a></h3></div>
-															<a rel="bookmark" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/" title="دانلود آهنگ علی منتظری با نام چرا من"><div class="item">
-									<h2>علی منتظری  -  چرا من</h2><span class="item-info">بدون نظر | 5 بازدید</span>
+								<div class="title"><a rel="category tag" href="/category/artists/%D8%B3%DB%8C%D9%86%D8%A7-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86"><h3>دانلود آهنگ های سینا پارسیان</a></h3></div>
+															<a rel="bookmark" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/" title="دانلود آهنگ سینا پارسیان با نام قطار 2"><div class="item">
+									<h2>سینا پارسیان  -  قطار 2</h2><span class="item-info">بدون نظر | 0 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%d8%ae%d9%88%d8%a7%d8%a8%d8%aa%d9%88-%d8%af%db%8c%d8%af%d9%85/" title="دانلود آهنگ علی منتظری با نام خوابتو دیدم"><div class="item">
-									<h2>علی منتظری  -  خوابتو دیدم</h2><span class="item-info">بدون نظر | 1,614 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%85%d8%b3%d8%aa%db%8c/" title="دانلود آهنگ سینا پارسیان با نام مستی"><div class="item">
+									<h2>سینا پارسیان  -  مستی</h2><span class="item-info">بدون نظر | 1,437 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b4%d9%85%d8%a7%db%8c-%d8%aa%d9%88/" title="دانلود آهنگ علی منتظری با نام چشمای تو"><div class="item">
-									<h2>علی منتظری  -  چشمای تو</h2><span class="item-info">بدون نظر | 2,101 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%88%d8%a7%d8%b1%d9%88%d9%86%d9%87-%d9%88%d8%a7%d8%b1/" title="دانلود آهنگ سینا پارسیان با نام وارونه وار"><div class="item">
+									<h2>سینا پارسیان  -  وارونه وار</h2><span class="item-info">بدون نظر | 1,691 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%d8%b3%d8%aa%d8%a7%d8%b1%d9%87-%d8%a8%d8%a7%d8%b1%d9%88%d9%86/" title="دانلود آهنگ جدید علی منتظری با نام ستاره بارون"><div class="item">
-									<h2>علی منتظری  -  ستاره بارون</h2><span class="item-info">بدون نظر | 4,922 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d9%82%d9%84%d8%a7%d8%a8%db%8c/" title="دانلود آهنگ سینا پارسیان با نام قلابی"><div class="item">
+									<h2>سینا پارسیان  -  قلابی</h2><span class="item-info">بدون نظر | 3,043 بازدید</span>
 								</div></a>
-																												<a rel="bookmark" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%d8%ae%d9%86%d8%af%d9%87/" title="دانلود آهنگ علی منتظری با نام خنده"><div class="item">
-									<h2>علی منتظری  -  خنده</h2><span class="item-info">بدون نظر | 2,926 بازدید</span>
+																												<a rel="bookmark" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d8%a7%d9%86%d8%aa%d9%87%d8%a7/" title="دانلود آهنگ سینا پارسیان با نام انتها"><div class="item">
+									<h2>سینا پارسیان  -  انتها</h2><span class="item-info">بدون نظر | 3,429 بازدید</span>
 								</div></a>
 														</div>
 														
@@ -335,7 +333,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <!-- If comments are open, but there are no comments. -->
 <div id="respond">
 <div class="cancel-comment-reply">
-<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
+<small><a rel="nofollow" id="cancel-comment-reply-link" href="/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/#respond" style="display:none;">برای صرف‌نظر کردن از پاسخ‌گویی اینجا را کلیک نمایید.</a></small>
 </div>
 <form action="https://next1.ir/wp-comments-post.php" method="post" id="commentform">
 <div class="commentdata">
@@ -352,10 +350,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>
 <div class="clear"></div>
 <input class="bluekey comment-button" name="submit" type="submit" id="submit" tabindex="5" value="ارسال نظر">
-<input type="hidden" name="comment_post_ID" value="45018">
-<input type='hidden' name='comment_post_ID' value='45018' id='comment_post_ID' />
+<input type="hidden" name="comment_post_ID" value="45042">
+<input type='hidden' name='comment_post_ID' value='45042' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="223e35b51e" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="174"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="37059f90ec" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="148"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="clear"></div>
 </form>
 </div>
 </div>							<div class="alert">نظرات شما پس از بررسی و تایید نمایش داده می شود.</div>
@@ -365,7 +363,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 										<div class="box" id="alltags">
 						<div class="title">برچسب ها</div>
 						<ul>
-						<li>Ali Montazeri</li><li>Chera Man</li><li>آهنگ چرا من از علی منتظری</li><li>دانلود آهنگ چرا من از علی منتظری</li><li>علی منتظری</li><li>چرا من از علی منتظری</li><li>چرا من علی منتظری</li>						</ul>
+						<li>Ghatar 2</li><li>Sina Parsian</li><li>آهنگ قطار 2 از سینا پارسیان</li><li>دانلود آهنگ قطار 2 از سینا پارسیان</li><li>سینا پارسیان</li><li>قطار 2 از سینا پارسیان</li><li>قطار 2 سینا پارسیان</li>						</ul>
 					</div>
 						</div>
 </main><nav>
@@ -391,27 +389,27 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			
 					<aside><div class="box" id="newset">
 			<div class="title"><span>جدیدترین ها در نکست وان</span></div>	
-					<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/" title="دانلود آهنگ علی منتظری با نام چرا من">
+					<h3><a class="item" href="https://next1.ir/%d8%b3%db%8c%d9%86%d8%a7-%d9%be%d8%a7%d8%b1%d8%b3%db%8c%d8%a7%d9%86-%d9%82%d8%b7%d8%a7%d8%b1-2/" title="دانلود آهنگ سینا پارسیان با نام قطار 2">
+				سینا پارسیان  -  قطار 2			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%a8%d8%a7%d8%a8%da%a9-%d8%ac%d9%87%d8%a7%d9%86%d8%a8%d8%ae%d8%b4-%d8%ad%d8%a7%d9%84-%d9%85%d9%86%d9%88-%d8%ae%d9%88%d8%a8-%da%a9%d9%86/" title="دانلود آهنگ بابک جهانبخش با نام حال منو خوب کن">
+				بابک جهانبخش  -  حال منو خوب کن			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%a7%d9%85%db%8c%d9%86-%d8%a8%d8%a7%d9%86%db%8c-%d9%87%d9%88%d8%a7%db%8c-%d8%af%d9%88%d8%b1%db%8c/" title="دانلود آهنگ امین بانی با نام هوای دوری">
+				امین بانی  -  هوای دوری			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%a7%db%8c%d9%85%d8%a7%d9%86-%d8%a7%d9%86-%d8%a8%db%8c-%d8%b3%d9%88%d9%86%d8%a7%d9%85%db%8c/" title="دانلود آهنگ ایمان ان بی با نام سونامی">
+				ایمان ان بی  -  سونامی			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%a7%d8%b4%d9%88%d8%a7%d9%86-%d8%b0%d8%b1%d9%87-%d8%b0%d8%b1%d9%87/" title="دانلود آهنگ اشوان با نام ذره ذره">
+				اشوان  -  ذره ذره			</a></h3>
+				</div></aside>
+								<h3><a class="item" href="https://next1.ir/%d8%b3%d9%88%d8%b1%d9%86%d8%a7-%d9%82%d8%ac%d8%b1-%d9%88%d8%a7%da%a9%db%8c%d9%86%da%af/" title="دانلود آهنگ سورنا قجر با نام واکینگ">
+				سورنا قجر  -  واکینگ			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%87%d9%86%da%af-%d9%85%d8%ac%db%8c%d8%af-%d8%b1%d8%b6%d9%88%db%8c-%d8%a8%d8%a7-%d9%86%d8%a7%d9%85-%d8%a7%d9%88%da%a9%db%8c/" title="دانلود آهنگ مجید رضوی با نام اوکی">
+				مجید رضوی  -  اوکی			</a></h3>
+								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c-%d9%85%d9%86%d8%aa%d8%b8%d8%b1%db%8c-%da%86%d8%b1%d8%a7-%d9%85%d9%86/" title="دانلود آهنگ علی منتظری با نام چرا من">
 				علی منتظری  -  چرا من			</a></h3>
 								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%b3%db%8c%d9%86-%d8%aa%d9%88%da%a9%d9%84%db%8c-%d9%85%db%8c%d9%85/" title="دانلود آهنگ حسین توکلی با نام میم">
 				حسین توکلی  -  میم			</a></h3>
 								<h3><a class="item" href="https://next1.ir/%d8%a7%db%8c%d9%88%d8%a7%d9%86-%d8%a8%d8%a7%d9%86%d8%af-%db%8c%d8%a7%d8%b1-%d9%81%d8%b1%d8%a7%d9%85%d9%88%d8%b4-%da%a9%d8%a7%d8%b1/" title="دانلود آهنگ ایوان باند با نام یار فراموش کار">
 				ایوان باند  -  یار فراموش کار			</a></h3>
-								<h3><a class="item" href="https://next1.ir/oneco-%d9%88-hn-%d8%ae%d8%b3%d8%aa%da%af%db%8c/" title="دانلود آهنگ Oneco و HN با نام خستگی">
-				Oneco و HN  -  خستگی			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%ad%d9%85%db%8c%d8%af%d8%b1%d8%b6%d8%a7-%d9%85%d8%ac%d8%af%d9%81%d9%82%db%8c%d9%87%db%8c-%d8%b1%d8%a7%d8%b2-%d8%aa%d9%88/" title="دانلود آهنگ حمیدرضا مجدفقیهی با نام راز تو">
-				حمیدرضا مجدفقیهی  -  راز تو			</a></h3>
-				</div></aside>
-								<h3><a class="item" href="https://next1.ir/%d8%b1%d9%85%db%8c%da%a9%d8%b3-%d8%b9%d8%b4%d9%82-%d9%85%d8%a7-%d9%86%d8%a7%d8%a8%d9%87-dj-rooham/" title="دانلود رمیکس آهنگ عشق ما نابه از Dj Rooham">
-				دانلود رمیکس آهنگ عشق ما نابه از Dj Rooham			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d9%be%d8%af%d8%b1%d8%a7%d9%85-%d9%be%d8%a7%d9%84%db%8c%d8%b2-%db%8c%d9%88%d8%a7%d8%b4-%db%8c%d9%88%d8%a7%d8%b4/" title="دانلود آهنگ پدرام پالیز با نام یواش یواش">
-				پدرام پالیز  -  یواش یواش			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d9%85%d9%87%d8%af%db%8c-%d8%a7%d8%ad%d9%85%d8%af%d9%88%d9%86%d8%af-%d8%b2%d9%86%da%af-%d8%a8%d8%b2%d9%86%db%8c/" title="دانلود آهنگ مهدی احمدوند با نام زنگ بزنی">
-				مهدی احمدوند  -  زنگ بزنی			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%b9%d9%84%db%8c%d8%b3%d8%a7%d9%85-%d8%ad%db%8c%d9%81/" title="دانلود آهنگ علیسام با نام حیف">
-				علیسام  -  حیف			</a></h3>
-								<h3><a class="item" href="https://next1.ir/%d8%ad%d8%a7%d9%85%d8%af-%d8%a8%d8%b1%d8%a7%d8%af%d8%b1%d8%a7%d9%86-%d9%85%d8%a7%d9%87-%d9%85%d9%86/" title="دانلود آهنگ حامد برادران با نام ماه من">
-				حامد برادران  -  ماه من			</a></h3>
 				
 	
 	
@@ -430,9 +428,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					<a href="/تبلیغات/">تبلیغات</a>
 				</div>
 				<div class="footer-box">
-							<div class="title"><h2>پیشنهاد روز بخش شاد</h2></div>	
-				<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%A2%D9%87%D9%86%DA%AF-%D8%AC%D8%AF%DB%8C%D8%AF-%D9%85%D9%88%D8%B2%DB%8C%DA%A9-%D8%A7%D9%81%D8%B4%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%86%D8%A7%D9%85-%D8%AE%D8%A7%D9%86/" title="دانلود آهنگ جدید موزیک افشار با نام خانوم گل من"><div class="item">
-											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2017/01/MusicAfshar-KhanoomeGoleMan-65x65.jpg"  title="MusicAfshar-KhanoomeGoleMan" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="موزیک افشار - خانوم گل من" loading="lazy" />دانلود آهنگ جدید موزیک افشار با نام خانوم گل من<span class="item-info">بدون نظر | 1,991 بازدید</span></div></a>
+							<div class="title"><h2>پیشنهاد روز بخش موزیک ویدئو</h2></div>	
+				<a href="https://next1.ir/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D9%85%D9%88%D8%B2%DB%8C%DA%A9-%D9%88%DB%8C%D8%AF%D8%A6%D9%88-%D8%AC%D8%AF%DB%8C%D8%AF-%DA%AF%D8%B1%D9%88%D9%87-%D8%A7%DB%8C%D9%87%D8%A7%D9%85-%D8%B2%D8%A7%D9%86/" title="دانلود موزیک ویدئو جدید گروه ایهام (زانیار خسروی و مازیار لشنی) با نام بغض"><div class="item">
+											<img width="65" height="65" src="https://next1.ir/wp-content/uploads/2017/08/Ehaam-BoghzMusicVideo-65x65.jpg"  title="Ehaam-BoghzMusicVideo" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="گروه ایهام - بغض" loading="lazy" />دانلود موزیک ویدئو جدید گروه ایهام (زانیار خسروی و مازیار لشنی) با نام بغض<span class="item-info">2 نظر | 16,251 بازدید</span></div></a>
 							</div>
 				<div class="footer-box" id="tags">
 					<div class="title">برترین خواننده ها</div>	
@@ -457,5 +455,5 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</footer>
 	<script data-no-optimize="1">var litespeed_vary=document.cookie.replace(/(?:(?:^|.*;\s*)_lscache_vary\s*\=\s*([^;]*).*$)|^.*$/,"");litespeed_vary||fetch("/wp-content/plugins/litespeed-cache/guest.vary.php",{method:"POST",cache:"no-cache",redirect:"follow"}).then(e=>e.json()).then(e=>{console.log(e),e.hasOwnProperty("reload")&&"yes"==e.reload&&(sessionStorage.setItem("litespeed_docref",document.referrer),window.location.reload(!0))});</script></body>
 </html>
-<!-- Page generated by LiteSpeed Cache 4.6 on 2023-07-04 00:22:42 -->
+<!-- Page generated by LiteSpeed Cache 4.6 on 2023-07-06 14:10:40 -->
 <!-- Guest Mode -->

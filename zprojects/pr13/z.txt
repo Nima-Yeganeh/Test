@@ -1,11 +1,11 @@
---2023-07-04 00:55:38--  https://next1.ir/wp-content/uploads/2023/07/AliMontazeri-CheraMan-480x480.jpg
+--2023-07-06 15:23:48--  https://next1.ir/wp-content/uploads/2023/07/SinaParsian-Ghatar2-480x480.jpg
 Resolving next1.ir (next1.ir)... 138.201.219.121
 Connecting to next1.ir (next1.ir)|138.201.219.121|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 25289 (25K) [image/jpeg]
-Saving to: ‘AliMontazeri-CheraMan-480x480.jpg’
+Length: 23225 (23K) [image/jpeg]
+Saving to: ‘SinaParsian-Ghatar2-480x480.jpg’
 
-     0K .......... .......... ....                            100%  242K=0.1s
+     0K .......... .......... ..                              100%  217K=0.1s
 
-2023-07-04 00:55:39 (242 KB/s) - ‘AliMontazeri-CheraMan-480x480.jpg’ saved [25289/25289]
+2023-07-06 15:23:49 (217 KB/s) - ‘SinaParsian-Ghatar2-480x480.jpg’ saved [23225/23225]
 
