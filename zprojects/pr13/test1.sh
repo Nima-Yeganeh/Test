@@ -1,3 +1,4 @@
+rm -f test1_result.txt
 wget -O test1.txt https://next1.ir/sitemap.xml
 cat test1.txt | grep -o '.*\.xml' | sed 's/^[[:space:]]*//' | sed 's/<loc>//g' > test1_rev1.txt
 cat test1_rev1.txt | sort > test1_rev2.txt
