@@ -1,11 +1,11 @@
---2023-07-10 03:04:55--  https://next1.ir/wp-content/uploads/2023/07/ErfanTahmasbi-CheKonam-480x480.jpg
+--2023-07-21 01:05:38--  https://next1.ir/wp-content/uploads/2023/07/Ghoghnus-Hasrat-480x480.jpg
 Resolving next1.ir (next1.ir)... 138.201.219.121
 Connecting to next1.ir (next1.ir)|138.201.219.121|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 29833 (29K) [image/jpeg]
-Saving to: ‘ErfanTahmasbi-CheKonam-480x480.jpg’
+Length: 41310 (40K) [image/jpeg]
+Saving to: ‘Ghoghnus-Hasrat-480x480.jpg’
 
-     0K .......... .......... .........                       100%  277K=0.1s
+     0K .......... .......... .......... ..........           100%  387K=0.1s
 
-2023-07-10 03:04:56 (277 KB/s) - ‘ErfanTahmasbi-CheKonam-480x480.jpg’ saved [29833/29833]
+2023-07-21 01:05:38 (387 KB/s) - ‘Ghoghnus-Hasrat-480x480.jpg’ saved [41310/41310]
 

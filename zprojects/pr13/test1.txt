@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://next1.ir/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='https://auctollo.com' sitemap-generator-version='4.1.5' -->
-<!-- generated-on='July 10, 2023 3:40 pm' -->
+<!-- generated-on='July 20, 2023 9:57 pm' -->
 <sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
 		<loc>https://next1.ir/sitemap-misc.xml</loc>
-		<lastmod>2023-07-10T15:40:03+00:00</lastmod>
+		<lastmod>2023-07-20T21:57:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://next1.ir/sitemap-pt-post-2023-07.xml</loc>
-		<lastmod>2023-07-10T15:40:03+00:00</lastmod>
+		<lastmod>2023-07-20T21:57:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://next1.ir/sitemap-pt-post-2023-06.xml</loc>
-		<lastmod>2023-06-30T18:56:45+00:00</lastmod>
+		<lastmod>2023-07-14T19:49:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://next1.ir/sitemap-pt-post-2023-05.xml</loc>
-		<lastmod>2023-07-05T20:46:56+00:00</lastmod>
+		<lastmod>2023-07-11T07:12:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://next1.ir/sitemap-pt-post-2023-04.xml</loc>
@@ -472,4 +472,4 @@
 		<loc>https://next1.ir/sitemap-pt-page-2015-03.xml</loc>
 		<lastmod>2019-04-17T02:28:44+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: 6b86f0940ad69344742641f70d1b7257; Queries for sitemap: 720; Total queries: 730; Seconds: $end_time; Memory for sitemap: 4MB; Total memory: 24.5MB -->
+</sitemapindex><!-- Request ID: 9b5870763cf51a56da055e975a46c547; Queries for sitemap: 643; Total queries: 653; Seconds: $end_time; Memory for sitemap: 4MB; Total memory: 14.5MB -->
