@@ -1,0 +1,29 @@
+{
+    "servers": [
+      {
+        "Name": "Server1",
+        "Region": "Europe",
+        "Status": "Live",
+        "MaxInstances": 10
+      },
+      {
+        "Name": "Server2",
+        "Region": "Europe",
+        "Status": "Live",
+        "MaxInstances": 15
+      },
+      {
+        "Name": "Server3",
+        "Region": "Asia",
+        "Status": "Live",
+        "MaxInstances": 8
+      },
+      {
+        "Name": "Server4",
+        "Region": "Europe",
+        "Status": "Maintenance",
+        "MaxInstances": 5
+      }
+    ]
+  }
+  

@@ -1,0 +1,706 @@
+{
+    "Live": {
+        "bm10-russia.example.org": {
+		"Role": "api",
+		"MaxInstances": 4
+	},
+        "bm10-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm10-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm102-East-USA.example.org": {
+		"Role": "api",
+		"MaxInstances": 6
+	},
+        "bm104-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm105-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm106-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm107-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm108-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 18
+	},
+        "bm108-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm109-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm109-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm11-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm11-australia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm11-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm110-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm111-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm116-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm117-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm118-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm119-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm12-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm12-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm12-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm121-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm122-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm123-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm124-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm125-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm126-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm126-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm127-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm13-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm131-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm133-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm134-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm136-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm139-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm14-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm14-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm14-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm15-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm15-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm156-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm16-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm16-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm160-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm162-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm163-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm163-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm164-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm165-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm165-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm166-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm167-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm17-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm18-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm18-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm184-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm185-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm186-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm187-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm188-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm189-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm19-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm190-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm191-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm192-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm193-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm194-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm195-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm196-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm197-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm198-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm2-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm2-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm2-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm20-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm200-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm201-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm202-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm203-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm204-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm206-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm21-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm22-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm23-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm23-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm24-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm249-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm25-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm26-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm27-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm277-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm278-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm279-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm280-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm282-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm283-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm284-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm29-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm292-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm293-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm294-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm297-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm3-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm3-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm3-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm3-south-amerika.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm300-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm301-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm302-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm303-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm304-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm305-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm306-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm307-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm308-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm309-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm310-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm311-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm312-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm313-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm314-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm315-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm316-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm317-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm318-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm319-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm320-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm321-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm322-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm323-europe.example.org": {
+		"Role": "api",
+		"MaxInstances": 3
+	},
+        "bm34-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm4-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm4-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm4-south-amerika.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm45-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm46-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm47-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm48-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm5-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	},
+        "bm5-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm5-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm5-south-amerika.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm50-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm51-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm52-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm6-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm6-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm6-south-amerika.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm61-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm66-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm66-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm67-West-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm67-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm7-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm7-australia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm7-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm7-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm7-south-amerika.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm8-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm8-australia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm8-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm8-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm8-south-amerika.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm82-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm83-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm9-russia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm9-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm9-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	}
+    },
+    "Stage": {
+        "bm1-australia.example.org": {
+		"Role": "ds",
+		"MaxInstances": 16
+	},
+        "bm1-hongkong.example.org": {
+		"Role": "ds",
+		"MaxInstances": 14
+	},
+        "bm1-East-USA.example.org": {
+		"Role": "ds",
+		"MaxInstances": 13
+	},
+        "bm324-europe.example.org": {
+		"Role": "ds",
+		"MaxInstances": 17
+	}
+    }
+}
