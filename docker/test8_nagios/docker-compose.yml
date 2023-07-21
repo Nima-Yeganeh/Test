@@ -14,25 +14,7 @@ services:
       - NAGIOSADMIN_USER=admin
       - NAGIOSADMIN_PASS=admin_password
 
-  nagios-plugins:
-    image: nagiosplugins/nagios-plugins:latest
-    container_name: nagios-plugins
-    depends_on:
-      - nagios
-    volumes:
-      - plugins:/opt/plugins
-
-  nagios-plugins-contrib:
-    image: nagiosplugins/nagios-plugins:latest
-    container_name: nagios-plugins-contrib
-    depends_on:
-      - nagios
-    volumes:
-      - plugins-contrib:/opt/plugins-contrib
-
 volumes:
   nagios-etc:
   nagios-var:
   nagios-graph:
-  plugins:
-  plugins-contrib:
