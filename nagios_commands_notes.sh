@@ -410,3 +410,4 @@ ls -anp /usr/lib/nagios/plugins | grep nrpe
 
 /usr/lib/nagios/plugins/check_nrpe -H 5.161.58.208
 
+# https://github.com/techarkit/nagios
