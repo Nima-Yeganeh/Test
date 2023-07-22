@@ -1,8 +1,16 @@
 # Before installing any new packages, it is always recommended to update the system with the latest security patches and bug fixes. Run the following command to update the system:
 sudo apt update && sudo apt upgrade
 
+sudo apt install apache2 -y
+sudo systemctl start apache2
+sudo systemctl enable apache2
+sudo systemctl status apache2
+
+sudo ufw app list
+sudo ufw status
+
 # Before installing Nagios, you need to install some required packages including Apache, PHP, and GCC. Run the following command to install them:
-sudo apt install -y build-essential openssl libssl-dev apache2 apache2-utils libgd-dev unzip
+sudo apt install -y build-essential openssl libssl-dev apache2 apache2-utils libgd-dev unzip php
 
 # First of all, create a nagios user using the following command:
 sudo adduser nagios
@@ -57,4 +65,8 @@ sudo make install
 # After successfully verify start the Nagios core service and enable auto-start on system boot.
 sudo systemctl start nagios
 sudo systemctl enable nagios
+
+# You can access the Nagios web interface by opening a web browser and entering the following URL:
+# http://system-ip-or-hostname/nagios/
+# You will be prompted to enter a username and password. Use the credentials you created in step 6 (nagiosadmin/password) to log in.
 
