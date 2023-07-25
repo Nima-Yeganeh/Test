@@ -78,3 +78,11 @@ FROM
 show tables;
 select * from cpu_usage;
 
+# Dashboards to Import
+# https://grafana.com/grafana/dashboards/
+
+# Prometheus and PromSQL Commands to Test
+up
+rate(node_cpu_seconds_total{instance="5.161.58.208:9100"}[$__rate_interval])
+node_filesystem_avail_bytes{instance="5.161.58.208:9100"}/(1024*1024*1024)
+
