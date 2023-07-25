@@ -88,4 +88,9 @@ sudo systemctl restart prometheus
 
 # Prometheus Commands to Test
 up
+process_cpu_seconds_total
+process_virtual_memory_bytes
+node_network_transmit_queue_length
+node_network_transmit_errs_total
+
 

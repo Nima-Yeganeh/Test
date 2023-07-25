@@ -14,6 +14,8 @@ sudo useradd --no-create-home --shell /bin/false node_exporter
 
 sudo chown node_exporter:node_exporter /usr/local/bin/node_exporter
 
+ls -ltr /usr/local/bin/node_exporter
+
 sudo vi /etc/systemd/system/node_exporter.service
 [Unit]
 Description=Node Exporter
@@ -31,11 +33,15 @@ RestartSec=3
 [Install]
 WantedBy=multi-user.target
 
+sudo cat /etc/systemd/system/node_exporter.service
+
 sudo systemctl daemon-reload
 
 sudo systemctl enable node_exporter
 
 sudo systemctl start node_exporter
+
+sudo systemctl status node_exporter
 
 # http://your_server_ip:9100/metrics
 # http://5.161.58.208:9100/metrics
