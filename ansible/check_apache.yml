@@ -1,0 +1,20 @@
+---
+- name: Check Apache status on Ubuntu servers
+  hosts: webservers
+  gather_facts: yes  # Gather facts about the remote servers
+  become: true  # Use sudo to become root on remote servers
+  tasks:
+    - name: Check if Apache is installed
+      stat:
+        path: /usr/sbin/apache2
+      register: apache_installed
+
+    - name: Check if Apache service is running
+      service:
+        name: apache2
+        state: started
+      register: apache_service_started
+
+    - name: Display Apache status
+      debug:
+        msg: "Apache is {% if apache_installed.stat.exists %}installed{% else %}not installed{% endif %} and {% if apache_service_started.status %}running{% else %}not running{% endif %}."
