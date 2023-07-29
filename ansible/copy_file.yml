@@ -1,0 +1,9 @@
+---
+- name: Copy a file to remote servers
+  hosts: webservers
+  become: true  # Use sudo to become root on remote servers
+  tasks:
+    - name: Copy file
+      copy:
+        src: file.txt
+        dest: /root/file.txt
