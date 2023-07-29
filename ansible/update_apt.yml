@@ -1,0 +1,8 @@
+---
+- name: Update apt cache on Ubuntu servers
+  hosts: webservers
+  become: true  # Use sudo to become root on remote servers
+  tasks:
+    - name: Update apt cache
+      apt:
+        update_cache: yes
