@@ -1,0 +1,15 @@
+---
+- name: Create directory and copy file on Ubuntu servers
+  hosts: webservers
+  become: true  # Use sudo to become root on remote servers
+  tasks:
+    - name: Create a directory
+      file:
+        path: /root/example_directory
+        state: directory
+        mode: '0755'
+
+    - name: Copy a file to the remote server
+      copy:
+        src: file.txt
+        dest: /root/example_directory/file.txt
